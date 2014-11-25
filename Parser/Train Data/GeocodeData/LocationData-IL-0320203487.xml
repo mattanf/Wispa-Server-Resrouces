@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.028238</Latitude>
+    <Longitude>34.888075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033413</Latitude>
+    <Longitude>34.889014</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם גירון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.027077</Latitude>
+    <Longitude>34.895442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.026351</Latitude>
+    <Longitude>34.876618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלטלף</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.027897</Latitude>
+    <Longitude>34.898970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032670</Latitude>
+    <Longitude>34.896801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031500</Latitude>
+    <Longitude>34.869010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלפרט</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034359</Latitude>
+    <Longitude>34.895526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032396</Latitude>
+    <Longitude>34.884422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבעת המינים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035818</Latitude>
+    <Longitude>34.882680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.036763</Latitude>
+    <Longitude>34.890654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכנזי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030051</Latitude>
+    <Longitude>34.890239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בייקובסקי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033706</Latitude>
+    <Longitude>34.890590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029201</Latitude>
+    <Longitude>34.888133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בכור שטרית</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032007</Latitude>
+    <Longitude>34.895199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן צבי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030453</Latitude>
+    <Longitude>34.895049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029579</Latitude>
+    <Longitude>34.884019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031812</Latitude>
+    <Longitude>34.873058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036835</Latitude>
+    <Longitude>34.896886</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.031454</Latitude>
+    <Longitude>34.883692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.033749</Latitude>
+    <Longitude>34.894421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד מרכוס</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>דויד מרכוס</AlternateName>
+    <Latitude>32.035233</Latitude>
+    <Longitude>34.890901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החורש</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>החורש</AlternateName>
+    <Latitude>32.034919</Latitude>
+    <Longitude>34.878417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך העצמאות</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>העצמאות</AlternateName>
+    <Latitude>32.028314</Latitude>
+    <Longitude>34.886935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך משה דיין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>משה דיין</AlternateName>
+    <Latitude>32.032849</Latitude>
+    <Longitude>34.877574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034980</Latitude>
+    <Longitude>34.883438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האצ"ל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>אצ"ל</AlternateName>
+    <Latitude>32.034983</Latitude>
+    <Longitude>34.896299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036835</Latitude>
+    <Longitude>34.883673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.027711</Latitude>
+    <Longitude>34.876031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגנים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032437</Latitude>
+    <Longitude>34.881449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.028514</Latitude>
+    <Longitude>34.875563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036211</Latitude>
+    <Longitude>34.894579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031999</Latitude>
+    <Longitude>34.881945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031740</Latitude>
+    <Longitude>34.879986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029132</Latitude>
+    <Longitude>34.899503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היובל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033922</Latitude>
+    <Longitude>34.880466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032924</Latitude>
+    <Longitude>34.884845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030446</Latitude>
+    <Longitude>34.891677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035697</Latitude>
+    <Longitude>34.885063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקונגרס הציוני</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032512</Latitude>
+    <Longitude>34.886699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרא"ה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036621</Latitude>
+    <Longitude>34.891519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים סינואני</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>רבי חיים סינואני</AlternateName>
+    <AlternateName>חיים סינואני</AlternateName>
+    <AlternateName>הרבי חיים סינואני</AlternateName>
+    <Latitude>32.034322</Latitude>
+    <Longitude>34.885220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034656</Latitude>
+    <Longitude>34.882715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032926</Latitude>
+    <Longitude>34.885925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036813</Latitude>
+    <Longitude>34.895450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029340</Latitude>
+    <Longitude>34.892810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029481</Latitude>
+    <Longitude>34.900510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031982</Latitude>
+    <Longitude>34.892719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.033430</Latitude>
+    <Longitude>34.884673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב וינהויז</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029525</Latitude>
+    <Longitude>34.887298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שז"ר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036978</Latitude>
+    <Longitude>34.886016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזנוביץ</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032697</Latitude>
+    <Longitude>34.896126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036718</Latitude>
+    <Longitude>34.889701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טננבאום</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035623</Latitude>
+    <Longitude>34.896277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030983</Latitude>
+    <Longitude>34.884711</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יהוד</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033051</Latitude>
+    <Longitude>34.895290</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031407</Latitude>
+    <Longitude>34.891330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031351</Latitude>
+    <Longitude>34.869573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029131</Latitude>
+    <Longitude>34.884025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונתן נתניהו</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037318</Latitude>
+    <Longitude>34.894656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף טלבי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033197</Latitude>
+    <Longitude>34.894400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>32.033164</Latitude>
+    <Longitude>34.891157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב בר סימנטוב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034491</Latitude>
+    <Longitude>34.883885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030180</Latitude>
+    <Longitude>34.883524</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר זבולון המר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>ככר זבולון המר</AlternateName>
+    <Latitude>32.032720</Latitude>
+    <Longitude>34.877585</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר יצחק שדה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>ככר יצחק שדה</AlternateName>
+    <Latitude>32.030284</Latitude>
+    <Longitude>34.885179</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.031420</Latitude>
+    <Longitude>34.895142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037236</Latitude>
+    <Longitude>34.895989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא אלה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033405</Latitude>
+    <Longitude>34.876655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא אתרוג</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035297</Latitude>
+    <Longitude>34.882492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ברוניקה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036204</Latitude>
+    <Longitude>34.881545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ברוש</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033825</Latitude>
+    <Longitude>34.876912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא גומא</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034300</Latitude>
+    <Longitude>34.877174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דולב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034729</Latitude>
+    <Longitude>34.877478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דליה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035688</Latitude>
+    <Longitude>34.881283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא האירוס</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035936</Latitude>
+    <Longitude>34.880568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדגנים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031984</Latitude>
+    <Longitude>34.880817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ההדס</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035963</Latitude>
+    <Longitude>34.882187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הרדוף</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037595</Latitude>
+    <Longitude>34.881971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ורבנה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037368</Latitude>
+    <Longitude>34.881594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא זהבית</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036429</Latitude>
+    <Longitude>34.879248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חבצלת</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035534</Latitude>
+    <Longitude>34.879298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חיטה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034345</Latitude>
+    <Longitude>34.881876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא טופח</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035544</Latitude>
+    <Longitude>34.878670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא יסמין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036115</Latitude>
+    <Longitude>34.878283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא לולב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036993</Latitude>
+    <Longitude>34.882998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ערבה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036496</Latitude>
+    <Longitude>34.882333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא שיבולת</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032484</Latitude>
+    <Longitude>34.881275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא שיפון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032942</Latitude>
+    <Longitude>34.881451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא שעורה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033509</Latitude>
+    <Longitude>34.881356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034335</Latitude>
+    <Longitude>34.897788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039135</Latitude>
+    <Longitude>34.883191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלמד</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039001</Latitude>
+    <Longitude>34.895540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקלב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032664</Latitude>
+    <Longitude>34.886996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031437</Latitude>
+    <Longitude>34.889630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה חסיד</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037895</Latitude>
+    <Longitude>34.894725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נבון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031454</Latitude>
+    <Longitude>34.883692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029403</Latitude>
+    <Longitude>34.894622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסן טורצ'ין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030232</Latitude>
+    <Longitude>34.889934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקניק</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036776</Latitude>
+    <Longitude>34.894980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032657</Latitude>
+    <Longitude>34.894327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אגוז</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.025870</Latitude>
+    <Longitude>34.876080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שפירא</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.038202</Latitude>
+    <Longitude>34.887613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה חתוכה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031723</Latitude>
+    <Longitude>34.888499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.028939</Latitude>
+    <Longitude>34.869999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.031345</Latitude>
+    <Longitude>34.872082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עץ האפרסק</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.035129</Latitude>
+    <Longitude>34.887092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרחי בר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.036814</Latitude>
+    <Longitude>34.880667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי ישי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032390</Latitude>
+    <Longitude>34.890600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039950</Latitude>
+    <Longitude>34.888243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צוקרמן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.038028</Latitude>
+    <Longitude>34.894064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צנובר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029778</Latitude>
+    <Longitude>34.874473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי מצרים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.034255</Latitude>
+    <Longitude>34.889391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039201</Latitude>
+    <Longitude>34.887532</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית ביאליסטוק</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037020</Latitude>
+    <Longitude>34.894724</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית הסביונים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032710</Latitude>
+    <Longitude>34.879251</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רם כהן</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039371</Latitude>
+    <Longitude>34.893075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037011</Latitude>
+    <Longitude>34.888238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.037728</Latitude>
+    <Longitude>34.887610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.028174</Latitude>
+    <Longitude>34.896170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>32.032640</Latitude>
+    <Longitude>34.880841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029240</Latitude>
+    <Longitude>34.872325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.033677</Latitude>
+    <Longitude>34.893721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה קפלנסקי</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.039374</Latitude>
+    <Longitude>34.893992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שנהב</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029092</Latitude>
+    <Longitude>34.869097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.026512</Latitude>
+    <Longitude>34.874928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032670</Latitude>
+    <Longitude>34.896801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.032610</Latitude>
+    <Longitude>34.895258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאשור</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.030543</Latitude>
+    <Longitude>34.877596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.029882</Latitude>
+    <Longitude>34.878482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.027161</Latitude>
+    <Longitude>34.874491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>יהוד מונוסון, ישראל</ParentName>
+    <Latitude>32.028832</Latitude>
+    <Longitude>34.872295</Longitude>
+  </Street>
+</LocationData>

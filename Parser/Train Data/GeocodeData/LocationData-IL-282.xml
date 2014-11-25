@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך הים</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <AlternateName>הים</AlternateName>
+    <Latitude>32.981777</Latitude>
+    <Longitude>35.084444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.983173</Latitude>
+    <Longitude>35.084838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.983010</Latitude>
+    <Longitude>35.083506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.983159</Latitude>
+    <Longitude>35.082610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.984056</Latitude>
+    <Longitude>35.084421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.983153</Latitude>
+    <Longitude>35.082609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החוף</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.977789</Latitude>
+    <Longitude>35.082254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנור</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.980059</Latitude>
+    <Longitude>35.083474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסירה</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.979979</Latitude>
+    <Longitude>35.083809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.985004</Latitude>
+    <Longitude>35.083799</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.982954</Latitude>
+    <Longitude>35.084140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכב הים</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.980132</Latitude>
+    <Longitude>35.083164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נר הלילה</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.978849</Latitude>
+    <Longitude>35.082034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.978379</Latitude>
+    <Longitude>35.082330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קונכיה</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.976543</Latitude>
+    <Longitude>35.081608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.975753</Latitude>
+    <Longitude>35.081102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיקשק</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.976151</Latitude>
+    <Longitude>35.081364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמירון</NativeName>
+    <ParentName>שבי ציון, ישראל</ParentName>
+    <Latitude>32.975356</Latitude>
+    <Longitude>35.080837</Longitude>
+  </Street>
+</LocationData>

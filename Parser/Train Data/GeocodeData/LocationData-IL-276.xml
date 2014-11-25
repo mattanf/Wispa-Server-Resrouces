@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>בוסתן הכפר</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300672</Latitude>
+    <Longitude>34.910617</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת משה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.292077</Latitude>
+    <Longitude>34.917065</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד פלורנטין</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <AlternateName>דוד פלרונטין</AlternateName>
+    <AlternateName>דויד פלורנטין</AlternateName>
+    <Latitude>32.297761</Latitude>
+    <Longitude>34.914783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.294628</Latitude>
+    <Longitude>34.915822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.296212</Latitude>
+    <Longitude>34.908409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנפה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.292775</Latitude>
+    <Longitude>34.917493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300508</Latitude>
+    <Longitude>34.911817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבוסתן</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300046</Latitude>
+    <Longitude>34.909283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.294454</Latitude>
+    <Longitude>34.919712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301008</Latitude>
+    <Longitude>34.908814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.298910</Latitude>
+    <Longitude>34.921369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.291764</Latitude>
+    <Longitude>34.918848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301648</Latitude>
+    <Longitude>34.911658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדר</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301014</Latitude>
+    <Longitude>34.911531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301923</Latitude>
+    <Longitude>34.911064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.291546</Latitude>
+    <Longitude>34.916831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורשים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299762</Latitude>
+    <Longitude>34.919773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300508</Latitude>
+    <Longitude>34.911817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299919</Latitude>
+    <Longitude>34.908503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החסידה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.293254</Latitude>
+    <Longitude>34.917905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלולב</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299311</Latitude>
+    <Longitude>34.912115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.292252</Latitude>
+    <Longitude>34.917229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העגור</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.291830</Latitude>
+    <Longitude>34.916382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300210</Latitude>
+    <Longitude>34.910289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299490</Latitude>
+    <Longitude>34.910893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדסים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300156</Latitude>
+    <Longitude>34.906974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301229</Latitude>
+    <Longitude>34.912210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.300210</Latitude>
+    <Longitude>34.910289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.291853</Latitude>
+    <Longitude>34.918070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיבולים</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.298117</Latitude>
+    <Longitude>34.913641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלדג</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.291201</Latitude>
+    <Longitude>34.916975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השערה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299497</Latitude>
+    <Longitude>34.910833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.299420</Latitude>
+    <Longitude>34.911483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.301569</Latitude>
+    <Longitude>34.910350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דוד פלורנטין</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <AlternateName>סמטת דוד פלרונטין</AlternateName>
+    <AlternateName>סמטת דויד פלורנטין</AlternateName>
+    <Latitude>32.298366</Latitude>
+    <Longitude>34.910728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האנפה</NativeName>
+    <ParentName>צור משה, ישראל</ParentName>
+    <Latitude>32.292289</Latitude>
+    <Longitude>34.919033</Longitude>
+  </Street>
+</LocationData>

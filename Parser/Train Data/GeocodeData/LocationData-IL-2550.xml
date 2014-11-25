@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813315</Latitude>
+    <Longitude>34.784795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800705</Latitude>
+    <Longitude>34.779956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805862</Latitude>
+    <Longitude>34.788974</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אזורי גדרה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810746</Latitude>
+    <Longitude>34.786162</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אחוזת גדרה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800680</Latitude>
+    <Longitude>34.779001</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810867</Latitude>
+    <Longitude>34.784567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807229</Latitude>
+    <Longitude>34.787672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.804340</Latitude>
+    <Longitude>34.785913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.823941</Latitude>
+    <Longitude>34.778077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו פרנקל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>אליהו פראנקל</AlternateName>
+    <Latitude>31.811038</Latitude>
+    <Longitude>34.780901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר כהנוב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.816295</Latitude>
+    <Longitude>34.777522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קרסנר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808672</Latitude>
+    <Longitude>34.774334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלשייך פינק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807032</Latitude>
+    <Longitude>34.789700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אם כל חי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810878</Latitude>
+    <Longitude>34.771707</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אנדרטת י"א חללי מינכן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814275</Latitude>
+    <Longitude>34.777880</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אעלה בתמר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813585</Latitude>
+    <Longitude>34.771213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814111</Latitude>
+    <Longitude>34.786257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.798482</Latitude>
+    <Longitude>34.786438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.807296</Latitude>
+    <Longitude>34.776994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.803179</Latitude>
+    <Longitude>34.787275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה קרסיקוב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812454</Latitude>
+    <Longitude>34.769529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשחר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.801067</Latitude>
+    <Longitude>34.785725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806662</Latitude>
+    <Longitude>34.785740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819947</Latitude>
+    <Longitude>34.775371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806493</Latitude>
+    <Longitude>34.787574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>31.814528</Latitude>
+    <Longitude>34.772079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גפן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808065</Latitude>
+    <Longitude>34.775750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי מלאכה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818192</Latitude>
+    <Longitude>34.779128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806493</Latitude>
+    <Longitude>34.787574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800876</Latitude>
+    <Longitude>34.781314</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת העיריות</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807337</Latitude>
+    <Longitude>34.776446</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גד שמחה סעידי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818509</Latitude>
+    <Longitude>34.787705</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גדרה הצעירה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.803567</Latitude>
+    <Longitude>34.786146</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גמליאל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815224</Latitude>
+    <Longitude>34.785455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר אבא אחימאיר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>אבא אחימאיר</AlternateName>
+    <AlternateName>דוקטור אחימאיר</AlternateName>
+    <AlternateName>ד"ר אחימאיר</AlternateName>
+    <AlternateName>אחימאיר</AlternateName>
+    <AlternateName>דוקטור אבא אחימאיר</AlternateName>
+    <Latitude>31.808319</Latitude>
+    <Longitude>34.787712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר יוסף בורג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>יוסף בורג</AlternateName>
+    <AlternateName>דוקטור יוסף בורג</AlternateName>
+    <Latitude>31.808536</Latitude>
+    <Longitude>34.788594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד ג'מיל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>דויד ג'מיל</AlternateName>
+    <Latitude>31.817685</Latitude>
+    <Longitude>34.786165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>31.798603</Latitude>
+    <Longitude>34.786077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>31.814326</Latitude>
+    <Longitude>34.778567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808726</Latitude>
+    <Longitude>34.772563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.801409</Latitude>
+    <Longitude>34.784343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818578</Latitude>
+    <Longitude>34.785353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דנציגר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821191</Latitude>
+    <Longitude>34.778858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800885</Latitude>
+    <Longitude>34.785104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805328</Latitude>
+    <Longitude>34.787262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ארץ</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>ארץ</AlternateName>
+    <Latitude>31.810713</Latitude>
+    <Longitude>34.781134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האילנות</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>האילנות</AlternateName>
+    <Latitude>31.804565</Latitude>
+    <Longitude>34.787125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפרחים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>הפרחים</AlternateName>
+    <Latitude>31.809545</Latitude>
+    <Longitude>34.784533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>31.799332</Latitude>
+    <Longitude>34.781063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך נחלים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>נחלים</AlternateName>
+    <Latitude>31.806490</Latitude>
+    <Longitude>34.783748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הג"א</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821537</Latitude>
+    <Longitude>34.777620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813931</Latitude>
+    <Longitude>34.773631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806770</Latitude>
+    <Longitude>34.773501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.802855</Latitude>
+    <Longitude>34.785332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805321</Latitude>
+    <Longitude>34.775344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורביץ</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813012</Latitude>
+    <Longitude>34.772085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811033</Latitude>
+    <Longitude>34.776434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החומה גוז'נסקי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.816123</Latitude>
+    <Longitude>34.773920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807959</Latitude>
+    <Longitude>34.774874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המהרי"ץ</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.820181</Latitude>
+    <Longitude>34.784175</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>המושבה הגרמנית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811602</Latitude>
+    <Longitude>34.771434</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הנקין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811596</Latitude>
+    <Longitude>34.772063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.822838</Latitude>
+    <Longitude>34.779319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817379</Latitude>
+    <Longitude>34.773912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815696</Latitude>
+    <Longitude>34.783254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יחיא סלימן תנעמי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>רבי יחיא סלימן תנעמי</AlternateName>
+    <AlternateName>הרבי יחיא סלימן תנעמי</AlternateName>
+    <AlternateName>יחיא סלימן תנעמי</AlternateName>
+    <Latitude>31.814629</Latitude>
+    <Longitude>34.785646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מאיר צוברי בנימין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>הרבי מאיר צוברי בנימין</AlternateName>
+    <AlternateName>רבי מאיר צוברי בנימין</AlternateName>
+    <AlternateName>מאיר צוברי בנימין</AlternateName>
+    <Latitude>31.816963</Latitude>
+    <Longitude>34.783619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808776</Latitude>
+    <Longitude>34.786208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809306</Latitude>
+    <Longitude>34.777333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818903</Latitude>
+    <Longitude>34.784720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815911</Latitude>
+    <Longitude>34.771085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808042</Latitude>
+    <Longitude>34.778858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807873</Latitude>
+    <Longitude>34.774150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.816722</Latitude>
+    <Longitude>34.781435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.810166</Latitude>
+    <Longitude>34.776560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון המר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809342</Latitude>
+    <Longitude>34.789502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815696</Latitude>
+    <Longitude>34.783254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיגמן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814392</Latitude>
+    <Longitude>34.778104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809301</Latitude>
+    <Longitude>34.772506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרקון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.799085</Latitude>
+    <Longitude>34.783595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813115</Latitude>
+    <Longitude>34.783308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810234</Latitude>
+    <Longitude>34.772337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818937</Latitude>
+    <Longitude>34.786146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808200</Latitude>
+    <Longitude>34.772541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חושן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.801814</Latitude>
+    <Longitude>34.777001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזית הדרום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808731</Latitude>
+    <Longitude>34.770016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזנוב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811164</Latitude>
+    <Longitude>34.769153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הרצוג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800241</Latitude>
+    <Longitude>34.786025</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.822973</Latitude>
+    <Longitude>34.773419</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811851</Latitude>
+    <Longitude>34.785220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809556</Latitude>
+    <Longitude>34.785087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819772</Latitude>
+    <Longitude>34.783281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל מוסינזון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808477</Latitude>
+    <Longitude>34.789608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הגדרתי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811445</Latitude>
+    <Longitude>34.775377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819628</Latitude>
+    <Longitude>34.782279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.801645</Latitude>
+    <Longitude>34.776946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817962</Latitude>
+    <Longitude>34.785535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה הנביא</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817414</Latitude>
+    <Longitude>34.789037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף צבי מלר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809137</Latitude>
+    <Longitude>34.769072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808859</Latitude>
+    <Longitude>34.785438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב מאיר הכהן קפלן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810426</Latitude>
+    <Longitude>34.773817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810083</Latitude>
+    <Longitude>34.781686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.823801</Latitude>
+    <Longitude>34.779872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808859</Latitude>
+    <Longitude>34.785438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ויינר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807429</Latitude>
+    <Longitude>34.771089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ישעיהו</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808103</Latitude>
+    <Longitude>34.789289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814227</Latitude>
+    <Longitude>34.781705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810607</Latitude>
+    <Longitude>34.786038</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כפר אוריאל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815317</Latitude>
+    <Longitude>34.782088</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>31.814681</Latitude>
+    <Longitude>34.780018</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>לב גדרה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812346</Latitude>
+    <Longitude>34.784044</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לובצקי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808773</Latitude>
+    <Longitude>34.771046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.820696</Latitude>
+    <Longitude>34.781783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוינסון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814506</Latitude>
+    <Longitude>34.776680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוע הארי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808338</Latitude>
+    <Longitude>34.783963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבוביץ</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811399</Latitude>
+    <Longitude>34.770964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבנה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806664</Latitude>
+    <Longitude>34.788166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818200</Latitude>
+    <Longitude>34.776957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812087</Latitude>
+    <Longitude>34.783602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800702</Latitude>
+    <Longitude>34.781965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגינים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817350</Latitude>
+    <Longitude>34.774320</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוסד חינוכי כפר אליהו</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.803465</Latitude>
+    <Longitude>34.777177</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812426</Latitude>
+    <Longitude>34.787979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנשה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812942</Latitude>
+    <Longitude>34.787021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818044</Latitude>
+    <Longitude>34.779776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808625</Latitude>
+    <Longitude>34.782609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה נבט</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813729</Latitude>
+    <Longitude>34.779202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרבי מליובאוויטש</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819788</Latitude>
+    <Longitude>34.784536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרש"ש</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819133</Latitude>
+    <Longitude>34.783820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נהר שלום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.799649</Latitude>
+    <Longitude>34.785721</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה משה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819259</Latitude>
+    <Longitude>34.777320</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה ציון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817583</Latitude>
+    <Longitude>34.787707</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה שולמית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821143</Latitude>
+    <Longitude>34.781257</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה שלמה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812952</Latitude>
+    <Longitude>34.787756</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופך</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.799924</Latitude>
+    <Longitude>34.784490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810837</Latitude>
+    <Longitude>34.786270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813807</Latitude>
+    <Longitude>34.786872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אילון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806766</Latitude>
+    <Longitude>34.784048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ארנון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805435</Latitude>
+    <Longitude>34.782866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807572</Latitude>
+    <Longitude>34.781030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הבשור</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807565</Latitude>
+    <Longitude>34.783073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הירמוך</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808020</Latitude>
+    <Longitude>34.781765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הירקון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805335</Latitude>
+    <Longitude>34.780749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ליטאני</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805433</Latitude>
+    <Longitude>34.783320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל לכיש</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806863</Latitude>
+    <Longitude>34.781377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נעמן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806508</Latitude>
+    <Longitude>34.780588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עדה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806593</Latitude>
+    <Longitude>34.784643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ערוגות</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806029</Latitude>
+    <Longitude>34.780188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל פארן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806963</Latitude>
+    <Longitude>34.781420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל צאלים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806316</Latitude>
+    <Longitude>34.784333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קדרון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805115</Latitude>
+    <Longitude>34.781700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שורק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806362</Latitude>
+    <Longitude>34.781163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שניר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.807032</Latitude>
+    <Longitude>34.780787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל תנינים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805701</Latitude>
+    <Longitude>34.781460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.818404</Latitude>
+    <Longitude>34.786576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811807</Latitude>
+    <Longitude>34.784093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810420</Latitude>
+    <Longitude>34.785498</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סברדלוב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.816361</Latitude>
+    <Longitude>34.776078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סופר שלום</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.798936</Latitude>
+    <Longitude>34.784197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809838</Latitude>
+    <Longitude>34.782381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812779</Latitude>
+    <Longitude>34.784926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814211</Latitude>
+    <Longitude>34.770888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת לובצקי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809659</Latitude>
+    <Longitude>34.770905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808707</Latitude>
+    <Longitude>34.772562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה צברי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.820903</Latitude>
+    <Longitude>34.778156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800585</Latitude>
+    <Longitude>34.778589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופרים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.804935</Latitude>
+    <Longitude>34.778292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.816643</Latitude>
+    <Longitude>34.787795</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמק הנשר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809163</Latitude>
+    <Longitude>34.779304</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805952</Latitude>
+    <Longitude>34.785612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פוקס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809978</Latitude>
+    <Longitude>34.773466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטדה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.799779</Latitude>
+    <Longitude>34.785096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייבל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815236</Latitude>
+    <Longitude>34.777620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיינברג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.813268</Latitude>
+    <Longitude>34.776151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809370</Latitude>
+    <Longitude>34.777920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיקוס</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.804901</Latitude>
+    <Longitude>34.787375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנינה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800554</Latitude>
+    <Longitude>34.780584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809299</Latitude>
+    <Longitude>34.783190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809069</Latitude>
+    <Longitude>34.783712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרחי בר</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809631</Latitude>
+    <Longitude>34.786217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.802053</Latitude>
+    <Longitude>34.786360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי ארקין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.805886</Latitude>
+    <Longitude>34.774618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812468</Latitude>
+    <Longitude>34.784431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צוקרמן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809886</Latitude>
+    <Longitude>34.769904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811919</Latitude>
+    <Longitude>34.784149</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>צמרת גדרה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806127</Latitude>
+    <Longitude>34.782768</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812796</Latitude>
+    <Longitude>34.783096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קטלב</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.806753</Latitude>
+    <Longitude>34.787019</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קטרה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.822524</Latitude>
+    <Longitude>34.776866</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811866</Latitude>
+    <Longitude>34.781829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קק"ל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.812193</Latitude>
+    <Longitude>34.780707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.819316</Latitude>
+    <Longitude>34.780862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהודה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>הרבי יהודה</AlternateName>
+    <AlternateName>הרב יהודה</AlternateName>
+    <AlternateName>יהודה</AlternateName>
+    <Latitude>31.819565</Latitude>
+    <Longitude>34.783972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.811019</Latitude>
+    <Longitude>34.787024</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רשפים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808528</Latitude>
+    <Longitude>34.788895</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שבו</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.799649</Latitude>
+    <Longitude>34.785721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.820677</Latitude>
+    <Longitude>34.776947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821827</Latitude>
+    <Longitude>34.775505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבתאי גומברג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809385</Latitude>
+    <Longitude>34.774899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>31.806178</Latitude>
+    <Longitude>34.775150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>31.805131</Latitude>
+    <Longitude>34.784793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ציונה צרפת</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>שד' ציונה צרפת</AlternateName>
+    <AlternateName>ציונה צרפת</AlternateName>
+    <Latitude>31.807097</Latitude>
+    <Longitude>34.788137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.800647</Latitude>
+    <Longitude>34.781247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.809078</Latitude>
+    <Longitude>34.782765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.802454</Latitude>
+    <Longitude>34.785231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שכביץ</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814159</Latitude>
+    <Longitude>34.775430</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת הפועלים</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <AlternateName>הפועלים</AlternateName>
+    <Latitude>31.815416</Latitude>
+    <Longitude>34.779497</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808407</Latitude>
+    <Longitude>34.773045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814407</Latitude>
+    <Longitude>34.768962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה שפק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.814742</Latitude>
+    <Longitude>34.778660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.808103</Latitude>
+    <Longitude>34.789289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821559</Latitude>
+    <Longitude>34.781167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפירא</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.817336</Latitude>
+    <Longitude>34.774830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.821770</Latitude>
+    <Longitude>34.777612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה סיגלביץ'</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.810056</Latitude>
+    <Longitude>34.775525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרמ"ה</NativeName>
+    <ParentName>גדרה, ישראל</ParentName>
+    <Latitude>31.815820</Latitude>
+    <Longitude>34.769826</Longitude>
+  </Street>
+</LocationData>

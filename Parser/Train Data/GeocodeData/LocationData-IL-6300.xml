@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבני זיכרון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072337</Latitude>
+    <Longitude>34.801080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמית</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.060067</Latitude>
+    <Longitude>34.812700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון גולדשטיין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078270</Latitude>
+    <Longitude>34.809629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון שר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069852</Latitude>
+    <Longitude>34.810488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחדות העבודה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077295</Latitude>
+    <Longitude>34.804355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.068270</Latitude>
+    <Longitude>34.806198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלומות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076264</Latitude>
+    <Longitude>34.805408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף שדה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>שדה</AlternateName>
+    <Latitude>32.058811</Latitude>
+    <Longitude>34.811159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע רודין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.062956</Latitude>
+    <Longitude>34.817021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו סירני</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069324</Latitude>
+    <Longitude>34.804359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073707</Latitude>
+    <Longitude>34.815999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפנר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074645</Latitude>
+    <Longitude>34.812717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפק</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.065933</Latitude>
+    <Longitude>34.805607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.072835</Latitude>
+    <Longitude>34.818084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריאל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.068866</Latitude>
+    <Longitude>34.807057</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.071877</Latitude>
+    <Longitude>34.814538</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארנון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.060942</Latitude>
+    <Longitude>34.809744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078222</Latitude>
+    <Longitude>34.804794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלוך</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076866</Latitude>
+    <Longitude>34.812505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון ישראלי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077775</Latitude>
+    <Longitude>34.811108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בראשית</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069414</Latitude>
+    <Longitude>34.815801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברדיצ'בסקי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072872</Latitude>
+    <Longitude>34.810524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070232</Latitude>
+    <Longitude>34.817067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבולות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.079505</Latitude>
+    <Longitude>34.819039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבע</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073980</Latitude>
+    <Longitude>34.814209</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת רמב"ם</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.067737</Latitude>
+    <Longitude>34.804391</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069145</Latitude>
+    <Longitude>34.812487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גונן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.063929</Latitude>
+    <Longitude>34.805097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.076814</Latitude>
+    <Longitude>34.808904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074224</Latitude>
+    <Longitude>34.807582</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072861</Latitude>
+    <Longitude>34.817574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גנסין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.071041</Latitude>
+    <Longitude>34.806066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד ילין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>דויד ילין</AlternateName>
+    <Latitude>32.060737</Latitude>
+    <Longitude>34.809561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד קלעי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>דויד קלעי</AlternateName>
+    <Latitude>32.077669</Latitude>
+    <Longitude>34.808632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.068778</Latitude>
+    <Longitude>34.804443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073855</Latitude>
+    <Longitude>34.804971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.071665</Latitude>
+    <Longitude>34.817433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השלום</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>השלום</AlternateName>
+    <Latitude>32.068016</Latitude>
+    <Longitude>34.802661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>32.065552</Latitude>
+    <Longitude>34.811651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077530</Latitude>
+    <Longitude>34.818537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגנים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.067606</Latitude>
+    <Longitude>34.806292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.068225</Latitude>
+    <Longitude>34.805468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061941</Latitude>
+    <Longitude>34.811531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073737</Latitude>
+    <Longitude>34.802146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידיד</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061056</Latitude>
+    <Longitude>34.810034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070934</Latitude>
+    <Longitude>34.812541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המאבק</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.062993</Latitude>
+    <Longitude>34.810199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המאור</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.063526</Latitude>
+    <Longitude>34.808549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המבוא</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074782</Latitude>
+    <Longitude>34.813341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגדל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070557</Latitude>
+    <Longitude>34.807451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המורד</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.079235</Latitude>
+    <Longitude>34.806781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלבן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075118</Latitude>
+    <Longitude>34.807673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעגל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076699</Latitude>
+    <Longitude>34.817763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעורר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078285</Latitude>
+    <Longitude>34.807767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070934</Latitude>
+    <Longitude>34.812541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074557</Latitude>
+    <Longitude>34.817154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפנה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074294</Latitude>
+    <Longitude>34.810671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073019</Latitude>
+    <Longitude>34.815569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגבה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070430</Latitude>
+    <Longitude>34.804098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנדיב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061404</Latitude>
+    <Longitude>34.809189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפועל הצעיר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076522</Latitude>
+    <Longitude>34.803361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072742</Latitude>
+    <Longitude>34.803435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070327</Latitude>
+    <Longitude>34.806686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072439</Latitude>
+    <Longitude>34.813201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.061344</Latitude>
+    <Longitude>34.816579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צימבר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>הרבי צימבר</AlternateName>
+    <AlternateName>צימבר</AlternateName>
+    <AlternateName>רבי צימבר</AlternateName>
+    <Latitude>32.061456</Latitude>
+    <Longitude>34.818019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.079501</Latitude>
+    <Longitude>34.807718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השניים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078418</Latitude>
+    <Longitude>34.811337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התע"ש</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074597</Latitude>
+    <Longitude>34.804032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.071636</Latitude>
+    <Longitude>34.808600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.073093</Latitude>
+    <Longitude>34.812371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069324</Latitude>
+    <Longitude>34.804359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.068778</Latitude>
+    <Longitude>34.804443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חניתה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076861</Latitude>
+    <Longitude>34.805362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבנקין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.059632</Latitude>
+    <Longitude>34.817845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יד מרדכי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069489</Latitude>
+    <Longitude>34.805323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילדי טהרן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.065933</Latitude>
+    <Longitude>34.805607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב פיינברג</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075045</Latitude>
+    <Longitude>34.809349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078748</Latitude>
+    <Longitude>34.811677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070215</Latitude>
+    <Longitude>34.809238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075746</Latitude>
+    <Longitude>34.805584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל טייבר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.071571</Latitude>
+    <Longitude>34.805105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל שפירא</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.063612</Latitude>
+    <Longitude>34.807676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כורזין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.060101</Latitude>
+    <Longitude>34.816416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072430</Latitude>
+    <Longitude>34.811103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.075681</Latitude>
+    <Longitude>34.810224</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לביא</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078905</Latitude>
+    <Longitude>34.820339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073798</Latitude>
+    <Longitude>34.803635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרש"ק</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.060693</Latitude>
+    <Longitude>34.808835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076935</Latitude>
+    <Longitude>34.807178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנורה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.064012</Latitude>
+    <Longitude>34.808568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנרה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075936</Latitude>
+    <Longitude>34.803104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070341</Latitude>
+    <Longitude>34.816534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעוז</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069589</Latitude>
+    <Longitude>34.816928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה בועז</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077675</Latitude>
+    <Longitude>34.807042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה יעקב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.073932</Latitude>
+    <Longitude>34.814758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצולות ים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>מצולות הים</AlternateName>
+    <Latitude>32.063064</Latitude>
+    <Longitude>34.806147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משגב עם</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074688</Latitude>
+    <Longitude>34.805685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משמר הירדן</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061996</Latitude>
+    <Longitude>34.813388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070919</Latitude>
+    <Longitude>34.813869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072924</Latitude>
+    <Longitude>34.809407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב השלבים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077712</Latitude>
+    <Longitude>34.815657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078501</Latitude>
+    <Longitude>34.816576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אליהו</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077162</Latitude>
+    <Longitude>34.807126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת גזית</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076341</Latitude>
+    <Longitude>34.809675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת נחל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078550</Latitude>
+    <Longitude>34.804721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת נעמ"ת</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061137</Latitude>
+    <Longitude>34.814608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת צביה לובטקין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.063899</Latitude>
+    <Longitude>34.812633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת צור</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076946</Latitude>
+    <Longitude>34.805325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עברונה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.069641</Latitude>
+    <Longitude>34.807507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074737</Latitude>
+    <Longitude>34.815781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075295</Latitude>
+    <Longitude>34.801702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמישב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061951</Latitude>
+    <Longitude>34.805782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070894</Latitude>
+    <Longitude>34.816547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבי נחל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078964</Latitude>
+    <Longitude>34.799842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערד</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.074091</Latitude>
+    <Longitude>34.802860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פועלי הרכבת</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077965</Latitude>
+    <Longitude>34.817687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטאי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.077338</Latitude>
+    <Longitude>34.804013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072072</Latitude>
+    <Longitude>34.811072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפרירים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.064840</Latitude>
+    <Longitude>34.807286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קושניר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.066991</Latitude>
+    <Longitude>34.814851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061168</Latitude>
+    <Longitude>34.812296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלנסקי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.063679</Latitude>
+    <Longitude>34.817105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרית יוסף</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.075936</Latitude>
+    <Longitude>34.803104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.061854</Latitude>
+    <Longitude>34.817298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.076602</Latitude>
+    <Longitude>34.806313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רביבים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.065267</Latitude>
+    <Longitude>34.807588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטברג</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078474</Latitude>
+    <Longitude>34.818529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072872</Latitude>
+    <Longitude>34.810524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.067055</Latitude>
+    <Longitude>34.807510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.068443</Latitude>
+    <Longitude>34.812398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070368</Latitude>
+    <Longitude>34.805232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמה</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072887</Latitude>
+    <Longitude>34.816015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.072470</Latitude>
+    <Longitude>34.811722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדה בוקר</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.070230</Latitude>
+    <Longitude>34.811574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אפיקים</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>אפיקים</AlternateName>
+    <AlternateName>שד' אפיקים</AlternateName>
+    <Latitude>32.075026</Latitude>
+    <Longitude>34.811584</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיינקין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <AlternateName>שינקין</AlternateName>
+    <AlternateName>שנקין</AlternateName>
+    <Latitude>32.075568</Latitude>
+    <Longitude>34.814061</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שילוב</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.062916</Latitude>
+    <Longitude>34.815767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל יבנאלי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.062370</Latitude>
+    <Longitude>34.816976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון בן צבי</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.067398</Latitude>
+    <Longitude>34.812546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפע טל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.080673</Latitude>
+    <Longitude>34.799709</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תיכון תלמה ילין</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.078520</Latitude>
+    <Longitude>34.803032</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תפוצות ישראל</NativeName>
+    <ParentName>גבעתיים, ישראל</ParentName>
+    <Latitude>32.060680</Latitude>
+    <Longitude>34.815431</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבא הלל סילבר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938279</Latitude>
+    <Longitude>34.848960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביב</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.939079</Latitude>
+    <Longitude>34.840113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם ליכטנשטיין</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934622</Latitude>
+    <Longitude>34.832544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד מנור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.942697</Latitude>
+    <Longitude>34.844022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איילה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933951</Latitude>
+    <Longitude>34.833953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלות</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938626</Latitude>
+    <Longitude>34.839744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944849</Latitude>
+    <Longitude>34.846486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים קישון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941615</Latitude>
+    <Longitude>34.843253</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ח שמואל הרופא</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.931377</Latitude>
+    <Longitude>34.825997</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני מנחם</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.939262</Latitude>
+    <Longitude>34.837764</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד הכהן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>דויד הכהן</AlternateName>
+    <Latitude>31.944339</Latitude>
+    <Longitude>34.838981</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933991</Latitude>
+    <Longitude>34.832873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דיזנגוף</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>דיזינגוף</AlternateName>
+    <AlternateName>דזנגוף</AlternateName>
+    <Latitude>31.929610</Latitude>
+    <Longitude>34.831822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938658</Latitude>
+    <Longitude>34.836474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך חיים</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>חיים</AlternateName>
+    <Latitude>31.933372</Latitude>
+    <Longitude>34.827609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יוסף סיטון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>יוסף סיטון</AlternateName>
+    <Latitude>31.942900</Latitude>
+    <Longitude>34.824889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך צה"ל</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>צה"ל</AlternateName>
+    <Latitude>31.947287</Latitude>
+    <Longitude>34.838510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.947012</Latitude>
+    <Longitude>34.838956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.942543</Latitude>
+    <Longitude>34.836000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941191</Latitude>
+    <Longitude>34.839752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944786</Latitude>
+    <Longitude>34.844993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנפה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.931048</Latitude>
+    <Longitude>34.828819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933978</Latitude>
+    <Longitude>34.848697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.929588</Latitude>
+    <Longitude>34.828972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941453</Latitude>
+    <Longitude>34.833121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938223</Latitude>
+    <Longitude>34.839403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934837</Latitude>
+    <Longitude>34.836098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.945434</Latitude>
+    <Longitude>34.835453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדובדבן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.946056</Latitude>
+    <Longitude>34.848360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938930</Latitude>
+    <Longitude>34.834691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.947422</Latitude>
+    <Longitude>34.851664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.931767</Latitude>
+    <Longitude>34.830568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.943281</Latitude>
+    <Longitude>34.840615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.943652</Latitude>
+    <Longitude>34.847513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.930390</Latitude>
+    <Longitude>34.830846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941155</Latitude>
+    <Longitude>34.837650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940318</Latitude>
+    <Longitude>34.840724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934085</Latitude>
+    <Longitude>34.836400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.946716</Latitude>
+    <Longitude>34.839653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.942708</Latitude>
+    <Longitude>34.836485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.937751</Latitude>
+    <Longitude>34.838992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירמוך</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938830</Latitude>
+    <Longitude>34.838283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938708</Latitude>
+    <Longitude>34.837120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.942692</Latitude>
+    <Longitude>34.840355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנקר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.936764</Latitude>
+    <Longitude>34.832357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941747</Latitude>
+    <Longitude>34.838256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.930272</Latitude>
+    <Longitude>34.829137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.931031</Latitude>
+    <Longitude>34.829793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.937751</Latitude>
+    <Longitude>34.838992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934510</Latitude>
+    <Longitude>34.848537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938090</Latitude>
+    <Longitude>34.838457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>31.943090</Latitude>
+    <Longitude>34.837173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>31.945097</Latitude>
+    <Longitude>34.838107</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרצל</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.943597</Latitude>
+    <Longitude>34.833347</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940076</Latitude>
+    <Longitude>34.839476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלדג</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.936390</Latitude>
+    <Longitude>34.834170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944865</Latitude>
+    <Longitude>34.835792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.935257</Latitude>
+    <Longitude>34.836798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.945451</Latitude>
+    <Longitude>34.847467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.935094</Latitude>
+    <Longitude>34.848166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933084</Latitude>
+    <Longitude>34.832079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.935906</Latitude>
+    <Longitude>34.843537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944339</Latitude>
+    <Longitude>34.838981</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חלומות תלמי מנשה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941433</Latitude>
+    <Longitude>34.843958</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חרוד</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.936560</Latitude>
+    <Longitude>34.838569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טיילת חתני פרס ישראל</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940931</Latitude>
+    <Longitude>34.844547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944276</Latitude>
+    <Longitude>34.837406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934306</Latitude>
+    <Longitude>34.831655</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ישיבת באר יעקב</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940906</Latitude>
+    <Longitude>34.834864</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר רוטרי</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>ככר רוטרי</AlternateName>
+    <Latitude>31.945059</Latitude>
+    <Longitude>34.838029</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר הנוער יוהנה ז'בוטינסקי</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.941807</Latitude>
+    <Longitude>34.824660</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.942361</Latitude>
+    <Longitude>34.846227</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מלב"ן</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933921</Latitude>
+    <Longitude>34.822514</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה דורון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.937594</Latitude>
+    <Longitude>34.846511</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.936032</Latitude>
+    <Longitude>34.844816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933422</Latitude>
+    <Longitude>34.832858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.943020</Latitude>
+    <Longitude>34.841617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.946042</Latitude>
+    <Longitude>34.840858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.933871</Latitude>
+    <Longitude>34.831097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האנקור</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.930857</Latitude>
+    <Longitude>34.830562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרימון</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944067</Latitude>
+    <Longitude>34.847855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרקפת</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.945505</Latitude>
+    <Longitude>34.841097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השיקמה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.937233</Latitude>
+    <Longitude>34.831555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עודד</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.957965</Latitude>
+    <Longitude>34.851505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערוגות</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.937282</Latitude>
+    <Longitude>34.838585</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק המושבה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940539</Latitude>
+    <Longitude>34.833140</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פלמינגו</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934809</Latitude>
+    <Longitude>34.831784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.934550</Latitude>
+    <Longitude>34.832867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.936118</Latitude>
+    <Longitude>34.833385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צוקית</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.935368</Latitude>
+    <Longitude>34.831861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944537</Latitude>
+    <Longitude>34.836118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי מאיר בעל הנס</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>הרבי מאיר בעל הנס</AlternateName>
+    <AlternateName>מאיר בעל הנס</AlternateName>
+    <AlternateName>הרב מאיר בעל הנס</AlternateName>
+    <Latitude>31.944110</Latitude>
+    <Longitude>34.834011</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.944203</Latitude>
+    <Longitude>34.837987</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שא נס</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.938938</Latitude>
+    <Longitude>34.834822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות האלונים</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>האלונים</AlternateName>
+    <AlternateName>שד' האלונים</AlternateName>
+    <Latitude>31.939980</Latitude>
+    <Longitude>34.832030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרב משה שמואל שפירא</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>שד' הרב משה שמואל שפירא</AlternateName>
+    <AlternateName>הרב משה שמואל שפירא</AlternateName>
+    <Latitude>31.943147</Latitude>
+    <Longitude>34.831440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יצחק רבין</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <AlternateName>שד' יצחק רבין</AlternateName>
+    <Latitude>31.935367</Latitude>
+    <Longitude>34.831550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.935026</Latitude>
+    <Longitude>34.833233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.940976</Latitude>
+    <Longitude>34.836794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.932593</Latitude>
+    <Longitude>34.831669</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תלמי מנשה</NativeName>
+    <ParentName>באר יעקב, ישראל</ParentName>
+    <Latitude>31.945485</Latitude>
+    <Longitude>34.849116</Longitude>
+  </CityRegion>
+</LocationData>

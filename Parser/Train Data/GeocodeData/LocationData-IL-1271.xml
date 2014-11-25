@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגמית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370103</Latitude>
+    <Longitude>34.809586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370493</Latitude>
+    <Longitude>34.811568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.374377</Latitude>
+    <Longitude>34.810616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369275</Latitude>
+    <Longitude>34.809793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371108</Latitude>
+    <Longitude>34.808888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בז</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371277</Latitude>
+    <Longitude>34.808252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביצנית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371414</Latitude>
+    <Longitude>34.807448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברבור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371114</Latitude>
+    <Longitude>34.807350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכיה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371265</Latitude>
+    <Longitude>34.806533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.374485</Latitude>
+    <Longitude>34.811540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370963</Latitude>
+    <Longitude>34.811225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדרון</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370417</Latitude>
+    <Longitude>34.808063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גומא</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.374200</Latitude>
+    <Longitude>34.812213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבתון</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369622</Latitude>
+    <Longitude>34.807888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגנית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.374011</Latitude>
+    <Longitude>34.812947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370811</Latitude>
+    <Longitude>34.805595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370069</Latitude>
+    <Longitude>34.805317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך אבני חושן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <AlternateName>אבני חושן</AlternateName>
+    <Latitude>31.371247</Latitude>
+    <Longitude>34.811018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370563</Latitude>
+    <Longitude>34.806967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הודן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367738</Latitude>
+    <Longitude>34.811216</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>המניפה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370911</Latitude>
+    <Longitude>34.802852</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>המרכז</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371118</Latitude>
+    <Longitude>34.811435</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.373637</Latitude>
+    <Longitude>34.813566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371171</Latitude>
+    <Longitude>34.818063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368473</Latitude>
+    <Longitude>34.813325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוגן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371082</Latitude>
+    <Longitude>34.813711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369587</Latitude>
+    <Longitude>34.812239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרזיר</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369201</Latitude>
+    <Longitude>34.812169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוגלה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.365809</Latitude>
+    <Longitude>34.811842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366437</Latitude>
+    <Longitude>34.812176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.365976</Latitude>
+    <Longitude>34.810962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסידה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366712</Latitude>
+    <Longitude>34.810167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370729</Latitude>
+    <Longitude>34.813104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבלן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368470</Latitude>
+    <Longitude>34.810010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופח</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369903</Latitude>
+    <Longitude>34.815735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טסית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368300</Latitude>
+    <Longitude>34.810630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ינשוף</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368048</Latitude>
+    <Longitude>34.807485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368910</Latitude>
+    <Longitude>34.807710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369304</Latitude>
+    <Longitude>34.815559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכבן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368643</Latitude>
+    <Longitude>34.815412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367101</Latitude>
+    <Longitude>34.807256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כחל</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366380</Latitude>
+    <Longitude>34.807104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבנית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368861</Latitude>
+    <Longitude>34.805147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370394</Latitude>
+    <Longitude>34.818323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369338</Latitude>
+    <Longitude>34.805277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגלן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367540</Latitude>
+    <Longitude>34.804832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מדברון</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367540</Latitude>
+    <Longitude>34.804832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369899</Latitude>
+    <Longitude>34.818807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366279</Latitude>
+    <Longitude>34.814247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נץ</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.365804</Latitude>
+    <Longitude>34.815079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369441</Latitude>
+    <Longitude>34.819346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נשר</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.365888</Latitude>
+    <Longitude>34.814929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סבכי</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.365558</Latitude>
+    <Longitude>34.817006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סופית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366700</Latitude>
+    <Longitude>34.818776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.372591</Latitude>
+    <Longitude>34.819593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.364494</Latitude>
+    <Longitude>34.817848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.366017</Latitude>
+    <Longitude>34.818127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371247</Latitude>
+    <Longitude>34.811018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367382</Latitude>
+    <Longitude>34.820529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדעד</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.372605</Latitude>
+    <Longitude>34.820291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עיט</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367771</Latitude>
+    <Longitude>34.821334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין הבשור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368468</Latitude>
+    <Longitude>34.802401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין זיק</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368468</Latitude>
+    <Longitude>34.802401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין מור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369323</Latitude>
+    <Longitude>34.802630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין סהרונים</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367666</Latitude>
+    <Longitude>34.801579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין עבדת</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370635</Latitude>
+    <Longitude>34.802839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין עופרים</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370845</Latitude>
+    <Longitude>34.803683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין עקב</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.370487</Latitude>
+    <Longitude>34.802915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין צין</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367466</Latitude>
+    <Longitude>34.800869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין שחק</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.367990</Latitude>
+    <Longitude>34.802979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.368330</Latitude>
+    <Longitude>34.820773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנינית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369347</Latitude>
+    <Longitude>34.823371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.373804</Latitude>
+    <Longitude>34.816626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרפור</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369327</Latitude>
+    <Longitude>34.823411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.369910</Latitude>
+    <Longitude>34.824035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.372677</Latitude>
+    <Longitude>34.814955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קידה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371282</Latitude>
+    <Longitude>34.816684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371809</Latitude>
+    <Longitude>34.823106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות זית</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <AlternateName>שד' זית</AlternateName>
+    <AlternateName>זית</AlternateName>
+    <Latitude>31.369768</Latitude>
+    <Longitude>34.803917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רימון</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <AlternateName>רימון</AlternateName>
+    <AlternateName>שד' רימון</AlternateName>
+    <Latitude>31.369612</Latitude>
+    <Longitude>34.810778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות תאנה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <AlternateName>תאנה</AlternateName>
+    <AlternateName>שד' תאנה</AlternateName>
+    <Latitude>31.367174</Latitude>
+    <Longitude>34.813080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות תמר</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <AlternateName>שד' תמר</AlternateName>
+    <AlternateName>תמר</AlternateName>
+    <Latitude>31.373926</Latitude>
+    <Longitude>34.812888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371900</Latitude>
+    <Longitude>34.810542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371535</Latitude>
+    <Longitude>34.822349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.371076</Latitude>
+    <Longitude>34.822313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>להבים, ישראל</ParentName>
+    <Latitude>31.372162</Latitude>
+    <Longitude>34.810351</Longitude>
+  </Street>
+</LocationData>

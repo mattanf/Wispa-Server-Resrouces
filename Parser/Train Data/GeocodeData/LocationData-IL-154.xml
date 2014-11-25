@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבני חן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248355</Latitude>
+    <Longitude>34.909598</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.246567</Latitude>
+    <Longitude>34.915532</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255570</Latitude>
+    <Longitude>34.914975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת חן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247769</Latitude>
+    <Longitude>34.911909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248782</Latitude>
+    <Longitude>34.911066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258169</Latitude>
+    <Longitude>34.922903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הלורד</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <AlternateName>הלורד</AlternateName>
+    <Latitude>32.248156</Latitude>
+    <Longitude>34.906104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האהבה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.252872</Latitude>
+    <Longitude>34.922600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.260600</Latitude>
+    <Longitude>34.921810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.251067</Latitude>
+    <Longitude>34.919414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253992</Latitude>
+    <Longitude>34.923446</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.246752</Latitude>
+    <Longitude>34.916150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258142</Latitude>
+    <Longitude>34.919674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258979</Latitude>
+    <Longitude>34.919154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנפה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249402</Latitude>
+    <Longitude>34.920993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארגמן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250071</Latitude>
+    <Longitude>34.908743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247670</Latitude>
+    <Longitude>34.920476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברקת</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249736</Latitude>
+    <Longitude>34.909244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.257260</Latitude>
+    <Longitude>34.915179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255216</Latitude>
+    <Longitude>34.916972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258413</Latitude>
+    <Longitude>34.922003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדוכיפת</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250946</Latitude>
+    <Longitude>34.921749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדולב</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248763</Latitude>
+    <Longitude>34.911883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדפנה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.251135</Latitude>
+    <Longitude>34.916165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253094</Latitude>
+    <Longitude>34.918184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250553</Latitude>
+    <Longitude>34.924726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249773</Latitude>
+    <Longitude>34.915290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.260072</Latitude>
+    <Longitude>34.915354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247222</Latitude>
+    <Longitude>34.916210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.245729</Latitude>
+    <Longitude>34.922582</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250865</Latitude>
+    <Longitude>34.921686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.252927</Latitude>
+    <Longitude>34.916879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החסידה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249071</Latitude>
+    <Longitude>34.922676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.252017</Latitude>
+    <Longitude>34.913853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.260493</Latitude>
+    <Longitude>34.918615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרות</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255577</Latitude>
+    <Longitude>34.924884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.256618</Latitude>
+    <Longitude>34.919102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.251987</Latitude>
+    <Longitude>34.916174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידידות</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255145</Latitude>
+    <Longitude>34.924225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלום</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249650</Latitude>
+    <Longitude>34.908821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247218</Latitude>
+    <Longitude>34.910820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258496</Latitude>
+    <Longitude>34.923599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248085</Latitude>
+    <Longitude>34.916391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.254139</Latitude>
+    <Longitude>34.914839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250647</Latitude>
+    <Longitude>34.915543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247111</Latitude>
+    <Longitude>34.921099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלשם</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248206</Latitude>
+    <Longitude>34.907065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המטעים</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248639</Latitude>
+    <Longitude>34.918009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנגו</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247023</Latitude>
+    <Longitude>34.922599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגלית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247845</Latitude>
+    <Longitude>34.907675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגנית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249204</Latitude>
+    <Longitude>34.911808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247010</Latitude>
+    <Longitude>34.914361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250112</Latitude>
+    <Longitude>34.914948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.246427</Latitude>
+    <Longitude>34.914936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגלית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248866</Latitude>
+    <Longitude>34.915338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253210</Latitude>
+    <Longitude>34.915296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250547</Latitude>
+    <Longitude>34.922328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הספיר</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247693</Latitude>
+    <Longitude>34.910122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפקאן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.246991</Latitude>
+    <Longitude>34.921486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253912</Latitude>
+    <Longitude>34.922106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249598</Latitude>
+    <Longitude>34.910606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247914</Latitude>
+    <Longitude>34.918982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצופית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249363</Latitude>
+    <Longitude>34.922829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.247842</Latitude>
+    <Longitude>34.923301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.251797</Latitude>
+    <Longitude>34.917838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.256085</Latitude>
+    <Longitude>34.925220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרעות</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253429</Latitude>
+    <Longitude>34.923004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.251298</Latitude>
+    <Longitude>34.917072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השוהם</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249333</Latitude>
+    <Longitude>34.909348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.250620</Latitude>
+    <Longitude>34.923909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.257503</Latitude>
+    <Longitude>34.916878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלווה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.254563</Latitude>
+    <Longitude>34.923815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258627</Latitude>
+    <Longitude>34.916783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.260809</Latitude>
+    <Longitude>34.919837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255164</Latitude>
+    <Longitude>34.918254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.261275</Latitude>
+    <Longitude>34.921470</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.246646</Latitude>
+    <Longitude>34.919550</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.258291</Latitude>
+    <Longitude>34.921107</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>זוויתן</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.257931</Latitude>
+    <Longitude>34.924104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנען</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.253738</Latitude>
+    <Longitude>34.916098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.256896</Latitude>
+    <Longitude>34.924475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הפרדס</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.249870</Latitude>
+    <Longitude>34.919304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.254428</Latitude>
+    <Longitude>34.916794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול המוריה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.255458</Latitude>
+    <Longitude>34.915987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התאנה</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.260065</Latitude>
+    <Longitude>34.917409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נבו</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.254721</Latitude>
+    <Longitude>34.914244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.256212</Latitude>
+    <Longitude>34.915385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.248433</Latitude>
+    <Longitude>34.924174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פולג</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.259826</Latitude>
+    <Longitude>34.923392</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית חינוך יצחק רבין</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.254929</Latitude>
+    <Longitude>34.921403</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>תל מונד, ישראל</ParentName>
+    <Latitude>32.257048</Latitude>
+    <Longitude>34.925530</Longitude>
+  </Street>
+</LocationData>

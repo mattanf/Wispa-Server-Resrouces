@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327498</Latitude>
+    <Longitude>34.933207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.328225</Latitude>
+    <Longitude>34.936017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327508</Latitude>
+    <Longitude>34.931766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327359</Latitude>
+    <Longitude>34.930762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326792</Latitude>
+    <Longitude>34.932080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326072</Latitude>
+    <Longitude>34.936048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322926</Latitude>
+    <Longitude>34.930474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית אשל</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323601</Latitude>
+    <Longitude>34.939319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשמת</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322270</Latitude>
+    <Longitude>34.943442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאון הירדן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324353</Latitude>
+    <Longitude>34.934082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבולות</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321875</Latitude>
+    <Longitude>34.935368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325942</Latitude>
+    <Longitude>34.937694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרופית</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323889</Latitude>
+    <Longitude>34.947046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324649</Latitude>
+    <Longitude>34.940054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323630</Latitude>
+    <Longitude>34.934836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323257</Latitude>
+    <Longitude>34.936379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הארץ</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>הארץ</AlternateName>
+    <Latitude>31.321314</Latitude>
+    <Longitude>34.928917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הבשור</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>הבשור</AlternateName>
+    <Latitude>31.330951</Latitude>
+    <Longitude>34.944793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הראל</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>הראל</AlternateName>
+    <Latitude>31.322023</Latitude>
+    <Longitude>34.933672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יתיר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>יתיר</AlternateName>
+    <Latitude>31.323936</Latitude>
+    <Longitude>34.944711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מיתר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>מיתר</AlternateName>
+    <Latitude>31.325692</Latitude>
+    <Longitude>34.938238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324371</Latitude>
+    <Longitude>34.935464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוהר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327446</Latitude>
+    <Longitude>34.947937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324965</Latitude>
+    <Longitude>34.936521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלוצה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326064</Latitude>
+    <Longitude>34.943515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמונית</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.328737</Latitude>
+    <Longitude>34.934788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322130</Latitude>
+    <Longitude>34.940469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.329350</Latitude>
+    <Longitude>34.936030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצבה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326691</Latitude>
+    <Longitude>34.945084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצרים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320491</Latitude>
+    <Longitude>34.932980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעלים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.333193</Latitude>
+    <Longitude>34.942572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כובשים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.332544</Latitude>
+    <Longitude>34.941981</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיסופים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322091</Latitude>
+    <Longitude>34.932171</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כלניות</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325926</Latitude>
+    <Longitude>34.932147</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.329128</Latitude>
+    <Longitude>34.937973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321929</Latitude>
+    <Longitude>34.934587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורג</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.331509</Latitude>
+    <Longitude>34.948760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ממשית</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325427</Latitude>
+    <Longitude>34.942106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326517</Latitude>
+    <Longitude>34.947775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משאבים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321829</Latitude>
+    <Longitude>34.936891</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משמר אזרחי</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327298</Latitude>
+    <Longitude>34.938786</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משעול יפתח</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323900</Latitude>
+    <Longitude>34.930837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול לאה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320848</Latitude>
+    <Longitude>34.928368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול פלמ"ח</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322357</Latitude>
+    <Longitude>34.929756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נגבה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320753</Latitude>
+    <Longitude>34.930880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נועם</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324951</Latitude>
+    <Longitude>34.948380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323795</Latitude>
+    <Longitude>34.940438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נירים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322076</Latitude>
+    <Longitude>34.933010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעד</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320273</Latitude>
+    <Longitude>34.937252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבדת</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326742</Latitude>
+    <Longitude>34.947008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופרים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.329043</Latitude>
+    <Longitude>34.946684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין בוקק</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.331691</Latitude>
+    <Longitude>34.941923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין זיק</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.330158</Latitude>
+    <Longitude>34.941487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין מור</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.330206</Latitude>
+    <Longitude>34.944460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין נטפים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.330838</Latitude>
+    <Longitude>34.939791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.328809</Latitude>
+    <Longitude>34.937193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלומים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320934</Latitude>
+    <Longitude>34.936975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עציון גבר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323043</Latitude>
+    <Longitude>34.940686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324025</Latitude>
+    <Longitude>34.940026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקרב</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.322578</Latitude>
+    <Longitude>34.945696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פארן</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.333781</Latitude>
+    <Longitude>34.940701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.328701</Latitude>
+    <Longitude>34.936017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325904</Latitude>
+    <Longitude>34.937220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.332219</Latitude>
+    <Longitude>34.946987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבאים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321245</Latitude>
+    <Longitude>34.941762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צין</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.330412</Latitude>
+    <Longitude>34.943503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציקלג</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323520</Latitude>
+    <Longitude>34.942142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צניפים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320785</Latitude>
+    <Longitude>34.941704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדש ברנע</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325840</Latitude>
+    <Longitude>34.946533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קטורה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.325072</Latitude>
+    <Longitude>34.945035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קנאים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.320442</Latitude>
+    <Longitude>34.939767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קציעות</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324306</Latitude>
+    <Longitude>34.940782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רביבים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321848</Latitude>
+    <Longitude>34.936142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324719</Latitude>
+    <Longitude>34.934825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323918</Latitude>
+    <Longitude>34.933323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רעים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321484</Latitude>
+    <Longitude>34.931205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.323538</Latitude>
+    <Longitude>34.944095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות המייסדים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>שד' המייסדים</AlternateName>
+    <AlternateName>המייסדים</AlternateName>
+    <Latitude>31.327158</Latitude>
+    <Longitude>34.941796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות השלום</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>שד' השלום</AlternateName>
+    <AlternateName>השלום</AlternateName>
+    <Latitude>31.321061</Latitude>
+    <Longitude>34.933661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות חברון</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>שד' חברון</AlternateName>
+    <AlternateName>חברון</AlternateName>
+    <Latitude>31.327712</Latitude>
+    <Longitude>34.936020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות עומרים</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>שד' עומרים</AlternateName>
+    <AlternateName>עומרים</AlternateName>
+    <Latitude>31.327516</Latitude>
+    <Longitude>34.939786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שובל</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.321970</Latitude>
+    <Longitude>34.928304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327242</Latitude>
+    <Longitude>34.936035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.327009</Latitude>
+    <Longitude>34.934806</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת רבין</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <AlternateName>רבין</AlternateName>
+    <Latitude>31.322210</Latitude>
+    <Longitude>34.934745</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324991</Latitude>
+    <Longitude>34.937236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324531</Latitude>
+    <Longitude>34.936039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמנע</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.324625</Latitude>
+    <Longitude>34.944244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>מיתר, ישראל</ParentName>
+    <Latitude>31.326492</Latitude>
+    <Longitude>34.936058</Longitude>
+  </Street>
+</LocationData>

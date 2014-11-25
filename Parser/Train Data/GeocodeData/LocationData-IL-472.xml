@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א רשיד</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808034</Latitude>
+    <Longitude>35.112449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל חנאא'</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806281</Latitude>
+    <Longitude>35.110494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל עבד עלי</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.804319</Latitude>
+    <Longitude>35.112340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית הבד</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.804270</Latitude>
+    <Longitude>35.109384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'בר</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.809140</Latitude>
+    <Longitude>35.109858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דאוד עבדאללה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.800730</Latitude>
+    <Longitude>35.120442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבנים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.811670</Latitude>
+    <Longitude>35.112094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.809873</Latitude>
+    <Longitude>35.108053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806415</Latitude>
+    <Longitude>35.114284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806214</Latitude>
+    <Longitude>35.113322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.804113</Latitude>
+    <Longitude>35.116579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.803183</Latitude>
+    <Longitude>35.108487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארמונות</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806236</Latitude>
+    <Longitude>35.109091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבושם</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808928</Latitude>
+    <Longitude>35.105758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806482</Latitude>
+    <Longitude>35.112640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.812143</Latitude>
+    <Longitude>35.106430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.809238</Latitude>
+    <Longitude>35.106038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפנים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.804342</Latitude>
+    <Longitude>35.107159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הוואדי</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.803187</Latitude>
+    <Longitude>35.114961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806102</Latitude>
+    <Longitude>35.109120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזיתים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.810678</Latitude>
+    <Longitude>35.105750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החווה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806939</Latitude>
+    <Longitude>35.105227</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החומה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807184</Latitude>
+    <Longitude>35.107276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807778</Latitude>
+    <Longitude>35.106006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.810449</Latitude>
+    <Longitude>35.105336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המאפייה הישנה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806664</Latitude>
+    <Longitude>35.109352</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעברה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.802653</Latitude>
+    <Longitude>35.106980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפעל</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807439</Latitude>
+    <Longitude>35.110659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצפה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807259</Latitude>
+    <Longitude>35.102621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשתלה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807344</Latitude>
+    <Longitude>35.103879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנענע</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806007</Latitude>
+    <Longitude>35.107136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.805539</Latitude>
+    <Longitude>35.108096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הענבר</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806551</Latitude>
+    <Longitude>35.109053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפול</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806112</Latitude>
+    <Longitude>35.107734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806152</Latitude>
+    <Longitude>35.112161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.811729</Latitude>
+    <Longitude>35.106506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השדות</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808295</Latitude>
+    <Longitude>35.101274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושן</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.803861</Latitude>
+    <Longitude>35.108373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השזיף</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.803750</Latitude>
+    <Longitude>35.113623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיכון</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.804308</Latitude>
+    <Longitude>35.110820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנים</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806539</Latitude>
+    <Longitude>35.105247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808321</Latitude>
+    <Longitude>35.105364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כביש השלום</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.806534</Latitude>
+    <Longitude>35.114318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחמוד רשיד</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807833</Latitude>
+    <Longitude>35.107909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה החמישה</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.812029</Latitude>
+    <Longitude>35.105693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרכז הכפר</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807088</Latitude>
+    <Longitude>35.108436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נוטרדאם</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807512</Latitude>
+    <Longitude>35.103102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נטאף</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.807745</Latitude>
+    <Longitude>35.113637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבד אל עזיז</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.809351</Latitude>
+    <Longitude>35.112567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבד אל רחמן</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.802432</Latitude>
+    <Longitude>35.112215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמאוס</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808613</Latitude>
+    <Longitude>35.109171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שייח' איסמעיל</NativeName>
+    <ParentName>אבו גוש, ישראל</ParentName>
+    <Latitude>31.808750</Latitude>
+    <Longitude>35.109770</Longitude>
+  </Street>
+</LocationData>

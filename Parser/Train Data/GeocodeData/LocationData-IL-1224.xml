@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבני החושן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.209924</Latitude>
+    <Longitude>34.987990</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבני חן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.211192</Latitude>
+    <Longitude>34.987457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.220142</Latitude>
+    <Longitude>34.989902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגמית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215700</Latitude>
+    <Longitude>34.990335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.211192</Latitude>
+    <Longitude>34.987457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.221461</Latitude>
+    <Longitude>34.991136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.220675</Latitude>
+    <Longitude>34.990995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.220680</Latitude>
+    <Longitude>34.990198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנקור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215526</Latitude>
+    <Longitude>34.991659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.217477</Latitude>
+    <Longitude>34.989695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.221197</Latitude>
+    <Longitude>34.989354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.221687</Latitude>
+    <Longitude>34.988761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארותיים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.221506</Latitude>
+    <Longitude>34.993859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.223505</Latitude>
+    <Longitude>34.993002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזלת</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218021</Latitude>
+    <Longitude>34.982578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזק</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.208687</Latitude>
+    <Longitude>34.985604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בירנית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.224264</Latitude>
+    <Longitude>34.993639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית אל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225550</Latitude>
+    <Longitude>34.995191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218923</Latitude>
+    <Longitude>34.987745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברעם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.224864</Latitude>
+    <Longitude>34.994359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225550</Latitude>
+    <Longitude>34.995191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.211516</Latitude>
+    <Longitude>34.988500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.207810</Latitude>
+    <Longitude>34.986817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.214193</Latitude>
+    <Longitude>34.987820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גילגל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213801</Latitude>
+    <Longitude>34.988300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גילה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.231580</Latitude>
+    <Longitude>34.998490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.230474</Latitude>
+    <Longitude>35.003678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרניט</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.217316</Latitude>
+    <Longitude>34.985060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.229940</Latitude>
+    <Longitude>35.006892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה צור יגאל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213032</Latitude>
+    <Longitude>34.990895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרגות</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.232155</Latitude>
+    <Longitude>35.005926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215772</Latitude>
+    <Longitude>34.992418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפרחים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <AlternateName>הפרחים</AlternateName>
+    <Latitude>32.223255</Latitude>
+    <Longitude>35.001545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218108</Latitude>
+    <Longitude>34.990082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.228573</Latitude>
+    <Longitude>35.000542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.227608</Latitude>
+    <Longitude>35.000540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנרות</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.223665</Latitude>
+    <Longitude>34.995373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המישר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.228440</Latitude>
+    <Longitude>35.004140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפסגות</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215715</Latitude>
+    <Longitude>34.987521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213861</Latitude>
+    <Longitude>34.991709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכסים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216901</Latitude>
+    <Longitude>34.988766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוויתן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.207465</Latitude>
+    <Longitude>34.987543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216238</Latitude>
+    <Longitude>34.992842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלוקי נחל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.209505</Latitude>
+    <Longitude>34.985584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218646</Latitude>
+    <Longitude>34.982565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218827</Latitude>
+    <Longitude>34.988785</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.209908</Latitude>
+    <Longitude>34.988657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218470</Latitude>
+    <Longitude>34.986083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.214769</Latitude>
+    <Longitude>34.992674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216343</Latitude>
+    <Longitude>34.994583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216901</Latitude>
+    <Longitude>34.988766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבנים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216258</Latitude>
+    <Longitude>34.988733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.208963</Latitude>
+    <Longitude>34.988451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ברקאי</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225667</Latitude>
+    <Longitude>34.996297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא גמלא</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.231580</Latitude>
+    <Longitude>34.998490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא גריזים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.231888</Latitude>
+    <Longitude>34.997699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דבורה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.227787</Latitude>
+    <Longitude>35.006985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דולב</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.228366</Latitude>
+    <Longitude>35.007562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דותן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.229583</Latitude>
+    <Longitude>35.008491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דיה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.230167</Latitude>
+    <Longitude>35.008976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דישון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.230795</Latitude>
+    <Longitude>35.009372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דליות</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.231115</Latitude>
+    <Longitude>35.008544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דלתון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.231944</Latitude>
+    <Longitude>35.008876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא דפנה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.229625</Latitude>
+    <Longitude>35.006146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הגבעה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.228109</Latitude>
+    <Longitude>34.996454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדס</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.223255</Latitude>
+    <Longitude>35.001545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הורד</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.223898</Latitude>
+    <Longitude>35.002136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא היסמין</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.224515</Latitude>
+    <Longitude>35.002741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הכלנית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225120</Latitude>
+    <Longitude>35.003418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הכרכום</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225667</Latitude>
+    <Longitude>35.004152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הלוטם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.226133</Latitude>
+    <Longitude>35.004818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא המדבר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.226439</Latitude>
+    <Longitude>34.999915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא המכתש</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225435</Latitude>
+    <Longitude>34.997814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הנגב</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.227136</Latitude>
+    <Longitude>35.001300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הנורית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.226564</Latitude>
+    <Longitude>35.005441</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הנרקיס</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.227107</Latitude>
+    <Longitude>35.006183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא העמק</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.224784</Latitude>
+    <Longitude>35.000097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הערבה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225206</Latitude>
+    <Longitude>35.001008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא השומרון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.225670</Latitude>
+    <Longitude>35.001901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא השפלה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.226152</Latitude>
+    <Longitude>35.002806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215234</Latitude>
+    <Longitude>34.993127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגלית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213358</Latitude>
+    <Longitude>34.989344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נבו</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215663</Latitude>
+    <Longitude>34.988683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נוף הרים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213560</Latitude>
+    <Longitude>34.990371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.207595</Latitude>
+    <Longitude>34.988351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נטפים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.207930</Latitude>
+    <Longitude>34.989000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216594</Latitude>
+    <Longitude>34.993372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.210471</Latitude>
+    <Longitude>34.985829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218490</Latitude>
+    <Longitude>34.993593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדת</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.208595</Latitude>
+    <Longitude>34.989416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק דותן</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.212751</Latitude>
+    <Longitude>34.989083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק האלה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.213073</Latitude>
+    <Longitude>34.988480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218161</Latitude>
+    <Longitude>34.994843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.215141</Latitude>
+    <Longitude>34.987656</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>צור יגאל</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.209761</Latitude>
+    <Longitude>34.987756</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218760</Latitude>
+    <Longitude>34.983684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צרעה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.214664</Latitude>
+    <Longitude>34.990551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורנית</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.217177</Latitude>
+    <Longitude>34.995811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216001</Latitude>
+    <Longitude>34.993961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הארץ</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <AlternateName>הארץ</AlternateName>
+    <AlternateName>שד' הארץ</AlternateName>
+    <Latitude>32.224317</Latitude>
+    <Longitude>34.997188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הדקלים</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <AlternateName>הדקלים</AlternateName>
+    <AlternateName>שד' הדקלים</AlternateName>
+    <Latitude>32.215749</Latitude>
+    <Longitude>34.986152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שקד</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <AlternateName>שקד</AlternateName>
+    <AlternateName>שד' שקד</AlternateName>
+    <Latitude>32.220909</Latitude>
+    <Longitude>34.995315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.208408</Latitude>
+    <Longitude>34.988053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.211292</Latitude>
+    <Longitude>34.990013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218715</Latitude>
+    <Longitude>34.995350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218818</Latitude>
+    <Longitude>34.989750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.216310</Latitude>
+    <Longitude>34.987566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.218916</Latitude>
+    <Longitude>34.992333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>כוכב יאיר, ישראל</ParentName>
+    <Latitude>32.217513</Latitude>
+    <Longitude>34.990238</Longitude>
+  </Street>
+</LocationData>

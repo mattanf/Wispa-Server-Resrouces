@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אוריה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.042768</Latitude>
+    <Longitude>34.891272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046859</Latitude>
+    <Longitude>34.873388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמירים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <AlternateName>עמירים</AlternateName>
+    <Latitude>32.055267</Latitude>
+    <Longitude>34.876810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.048245</Latitude>
+    <Longitude>34.887021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047366</Latitude>
+    <Longitude>34.873953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גן השיקמים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044543</Latitude>
+    <Longitude>34.875708</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני יהודה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.039148</Latitude>
+    <Longitude>34.877919</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.041930</Latitude>
+    <Longitude>34.887351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044189</Latitude>
+    <Longitude>34.889598</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופק</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.056598</Latitude>
+    <Longitude>34.881183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046677</Latitude>
+    <Longitude>34.872209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוס</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.040635</Latitude>
+    <Longitude>34.881167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043878</Latitude>
+    <Longitude>34.883957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046375</Latitude>
+    <Longitude>34.872160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.054371</Latitude>
+    <Longitude>34.872843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדרות</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.052498</Latitude>
+    <Longitude>34.882136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיא</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047932</Latitude>
+    <Longitude>34.879643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגן</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.055066</Latitude>
+    <Longitude>34.870297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.048634</Latitude>
+    <Longitude>34.884967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרום</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.048347</Latitude>
+    <Longitude>34.878263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043379</Latitude>
+    <Longitude>34.883048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.056413</Latitude>
+    <Longitude>34.882533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.049312</Latitude>
+    <Longitude>34.889665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.041301</Latitude>
+    <Longitude>34.879602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038607</Latitude>
+    <Longitude>34.879989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038920</Latitude>
+    <Longitude>34.875798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047531</Latitude>
+    <Longitude>34.888717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.039114</Latitude>
+    <Longitude>34.879632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמש</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.055176</Latitude>
+    <Longitude>34.881767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.041285</Latitude>
+    <Longitude>34.881704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המועדון</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.050823</Latitude>
+    <Longitude>34.877313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגנית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.039760</Latitude>
+    <Longitude>34.880949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתנחלים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043008</Latitude>
+    <Longitude>34.871608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוף</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047703</Latitude>
+    <Longitude>34.884563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038436</Latitude>
+    <Longitude>34.876789</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038203</Latitude>
+    <Longitude>34.877553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038217</Latitude>
+    <Longitude>34.879394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.055066</Latitude>
+    <Longitude>34.870297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפון</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.055038</Latitude>
+    <Longitude>34.872942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.050015</Latitude>
+    <Longitude>34.868163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר דפנה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.050794</Latitude>
+    <Longitude>34.871489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047932</Latitude>
+    <Longitude>34.873738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרגב</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043878</Latitude>
+    <Longitude>34.883957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכס</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047005</Latitude>
+    <Longitude>34.883343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.038338</Latitude>
+    <Longitude>34.878342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045257</Latitude>
+    <Longitude>34.886707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045603</Latitude>
+    <Longitude>34.879639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלווה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.042787</Latitude>
+    <Longitude>34.886217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047566</Latitude>
+    <Longitude>34.872809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045681</Latitude>
+    <Longitude>34.887700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התיכון</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.051437</Latitude>
+    <Longitude>34.876415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלם</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044275</Latitude>
+    <Longitude>34.884865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046089</Latitude>
+    <Longitude>34.888586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.049031</Latitude>
+    <Longitude>34.886387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר העשור</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <AlternateName>ככר העשור</AlternateName>
+    <Latitude>32.042254</Latitude>
+    <Longitude>34.875087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרם הזיתים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046609</Latitude>
+    <Longitude>34.881742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבנית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044987</Latitude>
+    <Longitude>34.891134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבואות</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047491</Latitude>
+    <Longitude>34.870431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגל</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.050955</Latitude>
+    <Longitude>34.879086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044259</Latitude>
+    <Longitude>34.891133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045257</Latitude>
+    <Longitude>34.886707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגבעה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.053762</Latitude>
+    <Longitude>34.868943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגדרות</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.053129</Latitude>
+    <Longitude>34.877982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגיא</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.048803</Latitude>
+    <Longitude>34.880163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הדרום</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.049588</Latitude>
+    <Longitude>34.878559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הורד</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.049312</Latitude>
+    <Longitude>34.889665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החרמש</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.054424</Latitude>
+    <Longitude>34.882284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הר דפנה</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047823</Latitude>
+    <Longitude>34.869282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת כרם הזיתים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046442</Latitude>
+    <Longitude>34.882646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מבואות</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.049581</Latitude>
+    <Longitude>34.871786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מגל</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.052052</Latitude>
+    <Longitude>34.879060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043200</Latitude>
+    <Longitude>34.890318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגורים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044118</Latitude>
+    <Longitude>34.890118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עיטם</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045790</Latitude>
+    <Longitude>34.889303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלומים</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.044853</Latitude>
+    <Longitude>34.885738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.045694</Latitude>
+    <Longitude>34.890997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.043478</Latitude>
+    <Longitude>34.891108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צוקית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.042857</Latitude>
+    <Longitude>34.888012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימונית</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.046130</Latitude>
+    <Longitude>34.867245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.047551</Latitude>
+    <Longitude>34.889197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>סביון, ישראל</ParentName>
+    <Latitude>32.048343</Latitude>
+    <Longitude>34.888639</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268889</Latitude>
+    <Longitude>34.844264</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגמון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.269626</Latitude>
+    <Longitude>34.857603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270285</Latitude>
+    <Longitude>34.857490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוכמנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268899</Latitude>
+    <Longitude>34.857292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262874</Latitude>
+    <Longitude>34.846176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אטד</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.259413</Latitude>
+    <Longitude>34.841775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268736</Latitude>
+    <Longitude>34.856549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלומות</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272649</Latitude>
+    <Longitude>34.836419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.259354</Latitude>
+    <Longitude>34.843639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.275398</Latitude>
+    <Longitude>34.853169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקליפטוס</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271598</Latitude>
+    <Longitude>34.854215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.263842</Latitude>
+    <Longitude>34.841797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשוח</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.257359</Latitude>
+    <Longitude>34.840256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכולות</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271870</Latitude>
+    <Longitude>34.839636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.266695</Latitude>
+    <Longitude>34.846085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262391</Latitude>
+    <Longitude>34.845383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271860</Latitude>
+    <Longitude>34.855084</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן תעשייה עומר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267769</Latitude>
+    <Longitude>34.836111</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני עומר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261159</Latitude>
+    <Longitude>34.841079</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דבורנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272477</Latitude>
+    <Longitude>34.856471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270724</Latitude>
+    <Longitude>34.856143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262289</Latitude>
+    <Longitude>34.844484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.274122</Latitude>
+    <Longitude>34.855455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרדר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272033</Latitude>
+    <Longitude>34.855809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האגם</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <AlternateName>האגם</AlternateName>
+    <Latitude>31.260696</Latitude>
+    <Longitude>34.840234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הנחל</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <AlternateName>הנחל</AlternateName>
+    <Latitude>31.259827</Latitude>
+    <Longitude>34.841565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.275077</Latitude>
+    <Longitude>34.835215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.259349</Latitude>
+    <Longitude>34.848820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגת</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273486</Latitude>
+    <Longitude>34.836819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261195</Latitude>
+    <Longitude>34.847636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262429</Latitude>
+    <Longitude>34.846613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.263032</Latitude>
+    <Longitude>34.849579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורשה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.277799</Latitude>
+    <Longitude>34.853070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.259354</Latitude>
+    <Longitude>34.843639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267476</Latitude>
+    <Longitude>34.843371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.258057</Latitude>
+    <Longitude>34.844216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.277424</Latitude>
+    <Longitude>34.857173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיננית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.277298</Latitude>
+    <Longitude>34.856317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.277120</Latitude>
+    <Longitude>34.856445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270139</Latitude>
+    <Longitude>34.846511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267674</Latitude>
+    <Longitude>34.853793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.277772</Latitude>
+    <Longitude>34.856918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260593</Latitude>
+    <Longitude>34.848043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכבן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271506</Latitude>
+    <Longitude>34.853210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262181</Latitude>
+    <Longitude>34.851158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.266818</Latitude>
+    <Longitude>34.854188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271229</Latitude>
+    <Longitude>34.852430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.276875</Latitude>
+    <Longitude>34.852947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבנה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.258687</Latitude>
+    <Longitude>34.843962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273153</Latitude>
+    <Longitude>34.857843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273347</Latitude>
+    <Longitude>34.858592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273600</Latitude>
+    <Longitude>34.859487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.275762</Latitude>
+    <Longitude>34.853828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר האגמית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261394</Latitude>
+    <Longitude>34.840179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר האנפה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260693</Latitude>
+    <Longitude>34.841761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר החורשה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261206</Latitude>
+    <Longitude>34.842033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר הליבנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261894</Latitude>
+    <Longitude>34.841221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר הפנינית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261197</Latitude>
+    <Longitude>34.841590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר השחף</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260505</Latitude>
+    <Longitude>34.840680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר השלדג</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260373</Latitude>
+    <Longitude>34.841295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר השקנאי</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261510</Latitude>
+    <Longitude>34.841546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר התמירון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261834</Latitude>
+    <Longitude>34.840597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272713</Latitude>
+    <Longitude>34.849520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272907</Latitude>
+    <Longitude>34.852487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול דולב</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.263581</Latitude>
+    <Longitude>34.842476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האדמון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261185</Latitude>
+    <Longitude>34.841827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הברבור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262213</Latitude>
+    <Longitude>34.841333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגדרון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261664</Latitude>
+    <Longitude>34.840468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הדוכיפת</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260370</Latitude>
+    <Longitude>34.841705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הדרור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261806</Latitude>
+    <Longitude>34.841536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הורדית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261984</Latitude>
+    <Longitude>34.840328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הזהבן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261197</Latitude>
+    <Longitude>34.841590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הזמיר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260795</Latitude>
+    <Longitude>34.840899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הזרזיר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261839</Latitude>
+    <Longitude>34.840883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול החוגלה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261376</Latitude>
+    <Longitude>34.841307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול החוחית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260577</Latitude>
+    <Longitude>34.840971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול החופית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261818</Latitude>
+    <Longitude>34.840401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול החסידה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261606</Latitude>
+    <Longitude>34.840934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הטבלן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261230</Latitude>
+    <Longitude>34.840715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול היונה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260589</Latitude>
+    <Longitude>34.841924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הינשוף</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262543</Latitude>
+    <Longitude>34.840778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הירקון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260566</Latitude>
+    <Longitude>34.841556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הלילית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261578</Latitude>
+    <Longitude>34.841424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הנחליאלי</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260868</Latitude>
+    <Longitude>34.841216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הנץ</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261095</Latitude>
+    <Longitude>34.841455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הנשר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260938</Latitude>
+    <Longitude>34.841943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הסלעית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262083</Latitude>
+    <Longitude>34.840861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הסנונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260338</Latitude>
+    <Longitude>34.841010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול העגור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262037</Latitude>
+    <Longitude>34.841653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול העורב</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260693</Latitude>
+    <Longitude>34.841761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול העיט</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261016</Latitude>
+    <Longitude>34.841669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול העפרוני</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260105</Latitude>
+    <Longitude>34.841039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הפשוש</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260475</Latitude>
+    <Longitude>34.842104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הצופית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260177</Latitude>
+    <Longitude>34.841885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הצוקית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262122</Latitude>
+    <Longitude>34.840268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הקוקיה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261395</Latitude>
+    <Longitude>34.840977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הקורא</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262306</Latitude>
+    <Longitude>34.840819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול השחרור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.259896</Latitude>
+    <Longitude>34.841090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.260735</Latitude>
+    <Longitude>34.841379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התנשמת</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262632</Latitude>
+    <Longitude>34.840992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול מורן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.265075</Latitude>
+    <Longitude>34.842652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול סיסם</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.264594</Latitude>
+    <Longitude>34.841978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.276871</Latitude>
+    <Longitude>34.855695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנים</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273737</Latitude>
+    <Longitude>34.832387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.266750</Latitude>
+    <Longitude>34.853079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270922</Latitude>
+    <Longitude>34.859323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270790</Latitude>
+    <Longitude>34.858685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.261712</Latitude>
+    <Longitude>34.847038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.271102</Latitude>
+    <Longitude>34.860276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273347</Latitude>
+    <Longitude>34.858592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.270922</Latitude>
+    <Longitude>34.859323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עומרים</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272044</Latitude>
+    <Longitude>34.837947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268411</Latitude>
+    <Longitude>34.854062</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק עומר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.264590</Latitude>
+    <Longitude>34.840858</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פלפלון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268080</Latitude>
+    <Longitude>34.847084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268754</Latitude>
+    <Longitude>34.859093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267302</Latitude>
+    <Longitude>34.858749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262951</Latitude>
+    <Longitude>34.852674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267654</Latitude>
+    <Longitude>34.859863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267335</Latitude>
+    <Longitude>34.849415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.276165</Latitude>
+    <Longitude>34.854414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלף</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268225</Latitude>
+    <Longitude>34.850805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפצפה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.269503</Latitude>
+    <Longitude>34.853490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קידה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.273261</Latitude>
+    <Longitude>34.855316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קינמון</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.276498</Latitude>
+    <Longitude>34.852321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.264466</Latitude>
+    <Longitude>34.846350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267339</Latitude>
+    <Longitude>34.855565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.269452</Latitude>
+    <Longitude>34.859803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.262614</Latitude>
+    <Longitude>34.851985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.268952</Latitude>
+    <Longitude>34.853779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.267384</Latitude>
+    <Longitude>34.854611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאשור</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.258795</Latitude>
+    <Longitude>34.842138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.258144</Latitude>
+    <Longitude>34.842448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.266416</Latitude>
+    <Longitude>34.845302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוז</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.272927</Latitude>
+    <Longitude>34.856986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>עומר, ישראל</ParentName>
+    <Latitude>31.274913</Latitude>
+    <Longitude>34.859841</Longitude>
+  </Street>
+</LocationData>

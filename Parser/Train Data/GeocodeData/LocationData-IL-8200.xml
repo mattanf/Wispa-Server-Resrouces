@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.834080</Latitude>
+    <Longitude>35.080934</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אביבים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.844713</Latitude>
+    <Longitude>35.087795</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אהרון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.828751</Latitude>
+    <Longitude>35.078439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.831003</Latitude>
+    <Longitude>35.077649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אושה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.825734</Latitude>
+    <Longitude>35.077131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י אילת</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832832</Latitude>
+    <Longitude>35.071153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילון הזבולוני</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832860</Latitude>
+    <Longitude>35.072190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.826653</Latitude>
+    <Longitude>35.079179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוגי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.851107</Latitude>
+    <Longitude>35.092796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.852054</Latitude>
+    <Longitude>35.092451</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס אורט יהונתן נתניהו חט"ב</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.842450</Latitude>
+    <Longitude>35.083848</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית"ר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835738</Latitude>
+    <Longitude>35.081896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.829280</Latitude>
+    <Longitude>35.076543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון האוזנר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.853829</Latitude>
+    <Longitude>35.091421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גן העצמאות</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835746</Latitude>
+    <Longitude>35.074650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרושקביץ'</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.830763</Latitude>
+    <Longitude>35.072368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.824816</Latitude>
+    <Longitude>35.078304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.838518</Latitude>
+    <Longitude>35.083866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.834357</Latitude>
+    <Longitude>35.074694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולצ'ין</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.840791</Latitude>
+    <Longitude>35.081520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835282</Latitude>
+    <Longitude>35.077841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.843875</Latitude>
+    <Longitude>35.085131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך עכו חיפה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>עכו חיפה</AlternateName>
+    <Latitude>32.840370</Latitude>
+    <Longitude>35.087362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.843093</Latitude>
+    <Longitude>35.085952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.856051</Latitude>
+    <Longitude>35.090942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834595</Latitude>
+    <Longitude>35.074604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.825851</Latitude>
+    <Longitude>35.078906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832574</Latitude>
+    <Longitude>35.081033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835742</Latitude>
+    <Longitude>35.079876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.840731</Latitude>
+    <Longitude>35.078079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הילדים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832737</Latitude>
+    <Longitude>35.078327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836248</Latitude>
+    <Longitude>35.074868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835715</Latitude>
+    <Longitude>35.075037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.857657</Latitude>
+    <Longitude>35.093208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.833904</Latitude>
+    <Longitude>35.080876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף לוי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>יוסף לוי</AlternateName>
+    <AlternateName>הרבי יוסף לוי</AlternateName>
+    <AlternateName>רבי יוסף לוי</AlternateName>
+    <Latitude>32.839021</Latitude>
+    <Longitude>35.075428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.835108</Latitude>
+    <Longitude>35.074485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.827252</Latitude>
+    <Longitude>35.074279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836900</Latitude>
+    <Longitude>35.081547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.836251</Latitude>
+    <Longitude>35.073414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון המר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.852215</Latitude>
+    <Longitude>35.090507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שז"ר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.855337</Latitude>
+    <Longitude>35.089492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזני</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.840470</Latitude>
+    <Longitude>35.084838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיבת ציון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.841610</Latitude>
+    <Longitude>35.079845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.833106</Latitude>
+    <Longitude>35.076842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.837053</Latitude>
+    <Longitude>35.074772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.831713</Latitude>
+    <Longitude>35.070739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.843137</Latitude>
+    <Longitude>35.080849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834118</Latitude>
+    <Longitude>35.074786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן נתניהו</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.842144</Latitude>
+    <Longitude>35.086483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יודפת</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835977</Latitude>
+    <Longitude>35.081619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>32.837819</Latitude>
+    <Longitude>35.078282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.829774</Latitude>
+    <Longitude>35.077271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.854295</Latitude>
+    <Longitude>35.089792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.824160</Latitude>
+    <Longitude>35.076408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה לדרך עכו חיפה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835720</Latitude>
+    <Longitude>35.083867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.833776</Latitude>
+    <Longitude>35.072177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.828248</Latitude>
+    <Longitude>35.079226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.838921</Latitude>
+    <Longitude>35.080193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.855009</Latitude>
+    <Longitude>35.092108</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.824157</Latitude>
+    <Longitude>35.077970</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832011</Latitude>
+    <Longitude>35.076535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מכבי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.826720</Latitude>
+    <Longitude>35.076440</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.851646</Latitude>
+    <Longitude>35.092264</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.854660</Latitude>
+    <Longitude>35.091150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834558</Latitude>
+    <Longitude>35.074470</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה גנים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.857118</Latitude>
+    <Longitude>35.092642</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834384</Latitude>
+    <Longitude>35.073713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.825789</Latitude>
+    <Longitude>35.079262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב העלייה</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832394</Latitude>
+    <Longitude>35.077048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אורן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.831351</Latitude>
+    <Longitude>35.079432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ארז</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.831539</Latitude>
+    <Longitude>35.079049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אתרוג</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836297</Latitude>
+    <Longitude>35.079890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דקל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.831433</Latitude>
+    <Longitude>35.077935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגלעד</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.833440</Latitude>
+    <Longitude>35.079716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הקרב</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.826888</Latitude>
+    <Longitude>35.078754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת תמר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.831306</Latitude>
+    <Longitude>35.078360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת תמרי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.854971</Latitude>
+    <Longitude>35.092875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.836494</Latitude>
+    <Longitude>35.074772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836748</Latitude>
+    <Longitude>35.082694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.835124</Latitude>
+    <Longitude>35.083256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלוני נח</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.838273</Latitude>
+    <Longitude>35.075141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פוגלמן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.844890</Latitude>
+    <Longitude>35.084234</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פנטגון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834057</Latitude>
+    <Longitude>35.074889</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.843972</Latitude>
+    <Longitude>35.086788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.850846</Latitude>
+    <Longitude>35.091120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציגל</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.840470</Latitude>
+    <Longitude>35.084838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.825087</Latitude>
+    <Longitude>35.079009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיש לוז</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.844882</Latitude>
+    <Longitude>35.089165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורצ'אק</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.837583</Latitude>
+    <Longitude>35.080851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קליבנוב</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.841677</Latitude>
+    <Longitude>35.085629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוקח</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.832638</Latitude>
+    <Longitude>35.079432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834192</Latitude>
+    <Longitude>35.075794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.830549</Latitude>
+    <Longitude>35.077928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רנ"ס</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.830978</Latitude>
+    <Longitude>35.075200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836739</Latitude>
+    <Longitude>35.074685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגפן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.838947</Latitude>
+    <Longitude>35.078828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל כלנית</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.834900</Latitude>
+    <Longitude>35.077191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>32.839526</Latitude>
+    <Longitude>35.081207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות גושן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>גושן</AlternateName>
+    <AlternateName>שד' גושן</AlternateName>
+    <Latitude>32.828415</Latitude>
+    <Longitude>35.075034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>32.834619</Latitude>
+    <Longitude>35.079209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>32.858087</Latitude>
+    <Longitude>35.091568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.836228</Latitude>
+    <Longitude>35.078155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרת</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.838798</Latitude>
+    <Longitude>35.084586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>קרית מוצקין, ישראל</ParentName>
+    <Latitude>32.856394</Latitude>
+    <Longitude>35.091905</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,2916 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבא קובנר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>קובנר</AlternateName>
+    <Latitude>32.186122</Latitude>
+    <Longitude>34.906114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביבים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179225</Latitude>
+    <Longitude>34.910875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביגיל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190760</Latitude>
+    <Longitude>34.936825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169968</Latitude>
+    <Longitude>34.926002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169113</Latitude>
+    <Longitude>34.927721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן שפרוט</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169612</Latitude>
+    <Longitude>34.925655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.166098</Latitude>
+    <Longitude>34.924825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם קרן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172331</Latitude>
+    <Longitude>34.912074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176218</Latitude>
+    <Longitude>34.898014</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד מנור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187601</Latitude>
+    <Longitude>34.895513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרונוביץ'</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172025</Latitude>
+    <Longitude>34.902587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסטשינסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172220</Latitude>
+    <Longitude>34.904450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורט</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176289</Latitude>
+    <Longitude>34.915695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אז"ר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182984</Latitude>
+    <Longitude>34.913650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י אילת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173651</Latitude>
+    <Longitude>34.921431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י דקר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172907</Latitude>
+    <Longitude>34.921180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181818</Latitude>
+    <Longitude>34.900022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172493</Latitude>
+    <Longitude>34.900420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אימבר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>איבמר</AlternateName>
+    <Latitude>32.172826</Latitude>
+    <Longitude>34.902828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איתמר בן אב"י</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185849</Latitude>
+    <Longitude>34.905063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף עוזי נרקיס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>עוזי נרקיס</AlternateName>
+    <Latitude>32.177748</Latitude>
+    <Longitude>34.914453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169509</Latitude>
+    <Longitude>34.924520</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175241</Latitude>
+    <Longitude>34.920769</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אליהו התשבי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188838</Latitude>
+    <Longitude>34.937915</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אליעזר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187637</Latitude>
+    <Longitude>34.906217</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אלישבע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178739</Latitude>
+    <Longitude>34.895931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191908</Latitude>
+    <Longitude>34.940140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקלעי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>אלקלאי</AlternateName>
+    <Latitude>32.168867</Latitude>
+    <Longitude>34.923714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174754</Latitude>
+    <Longitude>34.902917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178083</Latitude>
+    <Longitude>34.893608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו סירני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179518</Latitude>
+    <Longitude>34.893123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181325</Latitude>
+    <Longitude>34.919442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186955</Latitude>
+    <Longitude>34.907537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177138</Latitude>
+    <Longitude>34.906963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.170846</Latitude>
+    <Longitude>34.904401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר ברש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185234</Latitude>
+    <Longitude>34.907748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177984</Latitude>
+    <Longitude>34.902485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188709</Latitude>
+    <Longitude>34.901689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.171121</Latitude>
+    <Longitude>34.908368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178646</Latitude>
+    <Longitude>34.901627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173974</Latitude>
+    <Longitude>34.905250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית הבד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182805</Latitude>
+    <Longitude>34.937467</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית ונוף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186172</Latitude>
+    <Longitude>34.933514</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בלבן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190762</Latitude>
+    <Longitude>34.904336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172796</Latitude>
+    <Longitude>34.899168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171773</Latitude>
+    <Longitude>34.900195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172544</Latitude>
+    <Longitude>34.907541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183285</Latitude>
+    <Longitude>34.920629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת בית נטופה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181172</Latitude>
+    <Longitude>34.929408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת הירח</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179442</Latitude>
+    <Longitude>34.929982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת זוהר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180065</Latitude>
+    <Longitude>34.928424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת יריחו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178366</Latitude>
+    <Longitude>34.930642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת סיירים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179442</Latitude>
+    <Longitude>34.929982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת רמון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181682</Latitude>
+    <Longitude>34.928603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180917</Latitude>
+    <Longitude>34.913027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברדיצ'ב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.193059</Latitude>
+    <Longitude>34.895704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180910</Latitude>
+    <Longitude>34.911203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברל כצנלסון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>ברל קצנלסון</AlternateName>
+    <Latitude>32.181609</Latitude>
+    <Longitude>34.904073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178842</Latitude>
+    <Longitude>34.900632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173498</Latitude>
+    <Longitude>34.919476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186297</Latitude>
+    <Longitude>34.897024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת יפתח</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190812</Latitude>
+    <Longitude>34.937788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת שבע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187464</Latitude>
+    <Longitude>34.941233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'ו עמר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186289</Latitude>
+    <Longitude>34.892207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאולה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174216</Latitude>
+    <Longitude>34.899614</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גאולים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.168443</Latitude>
+    <Longitude>34.925690</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעולים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187625</Latitude>
+    <Longitude>34.904112</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת אשכול</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180740</Latitude>
+    <Longitude>34.936029</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182304</Latitude>
+    <Longitude>34.893198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד הנביא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190400</Latitude>
+    <Longitude>34.940912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדנ"ע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175859</Latitude>
+    <Longitude>34.916132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192245</Latitude>
+    <Longitude>34.937496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדשטיין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.193937</Latitude>
+    <Longitude>34.895628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179083</Latitude>
+    <Longitude>34.899734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.176545</Latitude>
+    <Longitude>34.899222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176761</Latitude>
+    <Longitude>34.909624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גייסות השריון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172907</Latitude>
+    <Longitude>34.921180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172805</Latitude>
+    <Longitude>34.910576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלגלי הפלדה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172879</Latitude>
+    <Longitude>34.926625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172540</Latitude>
+    <Longitude>34.912931</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן גלר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173753</Latitude>
+    <Longitude>34.900605</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני השרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186321</Latitude>
+    <Longitude>34.930028</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרץ</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178789</Latitude>
+    <Longitude>34.919511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר משה סנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>משה סנה</AlternateName>
+    <AlternateName>דוקטור משה סנה</AlternateName>
+    <Latitude>32.184944</Latitude>
+    <Longitude>34.896628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179804</Latitude>
+    <Longitude>34.900240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192559</Latitude>
+    <Longitude>34.938573</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>דגניה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173387</Latitude>
+    <Longitude>34.894758</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד אבידן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד אבידן</AlternateName>
+    <Latitude>32.187426</Latitude>
+    <Longitude>34.905458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.177529</Latitude>
+    <Longitude>34.904876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.182612</Latitude>
+    <Longitude>34.941194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד זהבי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד זהבי</AlternateName>
+    <Latitude>32.185319</Latitude>
+    <Longitude>34.892961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.190349</Latitude>
+    <Longitude>34.901270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דודאים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187704</Latitude>
+    <Longitude>34.898427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184541</Latitude>
+    <Longitude>34.929732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173628</Latitude>
+    <Longitude>34.918838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182878</Latitude>
+    <Longitude>34.900300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186494</Latitude>
+    <Longitude>34.935866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174304</Latitude>
+    <Longitude>34.918281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המוביל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>המוביל</AlternateName>
+    <Latitude>32.179482</Latitude>
+    <Longitude>34.930991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפועל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>הפועל</AlternateName>
+    <Latitude>32.177951</Latitude>
+    <Longitude>34.931004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>השרון</AlternateName>
+    <Latitude>32.175029</Latitude>
+    <Longitude>34.891522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך קדומים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>קדומים</AlternateName>
+    <Latitude>32.181768</Latitude>
+    <Longitude>34.934361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182483</Latitude>
+    <Longitude>34.905968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחדות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189383</Latitude>
+    <Longitude>34.900586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189236</Latitude>
+    <Longitude>34.902215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180608</Latitude>
+    <Longitude>34.939236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177069</Latitude>
+    <Longitude>34.910626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האמוראים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182975</Latitude>
+    <Longitude>34.909034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האקליפטוס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180176</Latitude>
+    <Longitude>34.917896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשכולית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175427</Latitude>
+    <Longitude>34.918281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179810</Latitude>
+    <Longitude>34.917309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174917</Latitude>
+    <Longitude>34.915817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173324</Latitude>
+    <Longitude>34.912361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבורות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170617</Latitude>
+    <Longitude>34.916012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגביש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176800</Latitude>
+    <Longitude>34.929921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171620</Latitude>
+    <Longitude>34.917944</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175276</Latitude>
+    <Longitude>34.901516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178333</Latitude>
+    <Longitude>34.918384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181056</Latitude>
+    <Longitude>34.940299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171475</Latitude>
+    <Longitude>34.906281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175295</Latitude>
+    <Longitude>34.920130</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הדרים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183081</Latitude>
+    <Longitude>34.933487</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183068</Latitude>
+    <Longitude>34.892135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172680</Latitude>
+    <Longitude>34.895215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההשכלה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170403</Latitude>
+    <Longitude>34.909147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185846</Latitude>
+    <Longitude>34.937523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180188</Latitude>
+    <Longitude>34.939492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורשה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170310</Latitude>
+    <Longitude>34.910638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178887</Latitude>
+    <Longitude>34.896857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184219</Latitude>
+    <Longitude>34.912893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181290</Latitude>
+    <Longitude>34.938784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176579</Latitude>
+    <Longitude>34.928356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176243</Latitude>
+    <Longitude>34.901179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטחנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173639</Latitude>
+    <Longitude>34.891051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידיד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183833</Latitude>
+    <Longitude>34.893380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידידות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170643</Latitude>
+    <Longitude>34.919246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוזמה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177957</Latitude>
+    <Longitude>34.928480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצרים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174121</Latitude>
+    <Longitude>34.926783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178108</Latitude>
+    <Longitude>34.895574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175132</Latitude>
+    <Longitude>34.900972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכובשים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179449</Latitude>
+    <Longitude>34.894491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכיכר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174899</Latitude>
+    <Longitude>34.906998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174643</Latitude>
+    <Longitude>34.894507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181136</Latitude>
+    <Longitude>34.905916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175616</Latitude>
+    <Longitude>34.918819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177695</Latitude>
+    <Longitude>34.910794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.168334</Latitude>
+    <Longitude>34.926159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגשימים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180120</Latitude>
+    <Longitude>34.892400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179380</Latitude>
+    <Longitude>34.920123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175925</Latitude>
+    <Longitude>34.910273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך ינאי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184432</Latitude>
+    <Longitude>34.939972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלכים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189519</Latitude>
+    <Longitude>34.940176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנופים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173480</Latitude>
+    <Longitude>34.928694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175145</Latitude>
+    <Longitude>34.932423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179816</Latitude>
+    <Longitude>34.895361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180978</Latitude>
+    <Longitude>34.900424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפלס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177698</Latitude>
+    <Longitude>34.916715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185788</Latitude>
+    <Longitude>34.938243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182541</Latitude>
+    <Longitude>34.918131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176855</Latitude>
+    <Longitude>34.928413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183073</Latitude>
+    <Longitude>34.906096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185228</Latitude>
+    <Longitude>34.927059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסובלנות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170339</Latitude>
+    <Longitude>34.920561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנהדרין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183465</Latitude>
+    <Longitude>34.908931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179972</Latitude>
+    <Longitude>34.908420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העגורים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185986</Latitude>
+    <Longitude>34.930053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העוגן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181825</Latitude>
+    <Longitude>34.908119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173718</Latitude>
+    <Longitude>34.915461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180103</Latitude>
+    <Longitude>34.920950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפורצים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179518</Latitude>
+    <Longitude>34.893123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181762</Latitude>
+    <Longitude>34.892659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174630</Latitude>
+    <Longitude>34.898125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172025</Latitude>
+    <Longitude>34.902587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרסה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176797</Latitude>
+    <Longitude>34.929617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182982</Latitude>
+    <Longitude>34.901530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180972</Latitude>
+    <Longitude>34.937887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצברים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169439</Latitude>
+    <Longitude>34.912538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצדק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176431</Latitude>
+    <Longitude>34.893571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצומת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174081</Latitude>
+    <Longitude>34.891361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182861</Latitude>
+    <Longitude>34.903458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר אדום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178156</Latitude>
+    <Longitude>34.922212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר אדיר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174867</Latitude>
+    <Longitude>34.921960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר בוקר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178293</Latitude>
+    <Longitude>34.921634</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר גריזים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180120</Latitude>
+    <Longitude>34.923570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר חזון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175660</Latitude>
+    <Longitude>34.920880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר חריף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181987</Latitude>
+    <Longitude>34.921196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר כמון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173924</Latitude>
+    <Longitude>34.922351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר כנען</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176800</Latitude>
+    <Longitude>34.922472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר כרכום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181385</Latitude>
+    <Longitude>34.923818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178156</Latitude>
+    <Longitude>34.922212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175701</Latitude>
+    <Longitude>34.922117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר עצמון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178695</Latitude>
+    <Longitude>34.922969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר צין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181653</Latitude>
+    <Longitude>34.922695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר רביד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173293</Latitude>
+    <Longitude>34.922122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר רותם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178923</Latitude>
+    <Longitude>34.922068</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שוקף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180298</Latitude>
+    <Longitude>34.922404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר תבור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176624</Latitude>
+    <Longitude>34.923207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169567</Latitude>
+    <Longitude>34.920857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גולד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>רבי גולד</AlternateName>
+    <AlternateName>גולד</AlternateName>
+    <AlternateName>הרבי גולד</AlternateName>
+    <Latitude>32.180197</Latitude>
+    <Longitude>34.914477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.182877</Latitude>
+    <Longitude>34.912051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמחה אסף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>שמחה אסף</AlternateName>
+    <AlternateName>רבי שמחה אסף</AlternateName>
+    <AlternateName>הרבי שמחה אסף</AlternateName>
+    <Latitude>32.181582</Latitude>
+    <Longitude>34.917836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174033</Latitude>
+    <Longitude>34.917028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180361</Latitude>
+    <Longitude>34.938694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177645</Latitude>
+    <Longitude>34.916945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרעות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.169070</Latitude>
+    <Longitude>34.922764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173672</Latitude>
+    <Longitude>34.910881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184763</Latitude>
+    <Longitude>34.903041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174428</Latitude>
+    <Longitude>34.895409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184166</Latitude>
+    <Longitude>34.891721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186369</Latitude>
+    <Longitude>34.940821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180742</Latitude>
+    <Longitude>34.909831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176883</Latitude>
+    <Longitude>34.935107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180295</Latitude>
+    <Longitude>34.911313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השמחה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184874</Latitude>
+    <Longitude>34.894461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183280</Latitude>
+    <Longitude>34.915105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקדים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177319</Latitude>
+    <Longitude>34.918927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175236</Latitude>
+    <Longitude>34.893797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180807</Latitude>
+    <Longitude>34.939695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התוכנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177026</Latitude>
+    <Longitude>34.925856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התותחנים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174300</Latitude>
+    <Longitude>34.920780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174533</Latitude>
+    <Longitude>34.903950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180865</Latitude>
+    <Longitude>34.938492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183188</Latitude>
+    <Longitude>34.909900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התע"ש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175161</Latitude>
+    <Longitude>34.926700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173254</Latitude>
+    <Longitude>34.914462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174541</Latitude>
+    <Longitude>34.911419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויתקין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190417</Latitude>
+    <Longitude>34.900263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.181526</Latitude>
+    <Longitude>34.906965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב גלר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175083</Latitude>
+    <Longitude>34.896769</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה הנביא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187190</Latitude>
+    <Longitude>34.937678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלדה המשוררת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189904</Latitude>
+    <Longitude>34.908586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185079</Latitude>
+    <Longitude>34.928110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178101</Latitude>
+    <Longitude>34.919307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186582</Latitude>
+    <Longitude>34.902261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179335</Latitude>
+    <Longitude>34.892212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת השרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174753</Latitude>
+    <Longitude>34.895519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184649</Latitude>
+    <Longitude>34.933383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180910</Latitude>
+    <Longitude>34.914703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186691</Latitude>
+    <Longitude>34.934881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובבי ציון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181697</Latitude>
+    <Longitude>34.899174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184392</Latitude>
+    <Longitude>34.930245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חולדה הנביאה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192354</Latitude>
+    <Longitude>34.936828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חומה ומגדל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172075</Latitude>
+    <Longitude>34.918088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182719</Latitude>
+    <Longitude>34.932985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גולני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184079</Latitude>
+    <Longitude>34.903892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הבקעה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182589</Latitude>
+    <Longitude>34.932492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הנח"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182683</Latitude>
+    <Longitude>34.934398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171935</Latitude>
+    <Longitude>34.914896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת יפתח</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182586</Latitude>
+    <Longitude>34.933544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חייקה גרוסמן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180242</Latitude>
+    <Longitude>34.920365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179010</Latitude>
+    <Longitude>34.896844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185565</Latitude>
+    <Longitude>34.931994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חניתה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179679</Latitude>
+    <Longitude>34.905246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסידה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186953</Latitude>
+    <Longitude>34.926431</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חצרות הדר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177633</Latitude>
+    <Longitude>34.920512</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184207</Latitude>
+    <Longitude>34.902170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טהון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187809</Latitude>
+    <Longitude>34.903501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טירת צבי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180936</Latitude>
+    <Longitude>34.917616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173206</Latitude>
+    <Longitude>34.900651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171996</Latitude>
+    <Longitude>34.905448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185645</Latitude>
+    <Longitude>34.902736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"א הספורטאים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177357</Latitude>
+    <Longitude>34.914992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187932</Latitude>
+    <Longitude>34.908513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר רוזנבלום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189239</Latitude>
+    <Longitude>34.893618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192455</Latitude>
+    <Longitude>34.895688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנאלי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185849</Latitude>
+    <Longitude>34.905063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180923</Latitude>
+    <Longitude>34.914647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170824</Latitude>
+    <Longitude>34.917827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יד חרוצים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177581</Latitude>
+    <Longitude>34.927176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183594</Latitude>
+    <Longitude>34.908368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183455</Latitude>
+    <Longitude>34.942011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179250</Latitude>
+    <Longitude>34.920606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180654</Latitude>
+    <Longitude>34.908334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184651</Latitude>
+    <Longitude>34.934127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן הסנדלר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174904</Latitude>
+    <Longitude>34.929267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה וולך</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189500</Latitude>
+    <Longitude>34.910270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187716</Latitude>
+    <Longitude>34.937383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חנני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187500</Latitude>
+    <Longitude>34.907020</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>32.183347</Latitude>
+    <Longitude>34.940752</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184208</Latitude>
+    <Longitude>34.937255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181377</Latitude>
+    <Longitude>34.904844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.167296</Latitude>
+    <Longitude>34.925952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184713</Latitude>
+    <Longitude>34.931424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב חורגין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181719</Latitude>
+    <Longitude>34.909355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186807</Latitude>
+    <Longitude>34.900660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180822</Latitude>
+    <Longitude>34.920537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאת אירופה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171709</Latitude>
+    <Longitude>34.920291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177213</Latitude>
+    <Longitude>34.890764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177039</Latitude>
+    <Longitude>34.906223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186039</Latitude>
+    <Longitude>34.935068</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189000</Latitude>
+    <Longitude>34.938658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ישעיהו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192992</Latitude>
+    <Longitude>34.894307</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיסופים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180382</Latitude>
+    <Longitude>34.914825</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כנפי נשרים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189738</Latitude>
+    <Longitude>34.905835</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כנרת כפר סבא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175098</Latitude>
+    <Longitude>34.909751</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר סבא הצעירה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186586</Latitude>
+    <Longitude>34.927093</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188580</Latitude>
+    <Longitude>34.908731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182753</Latitude>
+    <Longitude>34.935749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוונברג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.196385</Latitude>
+    <Longitude>34.894174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182254</Latitude>
+    <Longitude>34.939915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוינסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185018</Latitude>
+    <Longitude>34.900601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לופבן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189236</Latitude>
+    <Longitude>34.902215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183354</Latitude>
+    <Longitude>34.898780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר אריאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189481</Latitude>
+    <Longitude>34.895891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181924</Latitude>
+    <Longitude>34.899421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יואב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182856</Latitude>
+    <Longitude>34.932429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יונתן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179206</Latitude>
+    <Longitude>34.917192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178110</Latitude>
+    <Longitude>34.904086</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180087</Latitude>
+    <Longitude>34.920369</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182738</Latitude>
+    <Longitude>34.935839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178811</Latitude>
+    <Longitude>34.891683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186719</Latitude>
+    <Longitude>34.899610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184825</Latitude>
+    <Longitude>34.895853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184643</Latitude>
+    <Longitude>34.932010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187912</Latitude>
+    <Longitude>34.935101</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מכבי אש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180473</Latitude>
+    <Longitude>34.896425</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מעוז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180014</Latitude>
+    <Longitude>34.902007</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מעלה האורנים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173205</Latitude>
+    <Longitude>34.898223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מענית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184002</Latitude>
+    <Longitude>34.896740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185192</Latitude>
+    <Longitude>34.942094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189249</Latitude>
+    <Longitude>34.905011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185432</Latitude>
+    <Longitude>34.939027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187927</Latitude>
+    <Longitude>34.935748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרכוס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179833</Latitude>
+    <Longitude>34.892761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177689</Latitude>
+    <Longitude>34.920786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה וילנסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186395</Latitude>
+    <Longitude>34.892778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173951</Latitude>
+    <Longitude>34.909563</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משכנות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181417</Latitude>
+    <Longitude>34.910461</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משעול אמנון ותמר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185815</Latitude>
+    <Longitude>34.901430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול בקעת באר שבע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181265</Latitude>
+    <Longitude>34.930137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול בקעת יבנאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181265</Latitude>
+    <Longitude>34.930137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול בקעת צין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180386</Latitude>
+    <Longitude>34.929370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול גיל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177397</Latitude>
+    <Longitude>34.892564</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האר"י הקדוש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190557</Latitude>
+    <Longitude>34.902466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הזמר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178896</Latitude>
+    <Longitude>34.910059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול החן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185426</Latitude>
+    <Longitude>34.901025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הלפיד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170323</Latitude>
+    <Longitude>34.921987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הקלע</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174659</Latitude>
+    <Longitude>34.921115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרשף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174994</Latitude>
+    <Longitude>34.920586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול השיר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177991</Latitude>
+    <Longitude>34.911057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עמק בית שאן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180610</Latitude>
+    <Longitude>34.933930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עמק האלה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178428</Latitude>
+    <Longitude>34.933762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עמק חפר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179803</Latitude>
+    <Longitude>34.933242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עמק יזרעאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179263</Latitude>
+    <Longitude>34.932999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול ערוגות הבושם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186233</Latitude>
+    <Longitude>34.901881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נאות דשא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174754</Latitude>
+    <Longitude>34.902917</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה הדרים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180548</Latitude>
+    <Longitude>34.932793</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170077</Latitude>
+    <Longitude>34.918530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183476</Latitude>
+    <Longitude>34.900996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184057</Latitude>
+    <Longitude>34.933964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הדס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181846</Latitude>
+    <Longitude>34.913313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קנה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182106</Latitude>
+    <Longitude>34.914913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186459</Latitude>
+    <Longitude>34.929942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185480</Latitude>
+    <Longitude>34.935611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174867</Latitude>
+    <Longitude>34.905523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181578</Latitude>
+    <Longitude>34.899067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181439</Latitude>
+    <Longitude>34.900581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177190</Latitude>
+    <Longitude>34.898342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעורים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176595</Latitude>
+    <Longitude>34.918358</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.192013</Latitude>
+    <Longitude>34.937896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב האבות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174530</Latitude>
+    <Longitude>34.890595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן הנביא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190168</Latitude>
+    <Longitude>34.938985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182126</Latitude>
+    <Longitude>34.901438</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביוני הכפר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186151</Latitude>
+    <Longitude>34.901845</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.173831</Latitude>
+    <Longitude>34.901858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181636</Latitude>
+    <Longitude>34.903507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181848</Latitude>
+    <Longitude>34.902555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185536</Latitude>
+    <Longitude>34.915877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185018</Latitude>
+    <Longitude>34.900601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אנוש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184219</Latitude>
+    <Longitude>34.912893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת בז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186189</Latitude>
+    <Longitude>34.925540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דיה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187773</Latitude>
+    <Longitude>34.925878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הדרור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174329</Latitude>
+    <Longitude>34.901024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שחף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186816</Latitude>
+    <Longitude>34.926397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמילנסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>סמילסנקי</AlternateName>
+    <Latitude>32.183756</Latitude>
+    <Longitude>34.900248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סשה ארגוב</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>אלכסנדר סשה ארגוב</AlternateName>
+    <Latitude>32.188840</Latitude>
+    <Longitude>34.896811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה הנביא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188304</Latitude>
+    <Longitude>34.936964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184640</Latitude>
+    <Longitude>34.935532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עיט</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185228</Latitude>
+    <Longitude>34.927059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177079</Latitude>
+    <Longitude>34.908372</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עלייה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186193</Latitude>
+    <Longitude>34.904858</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185065</Latitude>
+    <Longitude>34.937610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182205</Latitude>
+    <Longitude>34.912683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176039</Latitude>
+    <Longitude>34.898592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק איילון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179263</Latitude>
+    <Longitude>34.932999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק דותן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180610</Latitude>
+    <Longitude>34.933930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק החולה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179566</Latitude>
+    <Longitude>34.935099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק זבולון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181196</Latitude>
+    <Longitude>34.933976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק חורון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179292</Latitude>
+    <Longitude>34.932363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק חרוד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179533</Latitude>
+    <Longitude>34.935509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק עירון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178428</Latitude>
+    <Longitude>34.933762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמרמי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174148</Latitude>
+    <Longitude>34.908768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185711</Latitude>
+    <Longitude>34.928890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עציון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179488</Latitude>
+    <Longitude>34.914157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.175961</Latitude>
+    <Longitude>34.919862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פ. לסל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188324</Latitude>
+    <Longitude>34.906486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיארברג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181278</Latitude>
+    <Longitude>34.899233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181940</Latitude>
+    <Longitude>34.911609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס לבון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179972</Latitude>
+    <Longitude>34.908420</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פנימיית עלומים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176652</Latitude>
+    <Longitude>34.918895</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181216</Latitude>
+    <Longitude>34.911681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרוג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191796</Latitude>
+    <Longitude>34.895520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' דינור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דינור</AlternateName>
+    <AlternateName>פרופסור דינור</AlternateName>
+    <Latitude>32.183122</Latitude>
+    <Longitude>34.915777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188181</Latitude>
+    <Longitude>34.907197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185174</Latitude>
+    <Longitude>34.930285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176525</Latitude>
+    <Longitude>34.913226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צביה לובטקין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181848</Latitude>
+    <Longitude>34.902555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדקיהו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185929</Latitude>
+    <Longitude>34.940756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183518</Latitude>
+    <Longitude>34.892665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צייטלין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.193609</Latitude>
+    <Longitude>34.895636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185559</Latitude>
+    <Longitude>34.932567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קבוצת ל"ג</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180322</Latitude>
+    <Longitude>34.909256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי בלזן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180242</Latitude>
+    <Longitude>34.920365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186165</Latitude>
+    <Longitude>34.898108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיש לוז</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182684</Latitude>
+    <Longitude>34.904957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181762</Latitude>
+    <Longitude>34.892659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלישר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178490</Latitude>
+    <Longitude>34.912287</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קפלן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188946</Latitude>
+    <Longitude>34.937347</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קפלנסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191549</Latitude>
+    <Longitude>34.901058</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית ספיר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.177381</Latitude>
+    <Longitude>34.906468</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרל נטר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184367</Latitude>
+    <Longitude>34.898878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176797</Latitude>
+    <Longitude>34.917433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה גובר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172285</Latitude>
+    <Longitude>34.917541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.174097</Latitude>
+    <Longitude>34.908150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.179240</Latitude>
+    <Longitude>34.910795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רופין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170233</Latitude>
+    <Longitude>34.917653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רות</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190812</Latitude>
+    <Longitude>34.937788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רזיאל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187102</Latitude>
+    <Longitude>34.902103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת ישראל סדן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184030</Latitude>
+    <Longitude>34.898025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178773</Latitude>
+    <Longitude>34.910653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183050</Latitude>
+    <Longitude>34.911275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רינגלבלום</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>רינגנבלום</AlternateName>
+    <AlternateName>רינגבלום</AlternateName>
+    <Latitude>32.192488</Latitude>
+    <Longitude>34.897122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182567</Latitude>
+    <Longitude>34.908901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.168210</Latitude>
+    <Longitude>34.924654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רעם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173924</Latitude>
+    <Longitude>34.919857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181144</Latitude>
+    <Longitude>34.908571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185220</Latitude>
+    <Longitude>34.905640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.183966</Latitude>
+    <Longitude>34.940310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שב"ד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191455</Latitude>
+    <Longitude>34.904928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.189078</Latitude>
+    <Longitude>34.905275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שד"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.167043</Latitude>
+    <Longitude>34.926561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות גאולים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>שד' גאולים</AlternateName>
+    <AlternateName>גאולים</AlternateName>
+    <Latitude>32.168724</Latitude>
+    <Longitude>34.925246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>32.189946</Latitude>
+    <Longitude>34.896939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ששת הימים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>שד' ששת הימים</AlternateName>
+    <AlternateName>ששת הימים</AlternateName>
+    <Latitude>32.175379</Latitude>
+    <Longitude>34.897751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרת המסוק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.185022</Latitude>
+    <Longitude>34.895526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שולמית</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187345</Latitude>
+    <Longitude>34.939478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שומרון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180060</Latitude>
+    <Longitude>34.908126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שועלי שמשון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.170733</Latitude>
+    <Longitude>34.920001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנה דמארי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186264</Latitude>
+    <Longitude>34.893958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.178879</Latitude>
+    <Longitude>34.913849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטרן</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>אברהם שטרן</AlternateName>
+    <Latitude>32.186695</Latitude>
+    <Longitude>34.902989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180357</Latitude>
+    <Longitude>34.893343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181838</Latitude>
+    <Longitude>34.905773</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון ותיקים</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180172</Latitude>
+    <Longitude>34.894029</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שילר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.190785</Latitude>
+    <Longitude>34.896385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיפר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191212</Latitude>
+    <Longitude>34.895158</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכון העובד</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.173027</Latitude>
+    <Longitude>34.899641</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום אש</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172044</Latitude>
+    <Longitude>34.898915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.189324</Latitude>
+    <Longitude>34.908391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלונסקי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188580</Latitude>
+    <Longitude>34.908731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.182992</Latitude>
+    <Longitude>34.942100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחוני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.180529</Latitude>
+    <Longitude>34.919886</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעוני</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>דויד שמעוני</AlternateName>
+    <AlternateName>דוד שמעוני</AlternateName>
+    <AlternateName>שימעוני</AlternateName>
+    <Latitude>32.172818</Latitude>
+    <Longitude>34.900518</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה הנביא</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.188171</Latitude>
+    <Longitude>34.939825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמריהו לוין</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184931</Latitude>
+    <Longitude>34.899416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181247</Latitude>
+    <Longitude>34.905372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.186380</Latitude>
+    <Longitude>34.941617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאשור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181078</Latitude>
+    <Longitude>34.912302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181216</Latitude>
+    <Longitude>34.911681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תור</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.187241</Latitude>
+    <Longitude>34.928205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורה ועבודה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.181845</Latitude>
+    <Longitude>34.908787</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תיכון כצנלסון</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <AlternateName>תיכון קצנלסון</AlternateName>
+    <Latitude>32.184834</Latitude>
+    <Longitude>34.909266</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תל אביב יפו</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.172266</Latitude>
+    <Longitude>34.895320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.176848</Latitude>
+    <Longitude>34.914843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלם</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.184553</Latitude>
+    <Longitude>34.897119</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תקומה</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.171792</Latitude>
+    <Longitude>34.919609</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תרי עשר</NativeName>
+    <ParentName>כפר סבא, ישראל</ParentName>
+    <Latitude>32.191999</Latitude>
+    <Longitude>34.937833</Longitude>
+  </Street>
+</LocationData>

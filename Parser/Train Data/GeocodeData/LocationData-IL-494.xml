@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>א סוואנייה</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.700342</Latitude>
+    <Longitude>35.050255</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>א רנדה</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.693614</Latitude>
+    <Longitude>35.036784</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אזור המסעדות</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.701576</Latitude>
+    <Longitude>35.055880</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אזור כביש עוקף</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.690324</Latitude>
+    <Longitude>35.064233</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל וונסא</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.704848</Latitude>
+    <Longitude>35.041079</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ח'רבה</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.689259</Latitude>
+    <Longitude>35.043068</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל קשקוש</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.693628</Latitude>
+    <Longitude>35.040493</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ביר דיבל</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.687553</Latitude>
+    <Longitude>35.045305</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גרעין הכפר הישן</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.694923</Latitude>
+    <Longitude>35.043189</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>דאלית אל כרמל</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.692352</Latitude>
+    <Longitude>35.059263</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>דלית הכרמל</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.693046</Latitude>
+    <Longitude>35.047786</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>השכונה המזרחית</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.690161</Latitude>
+    <Longitude>35.055842</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ואדי אל פש</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.696532</Latitude>
+    <Longitude>35.060147</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>זהרת אל ביר</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.686924</Latitude>
+    <Longitude>35.047506</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ח'אלת אל ג'מל</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.690807</Latitude>
+    <Longitude>35.037294</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>חיילים משוחררים</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.682992</Latitude>
+    <Longitude>35.073857</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>יד לבנים</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.698675</Latitude>
+    <Longitude>35.038523</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרג' א נג'אס</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.698186</Latitude>
+    <Longitude>35.044760</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרכז הכפר</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.693642</Latitude>
+    <Longitude>35.046880</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עין א שמאלייה</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.700678</Latitude>
+    <Longitude>35.041042</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>פנינת הכרמל</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.684565</Latitude>
+    <Longitude>35.064118</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>צומת המוחרקה</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.687627</Latitude>
+    <Longitude>35.068259</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שארע אל בסאתין</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.691790</Latitude>
+    <Longitude>35.047055</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכונאת</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <Latitude>32.688159</Latitude>
+    <Longitude>35.055987</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת הוורדים</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <AlternateName>הוורדים</AlternateName>
+    <Latitude>32.702165</Latitude>
+    <Longitude>35.047193</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת המוסלמים</NativeName>
+    <ParentName>דאלית אל-כרמל, ישראל</ParentName>
+    <AlternateName>המוסלמים</AlternateName>
+    <Latitude>32.688846</Latitude>
+    <Longitude>35.060650</Longitude>
+  </CityRegion>
+</LocationData>

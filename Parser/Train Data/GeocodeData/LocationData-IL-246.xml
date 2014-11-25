@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423769</Latitude>
+    <Longitude>34.586470</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415084</Latitude>
+    <Longitude>34.582086</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אור החיים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423752</Latitude>
+    <Longitude>34.585005</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אור לציון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426430</Latitude>
+    <Longitude>34.583730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איש מצליח</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424168</Latitude>
+    <Longitude>34.593438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424215</Latitude>
+    <Longitude>34.572334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.428698</Latitude>
+    <Longitude>34.597422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415763</Latitude>
+    <Longitude>34.585364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסק</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414517</Latitude>
+    <Longitude>34.580442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.422456</Latitude>
+    <Longitude>34.575663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכולית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411475</Latitude>
+    <Longitude>34.580860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423685</Latitude>
+    <Longitude>34.579532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413938</Latitude>
+    <Longitude>34.582416</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס חב"ד נתיבות</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424205</Latitude>
+    <Longitude>34.594343</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס יצחק רבין</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421134</Latitude>
+    <Longitude>34.582298</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נווה יעקב</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420198</Latitude>
+    <Longitude>34.592699</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נתיב יצחק</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424109</Latitude>
+    <Longitude>34.595424</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.422899</Latitude>
+    <Longitude>34.576093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית וגן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419138</Latitude>
+    <Longitude>34.586402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן איש חי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426027</Latitude>
+    <Longitude>34.593219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.427058</Latitude>
+    <Longitude>34.591252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי המלאכה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418213</Latitude>
+    <Longitude>34.595217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423478</Latitude>
+    <Longitude>34.589170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גויאבה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416642</Latitude>
+    <Longitude>34.583821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי תשכ"ז</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421904</Latitude>
+    <Longitude>34.599806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413555</Latitude>
+    <Longitude>34.583372</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>דקל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424746</Latitude>
+    <Longitude>34.600324</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרכי רפאל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.428412</Latitude>
+    <Longitude>34.584731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האומן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419116</Latitude>
+    <Longitude>34.595897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425502</Latitude>
+    <Longitude>34.573151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423533</Latitude>
+    <Longitude>34.584077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419931</Latitude>
+    <Longitude>34.595613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבונים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418894</Latitude>
+    <Longitude>34.595194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424348</Latitude>
+    <Longitude>34.579780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיבורים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425065</Latitude>
+    <Longitude>34.599084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419609</Latitude>
+    <Longitude>34.574633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414002</Latitude>
+    <Longitude>34.583707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415270</Latitude>
+    <Longitude>34.583653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423662</Latitude>
+    <Longitude>34.576719</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הורד</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419651</Latitude>
+    <Longitude>34.583855</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415285</Latitude>
+    <Longitude>34.582769</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>החורש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424417</Latitude>
+    <Longitude>34.573259</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>החיד"א</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423656</Latitude>
+    <Longitude>34.585683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420252</Latitude>
+    <Longitude>34.598962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423927</Latitude>
+    <Longitude>34.600385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכותל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420334</Latitude>
+    <Longitude>34.582516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419543</Latitude>
+    <Longitude>34.597139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשחררים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421337</Latitude>
+    <Longitude>34.581619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצאלה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425103</Latitude>
+    <Longitude>34.577732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצורף</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418390</Latitude>
+    <Longitude>34.592781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקטיף</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416705</Latitude>
+    <Longitude>34.596249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אבן דנן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי אבן דנן</AlternateName>
+    <AlternateName>אבן דנן</AlternateName>
+    <AlternateName>רבי אבן דנן</AlternateName>
+    <Latitude>31.425972</Latitude>
+    <Longitude>34.599063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב איפרגן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי איפרגן</AlternateName>
+    <AlternateName>איפרגן</AlternateName>
+    <AlternateName>הרבי איפרגן</AlternateName>
+    <Latitude>31.421122</Latitude>
+    <Longitude>34.588143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלנקווה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>אלנקבה</AlternateName>
+    <AlternateName>הרב אלנקבה</AlternateName>
+    <AlternateName>רבי אלנקבה</AlternateName>
+    <AlternateName>אלנקווה</AlternateName>
+    <AlternateName>הרבי אלנקווה</AlternateName>
+    <AlternateName>הרבי אלנקבה</AlternateName>
+    <AlternateName>רבי אלנקווה</AlternateName>
+    <Latitude>31.425528</Latitude>
+    <Longitude>34.597077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גרשונוביץ'</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי גרשונוביץ'</AlternateName>
+    <AlternateName>גרשונוביץ'</AlternateName>
+    <AlternateName>רבי גרשונוביץ'</AlternateName>
+    <Latitude>31.426516</Latitude>
+    <Longitude>34.586796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>31.424037</Latitude>
+    <Longitude>34.587639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חורי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי חורי</AlternateName>
+    <AlternateName>חורי</AlternateName>
+    <AlternateName>הרבי חורי</AlternateName>
+    <Latitude>31.425888</Latitude>
+    <Longitude>34.596477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חזני</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי חזני</AlternateName>
+    <AlternateName>הרבי חזני</AlternateName>
+    <AlternateName>חזני</AlternateName>
+    <Latitude>31.421652</Latitude>
+    <Longitude>34.580940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חי הכהן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי חי הכהן</AlternateName>
+    <AlternateName>חי הכהן</AlternateName>
+    <AlternateName>הרבי חי הכהן</AlternateName>
+    <Latitude>31.425631</Latitude>
+    <Longitude>34.594345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף מלול</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי יוסף מלול</AlternateName>
+    <AlternateName>יוסף מלול</AlternateName>
+    <AlternateName>הרבי יוסף מלול</AlternateName>
+    <Latitude>31.420659</Latitude>
+    <Longitude>34.592251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מזוז</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי מזוז</AlternateName>
+    <AlternateName>רבי מזוז</AlternateName>
+    <AlternateName>מזוז</AlternateName>
+    <Latitude>31.428035</Latitude>
+    <Longitude>34.582734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מסעוד אלפסי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי מסעוד אלפסי</AlternateName>
+    <AlternateName>מסעוד אלפסי</AlternateName>
+    <AlternateName>הרבי מסעוד אלפסי</AlternateName>
+    <Latitude>31.426292</Latitude>
+    <Longitude>34.599754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה חלפון הכהן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>משה חלפון הכהן</AlternateName>
+    <AlternateName>רבי משה חלפון הכהן</AlternateName>
+    <AlternateName>הרבי משה חלפון הכהן</AlternateName>
+    <Latitude>31.427608</Latitude>
+    <Longitude>34.596894</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>31.423732</Latitude>
+    <Longitude>34.591610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צבאן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי צבאן</AlternateName>
+    <AlternateName>רבי צבאן</AlternateName>
+    <AlternateName>צבאן</AlternateName>
+    <Latitude>31.417546</Latitude>
+    <Longitude>34.581189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>31.422388</Latitude>
+    <Longitude>34.589692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שפירא</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>רבי שפירא</AlternateName>
+    <AlternateName>הרבי שפירא</AlternateName>
+    <AlternateName>שפירא</AlternateName>
+    <Latitude>31.424713</Latitude>
+    <Longitude>34.597578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415309</Latitude>
+    <Longitude>34.578575</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424230</Latitude>
+    <Longitude>34.592817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרשב"י</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424773</Latitude>
+    <Longitude>34.588932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423538</Latitude>
+    <Longitude>34.581092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424630</Latitude>
+    <Longitude>34.573585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416073</Latitude>
+    <Longitude>34.582106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדימון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419008</Latitude>
+    <Longitude>34.589766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.425699</Latitude>
+    <Longitude>34.589040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבוש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413750</Latitude>
+    <Longitude>34.579772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.417169</Latitude>
+    <Longitude>34.575564</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חי טייב</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421025</Latitude>
+    <Longitude>34.587762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל אוויר</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426437</Latitude>
+    <Longitude>34.582748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל הים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426035</Latitude>
+    <Longitude>34.582262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל הנדסה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425001</Latitude>
+    <Longitude>34.581651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל צנחנים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425643</Latitude>
+    <Longitude>34.581812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל קשר</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424074</Latitude>
+    <Longitude>34.581857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל שריון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425173</Latitude>
+    <Longitude>34.580486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל תותחנים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426035</Latitude>
+    <Longitude>34.582262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423671</Latitude>
+    <Longitude>34.596177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412423</Latitude>
+    <Longitude>34.580018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412081</Latitude>
+    <Longitude>34.577837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יובל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418743</Latitude>
+    <Longitude>34.575310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף הכהן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425487</Latitude>
+    <Longitude>34.589948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף סמלו</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419210</Latitude>
+    <Longitude>34.600916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילדי אוסלו</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426866</Latitude>
+    <Longitude>34.598689</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ישיבת הנגב אבן האזל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.429737</Latitude>
+    <Longitude>34.596894</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412646</Latitude>
+    <Longitude>34.577467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418807</Latitude>
+    <Longitude>34.574427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411829</Latitude>
+    <Longitude>34.581402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421021</Latitude>
+    <Longitude>34.586902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420162</Latitude>
+    <Longitude>34.583458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי ישראל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420827</Latitude>
+    <Longitude>34.591673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעפיל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415061</Latitude>
+    <Longitude>34.575673</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משה"ב</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418287</Latitude>
+    <Longitude>34.589306</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משמש</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412701</Latitude>
+    <Longitude>34.582800</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה נוי</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414172</Latitude>
+    <Longitude>34.582370</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחל ארנון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415542</Latitude>
+    <Longitude>34.577212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל בוהן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415752</Latitude>
+    <Longitude>34.576189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל גרופית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416471</Latitude>
+    <Longitude>34.576513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.417010</Latitude>
+    <Longitude>34.576293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל המעיינות</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.417724</Latitude>
+    <Longitude>34.576332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ורדית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418237</Latitude>
+    <Longitude>34.576235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל זוויתן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.418761</Latitude>
+    <Longitude>34.576197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל חבר</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419392</Latitude>
+    <Longitude>34.575338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל טף</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419992</Latitude>
+    <Longitude>34.575409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחלת שלמה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426243</Latitude>
+    <Longitude>34.585160</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נטעים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425871</Latitude>
+    <Longitude>34.581914</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411073</Latitude>
+    <Longitude>34.578791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.410506</Latitude>
+    <Longitude>34.579226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423275</Latitude>
+    <Longitude>34.601238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עינב</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416211</Latitude>
+    <Longitude>34.584271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלייה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.416403</Latitude>
+    <Longitude>34.574912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמאות</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421780</Latitude>
+    <Longitude>34.586556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413096</Latitude>
+    <Longitude>34.580323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערמון</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413941</Latitude>
+    <Longitude>34.584793</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק שלום</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.428144</Latitude>
+    <Longitude>34.593586</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פטל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414592</Latitude>
+    <Longitude>34.581184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.417415</Latitude>
+    <Longitude>34.574929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פקאן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415975</Latitude>
+    <Longitude>34.583067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרחי ישראל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411990</Latitude>
+    <Longitude>34.579009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414756</Latitude>
+    <Longitude>34.576367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפצפה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424987</Latitude>
+    <Longitude>34.571690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורין</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.420573</Latitude>
+    <Longitude>34.581721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיסוסית</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.426280</Latitude>
+    <Longitude>34.574110</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית בן אריה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.415709</Latitude>
+    <Longitude>34.575925</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית מנחם</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.419764</Latitude>
+    <Longitude>34.576330</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית משה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.421177</Latitude>
+    <Longitude>34.587254</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>31.423487</Latitude>
+    <Longitude>34.600121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת הגולן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.423029</Latitude>
+    <Longitude>34.601083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411604</Latitude>
+    <Longitude>34.578408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.422479</Latitude>
+    <Longitude>34.596239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרצל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>הרצל</AlternateName>
+    <AlternateName>שד' הרצל</AlternateName>
+    <Latitude>31.419218</Latitude>
+    <Longitude>34.582225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>31.421666</Latitude>
+    <Longitude>34.583973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>31.420388</Latitude>
+    <Longitude>34.588970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שזיף</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.411589</Latitude>
+    <Longitude>34.579860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום בונייך</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.425263</Latitude>
+    <Longitude>34.586369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון מויאל</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.424499</Latitude>
+    <Longitude>34.588277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפתי חיים</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.427073</Latitude>
+    <Longitude>34.585047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.413378</Latitude>
+    <Longitude>34.578584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תות</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414501</Latitude>
+    <Longitude>34.585631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414927</Latitude>
+    <Longitude>34.582211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוז</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412619</Latitude>
+    <Longitude>34.579057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.412351</Latitude>
+    <Longitude>34.582257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תקומה</NativeName>
+    <ParentName>נתיבות, ישראל</ParentName>
+    <Latitude>31.414084</Latitude>
+    <Longitude>34.577185</Longitude>
+  </Street>
+</LocationData>

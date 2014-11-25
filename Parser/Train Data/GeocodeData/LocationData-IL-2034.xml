@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>ארקיע</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.980469</Latitude>
+    <Longitude>35.546417</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אשטרום</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979466</Latitude>
+    <Longitude>35.536143</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס חוני המעגל ממ"ד</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979241</Latitude>
+    <Longitude>35.541609</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בנה ביתך</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.984988</Latitude>
+    <Longitude>35.541783</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרך הבנים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <AlternateName>הבנים</AlternateName>
+    <Latitude>32.982311</Latitude>
+    <Longitude>35.550835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החולה</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <AlternateName>החולה</AlternateName>
+    <Latitude>32.981221</Latitude>
+    <Longitude>35.547752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך נפתלי</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <AlternateName>נפתלי</AlternateName>
+    <Latitude>32.980637</Latitude>
+    <Longitude>35.543133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.982535</Latitude>
+    <Longitude>35.540655</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הבוסתן</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.990892</Latitude>
+    <Longitude>35.541903</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הגאולים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.978845</Latitude>
+    <Longitude>35.547751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.981263</Latitude>
+    <Longitude>35.542967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.983215</Latitude>
+    <Longitude>35.545854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.976865</Latitude>
+    <Longitude>35.543289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא וייצמן</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.977833</Latitude>
+    <Longitude>35.541604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.984963</Latitude>
+    <Longitude>35.540573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.976654</Latitude>
+    <Longitude>35.546307</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>זאב</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.982899</Latitude>
+    <Longitude>35.542578</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>חצור</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.980957</Latitude>
+    <Longitude>35.545847</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979587</Latitude>
+    <Longitude>35.544072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה חוני המעגל</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.982337</Latitude>
+    <Longitude>35.543327</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה הרים</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.976495</Latitude>
+    <Longitude>35.539206</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נוף המושבה</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.977170</Latitude>
+    <Longitude>35.533972</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.976604</Latitude>
+    <Longitude>35.533515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.977042</Latitude>
+    <Longitude>35.534157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979880</Latitude>
+    <Longitude>35.545441</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רובע מרכז</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.984017</Latitude>
+    <Longitude>35.544796</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.978971</Latitude>
+    <Longitude>35.544086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979642</Latitude>
+    <Longitude>35.540880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.979954</Latitude>
+    <Longitude>35.546697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תש"ח</NativeName>
+    <ParentName>חצור הגלילית, ישראל</ParentName>
+    <Latitude>32.978637</Latitude>
+    <Longitude>35.539366</Longitude>
+  </Street>
+</LocationData>

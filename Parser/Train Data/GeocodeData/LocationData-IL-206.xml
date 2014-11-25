@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>בי"ס נווה צאלים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.169639</Latitude>
+    <Longitude>34.886534</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית העם</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.165766</Latitude>
+    <Longitude>34.886591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הסולטן</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <AlternateName>הסולטן</AlternateName>
+    <Latitude>32.163931</Latitude>
+    <Longitude>34.875833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלונים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.170631</Latitude>
+    <Longitude>34.889581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.165809</Latitude>
+    <Longitude>34.883555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברושים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.168691</Latitude>
+    <Longitude>34.886454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריכה</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.169700</Latitude>
+    <Longitude>34.884942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.169868</Latitude>
+    <Longitude>34.885724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.168489</Latitude>
+    <Longitude>34.887494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקנים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.164339</Latitude>
+    <Longitude>34.882063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.164642</Latitude>
+    <Longitude>34.886598</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.170012</Latitude>
+    <Longitude>34.891259</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.167555</Latitude>
+    <Longitude>34.889027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעגל</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.170157</Latitude>
+    <Longitude>34.886078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפקאן</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.168368</Latitude>
+    <Longitude>34.883905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.164271</Latitude>
+    <Longitude>34.880569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.169305</Latitude>
+    <Longitude>34.888234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השמש העולה</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.164872</Latitude>
+    <Longitude>34.875907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.164554</Latitude>
+    <Longitude>34.883615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.167170</Latitude>
+    <Longitude>34.884700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.169700</Latitude>
+    <Longitude>34.884942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התרנגול</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.159554</Latitude>
+    <Longitude>34.872207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגן</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.167590</Latitude>
+    <Longitude>34.882528</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הורדים</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.163211</Latitude>
+    <Longitude>34.881149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.162802</Latitude>
+    <Longitude>34.884826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אל על</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.166608</Latitude>
+    <Longitude>34.887676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החצב</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.163931</Latitude>
+    <Longitude>34.875833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנוער</NativeName>
+    <ParentName>רמות השבים, ישראל</ParentName>
+    <Latitude>32.165107</Latitude>
+    <Longitude>34.882074</Longitude>
+  </Street>
+</LocationData>

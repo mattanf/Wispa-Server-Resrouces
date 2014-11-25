@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.137182</Latitude>
+    <Longitude>34.847871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו חצירא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133237</Latitude>
+    <Longitude>34.848447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגדים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136235</Latitude>
+    <Longitude>34.839475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132072</Latitude>
+    <Longitude>34.840012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139679</Latitude>
+    <Longitude>34.844798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.143421</Latitude>
+    <Longitude>34.843768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אז"ר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147970</Latitude>
+    <Longitude>34.842708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איגרת תימן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135557</Latitude>
+    <Longitude>34.862523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140317</Latitude>
+    <Longitude>34.825549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.127863</Latitude>
+    <Longitude>34.853787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135064</Latitude>
+    <Longitude>34.836817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152185</Latitude>
+    <Longitude>34.834885</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אלון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146792</Latitude>
+    <Longitude>34.843792</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131686</Latitude>
+    <Longitude>34.858850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148342</Latitude>
+    <Longitude>34.838588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143195</Latitude>
+    <Longitude>34.839163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אני מאמין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151215</Latitude>
+    <Longitude>34.835688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141183</Latitude>
+    <Longitude>34.824107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנקור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140561</Latitude>
+    <Longitude>34.827197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138804</Latitude>
+    <Longitude>34.833238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138410</Latitude>
+    <Longitude>34.839489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.135796</Latitude>
+    <Longitude>34.851899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארנון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147679</Latitude>
+    <Longitude>34.848015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל אברהם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149706</Latitude>
+    <Longitude>34.828640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסתנאי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>בוסטנאי</AlternateName>
+    <Latitude>32.145470</Latitude>
+    <Longitude>34.831330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בועז</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140998</Latitude>
+    <Longitude>34.840397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוקק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136201</Latitude>
+    <Longitude>34.852920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית גוברין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128959</Latitude>
+    <Longitude>34.853288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית הלל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135881</Latitude>
+    <Longitude>34.854513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית השואבה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130310</Latitude>
+    <Longitude>34.850774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית שמאי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132287</Latitude>
+    <Longitude>34.855988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132184</Latitude>
+    <Longitude>34.847567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>במעלה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133849</Latitude>
+    <Longitude>34.842534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן זכאי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>רבן יוחנן בן זכאי</AlternateName>
+    <Latitude>32.134206</Latitude>
+    <Longitude>34.854125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן חיים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.137650</Latitude>
+    <Longitude>34.841860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן שלום</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146834</Latitude>
+    <Longitude>34.846658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134814</Latitude>
+    <Longitude>34.854403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131082</Latitude>
+    <Longitude>34.857652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בראשית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150107</Latitude>
+    <Longitude>34.841544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנשטיין כהן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149678</Latitude>
+    <Longitude>34.838250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138464</Latitude>
+    <Longitude>34.842381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147422</Latitude>
+    <Longitude>34.837682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאולים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150226</Latitude>
+    <Longitude>34.844849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139658</Latitude>
+    <Longitude>34.832940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147291</Latitude>
+    <Longitude>34.840069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142385</Latitude>
+    <Longitude>34.845976</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גולן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144893</Latitude>
+    <Longitude>34.831176</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גונדר אברהם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144779</Latitude>
+    <Longitude>34.829980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש חלב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138974</Latitude>
+    <Longitude>34.832674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיחון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146524</Latitude>
+    <Longitude>34.845743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148064</Latitude>
+    <Longitude>34.837943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גמלא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139174</Latitude>
+    <Longitude>34.832758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גמליאל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132108</Latitude>
+    <Longitude>34.856664</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן הבנים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146951</Latitude>
+    <Longitude>34.834174</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>געתון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146830</Latitude>
+    <Longitude>34.844485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134092</Latitude>
+    <Longitude>34.857741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141327</Latitude>
+    <Longitude>34.839430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152159</Latitude>
+    <Longitude>34.838571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136543</Latitude>
+    <Longitude>34.839836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145427</Latitude>
+    <Longitude>34.845387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132514</Latitude>
+    <Longitude>34.839919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הטניס</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הטניס</AlternateName>
+    <Latitude>32.130041</Latitude>
+    <Longitude>34.834359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הצעירים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הצעירים</AlternateName>
+    <Latitude>32.131486</Latitude>
+    <Longitude>34.851063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ראשונים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>ראשונים</AlternateName>
+    <Latitude>32.137572</Latitude>
+    <Longitude>34.838320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחיות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151093</Latitude>
+    <Longitude>34.837919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האצ"ל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>אצ"ל</AlternateName>
+    <Latitude>32.145188</Latitude>
+    <Longitude>34.828770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132182</Latitude>
+    <Longitude>34.848366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132799</Latitude>
+    <Longitude>34.846040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבאר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124499</Latitude>
+    <Longitude>34.818119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבושם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141275</Latitude>
+    <Longitude>34.830965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145438</Latitude>
+    <Longitude>34.834152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבעש"ט</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134061</Latitude>
+    <Longitude>34.860545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברושים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147970</Latitude>
+    <Longitude>34.842708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריכה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124436</Latitude>
+    <Longitude>34.822426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148983</Latitude>
+    <Longitude>34.837773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדודים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131040</Latitude>
+    <Longitude>34.847515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149548</Latitude>
+    <Longitude>34.841115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגינה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145554</Latitude>
+    <Longitude>34.839464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150530</Latitude>
+    <Longitude>34.843111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.125231</Latitude>
+    <Longitude>34.818400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129097</Latitude>
+    <Longitude>34.847558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגנית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135153</Latitude>
+    <Longitude>34.848507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדיה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142440</Latitude>
+    <Longitude>34.828394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדסים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133852</Latitude>
+    <Longitude>34.849656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131752</Latitude>
+    <Longitude>34.841216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148597</Latitude>
+    <Longitude>34.840735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147084</Latitude>
+    <Longitude>34.840898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131457</Latitude>
+    <Longitude>34.848755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזורע</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142583</Latitude>
+    <Longitude>34.842772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132912</Latitude>
+    <Longitude>34.843566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142827</Latitude>
+    <Longitude>34.826649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134876</Latitude>
+    <Longitude>34.849056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149830</Latitude>
+    <Longitude>34.832458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132520</Latitude>
+    <Longitude>34.858868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133653</Latitude>
+    <Longitude>34.843605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136999</Latitude>
+    <Longitude>34.844217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134984</Latitude>
+    <Longitude>34.853520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטבק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149219</Latitude>
+    <Longitude>34.841939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוגב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140423</Latitude>
+    <Longitude>34.837124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסעור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142084</Latitude>
+    <Longitude>34.827690</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הכפר הירוק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135172</Latitude>
+    <Longitude>34.829305</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143550</Latitude>
+    <Longitude>34.835539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלפיד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152058</Latitude>
+    <Longitude>34.829613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המאבק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136020</Latitude>
+    <Longitude>34.840904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134341</Latitude>
+    <Longitude>34.849537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146320</Latitude>
+    <Longitude>34.843189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136270</Latitude>
+    <Longitude>34.839237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129798</Latitude>
+    <Longitude>34.857122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138374</Latitude>
+    <Longitude>34.837167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלכים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135693</Latitude>
+    <Longitude>34.850011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.137927</Latitude>
+    <Longitude>34.844372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145362</Latitude>
+    <Longitude>34.844039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151334</Latitude>
+    <Longitude>34.838289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145221</Latitude>
+    <Longitude>34.830532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146345</Latitude>
+    <Longitude>34.843975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150885</Latitude>
+    <Longitude>34.837834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136014</Latitude>
+    <Longitude>34.862444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתנחלים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148581</Latitude>
+    <Longitude>34.843661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנ"ץ</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149222</Latitude>
+    <Longitude>34.831877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128929</Latitude>
+    <Longitude>34.856100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטע</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143379</Latitude>
+    <Longitude>34.841890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140449</Latitude>
+    <Longitude>34.844107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוער</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144085</Latitude>
+    <Longitude>34.831198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנצח</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142721</Latitude>
+    <Longitude>34.846917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140356</Latitude>
+    <Longitude>34.839455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141441</Latitude>
+    <Longitude>34.828484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הס</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>משה הס</AlternateName>
+    <Latitude>32.136504</Latitude>
+    <Longitude>34.847713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134290</Latitude>
+    <Longitude>34.838605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138854</Latitude>
+    <Longitude>34.838810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העומר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139075</Latitude>
+    <Longitude>34.838160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139761</Latitude>
+    <Longitude>34.836851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148760</Latitude>
+    <Longitude>34.843115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143397</Latitude>
+    <Longitude>34.826402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146320</Latitude>
+    <Longitude>34.843189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143032</Latitude>
+    <Longitude>34.842972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124057</Latitude>
+    <Longitude>34.820055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצופים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141631</Latitude>
+    <Longitude>34.835814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135384</Latitude>
+    <Longitude>34.847964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוצר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142947</Latitude>
+    <Longitude>34.841696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקיבוץ</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140025</Latitude>
+    <Longitude>34.836072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקמה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152500</Latitude>
+    <Longitude>34.836729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143550</Latitude>
+    <Longitude>34.835539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אוורבוך</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הרבי אוורבוך</AlternateName>
+    <AlternateName>אוורבוך</AlternateName>
+    <AlternateName>רבי אוורבוך</AlternateName>
+    <Latitude>32.142024</Latitude>
+    <Longitude>34.840383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.133798</Latitude>
+    <Longitude>34.848124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.132462</Latitude>
+    <Longitude>34.849915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ריינס</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הרבי ריינס</AlternateName>
+    <AlternateName>רבי ריינס</AlternateName>
+    <AlternateName>ריינס</AlternateName>
+    <Latitude>32.134441</Latitude>
+    <Longitude>34.850870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133799</Latitude>
+    <Longitude>34.838836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132189</Latitude>
+    <Longitude>34.845282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השדות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124559</Latitude>
+    <Longitude>34.814632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השדמה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138861</Latitude>
+    <Longitude>34.838023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142007</Latitude>
+    <Longitude>34.843309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147740</Latitude>
+    <Longitude>34.844761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140954</Latitude>
+    <Longitude>34.844315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142827</Latitude>
+    <Longitude>34.826649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145799</Latitude>
+    <Longitude>34.831633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השילוח</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146093</Latitude>
+    <Longitude>34.847107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143222</Latitude>
+    <Longitude>34.829471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150057</Latitude>
+    <Longitude>34.843612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145169</Latitude>
+    <Longitude>34.833198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150643</Latitude>
+    <Longitude>34.840554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139292</Latitude>
+    <Longitude>34.828129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131290</Latitude>
+    <Longitude>34.845327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132692</Latitude>
+    <Longitude>34.846913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלמים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136338</Latitude>
+    <Longitude>34.831579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151778</Latitude>
+    <Longitude>34.836818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התרבות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135472</Latitude>
+    <Longitude>34.839304</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146696</Latitude>
+    <Longitude>34.835276</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ויתקין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136512</Latitude>
+    <Longitude>34.847159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז' חשוון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148717</Latitude>
+    <Longitude>34.828485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.148151</Latitude>
+    <Longitude>34.828088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147586</Latitude>
+    <Longitude>34.838297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרובבל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141842</Latitude>
+    <Longitude>34.835038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרזיר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140273</Latitude>
+    <Longitude>34.828521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141084</Latitude>
+    <Longitude>34.827449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130049</Latitude>
+    <Longitude>34.862975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הנגב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.137787</Latitude>
+    <Longitude>34.830640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151544</Latitude>
+    <Longitude>34.831997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חי"ש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147116</Latitude>
+    <Longitude>34.842931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130101</Latitude>
+    <Longitude>34.847909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135875</Latitude>
+    <Longitude>34.838608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרושת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129112</Latitude>
+    <Longitude>34.859059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141311</Latitude>
+    <Longitude>34.830573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135888</Latitude>
+    <Longitude>34.837119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136218</Latitude>
+    <Longitude>34.844618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133732</Latitude>
+    <Longitude>34.840826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144243</Latitude>
+    <Longitude>34.829080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבוק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144451</Latitude>
+    <Longitude>34.846688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150449</Latitude>
+    <Longitude>34.844389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130632</Latitude>
+    <Longitude>34.860219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגיע כפיים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135996</Latitude>
+    <Longitude>34.846287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131346</Latitude>
+    <Longitude>34.856380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133819</Latitude>
+    <Longitude>34.855112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147291</Latitude>
+    <Longitude>34.840069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע טהון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>יהושוע טהון</AlternateName>
+    <Latitude>32.132816</Latitude>
+    <Longitude>34.841349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141585</Latitude>
+    <Longitude>34.843097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוני נתניהו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145248</Latitude>
+    <Longitude>34.830061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יותם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138164</Latitude>
+    <Longitude>34.842048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151141</Latitude>
+    <Longitude>34.833026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב כהן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147998</Latitude>
+    <Longitude>34.836656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפתח</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139428</Latitude>
+    <Longitude>34.844000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצהר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152351</Latitude>
+    <Longitude>34.837950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק אלחנן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149363</Latitude>
+    <Longitude>34.830954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132994</Latitude>
+    <Longitude>34.849075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה למחלף הכפר הירוק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133351</Latitude>
+    <Longitude>34.835730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירדן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145731</Latitude>
+    <Longitude>34.846192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמוך</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144451</Latitude>
+    <Longitude>34.846688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131932</Latitude>
+    <Longitude>34.861212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל גלילי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145632</Latitude>
+    <Longitude>34.829435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ט בנובמבר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145937</Latitude>
+    <Longitude>34.841675</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר העצמאות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>ככר העצמאות</AlternateName>
+    <Latitude>32.144124</Latitude>
+    <Longitude>34.844139</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר מ.ל.מ.</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>ככר מ.ל.מ.</AlternateName>
+    <Latitude>32.143155</Latitude>
+    <Longitude>34.817127</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136468</Latitude>
+    <Longitude>34.841023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפר אוריה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144598</Latitude>
+    <Longitude>34.837008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.150963</Latitude>
+    <Longitude>34.839519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133979</Latitude>
+    <Longitude>34.836968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140575</Latitude>
+    <Longitude>34.829687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149014</Latitude>
+    <Longitude>34.834074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144997</Latitude>
+    <Longitude>34.827278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133723</Latitude>
+    <Longitude>34.838888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128765</Latitude>
+    <Longitude>34.851532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>למרחב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147364</Latitude>
+    <Longitude>34.833561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.153018</Latitude>
+    <Longitude>34.836902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134767</Latitude>
+    <Longitude>34.842464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.127441</Latitude>
+    <Longitude>34.853263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131457</Latitude>
+    <Longitude>34.848755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוריה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143529</Latitude>
+    <Longitude>34.836488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148681</Latitude>
+    <Longitude>34.831793</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מורשה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133448</Latitude>
+    <Longitude>34.857784</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131391</Latitude>
+    <Longitude>34.861900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128986</Latitude>
+    <Longitude>34.850831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעיין חרוד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147220</Latitude>
+    <Longitude>34.847821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138944</Latitude>
+    <Longitude>34.833630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133446</Latitude>
+    <Longitude>34.855020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138410</Latitude>
+    <Longitude>34.839489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130367</Latitude>
+    <Longitude>34.830305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נהרדעא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134319</Latitude>
+    <Longitude>34.859959</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה גן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124818</Latitude>
+    <Longitude>34.816834</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה מגן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133553</Latitude>
+    <Longitude>34.845136</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה רום</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141773</Latitude>
+    <Longitude>34.830330</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה רסקו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136383</Latitude>
+    <Longitude>34.836667</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נווה רעים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135322</Latitude>
+    <Longitude>34.843232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132148</Latitude>
+    <Longitude>34.840400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132319</Latitude>
+    <Longitude>34.849873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל בשור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148922</Latitude>
+    <Longitude>34.847142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עמוד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148329</Latitude>
+    <Longitude>34.848709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קדרון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148431</Latitude>
+    <Longitude>34.848307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שורק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148098</Latitude>
+    <Longitude>34.846726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151707</Latitude>
+    <Longitude>34.832041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נטף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139807</Latitude>
+    <Longitude>34.830488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.127769</Latitude>
+    <Longitude>34.851993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143303</Latitude>
+    <Longitude>34.840934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136972</Latitude>
+    <Longitude>34.836901</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סופר פארם רב מכר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.146180</Latitude>
+    <Longitude>34.804152</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.144420</Latitude>
+    <Longitude>34.837994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144391</Latitude>
+    <Longitude>34.835363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלע</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141842</Latitude>
+    <Longitude>34.835038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136756</Latitude>
+    <Longitude>34.837787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אופיר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128456</Latitude>
+    <Longitude>34.853856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אילנות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140852</Latitude>
+    <Longitude>34.842067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אסף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134850</Latitude>
+    <Longitude>34.852566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת בית שמאי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131948</Latitude>
+    <Longitude>34.853848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דולב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142712</Latitude>
+    <Longitude>34.838195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת המעלות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136298</Latitude>
+    <Longitude>34.851093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרב קוק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.130884</Latitude>
+    <Longitude>34.849342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132406</Latitude>
+    <Longitude>34.853927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השקמה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.148177</Latitude>
+    <Longitude>34.831689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ויצ"ו</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129648</Latitude>
+    <Longitude>34.850218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ורד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135841</Latitude>
+    <Longitude>34.837345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת לוטם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131143</Latitude>
+    <Longitude>34.849479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת למרחב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150590</Latitude>
+    <Longitude>34.833547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מעיין חרוד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.147080</Latitude>
+    <Longitude>34.848281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת סיגלית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129362</Latitude>
+    <Longitude>34.848604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עוזיה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132820</Latitude>
+    <Longitude>34.859386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת קדש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129447</Latitude>
+    <Longitude>34.854467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140839</Latitude>
+    <Longitude>34.825775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבדת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129186</Latitude>
+    <Longitude>34.855878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141613</Latitude>
+    <Longitude>34.824781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגנון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135138</Latitude>
+    <Longitude>34.849334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133555</Latitude>
+    <Longitude>34.860741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.129192</Latitude>
+    <Longitude>34.849365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלייה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135355</Latitude>
+    <Longitude>34.836940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145430</Latitude>
+    <Longitude>34.835014</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערוגות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134343</Latitude>
+    <Longitude>34.846541</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק נווה גן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124833</Latitude>
+    <Longitude>34.811962</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פדויים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149661</Latitude>
+    <Longitude>34.845858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיקר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145521</Latitude>
+    <Longitude>34.841500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142013</Latitude>
+    <Longitude>34.837051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי בנימיני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.145243</Latitude>
+    <Longitude>34.845961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136065</Latitude>
+    <Longitude>34.837393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139889</Latitude>
+    <Longitude>34.838776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צירלסון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150481</Latitude>
+    <Longitude>34.837671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלף</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135678</Latitude>
+    <Longitude>34.840186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי סטרומה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149441</Latitude>
+    <Longitude>34.837244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת בבל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139429</Latitude>
+    <Longitude>34.832202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת וילנה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151091</Latitude>
+    <Longitude>34.830904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת לודג'</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149755</Latitude>
+    <Longitude>34.844117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קוממיות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135594</Latitude>
+    <Longitude>34.836219</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית יערים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152457</Latitude>
+    <Longitude>34.832032</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרית שאול</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.124713</Latitude>
+    <Longitude>34.823250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133331</Latitude>
+    <Longitude>34.838952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו תם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143486</Latitude>
+    <Longitude>34.840330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רגבים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149497</Latitude>
+    <Longitude>34.839905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רד"ק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143592</Latitude>
+    <Longitude>34.841062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רות</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.143486</Latitude>
+    <Longitude>34.840330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134767</Latitude>
+    <Longitude>34.839903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רזיאל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144618</Latitude>
+    <Longitude>34.828084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144140</Latitude>
+    <Longitude>34.838879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.136171</Latitude>
+    <Longitude>34.849870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133328</Latitude>
+    <Longitude>34.852998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144455</Latitude>
+    <Longitude>34.840483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"ם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144240</Latitude>
+    <Longitude>34.841197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"ץ</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135833</Latitude>
+    <Longitude>34.844222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאר ישוב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135809</Latitude>
+    <Longitude>34.861002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שארית ישראל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.149718</Latitude>
+    <Longitude>34.845431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.135809</Latitude>
+    <Longitude>34.861002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131058</Latitude>
+    <Longitude>34.845755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבי ציון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135133</Latitude>
+    <Longitude>34.861579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אהרון יריב</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>שד' אהרון יריב</AlternateName>
+    <AlternateName>אהרון יריב</AlternateName>
+    <Latitude>32.141501</Latitude>
+    <Longitude>34.817714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אלוף מאיר עמית</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>שד' אלוף מאיר עמית</AlternateName>
+    <AlternateName>אלוף מאיר עמית</AlternateName>
+    <Latitude>32.143149</Latitude>
+    <Longitude>34.806098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ביאליק</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>שד' חיים נחמן ביאליק</AlternateName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <AlternateName>ביאליק</AlternateName>
+    <AlternateName>שד' ביאליק</AlternateName>
+    <AlternateName>שדרות חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.144726</Latitude>
+    <Longitude>34.842635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הילד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>הילד</AlternateName>
+    <AlternateName>שד' הילד</AlternateName>
+    <Latitude>32.146799</Latitude>
+    <Longitude>34.834073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>32.146588</Latitude>
+    <Longitude>34.836124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.141102</Latitude>
+    <Longitude>34.829157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.134859</Latitude>
+    <Longitude>34.839168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.131357</Latitude>
+    <Longitude>34.850498</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבולת</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.150266</Latitude>
+    <Longitude>34.838937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיינקין</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <AlternateName>שינקין</AlternateName>
+    <AlternateName>שנקין</AlternateName>
+    <Latitude>32.137178</Latitude>
+    <Longitude>34.846262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיפון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.151758</Latitude>
+    <Longitude>34.840122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135842</Latitude>
+    <Longitude>34.843472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמגר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140971</Latitude>
+    <Longitude>34.844254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנגיד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132015</Latitude>
+    <Longitude>34.857259</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140963</Latitude>
+    <Longitude>34.835297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.142673</Latitude>
+    <Longitude>34.844141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.140000</Latitude>
+    <Longitude>34.831576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.133274</Latitude>
+    <Longitude>34.837531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.144669</Latitude>
+    <Longitude>34.836535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תחכמוני</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.132946</Latitude>
+    <Longitude>34.847820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תירוש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.152045</Latitude>
+    <Longitude>34.838600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמנע</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.128054</Latitude>
+    <Longitude>34.855117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרזה</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.138181</Latitude>
+    <Longitude>34.840818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרפ"ד</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.135970</Latitude>
+    <Longitude>34.837975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>רמת השרון, ישראל</ParentName>
+    <Latitude>32.139311</Latitude>
+    <Longitude>34.836666</Longitude>
+  </Street>
+</LocationData>

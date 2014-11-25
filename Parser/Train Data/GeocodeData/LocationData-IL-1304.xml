@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אלונים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995587</Latitude>
+    <Longitude>34.942826</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.002999</Latitude>
+    <Longitude>34.951139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזלת</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.991078</Latitude>
+    <Longitude>34.948027</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ברושים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.998461</Latitude>
+    <Longitude>34.942690</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.996375</Latitude>
+    <Longitude>34.943066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשמת</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.007766</Latitude>
+    <Longitude>34.946497</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעולים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004641</Latitude>
+    <Longitude>34.941464</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גזית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.991299</Latitude>
+    <Longitude>34.948656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.987835</Latitude>
+    <Longitude>34.936932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרניט</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.993173</Latitude>
+    <Longitude>34.948678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004989</Latitude>
+    <Longitude>34.952750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005123</Latitude>
+    <Longitude>34.951375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האודם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.997037</Latitude>
+    <Longitude>34.942699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004963</Latitude>
+    <Longitude>34.951899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004157</Latitude>
+    <Longitude>34.940280</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הדסים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.988978</Latitude>
+    <Longitude>34.943235</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.996167</Latitude>
+    <Longitude>34.949164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבל</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005892</Latitude>
+    <Longitude>34.942809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החושן</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.998739</Latitude>
+    <Longitude>34.943739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.000959</Latitude>
+    <Longitude>34.942371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלפיד</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.991630</Latitude>
+    <Longitude>34.943054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסלע</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.993945</Latitude>
+    <Longitude>34.947670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצור</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.991842</Latitude>
+    <Longitude>34.946595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003322</Latitude>
+    <Longitude>34.949150</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ורדים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.996348</Latitude>
+    <Longitude>34.946884</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.989452</Latitude>
+    <Longitude>34.941525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיטה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.989067</Latitude>
+    <Longitude>34.944127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.993217</Latitude>
+    <Longitude>34.948204</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חמניות</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003894</Latitude>
+    <Longitude>34.947511</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חפר</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.999155</Latitude>
+    <Longitude>34.942972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.997827</Latitude>
+    <Longitude>34.948036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995826</Latitude>
+    <Longitude>34.943517</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>טללים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.008141</Latitude>
+    <Longitude>34.945347</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995465</Latitude>
+    <Longitude>34.944176</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יובלים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995120</Latitude>
+    <Longitude>34.949069</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יזרעאל</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.999755</Latitude>
+    <Longitude>34.943310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.008888</Latitude>
+    <Longitude>34.945116</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יעלים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.998799</Latitude>
+    <Longitude>34.948798</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.999731</Latitude>
+    <Longitude>34.947903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003987</Latitude>
+    <Longitude>34.941059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.996173</Latitude>
+    <Longitude>34.944752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.988879</Latitude>
+    <Longitude>34.939669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הגלבוע</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.001676</Latitude>
+    <Longitude>34.947459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה החורש</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005159</Latitude>
+    <Longitude>34.947308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה העצמאות</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003468</Latitude>
+    <Longitude>34.945206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצפה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004195</Latitude>
+    <Longitude>34.946379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגלית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.993559</Latitude>
+    <Longitude>34.938697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.008056</Latitude>
+    <Longitude>34.948369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.007915</Latitude>
+    <Longitude>34.947526</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סחלבים</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005280</Latitude>
+    <Longitude>34.951153</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.994697</Latitude>
+    <Longitude>34.943209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדולם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004039</Latitude>
+    <Longitude>34.941857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צורן</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.990085</Latitude>
+    <Longitude>34.947117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995572</Latitude>
+    <Longitude>34.950295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005201</Latitude>
+    <Longitude>34.951873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת בדולח</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.995677</Latitude>
+    <Longitude>34.945767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת גזית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.991496</Latitude>
+    <Longitude>34.948483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת החולה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.998854</Latitude>
+    <Longitude>34.942773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת כלנית</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.008330</Latitude>
+    <Longitude>34.946820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת נוגה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004101</Latitude>
+    <Longitude>34.946259</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת נטיף</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.994483</Latitude>
+    <Longitude>34.945750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת עדי</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.992368</Latitude>
+    <Longitude>34.939099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת פנינה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.997841</Latitude>
+    <Longitude>34.945751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.987936</Latitude>
+    <Longitude>34.938295</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רקפות</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.992412</Latitude>
+    <Longitude>34.948319</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שגב</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.001334</Latitude>
+    <Longitude>34.943279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שגיא</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.000310</Latitude>
+    <Longitude>34.950018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות עמק איילון</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <AlternateName>עמק איילון</AlternateName>
+    <AlternateName>שד' עמק איילון</AlternateName>
+    <Latitude>31.995298</Latitude>
+    <Longitude>34.946170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחם</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.992193</Latitude>
+    <Longitude>34.948114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבולת</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.989376</Latitude>
+    <Longitude>34.945008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003924</Latitude>
+    <Longitude>34.951954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.004459</Latitude>
+    <Longitude>34.951880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקמה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.005591</Latitude>
+    <Longitude>34.952669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.988505</Latitude>
+    <Longitude>34.942096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.000172</Latitude>
+    <Longitude>34.949168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.988181</Latitude>
+    <Longitude>34.942047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תענך</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.003688</Latitude>
+    <Longitude>34.942076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפן</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>32.002213</Latitude>
+    <Longitude>34.943693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>שוהם, ישראל</ParentName>
+    <Latitude>31.993680</Latitude>
+    <Longitude>34.941930</Longitude>
+  </Street>
+</LocationData>

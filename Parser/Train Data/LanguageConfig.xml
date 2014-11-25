@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LanguageConfig language="he">
+	<Location>
+		<ExcludedStrings>
+			<ExcludedString isRegEx="false" value="לב"/>
+		</ExcludedStrings>
+		<Misspells>
+			<Misspell isPrefix="true" isRedundent="true" alt1="פרופ'" alt2="פרופסור"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="אלוף"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="רבי" alt2="הרבי"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="הרב"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="דרך"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="שכונת"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="שדרות"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="סמטת"/>
+			<Misspell isPrefix="true" isRedundent="true" alt1="ד&quot;ר" alt2="דוקטור"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="יוסף סוסו" alt2="סוסו הכהן"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="א.ד. גורדון" alt2="גורדון"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="פתח תקווה" alt2="פתח תקוה"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="המסגר" alt2="מסגר"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="מצולות ים" alt2="מצולות הים"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="דוד" alt2="דויד" alt3="דוויד"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="זאב ז'בוטינסקי" alt2="ז'בוטינסקי"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="נחום סוקולוב" alt2="סוקולוב"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="אוסוולדו" alt2="אוסבלדו"/>
+			<Misspell isPrefix="false" isRedundent="false" alt1="חיים נחמן ביאליק" alt2="ביאליק"/>
+		</Misspells>
+	</Location>
+</LanguageConfig>

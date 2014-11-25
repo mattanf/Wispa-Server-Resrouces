@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א. טווינה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924288</Latitude>
+    <Longitude>34.854936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>31.937985</Latitude>
+    <Longitude>34.862680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א.ס. לוי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922266</Latitude>
+    <Longitude>34.858086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא אחימאיר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>אחימאיר</AlternateName>
+    <Latitude>31.938682</Latitude>
+    <Longitude>34.873718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו חצירא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929949</Latitude>
+    <Longitude>34.855950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן סינא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922344</Latitude>
+    <Longitude>34.845467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנר חזקיהו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917726</Latitude>
+    <Longitude>34.872391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוזי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933507</Latitude>
+    <Longitude>34.867337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגסי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925013</Latitude>
+    <Longitude>34.873435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד מנור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917913</Latitude>
+    <Longitude>34.874839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בוגנים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934437</Latitude>
+    <Longitude>34.853226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בן יוסף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935111</Latitude>
+    <Longitude>34.867905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון הכהן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924450</Latitude>
+    <Longitude>34.877699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>31.939504</Latitude>
+    <Longitude>34.865102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד במאי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933615</Latitude>
+    <Longitude>34.871641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934337</Latitude>
+    <Longitude>34.866174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחווה ושלום</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930710</Latitude>
+    <Longitude>34.886619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929951</Latitude>
+    <Longitude>34.872310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל בוסתן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921998</Latitude>
+    <Longitude>34.847698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל זהרא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923934</Latitude>
+    <Longitude>34.844872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל נור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920567</Latitude>
+    <Longitude>34.849915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930189</Latitude>
+    <Longitude>34.875337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921488</Latitude>
+    <Longitude>34.867244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קפלן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938339</Latitude>
+    <Longitude>34.862074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933349</Latitude>
+    <Longitude>34.877571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמונה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928111</Latitude>
+    <Longitude>34.884305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיל זולא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>אמיל זולה</AlternateName>
+    <AlternateName>עמיל זולה</AlternateName>
+    <AlternateName>עמיל זולא</AlternateName>
+    <Latitude>31.923851</Latitude>
+    <Longitude>34.872477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיל חביבי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>עמיל חביבי</AlternateName>
+    <Latitude>31.926544</Latitude>
+    <Longitude>34.870520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921456</Latitude>
+    <Longitude>34.862780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנגל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938583</Latitude>
+    <Longitude>34.864594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסף שמחוני</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935615</Latitude>
+    <Longitude>34.865809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925707</Latitude>
+    <Longitude>34.874925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים קישון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917642</Latitude>
+    <Longitude>34.871183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.928194</Latitude>
+    <Longitude>34.875585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקסודוס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930780</Latitude>
+    <Longitude>34.870947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בן אליעזר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939623</Latitude>
+    <Longitude>34.876119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה קרמר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932153</Latitude>
+    <Longitude>34.852653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>31.934103</Latitude>
+    <Longitude>34.865652</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אשכול</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929768</Latitude>
+    <Longitude>34.858362</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936116</Latitude>
+    <Longitude>34.861407</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס אבן סינא א'</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922784</Latitude>
+    <Longitude>34.865715</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס בר אילן ממ"ד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930311</Latitude>
+    <Longitude>34.858472</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס ג'ואריש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921929</Latitude>
+    <Longitude>34.849180</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס הרי"ן ממ"ד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924974</Latitude>
+    <Longitude>34.859334</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938063</Latitude>
+    <Longitude>34.864993</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922174</Latitude>
+    <Longitude>34.875354</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית"ר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927908</Latitude>
+    <Longitude>34.874577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928843</Latitude>
+    <Longitude>34.872310</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925709</Latitude>
+    <Longitude>34.860606</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928074</Latitude>
+    <Longitude>34.877119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני אמדורסקי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919574</Latitude>
+    <Longitude>34.873957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל שם טוב</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923476</Latitude>
+    <Longitude>34.873902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי המלאכה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932538</Latitude>
+    <Longitude>34.884390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922230</Latitude>
+    <Longitude>34.873970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929791</Latitude>
+    <Longitude>34.858203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכה פולד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929787</Latitude>
+    <Longitude>34.871093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברל כצנלסון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>ברל קצנלסון</AlternateName>
+    <Latitude>31.936857</Latitude>
+    <Longitude>34.868870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937170</Latitude>
+    <Longitude>34.861872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'ובראן חליל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923242</Latitude>
+    <Longitude>34.849109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבע</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924487</Latitude>
+    <Longitude>34.875813</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הדר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931397</Latitude>
+    <Longitude>34.853429</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922694</Latitude>
+    <Longitude>34.875962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גטו ורשה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927637</Latitude>
+    <Longitude>34.858084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927892</Latitude>
+    <Longitude>34.858660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיורא יוספטל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>יוספטל</AlternateName>
+    <Latitude>31.935449</Latitude>
+    <Longitude>34.859189</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גיורא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934380</Latitude>
+    <Longitude>34.856995</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן בריל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937948</Latitude>
+    <Longitude>34.873625</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן המגדל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927754</Latitude>
+    <Longitude>34.855864</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן קרמר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931019</Latitude>
+    <Longitude>34.852155</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני דן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925528</Latitude>
+    <Longitude>34.849065</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרשון ש"ץ</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932566</Latitude>
+    <Longitude>34.853782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר משה מרזוק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>משה מרזוק</AlternateName>
+    <AlternateName>דוקטור משה מרזוק</AlternateName>
+    <Latitude>31.936352</Latitude>
+    <Longitude>34.863212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר סאלק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>סאלק</AlternateName>
+    <AlternateName>דוקטור סאלק</AlternateName>
+    <Latitude>31.926364</Latitude>
+    <Longitude>34.869711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר פלמינג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>פלמינג</AlternateName>
+    <AlternateName>דוקטור פלמינג</AlternateName>
+    <Latitude>31.924836</Latitude>
+    <Longitude>34.869810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר פרויד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דוקטור פרויד</AlternateName>
+    <AlternateName>פרויד</AlternateName>
+    <Latitude>31.925590</Latitude>
+    <Longitude>34.869982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר קוך</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דוקטור קוך</AlternateName>
+    <AlternateName>קוך</AlternateName>
+    <Latitude>31.926083</Latitude>
+    <Longitude>34.870205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935779</Latitude>
+    <Longitude>34.863072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919383</Latitude>
+    <Longitude>34.866753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוגית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933389</Latitude>
+    <Longitude>34.876807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>31.925923</Latitude>
+    <Longitude>34.861875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>31.923653</Latitude>
+    <Longitude>34.876604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד מרכוס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דויד מרכוס</AlternateName>
+    <Latitude>31.930317</Latitude>
+    <Longitude>34.871762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דודו דותן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919284</Latitude>
+    <Longitude>34.872309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933586</Latitude>
+    <Longitude>34.887505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה רביקוביץ</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917902</Latitude>
+    <Longitude>34.870549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דני מס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928138</Latitude>
+    <Longitude>34.867948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936482</Latitude>
+    <Longitude>34.886586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.940223</Latitude>
+    <Longitude>34.861524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939495</Latitude>
+    <Longitude>34.860328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריסים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926183</Latitude>
+    <Longitude>34.850020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939996</Latitude>
+    <Longitude>34.860279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלונים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923980</Latitude>
+    <Longitude>34.852512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארון אלרשיד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923063</Latitude>
+    <Longitude>34.844811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925247</Latitude>
+    <Longitude>34.853136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920339</Latitude>
+    <Longitude>34.850905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926027</Latitude>
+    <Longitude>34.848155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.940345</Latitude>
+    <Longitude>34.862131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929894</Latitude>
+    <Longitude>34.872903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920404</Latitude>
+    <Longitude>34.855951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעדי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923977</Latitude>
+    <Longitude>34.871168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924951</Latitude>
+    <Longitude>34.853715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגשמה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928386</Latitude>
+    <Longitude>34.882714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדודאים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939309</Latitude>
+    <Longitude>34.859198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937387</Latitude>
+    <Longitude>34.859246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923398</Latitude>
+    <Longitude>34.852904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938483</Latitude>
+    <Longitude>34.860968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932198</Latitude>
+    <Longitude>34.871591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926881</Latitude>
+    <Longitude>34.852873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החזון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927462</Latitude>
+    <Longitude>34.883074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936432</Latitude>
+    <Longitude>34.863905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938259</Latitude>
+    <Longitude>34.867862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939250</Latitude>
+    <Longitude>34.870548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931777</Latitude>
+    <Longitude>34.881125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920737</Latitude>
+    <Longitude>34.858044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924632</Latitude>
+    <Longitude>34.851465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920944</Latitude>
+    <Longitude>34.856127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922546</Latitude>
+    <Longitude>34.862885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל הזקן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924313</Latitude>
+    <Longitude>34.877604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930826</Latitude>
+    <Longitude>34.872745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסדר הפרנסיסקני</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925777</Latitude>
+    <Longitude>34.872980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925608</Latitude>
+    <Longitude>34.870734</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>המרכז האזרחי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928927</Latitude>
+    <Longitude>34.869730</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הניצן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938732</Latitude>
+    <Longitude>34.859106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930991</Latitude>
+    <Longitude>34.881802</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>העיר העתיקה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924854</Latitude>
+    <Longitude>34.872671</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929106</Latitude>
+    <Longitude>34.875257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפעמונית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924652</Latitude>
+    <Longitude>34.849974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932527</Latitude>
+    <Longitude>34.855637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הגלבוע</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.916818</Latitude>
+    <Longitude>34.889701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר חרמון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917727</Latitude>
+    <Longitude>34.890346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר עצמון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919707</Latitude>
+    <Longitude>34.888359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אברהם הלל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>אברהם הלל</AlternateName>
+    <AlternateName>רבי אברהם הלל</AlternateName>
+    <AlternateName>הרבי אברהם הלל</AlternateName>
+    <Latitude>31.929588</Latitude>
+    <Longitude>34.862583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אריה לוין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי אריה לוין</AlternateName>
+    <AlternateName>הרבי אריה לוין</AlternateName>
+    <AlternateName>אריה לוין</AlternateName>
+    <Latitude>31.939606</Latitude>
+    <Longitude>34.874134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>31.922313</Latitude>
+    <Longitude>34.871645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים בן עטר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>חיים בן עטר</AlternateName>
+    <AlternateName>רבי חיים בן עטר</AlternateName>
+    <AlternateName>הרבי חיים בן עטר</AlternateName>
+    <Latitude>31.936408</Latitude>
+    <Longitude>34.875144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים יוסף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הרבי חיים יוסף</AlternateName>
+    <AlternateName>רבי חיים יוסף</AlternateName>
+    <AlternateName>חיים יוסף</AlternateName>
+    <Latitude>31.929749</Latitude>
+    <Longitude>34.862923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים שפירא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הרבי חיים שפירא</AlternateName>
+    <AlternateName>חיים שפירא</AlternateName>
+    <AlternateName>רבי חיים שפירא</AlternateName>
+    <Latitude>31.928988</Latitude>
+    <Longitude>34.856147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק טטרואשווילי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>יצחק טטרואשווילי</AlternateName>
+    <AlternateName>רבי יצחק טטרואשווילי</AlternateName>
+    <AlternateName>הרבי יצחק טטרואשווילי</AlternateName>
+    <Latitude>31.922374</Latitude>
+    <Longitude>34.859973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק שלמה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי יצחק שלמה</AlternateName>
+    <AlternateName>הרבי יצחק שלמה</AlternateName>
+    <AlternateName>יצחק שלמה</AlternateName>
+    <Latitude>31.923923</Latitude>
+    <Longitude>34.877542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מוהילבר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>מוהילבר</AlternateName>
+    <AlternateName>רבי מוהילבר</AlternateName>
+    <AlternateName>הרבי מוהילבר</AlternateName>
+    <Latitude>31.932778</Latitude>
+    <Longitude>34.863892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>31.931538</Latitude>
+    <Longitude>34.866085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מרדכי שרעבי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>מרדכי שרעבי</AlternateName>
+    <AlternateName>הרבי מרדכי שרעבי</AlternateName>
+    <AlternateName>רבי מרדכי שרעבי</AlternateName>
+    <Latitude>31.938967</Latitude>
+    <Longitude>34.873093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה שמש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>משה שמש</AlternateName>
+    <AlternateName>הרבי משה שמש</AlternateName>
+    <AlternateName>רבי משה שמש</AlternateName>
+    <Latitude>31.921478</Latitude>
+    <Longitude>34.865759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עובדיה סומך</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי עובדיה סומך</AlternateName>
+    <AlternateName>הרבי עובדיה סומך</AlternateName>
+    <AlternateName>עובדיה סומך</AlternateName>
+    <Latitude>31.924932</Latitude>
+    <Longitude>34.869265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>31.933169</Latitude>
+    <Longitude>34.863389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב פינס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>פינס</AlternateName>
+    <AlternateName>רבי פינס</AlternateName>
+    <AlternateName>הרבי פינס</AlternateName>
+    <Latitude>31.932966</Latitude>
+    <Longitude>34.863658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>31.932570</Latitude>
+    <Longitude>34.865854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ריינס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הרבי ריינס</AlternateName>
+    <AlternateName>רבי ריינס</AlternateName>
+    <AlternateName>ריינס</AlternateName>
+    <Latitude>31.932552</Latitude>
+    <Longitude>34.864154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמעון יצחק אפריאט</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>רבי שמעון יצחק אפריאט</AlternateName>
+    <AlternateName>הרבי שמעון יצחק אפריאט</AlternateName>
+    <AlternateName>שמעון יצחק אפריאט</AlternateName>
+    <Latitude>31.940058</Latitude>
+    <Longitude>34.877615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929065</Latitude>
+    <Longitude>34.874308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי הבשן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919168</Latitude>
+    <Longitude>34.886658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי הגולן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918940</Latitude>
+    <Longitude>34.891449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמ"א</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926513</Latitude>
+    <Longitude>34.850901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933383</Latitude>
+    <Longitude>34.864606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923420</Latitude>
+    <Longitude>34.852077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931556</Latitude>
+    <Longitude>34.871663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929695</Latitude>
+    <Longitude>34.873332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936908</Latitude>
+    <Longitude>34.858765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922845</Latitude>
+    <Longitude>34.853229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933267</Latitude>
+    <Longitude>34.855910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939441</Latitude>
+    <Longitude>34.857200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919289</Latitude>
+    <Longitude>34.859924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922342</Latitude>
+    <Longitude>34.851364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929580</Latitude>
+    <Longitude>34.882042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התשעה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930729</Latitude>
+    <Longitude>34.854348</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928647</Latitude>
+    <Longitude>34.862518</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>וילנה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932634</Latitude>
+    <Longitude>34.860570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינגייט</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922489</Latitude>
+    <Longitude>34.876525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וכיל יחזקאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930114</Latitude>
+    <Longitude>34.863530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923634</Latitude>
+    <Longitude>34.855877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.923934</Latitude>
+    <Longitude>34.873676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922915</Latitude>
+    <Longitude>34.866095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ח.נ. ביאליק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923377</Latitude>
+    <Longitude>34.869967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921283</Latitude>
+    <Longitude>34.870058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923942</Latitude>
+    <Longitude>34.868265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935584</Latitude>
+    <Longitude>34.886336</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חורשת נווה דוד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>חורשת נווה דויד</AlternateName>
+    <Latitude>31.936923</Latitude>
+    <Longitude>34.863193</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חטיבת גולני</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931617</Latitude>
+    <Longitude>34.855484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת קרייתי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933303</Latitude>
+    <Longitude>34.854412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים אשר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933705</Latitude>
+    <Longitude>34.870643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ברלב</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938508</Latitude>
+    <Longitude>34.856720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לנדאו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939071</Latitude>
+    <Longitude>34.875754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929231</Latitude>
+    <Longitude>34.872213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנוך לוין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917919</Latitude>
+    <Longitude>34.873098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חניתה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923977</Latitude>
+    <Longitude>34.871168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חץ</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935816</Latitude>
+    <Longitude>34.875133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טולידנו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923638</Latitude>
+    <Longitude>34.875434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939458</Latitude>
+    <Longitude>34.862859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טייטלבאום</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921523</Latitude>
+    <Longitude>34.853860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930317</Latitude>
+    <Longitude>34.871762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927729</Latitude>
+    <Longitude>34.876452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937011</Latitude>
+    <Longitude>34.867450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר שטרן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937240</Latitude>
+    <Longitude>34.877686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920996</Latitude>
+    <Longitude>34.869483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925868</Latitude>
+    <Longitude>34.877477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה עמיחי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918524</Latitude>
+    <Longitude>34.867744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה שטיין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926512</Latitude>
+    <Longitude>34.859197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>31.924204</Latitude>
+    <Longitude>34.867212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920650</Latitude>
+    <Longitude>34.869071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יובלים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929256</Latitude>
+    <Longitude>34.853722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה הנביא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919383</Latitude>
+    <Longitude>34.866753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסי ידין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917317</Latitude>
+    <Longitude>34.873726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף ויתקין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937050</Latitude>
+    <Longitude>34.864523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קלויזנר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919432</Latitude>
+    <Longitude>34.869229</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>31.934195</Latitude>
+    <Longitude>34.861309</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יורדי הים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930235</Latitude>
+    <Longitude>34.871771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל לוי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921749</Latitude>
+    <Longitude>34.876500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920497</Latitude>
+    <Longitude>34.865025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב דדון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921993</Latitude>
+    <Longitude>34.874448</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925135</Latitude>
+    <Longitude>34.852048</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929799</Latitude>
+    <Longitude>34.860176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927776</Latitude>
+    <Longitude>34.875710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920949</Latitude>
+    <Longitude>34.867512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919193</Latitude>
+    <Longitude>34.866105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל פרנקל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>ישראל פראנקל</AlternateName>
+    <Latitude>31.935556</Latitude>
+    <Longitude>34.863988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ששון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921494</Latitude>
+    <Longitude>34.875949</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר המדינה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>ככר המדינה</AlternateName>
+    <Latitude>31.928397</Latitude>
+    <Longitude>34.876429</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר ספירלת החשמל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>ככר ספירלת החשמל</AlternateName>
+    <Latitude>31.940130</Latitude>
+    <Longitude>34.870966</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922546</Latitude>
+    <Longitude>34.862885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי בית"ר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933821</Latitude>
+    <Longitude>34.878223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי גוש עציון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933674</Latitude>
+    <Longitude>34.863594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הבריגדה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932715</Latitude>
+    <Longitude>34.872428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928985</Latitude>
+    <Longitude>34.857119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928167</Latitude>
+    <Longitude>34.876537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר אריאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918309</Latitude>
+    <Longitude>34.868056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר בינט</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935962</Latitude>
+    <Longitude>34.855636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר בר אילן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931600</Latitude>
+    <Longitude>34.863685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יהונתן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925177</Latitude>
+    <Longitude>34.854404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע משה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927884</Latitude>
+    <Longitude>34.859755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937327</Latitude>
+    <Longitude>34.866653</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מגדל אילון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927263</Latitude>
+    <Longitude>34.870301</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936613</Latitude>
+    <Longitude>34.868367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921687</Latitude>
+    <Longitude>34.864107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה רייסר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938578</Latitude>
+    <Longitude>34.879385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924202</Latitude>
+    <Longitude>34.867932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921698</Latitude>
+    <Longitude>34.867867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם דניאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922137</Latitude>
+    <Longitude>34.875032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנשה צלח</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938030</Latitude>
+    <Longitude>34.876764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920407</Latitude>
+    <Longitude>34.870916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.940649</Latitude>
+    <Longitude>34.864022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי היהודי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933514</Latitude>
+    <Longitude>34.872325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים הנביאה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.919843</Latitude>
+    <Longitude>34.868982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה אדרת</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931315</Latitude>
+    <Longitude>34.890029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937076</Latitude>
+    <Longitude>34.855948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>31.922896</Latitude>
+    <Longitude>34.878676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מונטיפיורי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922358</Latitude>
+    <Longitude>34.878402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה צדקה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921754</Latitude>
+    <Longitude>34.865945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה רבנו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922575</Latitude>
+    <Longitude>34.867577</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משכנות</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933097</Latitude>
+    <Longitude>34.863065</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות יצחק רבין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922492</Latitude>
+    <Longitude>34.856884</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה דוד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>נווה דויד</AlternateName>
+    <Latitude>31.938831</Latitude>
+    <Longitude>34.860352</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה יהונתן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925755</Latitude>
+    <Longitude>34.855522</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה מאיר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921856</Latitude>
+    <Longitude>34.863529</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה רם</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.937747</Latitude>
+    <Longitude>34.857558</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927628</Latitude>
+    <Longitude>34.874034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.939138</Latitude>
+    <Longitude>34.856571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום סוקולוב</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>31.935358</Latitude>
+    <Longitude>34.868444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923203</Latitude>
+    <Longitude>34.867677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשול</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933363</Latitude>
+    <Longitude>34.875361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסים אלוני</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918031</Latitude>
+    <Longitude>34.867319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918048</Latitude>
+    <Longitude>34.873743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן אלבז</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921563</Latitude>
+    <Longitude>34.874025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938093</Latitude>
+    <Longitude>34.859294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934588</Latitude>
+    <Longitude>34.870550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיקסק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933692</Latitude>
+    <Longitude>34.886271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמולנסקין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934573</Latitude>
+    <Longitude>34.866702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת תוחלת</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.930462</Latitude>
+    <Longitude>34.856258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>31.922694</Latitude>
+    <Longitude>34.875962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה מרדכי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920282</Latitude>
+    <Longitude>34.860583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925400</Latitude>
+    <Longitude>34.850080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדס שפיק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.927130</Latitude>
+    <Longitude>34.869943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921340</Latitude>
+    <Longitude>34.867691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזי חיטמן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918725</Latitude>
+    <Longitude>34.871883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא בטה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936043</Latitude>
+    <Longitude>34.857233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924202</Latitude>
+    <Longitude>34.867932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921340</Latitude>
+    <Longitude>34.867691</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921618</Latitude>
+    <Longitude>34.870032</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמיחי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935269</Latitude>
+    <Longitude>34.856764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932783</Latitude>
+    <Longitude>34.881319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרה חזה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917096</Latitude>
+    <Longitude>34.871706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פועלי ציון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925187</Latitude>
+    <Longitude>34.877228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932932</Latitude>
+    <Longitude>34.867249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932861</Latitude>
+    <Longitude>34.866739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסטר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.924417</Latitude>
+    <Longitude>34.873559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פקיעין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921925</Latitude>
+    <Longitude>34.872018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרנקל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>פראנקל</AlternateName>
+    <Latitude>31.927782</Latitude>
+    <Longitude>34.873287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933783</Latitude>
+    <Longitude>34.886261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932211</Latitude>
+    <Longitude>34.857604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932445</Latitude>
+    <Longitude>34.888648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921961</Latitude>
+    <Longitude>34.869830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צידון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921470</Latitude>
+    <Longitude>34.871586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציון אשר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926492</Latitude>
+    <Longitude>34.849260</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפור גן עדן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938211</Latitude>
+    <Longitude>34.858179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921982</Latitude>
+    <Longitude>34.868163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921762</Latitude>
+    <Longitude>34.871220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת דטרויט</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926081</Latitude>
+    <Longitude>34.873164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורצ'אק</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929065</Latitude>
+    <Longitude>34.874308</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית האמנים</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.918125</Latitude>
+    <Longitude>34.871626</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית מנחם בגין</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.938457</Latitude>
+    <Longitude>34.877165</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928701</Latitude>
+    <Longitude>34.854752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבאט</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.931346</Latitude>
+    <Longitude>34.885168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רזיאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934691</Latitude>
+    <Longitude>34.863905</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת דן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934793</Latitude>
+    <Longitude>34.853280</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923658</Latitude>
+    <Longitude>34.875739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.931089</Latitude>
+    <Longitude>34.861675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות דוד רזיאל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <AlternateName>דוד רזיאל</AlternateName>
+    <AlternateName>שד' דויד רזיאל</AlternateName>
+    <AlternateName>שדרות דויד רזיאל</AlternateName>
+    <AlternateName>שד' דוד רזיאל</AlternateName>
+    <Latitude>31.923492</Latitude>
+    <Longitude>34.862578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרצל</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>הרצל</AlternateName>
+    <AlternateName>שד' הרצל</AlternateName>
+    <Latitude>31.926581</Latitude>
+    <Longitude>34.875178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות חיים וייצמן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>חיים וייצמן</AlternateName>
+    <AlternateName>שד' חיים וייצמן</AlternateName>
+    <Latitude>31.929526</Latitude>
+    <Longitude>34.865766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שלמה המלך</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <AlternateName>שד' שלמה המלך</AlternateName>
+    <AlternateName>שלמה המלך</AlternateName>
+    <Latitude>31.925196</Latitude>
+    <Longitude>34.875362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שונית</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934673</Latitude>
+    <Longitude>34.875658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנה דמארי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.914874</Latitude>
+    <Longitude>34.870154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936907</Latitude>
+    <Longitude>34.865330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929997</Latitude>
+    <Longitude>34.874419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שייקה אופיר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.917536</Latitude>
+    <Longitude>34.869847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.935458</Latitude>
+    <Longitude>34.886370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום איפרגן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.922243</Latitude>
+    <Longitude>34.874432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום בן שלום עופרי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932547</Latitude>
+    <Longitude>34.862934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עופרי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929444</Latitude>
+    <Longitude>34.862140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.934427</Latitude>
+    <Longitude>34.865471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.921578</Latitude>
+    <Longitude>34.872713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמ"ח</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.925383</Latitude>
+    <Longitude>34.850746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנביא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.920591</Latitude>
+    <Longitude>34.866951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל תמיר</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.936502</Latitude>
+    <Longitude>34.873771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.932125</Latitude>
+    <Longitude>34.853084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה ששון</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.923723</Latitude>
+    <Longitude>34.870714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון הגיבור</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.926385</Latitude>
+    <Longitude>34.866704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפירא</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928108</Latitude>
+    <Longitude>34.873372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.933356</Latitude>
+    <Longitude>34.881906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.929553</Latitude>
+    <Longitude>34.873717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תקומה</NativeName>
+    <ParentName>רמלה, ישראל</ParentName>
+    <Latitude>31.928696</Latitude>
+    <Longitude>34.884720</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,2573 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.077433</Latitude>
+    <Longitude>34.830221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבטליון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087526</Latitude>
+    <Longitude>34.831780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביי ורבא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083309</Latitude>
+    <Longitude>34.831359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביעד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098740</Latitude>
+    <Longitude>34.843420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090170</Latitude>
+    <Longitude>34.831773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090879</Latitude>
+    <Longitude>34.831775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן שפרוט</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090612</Latitude>
+    <Longitude>34.832580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבני נזר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083488</Latitude>
+    <Longitude>34.842140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.095800</Latitude>
+    <Longitude>34.838381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם בן דוד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אברהם בן דויד</AlternateName>
+    <Latitude>32.076227</Latitude>
+    <Longitude>34.840859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמו"רי שאץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.074693</Latitude>
+    <Longitude>34.841675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת שלום</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075599</Latitude>
+    <Longitude>34.837311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון דב פוקס</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086150</Latitude>
+    <Longitude>34.824521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרונוביץ'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087197</Latitude>
+    <Longitude>34.839081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אונקלוס</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087996</Latitude>
+    <Longitude>34.840661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.093840</Latitude>
+    <Longitude>34.838744</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אור החיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086545</Latitude>
+    <Longitude>34.843819</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אורליאן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.070660</Latitude>
+    <Longitude>34.840679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחיה השילוני</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089950</Latitude>
+    <Longitude>34.823903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחיעזר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088075</Latitude>
+    <Longitude>34.829181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף שמחוני</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שמחוני</AlternateName>
+    <Latitude>32.077385</Latitude>
+    <Longitude>34.828308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088956</Latitude>
+    <Longitude>34.833322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085572</Latitude>
+    <Longitude>34.837133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085578</Latitude>
+    <Longitude>34.838669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקבץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092236</Latitude>
+    <Longitude>34.840256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלשיך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אלשיח</AlternateName>
+    <Latitude>32.081355</Latitude>
+    <Longitude>34.834560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמרי ברוך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.073992</Latitude>
+    <Longitude>34.836004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמרי חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.074367</Latitude>
+    <Longitude>34.838578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082187</Latitude>
+    <Longitude>34.826469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.094220</Latitude>
+    <Longitude>34.827428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה רייך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091179</Latitude>
+    <Longitude>34.838067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל אברהם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082631</Latitude>
+    <Longitude>34.842787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באר מים חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083120</Latitude>
+    <Longitude>34.841383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077052</Latitude>
+    <Longitude>34.828960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093885</Latitude>
+    <Longitude>34.838053</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס לבנות בנות החי"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.071032</Latitude>
+    <Longitude>34.836417</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.093939</Latitude>
+    <Longitude>34.836534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091696</Latitude>
+    <Longitude>34.834035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביריה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.071749</Latitude>
+    <Longitude>34.837746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית הלל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081122</Latitude>
+    <Longitude>34.835261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית חורון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094583</Latitude>
+    <Longitude>34.823346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית יוסף</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090990</Latitude>
+    <Longitude>34.840079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית שמאי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082685</Latitude>
+    <Longitude>34.835423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן זומא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087418</Latitude>
+    <Longitude>34.843023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן סירא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088204</Latitude>
+    <Longitude>34.824033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן עזאי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086891</Latitude>
+    <Longitude>34.841083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן פתחיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089374</Latitude>
+    <Longitude>34.828760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן שטח</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שמעון בן שטח</AlternateName>
+    <Latitude>32.078792</Latitude>
+    <Longitude>34.830386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין אברהם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093448</Latitude>
+    <Longitude>34.840186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל התניא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077402</Latitude>
+    <Longitude>34.832849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל שם טוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085098</Latitude>
+    <Longitude>34.835282</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089310</Latitude>
+    <Longitude>34.841091</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078321</Latitude>
+    <Longitude>34.841550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093353</Latitude>
+    <Longitude>34.823540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך הירש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.097800</Latitude>
+    <Longitude>34.827193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך משה הכהן וגמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089749</Latitude>
+    <Longitude>34.827131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוריה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088265</Latitude>
+    <Longitude>34.840270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברטנורא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083101</Latitude>
+    <Longitude>34.834200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנדשטטר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.080400</Latitude>
+    <Longitude>34.835936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאוני בריסק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081112</Latitude>
+    <Longitude>34.833172</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת סוקולוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>גבעת סוקלוב</AlternateName>
+    <Latitude>32.089517</Latitude>
+    <Longitude>34.831854</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעת פנחס</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076604</Latitude>
+    <Longitude>34.837347</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת רוקח</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089908</Latitude>
+    <Longitude>34.828241</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גוטליב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081548</Latitude>
+    <Longitude>34.828168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075751</Latitude>
+    <Longitude>34.830569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082140</Latitude>
+    <Longitude>34.843153</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן ד"ר א. ברט</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093525</Latitude>
+    <Longitude>34.833355</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן העצמאות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089504</Latitude>
+    <Longitude>34.831026</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן נחל שורק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.072548</Latitude>
+    <Longitude>34.842023</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גן קדושי ורשא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085893</Latitude>
+    <Longitude>34.831743</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני גד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090020</Latitude>
+    <Longitude>34.844648</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרינברג</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.097043</Latitude>
+    <Longitude>34.843845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר ברויאר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>דוקטור ברויאר</AlternateName>
+    <AlternateName>ברויאר</AlternateName>
+    <Latitude>32.090085</Latitude>
+    <Longitude>34.841533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר נתן בירנבוים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>נתן בירנבוים</AlternateName>
+    <AlternateName>דוקטור נתן בירנבוים</AlternateName>
+    <Latitude>32.071466</Latitude>
+    <Longitude>34.840518</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093535</Latitude>
+    <Longitude>34.827852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093911</Latitude>
+    <Longitude>34.837301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078119</Latitude>
+    <Longitude>34.835295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.083550</Latitude>
+    <Longitude>34.827340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פנקס</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>דויד פנקס</AlternateName>
+    <Latitude>32.080626</Latitude>
+    <Longitude>34.827988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דון יוסף נשיא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081426</Latitude>
+    <Longitude>34.840141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דונולו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087332</Latitude>
+    <Longitude>34.834717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דמשק אליעזר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.074907</Latitude>
+    <Longitude>34.837110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דנה סרור</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.095838</Latitude>
+    <Longitude>34.831339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081525</Latitude>
+    <Longitude>34.826463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079128</Latitude>
+    <Longitude>34.831466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך אם המושבות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אם המושבות</AlternateName>
+    <Latitude>32.100663</Latitude>
+    <Longitude>34.835995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך זאב ז'בוטינסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>דרך ז'בוטינסקי</AlternateName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>דרך זבוטיסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>32.092314</Latitude>
+    <Longitude>34.833902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ששת הימים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>ששת הימים</AlternateName>
+    <Latitude>32.097980</Latitude>
+    <Longitude>34.825287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מבעלזא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085058</Latitude>
+    <Longitude>34.830645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מגור</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083074</Latitude>
+    <Longitude>34.837019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מוישוי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075322</Latitude>
+    <Longitude>34.837358</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מצנז</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082284</Latitude>
+    <Longitude>34.837312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מקוצק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.072885</Latitude>
+    <Longitude>34.840406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מראדזימין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083096</Latitude>
+    <Longitude>34.840244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מרוז'ין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085300</Latitude>
+    <Longitude>34.827506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"רים מספינקא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087142</Latitude>
+    <Longitude>34.835092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083756</Latitude>
+    <Longitude>34.833378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085063</Latitude>
+    <Longitude>34.824675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093891</Latitude>
+    <Longitude>34.842505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085987</Latitude>
+    <Longitude>34.828863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדסים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093110</Latitude>
+    <Longitude>34.843626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.095835</Latitude>
+    <Longitude>34.837440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088442</Latitude>
+    <Longitude>34.837367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093957</Latitude>
+    <Longitude>34.840904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093609</Latitude>
+    <Longitude>34.825861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הילדסהיימר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090542</Latitude>
+    <Longitude>34.845062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092055</Latitude>
+    <Longitude>34.836979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.096623</Latitude>
+    <Longitude>34.827665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוחמים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088971</Latitude>
+    <Longitude>34.831409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094773</Latitude>
+    <Longitude>34.832495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094703</Latitude>
+    <Longitude>34.840944</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה השנייה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089798</Latitude>
+    <Longitude>34.835064</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הפועל המזרחי א'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.080579</Latitude>
+    <Longitude>34.828994</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הפועל המזרחי ב'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082792</Latitude>
+    <Longitude>34.826705</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הפועל המזרחי ג'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079563</Latitude>
+    <Longitude>34.832770</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098838</Latitude>
+    <Longitude>34.830901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הבית</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088962</Latitude>
+    <Longitude>34.828862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089066</Latitude>
+    <Longitude>34.829882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר סיני</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.074275</Latitude>
+    <Longitude>34.840252</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הר שלום</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084843</Latitude>
+    <Longitude>34.828088</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091028</Latitude>
+    <Longitude>34.827217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אברהם יצחק הכהן קוק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי אברהם יצחק הכהן קוק</AlternateName>
+    <AlternateName>הרבי אברהם יצחק הכהן קוק</AlternateName>
+    <AlternateName>אברהם יצחק הכהן קוק</AlternateName>
+    <Latitude>32.085961</Latitude>
+    <Longitude>34.825879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אברמסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אברמסקי</AlternateName>
+    <AlternateName>הרבי אברמסקי</AlternateName>
+    <AlternateName>רבי אברמסקי</AlternateName>
+    <Latitude>32.099083</Latitude>
+    <Longitude>34.837465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אהרונסון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי אהרונסון</AlternateName>
+    <AlternateName>אהרונסון</AlternateName>
+    <AlternateName>רבי אהרונסון</AlternateName>
+    <Latitude>32.081744</Latitude>
+    <Longitude>34.827338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלקלעי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי אלקלאי</AlternateName>
+    <AlternateName>אלקלעי</AlternateName>
+    <AlternateName>אלקלאי</AlternateName>
+    <AlternateName>רבי אלקלאי</AlternateName>
+    <AlternateName>הרב אלקלאי</AlternateName>
+    <AlternateName>רבי אלקלעי</AlternateName>
+    <AlternateName>הרבי אלקלעי</AlternateName>
+    <Latitude>32.088985</Latitude>
+    <Longitude>34.841154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אריה רבינוביץ'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי אריה רבינוביץ'</AlternateName>
+    <AlternateName>הרבי אריה רבינוביץ'</AlternateName>
+    <AlternateName>אריה רבינוביץ'</AlternateName>
+    <Latitude>32.072393</Latitude>
+    <Longitude>34.840257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אשר קלמן בארון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי אשר קלמן בארון</AlternateName>
+    <AlternateName>הרבי אשר קלמן בארון</AlternateName>
+    <AlternateName>אשר קלמן בארון</AlternateName>
+    <Latitude>32.083200</Latitude>
+    <Longitude>34.832978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בלוי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי בלוי</AlternateName>
+    <AlternateName>רבי בלוי</AlternateName>
+    <AlternateName>בלוי</AlternateName>
+    <Latitude>32.087162</Latitude>
+    <Longitude>34.832492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב במברגר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>במברגר</AlternateName>
+    <AlternateName>הרבי במברגר</AlternateName>
+    <AlternateName>רבי במברגר</AlternateName>
+    <Latitude>32.088450</Latitude>
+    <Longitude>34.830925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בן יעקב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי בן יעקב</AlternateName>
+    <AlternateName>בן יעקב</AlternateName>
+    <AlternateName>רבי בן יעקב</AlternateName>
+    <Latitude>32.077889</Latitude>
+    <Longitude>34.839476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ברוט</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי ברוט</AlternateName>
+    <AlternateName>ברוט</AlternateName>
+    <AlternateName>רבי ברוט</AlternateName>
+    <Latitude>32.094091</Latitude>
+    <Longitude>34.834393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גוטמכר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי גוטמכר</AlternateName>
+    <AlternateName>הרבי גוטמכר</AlternateName>
+    <AlternateName>גוטמכר</AlternateName>
+    <Latitude>32.088380</Latitude>
+    <Longitude>34.842030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב דסלר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>דסלר</AlternateName>
+    <AlternateName>הרבי דסלר</AlternateName>
+    <AlternateName>רבי דסלר</AlternateName>
+    <Latitude>32.081996</Latitude>
+    <Longitude>34.833290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הירש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי הירש</AlternateName>
+    <AlternateName>הרב הברון הירש</AlternateName>
+    <AlternateName>הרבי הירש</AlternateName>
+    <AlternateName>הרבי הברון הירש</AlternateName>
+    <AlternateName>הירש</AlternateName>
+    <AlternateName>הברון הירש</AlternateName>
+    <AlternateName>רבי הברון הירש</AlternateName>
+    <Latitude>32.080466</Latitude>
+    <Longitude>34.832579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הלפרין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי הלפרין</AlternateName>
+    <AlternateName>הרבי הלפרין</AlternateName>
+    <AlternateName>הלפרין</AlternateName>
+    <Latitude>32.083128</Latitude>
+    <Longitude>34.833732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.088629</Latitude>
+    <Longitude>34.825244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וורנר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי וורנר</AlternateName>
+    <AlternateName>הרבי וורנר</AlternateName>
+    <AlternateName>וורנר</AlternateName>
+    <Latitude>32.080279</Latitude>
+    <Longitude>34.835236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וילקומירר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי וילקומירר</AlternateName>
+    <AlternateName>וילקומירר</AlternateName>
+    <AlternateName>רבי וילקומירר</AlternateName>
+    <Latitude>32.082432</Latitude>
+    <Longitude>34.834304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וסרמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי וסרמן</AlternateName>
+    <AlternateName>וסרמן</AlternateName>
+    <AlternateName>רבי וסרמן</AlternateName>
+    <Latitude>32.081178</Latitude>
+    <Longitude>34.831944</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב זאב גולד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי זאב גולד</AlternateName>
+    <AlternateName>רבי זאב גולד</AlternateName>
+    <AlternateName>זאב גולד</AlternateName>
+    <Latitude>32.079469</Latitude>
+    <Longitude>34.828197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב זוננפלד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי זוננפלד</AlternateName>
+    <AlternateName>זוננפלד</AlternateName>
+    <AlternateName>הרבי זוננפלד</AlternateName>
+    <Latitude>32.080909</Latitude>
+    <Longitude>34.842590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חי טייב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי חי טייב</AlternateName>
+    <AlternateName>הרבי חי טייב</AlternateName>
+    <AlternateName>חי טייב</AlternateName>
+    <Latitude>32.096904</Latitude>
+    <Longitude>34.837406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חרל"פ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>חרל"פ</AlternateName>
+    <AlternateName>רבי חרל"פ</AlternateName>
+    <AlternateName>הרבי חרל"פ</AlternateName>
+    <Latitude>32.086042</Latitude>
+    <Longitude>34.823208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב טולדנו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי טולדנו</AlternateName>
+    <AlternateName>רבי טולדנו</AlternateName>
+    <AlternateName>טולדנו</AlternateName>
+    <Latitude>32.086114</Latitude>
+    <Longitude>34.842665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף הכהן מעלאהן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי יוסף הכהן מעלאהן</AlternateName>
+    <AlternateName>יוסף הכהן מעלאהן</AlternateName>
+    <AlternateName>הרבי יוסף הכהן מעלאהן</AlternateName>
+    <Latitude>32.071484</Latitude>
+    <Longitude>34.841242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יעקב לנדא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>יעקב לנדא</AlternateName>
+    <AlternateName>רבי יעקב לנדא</AlternateName>
+    <AlternateName>הרבי יעקב לנדא</AlternateName>
+    <Latitude>32.079106</Latitude>
+    <Longitude>34.833443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק נסים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי יצחק נסים</AlternateName>
+    <AlternateName>רבי יצחק נסים</AlternateName>
+    <AlternateName>יצחק נסים</AlternateName>
+    <Latitude>32.073015</Latitude>
+    <Longitude>34.839801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק שמידמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי יצחק שמידמן</AlternateName>
+    <AlternateName>הרבי יצחק שמידמן</AlternateName>
+    <AlternateName>יצחק שמידמן</AlternateName>
+    <Latitude>32.085082</Latitude>
+    <Longitude>34.826837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ישראל אבו חצירא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי ישראל אבו חצירא</AlternateName>
+    <AlternateName>רבי ישראל אבו חצירא</AlternateName>
+    <AlternateName>ישראל אבו חצירא</AlternateName>
+    <Latitude>32.094858</Latitude>
+    <Longitude>34.831182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב כהנמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי כהנמן</AlternateName>
+    <AlternateName>כהנמן</AlternateName>
+    <AlternateName>רבי כהנמן</AlternateName>
+    <Latitude>32.081703</Latitude>
+    <Longitude>34.841064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב לוין מרישא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>לוין מרישא</AlternateName>
+    <AlternateName>רבי לוין מרישא</AlternateName>
+    <AlternateName>הרבי לוין מרישא</AlternateName>
+    <Latitude>32.090812</Latitude>
+    <Longitude>34.843164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיודסר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי מיודסר</AlternateName>
+    <AlternateName>מיודסר</AlternateName>
+    <AlternateName>רבי מיודסר</AlternateName>
+    <Latitude>32.079266</Latitude>
+    <Longitude>34.836554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.087974</Latitude>
+    <Longitude>34.830989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מלצר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי מלצר</AlternateName>
+    <AlternateName>הרבי מלצר</AlternateName>
+    <AlternateName>מלצר</AlternateName>
+    <Latitude>32.082060</Latitude>
+    <Longitude>34.838620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מצליח</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>מצליח</AlternateName>
+    <AlternateName>רבי מצליח</AlternateName>
+    <AlternateName>הרבי מצליח</AlternateName>
+    <Latitude>32.097702</Latitude>
+    <Longitude>34.839490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה יברוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי משה יברוב</AlternateName>
+    <AlternateName>רבי משה יברוב</AlternateName>
+    <AlternateName>משה יברוב</AlternateName>
+    <Latitude>32.082457</Latitude>
+    <Longitude>34.831559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משולם ראט</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>משולם ראט</AlternateName>
+    <AlternateName>הרבי משולם ראט</AlternateName>
+    <AlternateName>רבי משולם ראט</AlternateName>
+    <Latitude>32.095916</Latitude>
+    <Longitude>34.843429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נויפלד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי נויפלד</AlternateName>
+    <AlternateName>נויפלד</AlternateName>
+    <AlternateName>הרבי נויפלד</AlternateName>
+    <Latitude>32.096839</Latitude>
+    <Longitude>34.840783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נורוק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>נורוק</AlternateName>
+    <AlternateName>רבי נורוק</AlternateName>
+    <AlternateName>הרבי נורוק</AlternateName>
+    <Latitude>32.097225</Latitude>
+    <Longitude>34.843001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב סורוצקין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי סורוצקין</AlternateName>
+    <AlternateName>סורוצקין</AlternateName>
+    <AlternateName>הרבי סורוצקין</AlternateName>
+    <Latitude>32.085428</Latitude>
+    <Longitude>34.842231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב סעדיה גאון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרב סעדיה</AlternateName>
+    <AlternateName>רבי סעדיה</AlternateName>
+    <AlternateName>רבי סעדיה גאון</AlternateName>
+    <AlternateName>סעדיה</AlternateName>
+    <AlternateName>סעדיה גאון</AlternateName>
+    <AlternateName>הרבי סעדיה גאון</AlternateName>
+    <AlternateName>הרבי סעדיה</AlternateName>
+    <Latitude>32.081436</Latitude>
+    <Longitude>34.833886</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.074275</Latitude>
+    <Longitude>34.840252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עטיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי עטיה</AlternateName>
+    <AlternateName>רבי עטיה</AlternateName>
+    <AlternateName>עטיה</AlternateName>
+    <Latitude>32.081504</Latitude>
+    <Longitude>34.844348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עמיאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי עמיאל</AlternateName>
+    <AlternateName>עמיאל</AlternateName>
+    <AlternateName>הרבי עמיאל</AlternateName>
+    <Latitude>32.079130</Latitude>
+    <Longitude>34.828263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב פוברסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי פוברסקי</AlternateName>
+    <AlternateName>פוברסקי</AlternateName>
+    <AlternateName>הרבי פוברסקי</AlternateName>
+    <Latitude>32.084668</Latitude>
+    <Longitude>34.841745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב פתאיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי פתאיה</AlternateName>
+    <AlternateName>רבי פתאיה</AlternateName>
+    <AlternateName>פתאיה</AlternateName>
+    <Latitude>32.095999</Latitude>
+    <Longitude>34.830084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צירלסון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>צירלסון</AlternateName>
+    <AlternateName>רבי צירלסון</AlternateName>
+    <AlternateName>הרבי צירלסון</AlternateName>
+    <Latitude>32.091790</Latitude>
+    <Longitude>34.841931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קובלסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי קובלסקי</AlternateName>
+    <AlternateName>רבי קובלסקי</AlternateName>
+    <AlternateName>קובלסקי</AlternateName>
+    <Latitude>32.098101</Latitude>
+    <Longitude>34.840812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוטלר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי קוטלר</AlternateName>
+    <AlternateName>רבי קוטלר</AlternateName>
+    <AlternateName>קוטלר</AlternateName>
+    <Latitude>32.086418</Latitude>
+    <Longitude>34.834219</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.087662</Latitude>
+    <Longitude>34.827398</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרב קלישר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי קלישר</AlternateName>
+    <AlternateName>קלישר</AlternateName>
+    <AlternateName>הרבי קלישר</AlternateName>
+    <Latitude>32.089554</Latitude>
+    <Longitude>34.843961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב רבינוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי רבינוב</AlternateName>
+    <AlternateName>הרבי רבינוב</AlternateName>
+    <AlternateName>רבינוב</AlternateName>
+    <Latitude>32.083774</Latitude>
+    <Longitude>34.843725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ש"ך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי ש"ך</AlternateName>
+    <AlternateName>הרבי ש"ך</AlternateName>
+    <AlternateName>ש"ך</AlternateName>
+    <Latitude>32.087607</Latitude>
+    <Longitude>34.835562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ש. כהן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי ש. כהן</AlternateName>
+    <AlternateName>ש. כהן</AlternateName>
+    <AlternateName>הרבי ש. כהן</AlternateName>
+    <Latitude>32.081417</Latitude>
+    <Longitude>34.841967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שאול חדד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שאול חדד</AlternateName>
+    <AlternateName>רבי שאול חדד</AlternateName>
+    <AlternateName>שאול חדד</AlternateName>
+    <Latitude>32.093594</Latitude>
+    <Longitude>34.843862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שטרסר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי שטרסר</AlternateName>
+    <AlternateName>שטרסר</AlternateName>
+    <AlternateName>הרבי שטרסר</AlternateName>
+    <Latitude>32.087275</Latitude>
+    <Longitude>34.833131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמואל רוזובסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שמואל רוזובסקי</AlternateName>
+    <AlternateName>שמואל רוזובסקי</AlternateName>
+    <AlternateName>רבי שמואל רוזובסקי</AlternateName>
+    <Latitude>32.083732</Latitude>
+    <Longitude>34.839168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שמש</AlternateName>
+    <AlternateName>רבי שמש</AlternateName>
+    <AlternateName>שמש</AlternateName>
+    <Latitude>32.093404</Latitude>
+    <Longitude>34.829904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שפירא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי שפירא</AlternateName>
+    <AlternateName>הרבי שפירא</AlternateName>
+    <AlternateName>שפירא</AlternateName>
+    <Latitude>32.090257</Latitude>
+    <Longitude>34.840144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שר</AlternateName>
+    <AlternateName>רבי שר</AlternateName>
+    <AlternateName>שר</AlternateName>
+    <Latitude>32.090167</Latitude>
+    <Longitude>34.828097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי גולן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098376</Latitude>
+    <Longitude>34.835088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092648</Latitude>
+    <Longitude>34.835348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089160</Latitude>
+    <Longitude>34.836577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השניים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093939</Latitude>
+    <Longitude>34.836534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריונאים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084160</Latitude>
+    <Longitude>34.842896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084804</Latitude>
+    <Longitude>34.823390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083031</Latitude>
+    <Longitude>34.829585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ועד ארבע ארצות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089804</Latitude>
+    <Longitude>34.844916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086877</Latitude>
+    <Longitude>34.836194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרובבל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.095247</Latitude>
+    <Longitude>34.826857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087301</Latitude>
+    <Longitude>34.837438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084665</Latitude>
+    <Longitude>34.826155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087895</Latitude>
+    <Longitude>34.836461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חולדה הנביאה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078076</Latitude>
+    <Longitude>34.829808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079454</Latitude>
+    <Longitude>34.834176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיד"א</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091031</Latitude>
+    <Longitude>34.837155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חידושי הרי"ם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077019</Latitude>
+    <Longitude>34.835586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לנדאו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093172</Latitude>
+    <Longitude>34.841609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים פרל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090792</Latitude>
+    <Longitude>34.828087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076185</Latitude>
+    <Longitude>34.827951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091891</Latitude>
+    <Longitude>34.835206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084560</Latitude>
+    <Longitude>34.832862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חשב סופר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089349</Latitude>
+    <Longitude>34.835743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חת"ם סופר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089248</Latitude>
+    <Longitude>34.827075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבריה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086829</Latitude>
+    <Longitude>34.824425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טכורש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.070305</Latitude>
+    <Longitude>34.838659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טל חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.072789</Latitude>
+    <Longitude>34.836381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.095194</Latitude>
+    <Longitude>34.837673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084059</Latitude>
+    <Longitude>34.830192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.097493</Latitude>
+    <Longitude>34.836175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085039</Latitude>
+    <Longitude>34.828777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086790</Latitude>
+    <Longitude>34.831741</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077841</Latitude>
+    <Longitude>34.828563</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יהודה נחשוני</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.072552</Latitude>
+    <Longitude>34.841782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודית</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078317</Latitude>
+    <Longitude>34.827397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.092844</Latitude>
+    <Longitude>34.823652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089637</Latitude>
+    <Longitude>34.836794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה הנביא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085654</Latitude>
+    <Longitude>34.837924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונתן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093847</Latitude>
+    <Longitude>34.826695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087906</Latitude>
+    <Longitude>34.826460</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יסודות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093421</Latitude>
+    <Longitude>34.841504</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078148</Latitude>
+    <Longitude>34.831714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב רוזנהיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086781</Latitude>
+    <Longitude>34.840448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076527</Latitude>
+    <Longitude>34.830895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק מאיר הכהן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085362</Latitude>
+    <Longitude>34.840802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076527</Latitude>
+    <Longitude>34.830895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084942</Latitude>
+    <Longitude>34.829836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088487</Latitude>
+    <Longitude>34.826043</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ישיבת בית מאיר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078137</Latitude>
+    <Longitude>34.836050</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ישיבת ויז'ניץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076119</Latitude>
+    <Longitude>34.838702</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ישיבת משכנות הרועים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.073698</Latitude>
+    <Longitude>34.838163</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ישיבת פוניבז'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083226</Latitude>
+    <Longitude>34.832794</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ישמח משה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081198</Latitude>
+    <Longitude>34.836955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו הנביא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088744</Latitude>
+    <Longitude>34.825168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל מסלנט</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089426</Latitude>
+    <Longitude>34.827487</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר האחד עשר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>ככר האחד עשר</AlternateName>
+    <Latitude>32.098760</Latitude>
+    <Longitude>34.839323</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר האחים מאיר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>ככר האחים מאיר</AlternateName>
+    <Latitude>32.098128</Latitude>
+    <Longitude>34.842375</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיכר התעשייה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>ככר התעשייה</AlternateName>
+    <Latitude>32.079100</Latitude>
+    <Longitude>34.841353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.103365</Latitude>
+    <Longitude>34.834754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליפשיץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>נחום ליפשיץ</AlternateName>
+    <Latitude>32.095818</Latitude>
+    <Longitude>34.827222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098899</Latitude>
+    <Longitude>34.828599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרש"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084742</Latitude>
+    <Longitude>34.833527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחזיקי הדת</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078135</Latitude>
+    <Longitude>34.838762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086189</Latitude>
+    <Longitude>34.837323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087299</Latitude>
+    <Longitude>34.823722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085102</Latitude>
+    <Longitude>34.839398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092567</Latitude>
+    <Longitude>34.829179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם זמבא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081831</Latitude>
+    <Longitude>34.843380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088024</Latitude>
+    <Longitude>34.824932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנצור בן שמעון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098373</Latitude>
+    <Longitude>34.837020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעיינה של תורה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081996</Latitude>
+    <Longitude>34.833290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות הדף היומי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085740</Latitude>
+    <Longitude>34.833044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות זלמן מילשטיין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081119</Latitude>
+    <Longitude>34.829412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות מאיר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084736</Latitude>
+    <Longitude>34.831696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות מרגלית בן ישי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079303</Latitude>
+    <Longitude>34.829174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מפרץ שלמה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092307</Latitude>
+    <Longitude>34.836395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091676</Latitude>
+    <Longitude>34.825229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקובר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084486</Latitude>
+    <Longitude>34.826329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי אנילביץ'</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081068</Latitude>
+    <Longitude>34.830051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים הנביאה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078622</Latitude>
+    <Longitude>34.831656</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז בעלי מלאכה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075814</Latitude>
+    <Longitude>34.840990</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משה אריה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088514</Latitude>
+    <Longitude>34.835044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה בגנו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082020</Latitude>
+    <Longitude>34.828027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה זאב פלדמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089915</Latitude>
+    <Longitude>34.840089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה פרדו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086791</Latitude>
+    <Longitude>34.844592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>מתיתיהו</AlternateName>
+    <Latitude>32.077102</Latitude>
+    <Longitude>34.840264</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה און</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.071682</Latitude>
+    <Longitude>34.839624</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נועם אלימלך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086431</Latitude>
+    <Longitude>34.843550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093989</Latitude>
+    <Longitude>34.835078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084490</Latitude>
+    <Longitude>34.839648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079404</Latitude>
+    <Longitude>34.836017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נידוני בגדד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094186</Latitude>
+    <Longitude>34.843088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093395</Latitude>
+    <Longitude>34.824070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסנבוים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.079223</Latitude>
+    <Longitude>34.827188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן הנביא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088913</Latitude>
+    <Longitude>34.823414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סומך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.096937</Latitude>
+    <Longitude>34.830898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.089074</Latitude>
+    <Longitude>34.834044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091265</Latitude>
+    <Longitude>34.835234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אז"ר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090551</Latitude>
+    <Longitude>34.834624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הבנים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085063</Latitude>
+    <Longitude>34.824675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החייל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.082631</Latitude>
+    <Longitude>34.842787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מנשה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085201</Latitude>
+    <Longitude>34.833016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת משה יוסף</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083732</Latitude>
+    <Longitude>34.839168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבודת ישראל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083075</Latitude>
+    <Longitude>34.828464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.080113</Latitude>
+    <Longitude>34.828073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078556</Latitude>
+    <Longitude>34.837631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלי הכהן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090213</Latitude>
+    <Longitude>34.823814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087301</Latitude>
+    <Longitude>34.837438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086150</Latitude>
+    <Longitude>34.824521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098065</Latitude>
+    <Longitude>34.835107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פדרמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.099537</Latitude>
+    <Longitude>34.836226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פורצי כלא עכו</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093572</Latitude>
+    <Longitude>34.825655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס אפשטיין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083953</Latitude>
+    <Longitude>34.825604</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פסגת רחל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.101166</Latitude>
+    <Longitude>34.834698</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>פרדס כץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.093681</Latitude>
+    <Longitude>34.837008</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צבי שרגא גרוסברד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077773</Latitude>
+    <Longitude>34.832878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צייטלין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091592</Latitude>
+    <Longitude>34.836680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צמח צדיק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075937</Latitude>
+    <Longitude>34.837519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086246</Latitude>
+    <Longitude>34.836721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087335</Latitude>
+    <Longitude>34.824283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי גורליצה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088663</Latitude>
+    <Longitude>34.842100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי לוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089556</Latitude>
+    <Longitude>34.844348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושת יום טוב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081137</Latitude>
+    <Longitude>34.838108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילות יעקב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.073971</Latitude>
+    <Longitude>34.839288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קושניר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.074022</Latitude>
+    <Longitude>34.841416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075571</Latitude>
+    <Longitude>34.840669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קליש</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087827</Latitude>
+    <Longitude>34.829589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלנסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.076149</Latitude>
+    <Longitude>34.830044</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית הרצוג</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.097503</Latitude>
+    <Longitude>34.841012</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית ויז'ניץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.073549</Latitude>
+    <Longitude>34.836281</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית נדבורנא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077785</Latitude>
+    <Longitude>34.835288</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ראב"ד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083859</Latitude>
+    <Longitude>34.832095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רב אמי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078205</Latitude>
+    <Longitude>34.834654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רב אסי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077123</Latitude>
+    <Longitude>34.834373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רב אשי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077286</Latitude>
+    <Longitude>34.837649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רב האי גאון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.070833</Latitude>
+    <Longitude>34.837411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רב עמרם גאון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.070708</Latitude>
+    <Longitude>34.838838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי אבא גרוסברד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אבא גרוסברד</AlternateName>
+    <AlternateName>הרבי אבא גרוסברד</AlternateName>
+    <AlternateName>הרב אבא גרוסברד</AlternateName>
+    <Latitude>32.083185</Latitude>
+    <Longitude>34.832480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי אליעזר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>אליעזר</AlternateName>
+    <AlternateName>הרבי אליעזר</AlternateName>
+    <AlternateName>הרב אליעזר</AlternateName>
+    <Latitude>32.086714</Latitude>
+    <Longitude>34.827656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי חייא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>חייא</AlternateName>
+    <AlternateName>הרב חייא</AlternateName>
+    <AlternateName>הרבי חייא</AlternateName>
+    <Latitude>32.086977</Latitude>
+    <Longitude>34.842619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי טרפון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי טרפון</AlternateName>
+    <AlternateName>טרפון</AlternateName>
+    <AlternateName>הרב טרפון</AlternateName>
+    <Latitude>32.086418</Latitude>
+    <Longitude>34.828134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהודה הנשיא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרב יהודה הנשיא</AlternateName>
+    <AlternateName>יהודה הנשיא</AlternateName>
+    <AlternateName>הרבי יהודה הנשיא</AlternateName>
+    <Latitude>32.078998</Latitude>
+    <Longitude>34.829595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יוסי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרב יוסי</AlternateName>
+    <AlternateName>הרבי יוסי</AlternateName>
+    <AlternateName>יוסי</AlternateName>
+    <Latitude>32.086170</Latitude>
+    <Longitude>34.827378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יצחק נפחא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרב יצחק נפחא</AlternateName>
+    <AlternateName>יצחק נפחא</AlternateName>
+    <AlternateName>הרבי יצחק נפחא</AlternateName>
+    <Latitude>32.090353</Latitude>
+    <Longitude>34.837867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי ישמעאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>ישמעאל</AlternateName>
+    <AlternateName>הרב ישמעאל</AlternateName>
+    <AlternateName>הרבי ישמעאל</AlternateName>
+    <Latitude>32.077474</Latitude>
+    <Longitude>34.841615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי לוי יצחק מברדיצ'ב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>לוי יצחק מברדיצ'ב</AlternateName>
+    <AlternateName>הרבי לוי יצחק מברדיצ'ב</AlternateName>
+    <AlternateName>הרב לוי יצחק מברדיצ'ב</AlternateName>
+    <Latitude>32.091801</Latitude>
+    <Longitude>34.841160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי מאיר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>מאיר</AlternateName>
+    <AlternateName>הרב מאיר</AlternateName>
+    <AlternateName>הרבי מאיר</AlternateName>
+    <Latitude>32.087285</Latitude>
+    <Longitude>34.840220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי נחמן מברסלב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>נחמן מברסלב</AlternateName>
+    <AlternateName>הרבי נחמן מברסלב</AlternateName>
+    <AlternateName>הרב נחמן מברסלב</AlternateName>
+    <Latitude>32.079976</Latitude>
+    <Longitude>34.837668</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.086037</Latitude>
+    <Longitude>34.831926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שלמה יוסף גניחובסקי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שלמה יוסף גניחובסקי</AlternateName>
+    <AlternateName>שלמה יוסף גניחובסקי</AlternateName>
+    <AlternateName>הרב שלמה יוסף גניחובסקי</AlternateName>
+    <Latitude>32.099054</Latitude>
+    <Longitude>34.841231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שמואל וינרב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרבי שמואל וינרב</AlternateName>
+    <AlternateName>שמואל וינרב</AlternateName>
+    <AlternateName>הרב שמואל וינרב</AlternateName>
+    <Latitude>32.095862</Latitude>
+    <Longitude>34.841755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבינא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077246</Latitude>
+    <Longitude>34.838388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן גמליאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086977</Latitude>
+    <Longitude>34.842619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן יוחנן בן זכאי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>בן זכאי</AlternateName>
+    <Latitude>32.081918</Latitude>
+    <Longitude>34.831070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו אשר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089599</Latitude>
+    <Longitude>34.827891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו בחיי</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.087379</Latitude>
+    <Longitude>34.834207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו תם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084278</Latitude>
+    <Longitude>34.835845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רד"ק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.088417</Latitude>
+    <Longitude>34.834826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחביה ברמן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091385</Latitude>
+    <Longitude>34.827738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083355</Latitude>
+    <Longitude>34.825822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רלב"ג</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085419</Latitude>
+    <Longitude>34.831641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089786</Latitude>
+    <Longitude>34.829605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084545</Latitude>
+    <Longitude>34.828709</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת אהרון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085755</Latitude>
+    <Longitude>34.842049</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת אלחנן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081624</Latitude>
+    <Longitude>34.843160</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083914</Latitude>
+    <Longitude>34.835127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"ם</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078849</Latitude>
+    <Longitude>34.835344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078440</Latitude>
+    <Longitude>34.841149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091237</Latitude>
+    <Longitude>34.831605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שד"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.085261</Latitude>
+    <Longitude>34.829485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות איינשטיין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>איינשטיין</AlternateName>
+    <AlternateName>שד' איינשטיין</AlternateName>
+    <Latitude>32.093938</Latitude>
+    <Longitude>34.841533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אריה לוין</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שד' אריה לוין</AlternateName>
+    <AlternateName>אריה לוין</AlternateName>
+    <Latitude>32.098656</Latitude>
+    <Longitude>34.837458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות האדמו"ר מויז'ניץ</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>האדמו"ר מויז'ניץ</AlternateName>
+    <AlternateName>שד' האדמו"ר מויז'ניץ</AlternateName>
+    <Latitude>32.073851</Latitude>
+    <Longitude>34.836827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות האדמו"ר מטאלנא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שד' האדמו"ר מטאלנא</AlternateName>
+    <AlternateName>האדמו"ר מטאלנא</AlternateName>
+    <Latitude>32.072540</Latitude>
+    <Longitude>34.835829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הנצי"ב</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הנצי"ב</AlternateName>
+    <AlternateName>שד' הנצי"ב</AlternateName>
+    <Latitude>32.077917</Latitude>
+    <Longitude>34.830354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הפלוגה הדתית</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הפלוגה הדתית</AlternateName>
+    <AlternateName>שד' הפלוגה הדתית</AlternateName>
+    <Latitude>32.088682</Latitude>
+    <Longitude>34.840767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרב יוסף חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>הרב יוסף חיים</AlternateName>
+    <AlternateName>שד' הרב יוסף חיים</AlternateName>
+    <Latitude>32.093473</Latitude>
+    <Longitude>34.829022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות זבולון המר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שד' זבולון המר</AlternateName>
+    <AlternateName>זבולון המר</AlternateName>
+    <Latitude>32.090345</Latitude>
+    <Longitude>34.843205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יצחק גרשטנקורן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>יצחק גרשטנקורן</AlternateName>
+    <AlternateName>שד' יצחק גרשטנקורן</AlternateName>
+    <Latitude>32.082189</Latitude>
+    <Longitude>34.828450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות כפר עציון</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>שד' כפר עציון</AlternateName>
+    <AlternateName>כפר עציון</AlternateName>
+    <Latitude>32.084417</Latitude>
+    <Longitude>34.831680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רבי שמעון סירוקה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רבי שמעון סירוקה</AlternateName>
+    <AlternateName>שד' רבי שמעון סירוקה</AlternateName>
+    <Latitude>32.083885</Latitude>
+    <Longitude>34.842923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רזיאל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רזיאל</AlternateName>
+    <AlternateName>שד' רזיאל</AlternateName>
+    <Latitude>32.093872</Latitude>
+    <Longitude>34.828207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רמב"ן</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <AlternateName>רמב"ן</AlternateName>
+    <AlternateName>שד' רמב"ן</AlternateName>
+    <Latitude>32.080802</Latitude>
+    <Longitude>34.836654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרת רמז</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.077030</Latitude>
+    <Longitude>34.830322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.091356</Latitude>
+    <Longitude>34.842385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>של"ה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.083218</Latitude>
+    <Longitude>34.834350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלוש השעות</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.098348</Latitude>
+    <Longitude>34.834291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094208</Latitude>
+    <Longitude>34.829699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.078960</Latitude>
+    <Longitude>34.839097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנביא</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.090209</Latitude>
+    <Longitude>34.825738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל וינברג</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.081781</Latitude>
+    <Longitude>34.829253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון הצדיק</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.086356</Latitude>
+    <Longitude>34.841102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.089762</Latitude>
+    <Longitude>34.831419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון הגיבור</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.080190</Latitude>
+    <Longitude>34.840698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.097800</Latitude>
+    <Longitude>34.827193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפת אמת</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.084576</Latitude>
+    <Longitude>34.834418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורה ומנוחה</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.101574</Latitude>
+    <Longitude>34.831197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורת חיים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.075641</Latitude>
+    <Longitude>34.838390</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תל גיבורים</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.094281</Latitude>
+    <Longitude>34.825680</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תרפ"ד</NativeName>
+    <ParentName>בני ברק, ישראל</ParentName>
+    <Latitude>32.092143</Latitude>
+    <Longitude>34.831049</Longitude>
+  </Street>
+</LocationData>

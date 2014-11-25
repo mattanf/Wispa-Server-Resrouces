@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אדמונית החורש</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.700779</Latitude>
+    <Longitude>35.166205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורנית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705526</Latitude>
+    <Longitude>35.163773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחירותם</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702262</Latitude>
+    <Longitude>35.170938</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705063</Latitude>
+    <Longitude>35.164375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקליפטוס</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.706759</Latitude>
+    <Longitude>35.173430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704182</Latitude>
+    <Longitude>35.165656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.700048</Latitude>
+    <Longitude>35.170916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704079</Latitude>
+    <Longitude>35.166394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701860</Latitude>
+    <Longitude>35.169083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702402</Latitude>
+    <Longitude>35.167146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704031</Latitude>
+    <Longitude>35.172740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705655</Latitude>
+    <Longitude>35.172510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701519</Latitude>
+    <Longitude>35.171149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היקינטון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703008</Latitude>
+    <Longitude>35.158996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגניות</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704162</Latitude>
+    <Longitude>35.159027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרגים</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704394</Latitude>
+    <Longitude>35.157730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702836</Latitude>
+    <Longitude>35.160111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705992</Latitude>
+    <Longitude>35.168295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חורש האלונים</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.708273</Latitude>
+    <Longitude>35.173893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705314</Latitude>
+    <Longitude>35.158814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.700886</Latitude>
+    <Longitude>35.170017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704900</Latitude>
+    <Longitude>35.165190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורד הצבעוני</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703203</Latitude>
+    <Longitude>35.161195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה דולב</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703917</Latitude>
+    <Longitude>35.161344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה החורש</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702566</Latitude>
+    <Longitude>35.172172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הרדוף</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704924</Latitude>
+    <Longitude>35.160163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה כרכום</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705207</Latitude>
+    <Longitude>35.167734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה לבונה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701939</Latitude>
+    <Longitude>35.170038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה מור</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703272</Latitude>
+    <Longitude>35.162749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה פרג</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703584</Latitude>
+    <Longitude>35.169592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה שיטים</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704157</Latitude>
+    <Longitude>35.168627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703308</Latitude>
+    <Longitude>35.163076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נוריות</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704263</Latitude>
+    <Longitude>35.166781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אשחר</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701786</Latitude>
+    <Longitude>35.165976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דבורנית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703480</Latitude>
+    <Longitude>35.156629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האלה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701743</Latitude>
+    <Longitude>35.160559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הברוש</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702811</Latitude>
+    <Longitude>35.165900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הדגן</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.700936</Latitude>
+    <Longitude>35.170487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ההדר</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.698823</Latitude>
+    <Longitude>35.163071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הורד</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.698669</Latitude>
+    <Longitude>35.164907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הזית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.699791</Latitude>
+    <Longitude>35.166698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החרוב</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701822</Latitude>
+    <Longitude>35.170106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הכרם</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.699803</Latitude>
+    <Longitude>35.164130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הלוטם</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703613</Latitude>
+    <Longitude>35.163228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הסביון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.705749</Latitude>
+    <Longitude>35.160334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הפרדס</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.699684</Latitude>
+    <Longitude>35.161751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרימון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.698838</Latitude>
+    <Longitude>35.163854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השיזף</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.702808</Latitude>
+    <Longitude>35.171270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השסק</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703537</Latitude>
+    <Longitude>35.172093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השקד</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.700184</Latitude>
+    <Longitude>35.169685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת התמר</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.699741</Latitude>
+    <Longitude>35.164218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת לילך</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703023</Latitude>
+    <Longitude>35.166353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ציפורן</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701435</Latitude>
+    <Longitude>35.172691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת קורנית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704874</Latitude>
+    <Longitude>35.173189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ריחן</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701734</Latitude>
+    <Longitude>35.172113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיון</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.703148</Latitude>
+    <Longitude>35.166811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704277</Latitude>
+    <Longitude>35.163459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704165</Latitude>
+    <Longitude>35.156192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.704922</Latitude>
+    <Longitude>35.162504</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפצפה</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.706662</Latitude>
+    <Longitude>35.174221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>רמת ישי, ישראל</ParentName>
+    <Latitude>32.701681</Latitude>
+    <Longitude>35.157834</Longitude>
+  </Street>
+</LocationData>

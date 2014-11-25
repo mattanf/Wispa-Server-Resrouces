@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>31.955725</Latitude>
+    <Longitude>34.894061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא אחימאיר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>אחימאיר</AlternateName>
+    <Latitude>31.945628</Latitude>
+    <Longitude>34.897105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא הלל סילבר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.964662</Latitude>
+    <Longitude>34.900050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו בכר אל סדיק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952088</Latitude>
+    <Longitude>34.875021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו חצירא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954103</Latitude>
+    <Longitude>34.887765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבישי אלשווילי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955169</Latitude>
+    <Longitude>34.898774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם מזרחי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950288</Latitude>
+    <Longitude>34.883112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953001</Latitude>
+    <Longitude>34.904541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942735</Latitude>
+    <Longitude>34.894998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדיסון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940531</Latitude>
+    <Longitude>34.883620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961500</Latitude>
+    <Longitude>34.881647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בן חמו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940634</Latitude>
+    <Longitude>34.881906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון לובלין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960825</Latitude>
+    <Longitude>34.880360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון פלדמן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946898</Latitude>
+    <Longitude>34.887288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>31.955381</Latitude>
+    <Longitude>34.894902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946577</Latitude>
+    <Longitude>34.893703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איסקוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942272</Latitude>
+    <Longitude>34.881029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מוקדסי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956198</Latitude>
+    <Longitude>34.904643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלבז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953940</Latitude>
+    <Longitude>34.893355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלברט איינשטיין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947851</Latitude>
+    <Longitude>34.882759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950825</Latitude>
+    <Longitude>34.888575</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955415</Latitude>
+    <Longitude>34.896050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר יעקב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941242</Latitude>
+    <Longitude>34.882670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קפלן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942854</Latitude>
+    <Longitude>34.885011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958895</Latitude>
+    <Longitude>34.878587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלפעל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949423</Latitude>
+    <Longitude>34.885947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951171</Latitude>
+    <Longitude>34.891871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסף שמחוני</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958555</Latitude>
+    <Longitude>34.895672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים לוזון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940424</Latitude>
+    <Longitude>34.888053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943513</Latitude>
+    <Longitude>34.893729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקסודוס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955365</Latitude>
+    <Longitude>34.900239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבע עונות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958673</Latitude>
+    <Longitude>34.881449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951695</Latitude>
+    <Longitude>34.904084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בן אליעזר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.939138</Latitude>
+    <Longitude>34.888051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה מידנק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940857</Latitude>
+    <Longitude>34.882478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה רובין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947869</Latitude>
+    <Longitude>34.896844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכול</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941806</Latitude>
+    <Longitude>34.887398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכולית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940221</Latitude>
+    <Longitude>34.889649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941418</Latitude>
+    <Longitude>34.894211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941463</Latitude>
+    <Longitude>34.891081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953921</Latitude>
+    <Longitude>34.895552</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס רמב"ם</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948764</Latitude>
+    <Longitude>34.897459</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>31.955099</Latitude>
+    <Longitude>34.894036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביבארס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956426</Latitude>
+    <Longitude>34.904053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942208</Latitude>
+    <Longitude>34.882361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית"ר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958078</Latitude>
+    <Longitude>34.900439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלום</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950958</Latitude>
+    <Longitude>34.896648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954486</Latitude>
+    <Longitude>34.903009</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942371</Latitude>
+    <Longitude>34.888733</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן חקון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948296</Latitude>
+    <Longitude>34.881643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955913</Latitude>
+    <Longitude>34.901395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן שמן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943901</Latitude>
+    <Longitude>34.901226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953012</Latitude>
+    <Longitude>34.896461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954929</Latitude>
+    <Longitude>34.896751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952418</Latitude>
+    <Longitude>34.896221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943786</Latitude>
+    <Longitude>34.891533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת שבע</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953984</Latitude>
+    <Longitude>34.890270</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הזיתים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947019</Latitude>
+    <Longitude>34.896935</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבריאל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942993</Latitude>
+    <Longitude>34.890012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוטמן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954068</Latitude>
+    <Longitude>34.894992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949433</Latitude>
+    <Longitude>34.884618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גושן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946442</Latitude>
+    <Longitude>34.896038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.939996</Latitude>
+    <Longitude>34.884913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949002</Latitude>
+    <Longitude>34.883193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945236</Latitude>
+    <Longitude>34.895985</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן יד אברהם</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945623</Latitude>
+    <Longitude>34.883970</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן נווה אלון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.937526</Latitude>
+    <Longitude>34.887676</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן רמב"ם</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947672</Latitude>
+    <Longitude>34.895347</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני אביב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959303</Latitude>
+    <Longitude>34.880925</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני יער</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945491</Latitude>
+    <Longitude>34.904219</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גנרל לקלרק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>לקלרק</AlternateName>
+    <Latitude>31.953599</Latitude>
+    <Longitude>34.902658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרטבול</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948572</Latitude>
+    <Longitude>34.892246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרינבוים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945578</Latitude>
+    <Longitude>34.895526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרץ</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961090</Latitude>
+    <Longitude>34.900004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר להמן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>דוקטור להמן</AlternateName>
+    <AlternateName>להמן</AlternateName>
+    <Latitude>31.957958</Latitude>
+    <Longitude>34.899129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר מרדכי וחווה פרימן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>מרדכי וחווה פרימן</AlternateName>
+    <AlternateName>דוקטור מרדכי וחווה פרימן</AlternateName>
+    <Latitude>31.954659</Latitude>
+    <Longitude>34.904392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד'יזראלי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946239</Latitude>
+    <Longitude>34.884531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958834</Latitude>
+    <Longitude>34.894774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944877</Latitude>
+    <Longitude>34.881222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959435</Latitude>
+    <Longitude>34.892403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943280</Latitude>
+    <Longitude>34.894487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובנוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959226</Latitude>
+    <Longitude>34.899797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד ברוך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>דויד ברוך</AlternateName>
+    <Latitude>31.950534</Latitude>
+    <Longitude>34.884109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>31.959211</Latitude>
+    <Longitude>34.892882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>31.943046</Latitude>
+    <Longitude>34.879494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960878</Latitude>
+    <Longitude>34.878293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דני מס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950588</Latitude>
+    <Longitude>34.894080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944740</Latitude>
+    <Longitude>34.904847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בית הדין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>בית הדין</AlternateName>
+    <Latitude>31.949502</Latitude>
+    <Longitude>34.897336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך לוד הירוקה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>לוד הירוקה</AlternateName>
+    <Latitude>31.945657</Latitude>
+    <Longitude>34.905340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך לוד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>לוד</AlternateName>
+    <Latitude>32.033099</Latitude>
+    <Longitude>34.865908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מנהרת העיר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>מנהרת העיר</AlternateName>
+    <Latitude>31.947627</Latitude>
+    <Longitude>34.903852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך משמר נוף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>משמר נוף</AlternateName>
+    <Latitude>31.947173</Latitude>
+    <Longitude>34.897859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרכי משה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948887</Latitude>
+    <Longitude>34.881247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר האמצעי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943353</Latitude>
+    <Longitude>34.877052</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958342</Latitude>
+    <Longitude>34.902491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיילון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944895</Latitude>
+    <Longitude>34.901425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946808</Latitude>
+    <Longitude>34.906038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארבעים ושלושה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959414</Latitude>
+    <Longitude>34.899199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבטיחות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.963660</Latitude>
+    <Longitude>34.895030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברדלסים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956426</Latitude>
+    <Longitude>34.904053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברושים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945901</Latitude>
+    <Longitude>34.894956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960501</Latitude>
+    <Longitude>34.876726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954485</Latitude>
+    <Longitude>34.902633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958250</Latitude>
+    <Longitude>34.903247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957459</Latitude>
+    <Longitude>34.902201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945872</Latitude>
+    <Longitude>34.887300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952291</Latitude>
+    <Longitude>34.905248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942101</Latitude>
+    <Longitude>34.886767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952039</Latitude>
+    <Longitude>34.906354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956880</Latitude>
+    <Longitude>34.900771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950838</Latitude>
+    <Longitude>34.898465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצרים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.968532</Latitude>
+    <Longitude>34.891743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכובשים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950766</Latitude>
+    <Longitude>34.892308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלן קלר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960120</Latitude>
+    <Longitude>34.890509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלני המלכה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951472</Latitude>
+    <Longitude>34.895790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחקר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.965234</Latitude>
+    <Longitude>34.894314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.970301</Latitude>
+    <Longitude>34.898150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.964581</Latitude>
+    <Longitude>34.892021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצביאים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.933633</Latitude>
+    <Longitude>34.890404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרי הרץ</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949269</Latitude>
+    <Longitude>34.889407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948202</Latitude>
+    <Longitude>34.893947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947834</Latitude>
+    <Longitude>34.892668</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>העיר העתיקה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955372</Latitude>
+    <Longitude>34.896073</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>העמלים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.965167</Latitude>
+    <Longitude>34.899028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948892</Latitude>
+    <Longitude>34.898699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצורפים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.969746</Latitude>
+    <Longitude>34.892522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942853</Latitude>
+    <Longitude>34.877766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אברהם קוטנר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>אברהם קוטנר</AlternateName>
+    <AlternateName>הרבי אברהם קוטנר</AlternateName>
+    <AlternateName>רבי אברהם קוטנר</AlternateName>
+    <Latitude>31.939508</Latitude>
+    <Longitude>34.884609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים חורי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>חיים חורי</AlternateName>
+    <AlternateName>הרבי חיים חורי</AlternateName>
+    <AlternateName>רבי חיים חורי</AlternateName>
+    <Latitude>31.938748</Latitude>
+    <Longitude>34.889939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב טולדנו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרבי טולדנו</AlternateName>
+    <AlternateName>רבי טולדנו</AlternateName>
+    <AlternateName>טולדנו</AlternateName>
+    <Latitude>31.950617</Latitude>
+    <Longitude>34.897059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב טייב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרבי טייב</AlternateName>
+    <AlternateName>רבי טייב</AlternateName>
+    <AlternateName>טייב</AlternateName>
+    <Latitude>31.957397</Latitude>
+    <Longitude>34.898179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>31.952633</Latitude>
+    <Longitude>34.895644</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940692</Latitude>
+    <Longitude>34.891797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955213</Latitude>
+    <Longitude>34.897832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953921</Latitude>
+    <Longitude>34.895552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרונים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950958</Latitude>
+    <Longitude>34.896648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיחרור</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954060</Latitude>
+    <Longitude>34.893784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952597</Latitude>
+    <Longitude>34.906853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945347</Latitude>
+    <Longitude>34.879513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויגודסקי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950193</Latitude>
+    <Longitude>34.893898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.945137</Latitude>
+    <Longitude>34.887483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוויתן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960816</Latitude>
+    <Longitude>34.877322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיגלבוים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.938978</Latitude>
+    <Longitude>34.889116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן ארן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952897</Latitude>
+    <Longitude>34.887975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950512</Latitude>
+    <Longitude>34.891368</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943280</Latitude>
+    <Longitude>34.876988</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.938872</Latitude>
+    <Longitude>34.889521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.933904</Latitude>
+    <Longitude>34.889647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חידקל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961138</Latitude>
+    <Longitude>34.876104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים משה שפירא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948186</Latitude>
+    <Longitude>34.901377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיל הים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950403</Latitude>
+    <Longitude>34.890006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חללי אגדיר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957823</Latitude>
+    <Longitude>34.901608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חללי אגוז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958592</Latitude>
+    <Longitude>34.879600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950585</Latitude>
+    <Longitude>34.892923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942153</Latitude>
+    <Longitude>34.892139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948445</Latitude>
+    <Longitude>34.882909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949797</Latitude>
+    <Longitude>34.905535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טוויטו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950836</Latitude>
+    <Longitude>34.894840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957841</Latitude>
+    <Longitude>34.895957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958078</Latitude>
+    <Longitude>34.900439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"א חללי מינכן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946667</Latitude>
+    <Longitude>34.895031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן נתניהו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.939645</Latitude>
+    <Longitude>34.889043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב דעי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959886</Latitude>
+    <Longitude>34.877895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוברט המפרי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949470</Latitude>
+    <Longitude>34.891046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יודפת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961392</Latitude>
+    <Longitude>34.900003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף נדבה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941546</Latitude>
+    <Longitude>34.881578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>31.943680</Latitude>
+    <Longitude>34.873823</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל דביקאר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961381</Latitude>
+    <Longitude>34.901547</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יסמין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957151</Latitude>
+    <Longitude>34.904980</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יעקב כהן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956624</Latitude>
+    <Longitude>34.892369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב פלומניק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953522</Latitude>
+    <Longitude>34.893184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק רבין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952542</Latitude>
+    <Longitude>34.876387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957774</Latitude>
+    <Longitude>34.894895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951355</Latitude>
+    <Longitude>34.903647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יריחו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942021</Latitude>
+    <Longitude>34.889984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמוך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.962721</Latitude>
+    <Longitude>34.876531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר וגמן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.937774</Latitude>
+    <Longitude>34.888039</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר הפלמ"ח</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>ככר הפלמ"ח</AlternateName>
+    <Latitude>31.956496</Latitude>
+    <Longitude>34.896164</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר קומנדו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>ככר קומנדו</AlternateName>
+    <Latitude>31.948232</Latitude>
+    <Longitude>34.890489</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941809</Latitude>
+    <Longitude>34.892905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלניות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942724</Latitude>
+    <Longitude>34.884660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>31.954212</Latitude>
+    <Longitude>34.894434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950859</Latitude>
+    <Longitude>34.905754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944217</Latitude>
+    <Longitude>34.887240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951423</Latitude>
+    <Longitude>34.885307</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>לוד הצעירה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941648</Latitude>
+    <Longitude>34.894326</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לוי איסמאילוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.962305</Latitude>
+    <Longitude>34.903055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבנה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947038</Latitude>
+    <Longitude>34.900128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליטאני</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.962414</Latitude>
+    <Longitude>34.877844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950165</Latitude>
+    <Longitude>34.901120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940986</Latitude>
+    <Longitude>34.890776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לירן בן ארי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940424</Latitude>
+    <Longitude>34.888053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר ספרן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951946</Latitude>
+    <Longitude>34.889495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יהונתן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958944</Latitude>
+    <Longitude>34.896859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955179</Latitude>
+    <Longitude>34.892000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957349</Latitude>
+    <Longitude>34.896759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941430</Latitude>
+    <Longitude>34.892302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזרחי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950487</Latitude>
+    <Longitude>34.878656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחנות קפריסין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954173</Latitude>
+    <Longitude>34.901330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכאל כהן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951340</Latitude>
+    <Longitude>34.893582</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מנהרת העיר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946933</Latitude>
+    <Longitude>34.904426</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958870</Latitude>
+    <Longitude>34.899605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950349</Latitude>
+    <Longitude>34.905367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי אנילביץ'</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945454</Latitude>
+    <Longitude>34.888303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>31.955453</Latitude>
+    <Longitude>34.890601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מרזוק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944775</Latitude>
+    <Longitude>34.878472</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משמר נוף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948099</Latitude>
+    <Longitude>34.897328</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות יצחק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.934669</Latitude>
+    <Longitude>34.889876</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נדא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961237</Latitude>
+    <Longitude>34.898289</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אלון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.939895</Latitude>
+    <Longitude>34.889620</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה זית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945655</Latitude>
+    <Longitude>34.888961</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה ירק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958801</Latitude>
+    <Longitude>34.903258</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה נוף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949309</Latitude>
+    <Longitude>34.903647</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה שלום</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953033</Latitude>
+    <Longitude>34.875642</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957349</Latitude>
+    <Longitude>34.898761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949645</Latitude>
+    <Longitude>34.904725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחושתן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.948413</Latitude>
+    <Longitude>34.894076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נימרוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943115</Latitude>
+    <Longitude>34.881426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957243</Latitude>
+    <Longitude>34.877125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נירים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957810</Latitude>
+    <Longitude>34.882047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943695</Latitude>
+    <Longitude>34.885027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן שוורץ</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950407</Latitude>
+    <Longitude>34.884620</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביוני לוד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944826</Latitude>
+    <Longitude>34.892354</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סג'רה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954020</Latitude>
+    <Longitude>34.902643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סולומון חזני</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943413</Latitude>
+    <Longitude>34.887714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>31.957644</Latitude>
+    <Longitude>34.893929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.962531</Latitude>
+    <Longitude>34.880930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954979</Latitude>
+    <Longitude>34.902601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941319</Latitude>
+    <Longitude>34.892954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950002</Latitude>
+    <Longitude>34.906174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950282</Latitude>
+    <Longitude>34.902416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיירים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942986</Latitude>
+    <Longitude>34.880058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלמה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957551</Latitude>
+    <Longitude>34.899318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שלמה המלך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951678</Latitude>
+    <Longitude>34.891532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סן מרטין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>חוזה סן מרטין</AlternateName>
+    <Latitude>31.943704</Latitude>
+    <Longitude>34.892556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950427</Latitude>
+    <Longitude>34.905439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזיאל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956372</Latitude>
+    <Longitude>34.897648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עומר עבד אל עזיז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951717</Latitude>
+    <Longitude>34.874873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עות'מאן בן עפאן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952472</Latitude>
+    <Longitude>34.875174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזריה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.955570</Latitude>
+    <Longitude>34.897786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלי אבו טאלב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952088</Latitude>
+    <Longitude>34.875021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלי כותרת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958996</Latitude>
+    <Longitude>34.877633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלייה ב'</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952199</Latitude>
+    <Longitude>34.899478</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947989</Latitude>
+    <Longitude>34.884400</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמנואל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941283</Latitude>
+    <Longitude>34.886199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקיבא סער</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947333</Latitude>
+    <Longitude>34.900696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942759</Latitude>
+    <Longitude>34.891883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערוגות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958110</Latitude>
+    <Longitude>34.877360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עשרת הרוגי מלכות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961674</Latitude>
+    <Longitude>34.894767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פוגה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957301</Latitude>
+    <Longitude>34.895834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיינשטיין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951339</Latitude>
+    <Longitude>34.887880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיקוס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.962275</Latitude>
+    <Longitude>34.881921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס נויישטיין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.937502</Latitude>
+    <Longitude>34.888647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944327</Latitude>
+    <Longitude>34.880750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסח לב</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.968453</Latitude>
+    <Longitude>34.897566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941006</Latitude>
+    <Longitude>34.893510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.946488</Latitude>
+    <Longitude>34.887141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950366</Latitude>
+    <Longitude>34.899370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צמח צדיק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942752</Latitude>
+    <Longitude>34.875925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צמרות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957810</Latitude>
+    <Longitude>34.882047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהילת מזריץ'</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.952377</Latitude>
+    <Longitude>34.888901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת ניו יורק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950130</Latitude>
+    <Longitude>34.901779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלויזנר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.957958</Latitude>
+    <Longitude>34.899129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קני סוף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944466</Latitude>
+    <Longitude>34.881957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרית הספורט</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.935631</Latitude>
+    <Longitude>34.891317</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית חינוך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941059</Latitude>
+    <Longitude>34.879407</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ראובן רובין</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949500</Latitude>
+    <Longitude>34.887417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי אליעזר בן הורקנוס</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>אליעזר בן הורקונס</AlternateName>
+    <AlternateName>הרב אליעזר בן הורקנוס</AlternateName>
+    <AlternateName>הרבי אליעזר בן הורקנוס</AlternateName>
+    <AlternateName>אליעזר בן הורקנוס</AlternateName>
+    <AlternateName>הרבי אליעזר בן הורקונס</AlternateName>
+    <AlternateName>הרב אליעזר בן הורקונס</AlternateName>
+    <AlternateName>רבי אליעזר בן הורקונס</AlternateName>
+    <Latitude>31.968915</Latitude>
+    <Longitude>34.894233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי טרפון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרבי טרפון</AlternateName>
+    <AlternateName>טרפון</AlternateName>
+    <AlternateName>הרב טרפון</AlternateName>
+    <Latitude>31.949123</Latitude>
+    <Longitude>34.891677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>31.949552</Latitude>
+    <Longitude>34.892111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רגבים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.960189</Latitude>
+    <Longitude>34.877866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוזנבלום</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הרצל רוזנבלום</AlternateName>
+    <Latitude>31.946952</Latitude>
+    <Longitude>34.881629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951072</Latitude>
+    <Longitude>34.901960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל אלתר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.947582</Latitude>
+    <Longitude>34.889119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.959211</Latitude>
+    <Longitude>34.892882</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמט</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.950801</Latitude>
+    <Longitude>34.883670</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת אשכול</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954078</Latitude>
+    <Longitude>34.900455</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רסקו</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.949205</Latitude>
+    <Longitude>34.883795</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל הכהן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.945244</Latitude>
+    <Longitude>34.880893</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שבזי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.956068</Latitude>
+    <Longitude>34.902329</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>31.941363</Latitude>
+    <Longitude>34.889851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות דוד המלך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>דוד המלך</AlternateName>
+    <AlternateName>שדרות דויד המלך</AlternateName>
+    <AlternateName>שד' דוד המלך</AlternateName>
+    <AlternateName>שד' דויד המלך</AlternateName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>31.949173</Latitude>
+    <Longitude>34.888681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הציונות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>הציונות</AlternateName>
+    <AlternateName>שד' הציונות</AlternateName>
+    <Latitude>31.944705</Latitude>
+    <Longitude>34.894437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות חטיבת יפתח</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>שד' חטיבת יפתח</AlternateName>
+    <AlternateName>חטיבת יפתח</AlternateName>
+    <Latitude>31.947776</Latitude>
+    <Longitude>34.880895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>31.942300</Latitude>
+    <Longitude>34.888578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מיכה רייסר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>מיכה רייסר</AlternateName>
+    <AlternateName>שד' מיכה רייסר</AlternateName>
+    <Latitude>31.957119</Latitude>
+    <Longitude>34.884234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות צה"ל</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>צה"ל</AlternateName>
+    <AlternateName>שד' צה"ל</AlternateName>
+    <Latitude>31.951799</Latitude>
+    <Longitude>34.896664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שוורץ</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>שד' שוורץ</AlternateName>
+    <AlternateName>שוורץ</AlternateName>
+    <Latitude>31.966389</Latitude>
+    <Longitude>34.897976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שלמה המלך</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <AlternateName>שד' שלמה המלך</AlternateName>
+    <AlternateName>שלמה המלך</AlternateName>
+    <Latitude>31.948192</Latitude>
+    <Longitude>34.886752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.956953</Latitude>
+    <Longitude>34.880949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שזיף</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942749</Latitude>
+    <Longitude>34.893312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטיינברג</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.953233</Latitude>
+    <Longitude>34.890127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940354</Latitude>
+    <Longitude>34.894007</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון ממשלתי</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.944360</Latitude>
+    <Longitude>34.880019</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954246</Latitude>
+    <Longitude>34.892497</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שניר</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.954938</Latitude>
+    <Longitude>34.872536</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941715</Latitude>
+    <Longitude>34.885424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951526</Latitude>
+    <Longitude>34.906142</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שרת</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.951613</Latitude>
+    <Longitude>34.886943</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תות</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.942088</Latitude>
+    <Longitude>34.892827</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תיכון עמל 1</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.941650</Latitude>
+    <Longitude>34.878172</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תלמים</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.958895</Latitude>
+    <Longitude>34.878587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.961624</Latitude>
+    <Longitude>34.882863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוז</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.940701</Latitude>
+    <Longitude>34.889974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>לוד, ישראל</ParentName>
+    <Latitude>31.943002</Latitude>
+    <Longitude>34.893882</Longitude>
+  </Street>
+</LocationData>

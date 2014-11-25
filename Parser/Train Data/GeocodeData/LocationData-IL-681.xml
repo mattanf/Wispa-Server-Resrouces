@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אהרון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.076550</Latitude>
+    <Longitude>34.848792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורי צבי גרינברג</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>צבי גרינברג</AlternateName>
+    <Latitude>32.072975</Latitude>
+    <Longitude>34.852488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורנים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.068730</Latitude>
+    <Longitude>34.846762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלונים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.069352</Latitude>
+    <Longitude>34.845772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר שטיינברג</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080832</Latitude>
+    <Longitude>34.848065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו סירני</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074671</Latitude>
+    <Longitude>34.847720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079502</Latitude>
+    <Longitude>34.849110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.075149</Latitude>
+    <Longitude>34.848005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079734</Latitude>
+    <Longitude>34.851130</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס בן גוריון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.069860</Latitude>
+    <Longitude>34.847370</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075042</Latitude>
+    <Longitude>34.850229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנשטיין הכהן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.081038</Latitude>
+    <Longitude>34.847511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079977</Latitude>
+    <Longitude>34.845819</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גיורא</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.082422</Latitude>
+    <Longitude>34.846285</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.079761</Latitude>
+    <Longitude>34.846837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד בן גוריון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>דויד בן גוריון</AlternateName>
+    <Latitude>32.077857</Latitude>
+    <Longitude>34.846919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.074348</Latitude>
+    <Longitude>34.856156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המלך</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>המלך</AlternateName>
+    <Latitude>32.075075</Latitude>
+    <Longitude>34.856924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך קרן היסוד</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>קרן היסוד</AlternateName>
+    <Latitude>32.066966</Latitude>
+    <Longitude>34.845165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.069306</Latitude>
+    <Longitude>34.846156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.084296</Latitude>
+    <Longitude>34.850449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזיתים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079477</Latitude>
+    <Longitude>34.852148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075955</Latitude>
+    <Longitude>34.851000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.081930</Latitude>
+    <Longitude>34.849131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.078141</Latitude>
+    <Longitude>34.850151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080391</Latitude>
+    <Longitude>34.847148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציונות</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079264</Latitude>
+    <Longitude>34.845701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.073887</Latitude>
+    <Longitude>34.844764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יעקב נימרובר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>יעקב נימרובר</AlternateName>
+    <AlternateName>הרבי יעקב נימרובר</AlternateName>
+    <AlternateName>רבי יעקב נימרובר</AlternateName>
+    <Latitude>32.077120</Latitude>
+    <Longitude>34.848187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מאיר בר אילן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>מאיר בר אילן</AlternateName>
+    <AlternateName>הרבי מאיר בר אילן</AlternateName>
+    <AlternateName>רבי מאיר בר אילן</AlternateName>
+    <Latitude>32.075875</Latitude>
+    <Longitude>34.847612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.082958</Latitude>
+    <Longitude>34.850546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075160</Latitude>
+    <Longitude>34.849228</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>השחר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075250</Latitude>
+    <Longitude>34.845296</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.083818</Latitude>
+    <Longitude>34.850989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.069292</Latitude>
+    <Longitude>34.845770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.083167</Latitude>
+    <Longitude>34.851446</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.071529</Latitude>
+    <Longitude>34.850703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון המר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.072532</Latitude>
+    <Longitude>34.855017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לנדאו</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.076746</Latitude>
+    <Longitude>34.855411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים נחמן ביאליק</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>ביאליק</AlternateName>
+    <Latitude>32.077488</Latitude>
+    <Longitude>34.850044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.076029</Latitude>
+    <Longitude>34.848700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.078796</Latitude>
+    <Longitude>34.850927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.081116</Latitude>
+    <Longitude>34.848360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה שפינדל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.081231</Latitude>
+    <Longitude>34.845580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוני נתניהו</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074432</Latitude>
+    <Longitude>34.855107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079986</Latitude>
+    <Longitude>34.849354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079285</Latitude>
+    <Longitude>34.850353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.077748</Latitude>
+    <Longitude>34.856515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליפא קרפל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.077078</Latitude>
+    <Longitude>34.848782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075509</Latitude>
+    <Longitude>34.845173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחלף גבעת-שמואל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>מחלף גבעת שמואל</AlternateName>
+    <Latitude>32.075581</Latitude>
+    <Longitude>34.844426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נח לוי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080724</Latitude>
+    <Longitude>34.848365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום סוקולוב</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.078851</Latitude>
+    <Longitude>34.850256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.084345</Latitude>
+    <Longitude>34.848993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סולומון קורדובה</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080500</Latitude>
+    <Longitude>34.848983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרב קוק</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.077211</Latitude>
+    <Longitude>34.847808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יעקב</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074801</Latitude>
+    <Longitude>34.846275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יצחק מודעי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075532</Latitude>
+    <Longitude>34.856266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת משה דיין</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.073511</Latitude>
+    <Longitude>34.856078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת נחום</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.078954</Latitude>
+    <Longitude>34.849050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת צבי פיקסלר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.073730</Latitude>
+    <Longitude>34.852193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת רחל לוי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074614</Latitude>
+    <Longitude>34.845308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ש"י עגנון</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079021</Latitude>
+    <Longitude>34.855561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שמחה הולצברג</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.072351</Latitude>
+    <Longitude>34.855952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזי חיטמן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.083585</Latitude>
+    <Longitude>34.848719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזיאל</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074987</Latitude>
+    <Longitude>34.850879</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פרדס רוזנבלום</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080209</Latitude>
+    <Longitude>34.852639</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פרדס רוזנבלום</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.079993</Latitude>
+    <Longitude>34.852436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075042</Latitude>
+    <Longitude>34.850229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה מטרני</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.080638</Latitude>
+    <Longitude>34.848603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבעם זאבי</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.076453</Latitude>
+    <Longitude>34.845426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת אילן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.069805</Latitude>
+    <Longitude>34.846859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת קרן היסוד</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.067003</Latitude>
+    <Longitude>34.845384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.076096</Latitude>
+    <Longitude>34.849798</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת אילן</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.067921</Latitude>
+    <Longitude>34.845876</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת הדר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.075410</Latitude>
+    <Longitude>34.854367</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות אברהם בוני</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>אברהם בוני</AlternateName>
+    <AlternateName>שד' אברהם בוני</AlternateName>
+    <Latitude>32.078875</Latitude>
+    <Longitude>34.852105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הגיבורים</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>הגיבורים</AlternateName>
+    <AlternateName>שד' הגיבורים</AlternateName>
+    <Latitude>32.076029</Latitude>
+    <Longitude>34.848700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות העצמאות</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>שד' העצמאות</AlternateName>
+    <AlternateName>העצמאות</AlternateName>
+    <Latitude>32.080677</Latitude>
+    <Longitude>34.848495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרב יהודה ד. זינגר</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>שד' הרב יהודה ד. זינגר</AlternateName>
+    <AlternateName>הרב יהודה ד. זינגר</AlternateName>
+    <Latitude>32.078360</Latitude>
+    <Longitude>34.852066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>32.075110</Latitude>
+    <Longitude>34.853651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.074609</Latitude>
+    <Longitude>34.844480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה היללס</NativeName>
+    <ParentName>גבעת שמואל, ישראל</ParentName>
+    <Latitude>32.081249</Latitude>
+    <Longitude>34.846948</Longitude>
+  </Street>
+</LocationData>

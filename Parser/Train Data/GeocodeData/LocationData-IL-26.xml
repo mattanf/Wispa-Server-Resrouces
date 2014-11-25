@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>ברנשטיין</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>אדוארד ברנשטיין</AlternateName>
+    <AlternateName>אדוארד</AlternateName>
+    <Latitude>32.968612</Latitude>
+    <Longitude>35.539647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד שו"ב</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>דויד שו"ב</AlternateName>
+    <Latitude>32.966131</Latitude>
+    <Longitude>35.541553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בן אריה</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>בן אריה</AlternateName>
+    <Latitude>32.969242</Latitude>
+    <Longitude>35.535433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הבוסתנים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>הבוסתנים</AlternateName>
+    <Latitude>32.971072</Latitude>
+    <Longitude>35.537454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגליל</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>הגליל</AlternateName>
+    <Latitude>32.973035</Latitude>
+    <Longitude>35.552332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החלמוניות</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>החלמוניות</AlternateName>
+    <Latitude>32.970299</Latitude>
+    <Longitude>35.533166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הטחנה</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>הטחנה</AlternateName>
+    <Latitude>32.964875</Latitude>
+    <Longitude>35.541923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך היקב</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>היקב</AlternateName>
+    <Latitude>32.970580</Latitude>
+    <Longitude>35.540337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המרכז</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>המרכז</AlternateName>
+    <Latitude>32.968538</Latitude>
+    <Longitude>35.538614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הצבר</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>הצבר</AlternateName>
+    <Latitude>32.964775</Latitude>
+    <Longitude>35.539309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרהט</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <AlternateName>הרהט</AlternateName>
+    <Latitude>32.967585</Latitude>
+    <Longitude>35.541864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגס</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.969755</Latitude>
+    <Longitude>35.550887</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>האורנים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.965058</Latitude>
+    <Longitude>35.541255</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>האירוס</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972577</Latitude>
+    <Longitude>35.535553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האפרסק</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972292</Latitude>
+    <Longitude>35.542638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970809</Latitude>
+    <Longitude>35.542682</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הגפנים הרחבה ג'</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.974482</Latitude>
+    <Longitude>35.536906</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הגרנות</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972519</Latitude>
+    <Longitude>35.535433</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הדרך הטורקית</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.965422</Latitude>
+    <Longitude>35.540302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.964628</Latitude>
+    <Longitude>35.536679</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הזיתים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.963330</Latitude>
+    <Longitude>35.542402</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970456</Latitude>
+    <Longitude>35.541526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970237</Latitude>
+    <Longitude>35.535613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלמית</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.966728</Latitude>
+    <Longitude>35.535832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.965867</Latitude>
+    <Longitude>35.537549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972448</Latitude>
+    <Longitude>35.538015</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הכרמים הרחבה א'</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970858</Latitude>
+    <Longitude>35.546723</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הנדיב</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.971163</Latitude>
+    <Longitude>35.533870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972407</Latitude>
+    <Longitude>35.539217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972100</Latitude>
+    <Longitude>35.535132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970416</Latitude>
+    <Longitude>35.534147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970258</Latitude>
+    <Longitude>35.546448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.962725</Latitude>
+    <Longitude>35.543554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.972112</Latitude>
+    <Longitude>35.537357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השזיף</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.971101</Latitude>
+    <Longitude>35.542827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970745</Latitude>
+    <Longitude>35.546088</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>השלום</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.967461</Latitude>
+    <Longitude>35.545646</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>השקדים הרחבה ב'</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.971528</Latitude>
+    <Longitude>35.542868</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>התורמוס</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.973817</Latitude>
+    <Longitude>35.538064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמרים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.963850</Latitude>
+    <Longitude>35.542491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970186</Latitude>
+    <Longitude>35.550064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חן</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.966298</Latitude>
+    <Longitude>35.541282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה בנימין</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.970462</Latitude>
+    <Longitude>35.533672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה גיא אוני</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.969007</Latitude>
+    <Longitude>35.542844</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מעלה הכנען הרחבה ד'</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.966182</Latitude>
+    <Longitude>35.536923</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משעול גולן</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.967075</Latitude>
+    <Longitude>35.541433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול גונן</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.966635</Latitude>
+    <Longitude>35.543230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האקליפטוס</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.969673</Latitude>
+    <Longitude>35.541007</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התאנה</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.965288</Latitude>
+    <Longitude>35.543918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת גלילי</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.965462</Latitude>
+    <Longitude>35.540970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיקם שמאי</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.966984</Latitude>
+    <Longitude>35.546494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטר פביאן</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.967544</Latitude>
+    <Longitude>35.545061</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פני גולן</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.973429</Latitude>
+    <Longitude>35.536380</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שביל הברושים</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.967341</Latitude>
+    <Longitude>35.543401</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תל אביב</NativeName>
+    <ParentName>ראש פינה, ישראל</ParentName>
+    <Latitude>32.967350</Latitude>
+    <Longitude>35.538613</Longitude>
+  </CityRegion>
+</LocationData>

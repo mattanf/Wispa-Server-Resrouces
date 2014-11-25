@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.852006</Latitude>
+    <Longitude>35.070908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביר יעקב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846304</Latitude>
+    <Longitude>35.074527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוזים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.859877</Latitude>
+    <Longitude>35.084787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת ציון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.837500</Latitude>
+    <Longitude>35.062551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.854484</Latitude>
+    <Longitude>35.069390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.837212</Latitude>
+    <Longitude>35.064768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילנות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.859545</Latitude>
+    <Longitude>35.083681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847095</Latitude>
+    <Longitude>35.071732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842344</Latitude>
+    <Longitude>35.071665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842214</Latitude>
+    <Longitude>35.065251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842378</Latitude>
+    <Longitude>35.064232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851735</Latitude>
+    <Longitude>35.068356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קפלן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851844</Latitude>
+    <Longitude>35.071356</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אלמוגים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.854408</Latitude>
+    <Longitude>35.070848</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849949</Latitude>
+    <Longitude>35.065878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.854326</Latitude>
+    <Longitude>35.073376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.841902</Latitude>
+    <Longitude>35.066015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850115</Latitude>
+    <Longitude>35.067407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.856137</Latitude>
+    <Longitude>35.069683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851177</Latitude>
+    <Longitude>35.069946</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בנה ביתך</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844675</Latitude>
+    <Longitude>35.076598</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בנימין</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849607</Latitude>
+    <Longitude>35.066734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברדיצ'בסקי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.837696</Latitude>
+    <Longitude>35.064625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838712</Latitude>
+    <Longitude>35.060443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848254</Latitude>
+    <Longitude>35.066935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855797</Latitude>
+    <Longitude>35.078047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853938</Latitude>
+    <Longitude>35.082365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847518</Latitude>
+    <Longitude>35.070592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855843</Latitude>
+    <Longitude>35.080622</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן סולד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848225</Latitude>
+    <Longitude>35.072194</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.854930</Latitude>
+    <Longitude>35.073636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגנית</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844052</Latitude>
+    <Longitude>35.075071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.859390</Latitude>
+    <Longitude>35.086740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848585</Latitude>
+    <Longitude>35.065744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842853</Latitude>
+    <Longitude>35.066361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853227</Latitude>
+    <Longitude>35.080784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.852737</Latitude>
+    <Longitude>35.080426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגעתון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846565</Latitude>
+    <Longitude>35.068868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855901</Latitude>
+    <Longitude>35.070438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845943</Latitude>
+    <Longitude>35.070116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842258</Latitude>
+    <Longitude>35.066776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850013</Latitude>
+    <Longitude>35.072942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846424</Latitude>
+    <Longitude>35.069164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרת</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853447</Latitude>
+    <Longitude>35.072507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.836413</Latitude>
+    <Longitude>35.065193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך דוד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>המלך דויד</AlternateName>
+    <Latitude>32.849876</Latitude>
+    <Longitude>35.073277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.852729</Latitude>
+    <Longitude>35.068486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851318</Latitude>
+    <Longitude>35.079411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.837696</Latitude>
+    <Longitude>35.064625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנעמן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846260</Latitude>
+    <Longitude>35.069493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846100</Latitude>
+    <Longitude>35.069803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845768</Latitude>
+    <Longitude>35.070463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851965</Latitude>
+    <Longitude>35.080812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוממיות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853042</Latitude>
+    <Longitude>35.067975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851456</Latitude>
+    <Longitude>35.067195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בוזגלו</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>רבי בוזגלו</AlternateName>
+    <AlternateName>הרבי בוזגלו</AlternateName>
+    <AlternateName>בוזגלו</AlternateName>
+    <Latitude>32.848419</Latitude>
+    <Longitude>35.067803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850183</Latitude>
+    <Longitude>35.072593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849901</Latitude>
+    <Longitude>35.073743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848365</Latitude>
+    <Longitude>35.065184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן ארן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.843173</Latitude>
+    <Longitude>35.064175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.843507</Latitude>
+    <Longitude>35.074213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844508</Latitude>
+    <Longitude>35.062431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842735</Latitude>
+    <Longitude>35.071896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרובים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.857481</Latitude>
+    <Longitude>35.080786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851304</Latitude>
+    <Longitude>35.069609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.837930</Latitude>
+    <Longitude>35.064355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838916</Latitude>
+    <Longitude>35.061663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846664</Latitude>
+    <Longitude>35.078497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850305</Latitude>
+    <Longitude>35.072230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847878</Latitude>
+    <Longitude>35.066024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849372</Latitude>
+    <Longitude>35.067338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848069</Latitude>
+    <Longitude>35.071626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844916</Latitude>
+    <Longitude>35.074291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב נמרי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.839045</Latitude>
+    <Longitude>35.061754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.843088</Latitude>
+    <Longitude>35.065474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851804</Latitude>
+    <Longitude>35.068711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל בר יהודה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.841616</Latitude>
+    <Longitude>35.066775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ישעיהו</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842066</Latitude>
+    <Longitude>35.061010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848025</Latitude>
+    <Longitude>35.064727</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845990</Latitude>
+    <Longitude>35.075757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.851844</Latitude>
+    <Longitude>35.071356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851722</Latitude>
+    <Longitude>35.069005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.860420</Latitude>
+    <Longitude>35.085380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847488</Latitude>
+    <Longitude>35.066218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855107</Latitude>
+    <Longitude>35.070083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845196</Latitude>
+    <Longitude>35.073774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850280</Latitude>
+    <Longitude>35.081192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853274</Latitude>
+    <Longitude>35.081819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851179</Latitude>
+    <Longitude>35.079708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850572</Latitude>
+    <Longitude>35.071541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.856652</Latitude>
+    <Longitude>35.085615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכ"ל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838200</Latitude>
+    <Longitude>35.063519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848416</Latitude>
+    <Longitude>35.069913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838567</Latitude>
+    <Longitude>35.062778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנשה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849949</Latitude>
+    <Longitude>35.065878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847864</Latitude>
+    <Longitude>35.071942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844052</Latitude>
+    <Longitude>35.075071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי נמיר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844076</Latitude>
+    <Longitude>35.067963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין בובר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842622</Latitude>
+    <Longitude>35.068200</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז מנחם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838019</Latitude>
+    <Longitude>35.066527</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משה שפירא</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844508</Latitude>
+    <Longitude>35.062431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853276</Latitude>
+    <Longitude>35.075468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.848585</Latitude>
+    <Longitude>35.065744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845925</Latitude>
+    <Longitude>35.077002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הרב משאש</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855035</Latitude>
+    <Longitude>35.077457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב מאיר בליטי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855035</Latitude>
+    <Longitude>35.077457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.845055</Latitude>
+    <Longitude>35.077393</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביוני ים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.856405</Latitude>
+    <Longitude>35.083454</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.851708</Latitude>
+    <Longitude>35.071729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851437</Latitude>
+    <Longitude>35.069317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הקוממיות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.852937</Latitude>
+    <Longitude>35.068282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת סביון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846605</Latitude>
+    <Longitude>35.078056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת רקפת</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844888</Latitude>
+    <Longitude>35.076494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדולם</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851965</Latitude>
+    <Longitude>35.080812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עציון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847420</Latitude>
+    <Longitude>35.071529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערמונים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.856883</Latitude>
+    <Longitude>35.082562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.850914</Latitude>
+    <Longitude>35.072174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס לבון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.853851</Latitude>
+    <Longitude>35.076143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.851004</Latitude>
+    <Longitude>35.070244</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פסגות ים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.842804</Latitude>
+    <Longitude>35.072302</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.838805</Latitude>
+    <Longitude>35.062521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.857564</Latitude>
+    <Longitude>35.085381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847895</Latitude>
+    <Longitude>35.077543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847066</Latitude>
+    <Longitude>35.067833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855148</Latitude>
+    <Longitude>35.072858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.839774</Latitude>
+    <Longitude>35.059349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.839847</Latitude>
+    <Longitude>35.060293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.849563</Latitude>
+    <Longitude>35.073990</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ארזים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>ארזים</AlternateName>
+    <AlternateName>שד' ארזים</AlternateName>
+    <Latitude>32.858187</Latitude>
+    <Longitude>35.081423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ביאליק</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' חיים נחמן ביאליק</AlternateName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <AlternateName>ביאליק</AlternateName>
+    <AlternateName>שד' ביאליק</AlternateName>
+    <AlternateName>שדרות חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.837836</Latitude>
+    <Longitude>35.063801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ההסתדרות</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>ההסתדרות</AlternateName>
+    <AlternateName>שד' ההסתדרות</AlternateName>
+    <Latitude>32.850514</Latitude>
+    <Longitude>35.075283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הנרייטה סולד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>הנרייטה סולד</AlternateName>
+    <AlternateName>שד' הנרייטה סולד</AlternateName>
+    <Latitude>32.846959</Latitude>
+    <Longitude>35.072193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הפלמ"ח</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' הפלמ"ח</AlternateName>
+    <AlternateName>הפלמ"ח</AlternateName>
+    <Latitude>32.852934</Latitude>
+    <Longitude>35.072269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרברט ליהמן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' הרברט ליהמן</AlternateName>
+    <AlternateName>הרברט ליהמן</AlternateName>
+    <Latitude>32.848058</Latitude>
+    <Longitude>35.068561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרצל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>הרצל</AlternateName>
+    <AlternateName>שד' הרצל</AlternateName>
+    <Latitude>32.838448</Latitude>
+    <Longitude>35.065965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>32.850754</Latitude>
+    <Longitude>35.070636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ז'בוטינסקי</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זבוטיסקי</AlternateName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זבוטיסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>32.839959</Latitude>
+    <Longitude>35.063173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות זלמן שז"ר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' זלמן שז"ר</AlternateName>
+    <AlternateName>זלמן שז"ר</AlternateName>
+    <Latitude>32.841176</Latitude>
+    <Longitude>35.064078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>32.848786</Latitude>
+    <Longitude>35.075842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות משה שרת</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>שד' משה שרת</AlternateName>
+    <AlternateName>משה שרת</AlternateName>
+    <Latitude>32.843674</Latitude>
+    <Longitude>35.065708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות פנחס ספיר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>פנחס ספיר</AlternateName>
+    <AlternateName>שד' פנחס ספיר</AlternateName>
+    <Latitude>32.846980</Latitude>
+    <Longitude>35.062281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות צה"ל</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>צה"ל</AlternateName>
+    <AlternateName>שד' צה"ל</AlternateName>
+    <Latitude>32.844818</Latitude>
+    <Longitude>35.069717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רוברט סולד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <AlternateName>רוברט סולד</AlternateName>
+    <AlternateName>שד' רוברט סולד</AlternateName>
+    <Latitude>32.836652</Latitude>
+    <Longitude>35.061764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיכון צבא קבע</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.844568</Latitude>
+    <Longitude>35.068019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיקמים</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.856880</Latitude>
+    <Longitude>35.084327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.847124</Latitude>
+    <Longitude>35.066742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.846552</Latitude>
+    <Longitude>35.067927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855600</Latitude>
+    <Longitude>35.068554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855391</Latitude>
+    <Longitude>35.072024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.854715</Latitude>
+    <Longitude>35.081135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>קרית ים, ישראל</ParentName>
+    <Latitude>32.855080</Latitude>
+    <Longitude>35.070979</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,5477 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.088627</Latitude>
+    <Longitude>34.898579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא אחימאיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אחימאיר</AlternateName>
+    <Latitude>32.072437</Latitude>
+    <Longitude>34.882162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא ברדיצ'ב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074049</Latitude>
+    <Longitude>34.861968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא הלל סילבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090594</Latitude>
+    <Longitude>34.870548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבי אורן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081830</Latitude>
+    <Longitude>34.863968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093377</Latitude>
+    <Longitude>34.889973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבימלך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078730</Latitude>
+    <Longitude>34.917735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבינועם ילין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078840</Latitude>
+    <Longitude>34.887404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095466</Latitude>
+    <Longitude>34.888497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם גפני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077915</Latitude>
+    <Longitude>34.881277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם טביב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079098</Latitude>
+    <Longitude>34.892217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם קופלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082464</Latitude>
+    <Longitude>34.862737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבשלום גיסין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099155</Latitude>
+    <Longitude>34.872567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבשלום דינוביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088007</Latitude>
+    <Longitude>34.898324</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת ציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077483</Latitude>
+    <Longitude>34.899542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108081</Latitude>
+    <Longitude>34.891191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון ברט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099991</Latitude>
+    <Longitude>34.862902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון כצנלסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אהרון קצנלסון</AlternateName>
+    <Latitude>32.093681</Latitude>
+    <Longitude>34.876374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון מסקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>מסקין</AlternateName>
+    <Latitude>32.074532</Latitude>
+    <Longitude>34.875676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון קציר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089236</Latitude>
+    <Longitude>34.885244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090644</Latitude>
+    <Longitude>34.857883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אונקלוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087465</Latitude>
+    <Longitude>34.849234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.090088</Latitude>
+    <Longitude>34.888307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073007</Latitude>
+    <Longitude>34.893380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופקים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079188</Latitude>
+    <Longitude>34.916304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אור יחזקאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069119</Latitude>
+    <Longitude>34.911948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורי צבי גרינברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>צבי גרינברג</AlternateName>
+    <Latitude>32.071105</Latitude>
+    <Longitude>34.881229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורי קרני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072602</Latitude>
+    <Longitude>34.872917</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אורלוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092514</Latitude>
+    <Longitude>34.877721</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אורלנסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082302</Latitude>
+    <Longitude>34.890943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אז"ר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070157</Latitude>
+    <Longitude>34.893684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084428</Latitude>
+    <Longitude>34.890166</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אחדות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073953</Latitude>
+    <Longitude>34.892881</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אידלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073382</Latitude>
+    <Longitude>34.879536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איכילוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087098</Latitude>
+    <Longitude>34.884102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילניה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.104260</Latitude>
+    <Longitude>34.871644</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076094</Latitude>
+    <Longitude>34.889780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אימבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>איבמר</AlternateName>
+    <Latitude>32.098994</Latitude>
+    <Longitude>34.863843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איסר הראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102785</Latitude>
+    <Longitude>34.879509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איתן לבני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080525</Latitude>
+    <Longitude>34.869627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלברט איינשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089930</Latitude>
+    <Longitude>34.850574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלדד ישראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072640</Latitude>
+    <Longitude>34.863940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף רחבעם זאבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רחבעם זאבי</AlternateName>
+    <Latitude>32.104585</Latitude>
+    <Longitude>34.877736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחנן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076978</Latitude>
+    <Longitude>34.888495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070884</Latitude>
+    <Longitude>34.902275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו בן חור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105393</Latitude>
+    <Longitude>34.878508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096409</Latitude>
+    <Longitude>34.891396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר רואי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078039</Latitude>
+    <Longitude>34.868533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליקים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078028</Latitude>
+    <Longitude>34.916887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישיב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076981</Latitude>
+    <Longitude>34.918002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר זייד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078436</Latitude>
+    <Longitude>34.864173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר ינאי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.106326</Latitude>
+    <Longitude>34.897903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר פן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079790</Latitude>
+    <Longitude>34.861562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087342</Latitude>
+    <Longitude>34.851294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלעזר פרידמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080162</Latitude>
+    <Longitude>34.902024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקחי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091265</Latitude>
+    <Longitude>34.890601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקניאן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076353</Latitude>
+    <Longitude>34.912745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלתר מיהוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081808</Latitude>
+    <Longitude>34.882987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלתרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אלטרמן</AlternateName>
+    <Latitude>32.083413</Latitude>
+    <Longitude>34.900663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיל זולא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אמיל זולה</AlternateName>
+    <AlternateName>עמיל זולה</AlternateName>
+    <AlternateName>עמיל זולא</AlternateName>
+    <Latitude>32.094423</Latitude>
+    <Longitude>34.852682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיר בנימיני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085982</Latitude>
+    <Longitude>34.896994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיר גלבוע</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>עמיר גלבוע</AlternateName>
+    <Latitude>32.079254</Latitude>
+    <Longitude>34.860943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמסטרדם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083882</Latitude>
+    <Longitude>34.865182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנגל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079603</Latitude>
+    <Longitude>34.883486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה טיכו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078563</Latitude>
+    <Longitude>34.861651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083797</Latitude>
+    <Longitude>34.880796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077722</Latitude>
+    <Longitude>34.884101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085834</Latitude>
+    <Longitude>34.867005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו חיים סירני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076070</Latitude>
+    <Longitude>34.861987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093810</Latitude>
+    <Longitude>34.874314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסף שמחוני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074728</Latitude>
+    <Longitude>34.893491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093520</Latitude>
+    <Longitude>34.904477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפעל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095909</Latitude>
+    <Longitude>34.847560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.092223</Latitude>
+    <Longitude>34.892222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בן אליעזר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069976</Latitude>
+    <Longitude>34.910116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בראון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.103844</Latitude>
+    <Longitude>34.878012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה שנקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094855</Latitude>
+    <Longitude>34.856080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארתור רופין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091479</Latitude>
+    <Longitude>34.878703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכנזי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088229</Latitude>
+    <Longitude>34.884673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר בר לוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078043</Latitude>
+    <Longitude>34.880538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר ברש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077737</Latitude>
+    <Longitude>34.864232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בבלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074988</Latitude>
+    <Longitude>34.901277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בגלייבטר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072959</Latitude>
+    <Longitude>34.879429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בהט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.110494</Latitude>
+    <Longitude>34.893362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בובר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081123</Latitude>
+    <Longitude>34.870492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078146</Latitude>
+    <Longitude>34.916337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086090</Latitude>
+    <Longitude>34.876715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורלא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091925</Latitude>
+    <Longitude>34.881937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>באזל</AlternateName>
+    <Latitude>32.096324</Latitude>
+    <Longitude>34.867155</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס וחט"ב קורצ'אק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072740</Latitude>
+    <Longitude>34.894248</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נאות דוד ממ"ד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>בי"ס נאות דויד ממ"ד</AlternateName>
+    <Latitude>32.076568</Latitude>
+    <Longitude>34.877892</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נאות מרגלית לבנות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097544</Latitude>
+    <Longitude>34.888387</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נאות מרגלית לבנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097818</Latitude>
+    <Longitude>34.888258</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נאות מרגלית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071232</Latitude>
+    <Longitude>34.894464</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס שמעוני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091020</Latitude>
+    <Longitude>34.894356</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.081822</Latitude>
+    <Longitude>34.888904</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080971</Latitude>
+    <Longitude>34.916221</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בייליס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094587</Latitude>
+    <Longitude>34.881390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087112</Latitude>
+    <Longitude>34.879419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית רייזין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099861</Latitude>
+    <Longitude>34.897033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בכור שטרית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076595</Latitude>
+    <Longitude>34.893545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלטימור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096367</Latitude>
+    <Longitude>34.866585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082179</Latitude>
+    <Longitude>34.886218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076640</Latitude>
+    <Longitude>34.870263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן זכאי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבן יוחנן בן זכאי</AlternateName>
+    <Latitude>32.088001</Latitude>
+    <Longitude>34.850938</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן משה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090843</Latitude>
+    <Longitude>34.893633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון גליס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105244</Latitude>
+    <Longitude>34.891812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון צוויק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076423</Latitude>
+    <Longitude>34.879248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין דיסקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095727</Latitude>
+    <Longitude>34.882949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין יהלום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083405</Latitude>
+    <Longitude>34.875978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין מינץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074318</Latitude>
+    <Longitude>34.890409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל התניא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092488</Latitude>
+    <Longitude>34.890540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל שם טוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080346</Latitude>
+    <Longitude>34.894510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094786</Latitude>
+    <Longitude>34.900597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר גיורא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095369</Latitude>
+    <Longitude>34.902697</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בר יהודה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083601</Latitude>
+    <Longitude>34.869287</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094379</Latitude>
+    <Longitude>34.885655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוורמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078397</Latitude>
+    <Longitude>34.876914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך רוטברד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071901</Latitude>
+    <Longitude>34.880625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך שפינוזה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075741</Latitude>
+    <Longitude>34.890747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברון דה מנשה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090129</Latitude>
+    <Longitude>34.847197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברון הירש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089833</Latitude>
+    <Longitude>34.882509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברטונוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079671</Latitude>
+    <Longitude>34.874058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברטנורא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082226</Latitude>
+    <Longitude>34.882765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברל כצנלסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ברל קצנלסון</AlternateName>
+    <Latitude>32.087702</Latitude>
+    <Longitude>34.875572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברלוביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072041</Latitude>
+    <Longitude>34.905230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091627</Latitude>
+    <Longitude>34.903127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אדוארד ברנשטיין</AlternateName>
+    <AlternateName>אדוארד</AlternateName>
+    <Latitude>32.095129</Latitude>
+    <Longitude>34.884066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078915</Latitude>
+    <Longitude>34.876943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקוביץ'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088009</Latitude>
+    <Longitude>34.884121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090344</Latitude>
+    <Longitude>34.858693</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בת גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071913</Latitude>
+    <Longitude>34.881830</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בת שבע</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093720</Latitude>
+    <Longitude>34.903741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת שלמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.103439</Latitude>
+    <Longitude>34.873432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'מילי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080023</Latitude>
+    <Longitude>34.893099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאולי תימן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.067870</Latitude>
+    <Longitude>34.900063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד מכנס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077118</Latitude>
+    <Longitude>34.886727</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדנ"ע</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074134</Latitude>
+    <Longitude>34.893324</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדרה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105570</Latitude>
+    <Longitude>34.875251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדנהירש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091595</Latitude>
+    <Longitude>34.886450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גונן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091061</Latitude>
+    <Longitude>34.855554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש חלב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086623</Latitude>
+    <Longitude>34.849731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084877</Latitude>
+    <Longitude>34.904128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גזית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105208</Latitude>
+    <Longitude>34.898475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גייסות השריון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084881</Latitude>
+    <Longitude>34.873062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלוסקא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>גלוסקה</AlternateName>
+    <Latitude>32.069335</Latitude>
+    <Longitude>34.902849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084792</Latitude>
+    <Longitude>34.895871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גליצנשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075259</Latitude>
+    <Longitude>34.881676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073797</Latitude>
+    <Longitude>34.878530</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן ארגוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077181</Latitude>
+    <Longitude>34.890951</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן זכריה כוחלני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083320</Latitude>
+    <Longitude>34.895821</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן מ"ד מעפילי ספינת אגוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070615</Latitude>
+    <Longitude>34.917258</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן מעפילי מפקורה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087351</Latitude>
+    <Longitude>34.849957</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן ע"ש המהנדס יוסף המהרש"ק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091358</Latitude>
+    <Longitude>34.879077</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני הדר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069772</Latitude>
+    <Longitude>34.912451</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרינשפן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095726</Latitude>
+    <Longitude>34.874036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרניט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101908</Latitude>
+    <Longitude>34.864476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרשון אגרון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090745</Latitude>
+    <Longitude>34.899371</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גת רימון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070425</Latitude>
+    <Longitude>34.884289</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ד"ר אלכסנדר גרוטו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דוקטור אלכסנדר גרוטו</AlternateName>
+    <AlternateName>אלכסנדר גרוטו</AlternateName>
+    <Latitude>32.092857</Latitude>
+    <Longitude>34.875312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר וייסבורג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דוקטור וייסבורג</AlternateName>
+    <AlternateName>וייסבורג</AlternateName>
+    <Latitude>32.092672</Latitude>
+    <Longitude>34.904457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר פוגל הרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דוקטור פוגל הרמן</AlternateName>
+    <AlternateName>פוגל הרמן</AlternateName>
+    <Latitude>32.095727</Latitude>
+    <Longitude>34.882949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר שיפר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>שיפר</AlternateName>
+    <AlternateName>דוקטור שיפר</AlternateName>
+    <Latitude>32.097094</Latitude>
+    <Longitude>34.890838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092157</Latitude>
+    <Longitude>34.893252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083990</Latitude>
+    <Longitude>34.876003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב ימיני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095840</Latitude>
+    <Longitude>34.884997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093641</Latitude>
+    <Longitude>34.901362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגל ראובן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081857</Latitude>
+    <Longitude>34.873151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086299</Latitude>
+    <Longitude>34.863193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובנוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089538</Latitude>
+    <Longitude>34.876695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אבידן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד אבידן</AlternateName>
+    <Latitude>32.074477</Latitude>
+    <Longitude>34.863027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד גולדברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד גולדברג</AlternateName>
+    <Latitude>32.072133</Latitude>
+    <Longitude>34.910102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד הכורך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד הכורך</AlternateName>
+    <Latitude>32.088188</Latitude>
+    <Longitude>34.880671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד וולפסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד וולפסון</AlternateName>
+    <Latitude>32.087025</Latitude>
+    <Longitude>34.890805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד חיון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד חיון</AlternateName>
+    <Latitude>32.091049</Latitude>
+    <Longitude>34.879641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד טבצ'ניק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד טבצ'ניק</AlternateName>
+    <Latitude>32.093610</Latitude>
+    <Longitude>34.876288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פוחס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד פוחס</AlternateName>
+    <Latitude>32.084346</Latitude>
+    <Longitude>34.898247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פרנקפורטר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד פרנקפורטר</AlternateName>
+    <Latitude>32.085445</Latitude>
+    <Longitude>34.879646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד צבי פנקס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד צבי פנקס</AlternateName>
+    <Latitude>32.081405</Latitude>
+    <Longitude>34.880677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.073343</Latitude>
+    <Longitude>34.896057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.088686</Latitude>
+    <Longitude>34.903648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד שמעוני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד שמעוני</AlternateName>
+    <AlternateName>שימעוני</AlternateName>
+    <AlternateName>שמעוני</AlternateName>
+    <Latitude>32.081250</Latitude>
+    <Longitude>34.863696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד תדהר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דויד תדהר</AlternateName>
+    <Latitude>32.077504</Latitude>
+    <Longitude>34.879742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דון יוסף נשיא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091229</Latitude>
+    <Longitude>34.900530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דון יצחק אברבנאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092856</Latitude>
+    <Longitude>34.892511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דורון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089281</Latitude>
+    <Longitude>34.876022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דורני שלום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098437</Latitude>
+    <Longitude>34.888362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דינור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086640</Latitude>
+    <Longitude>34.869040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל ליפשיץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075608</Latitude>
+    <Longitude>34.874586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דנמרק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086363</Latitude>
+    <Longitude>34.863293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088721</Latitude>
+    <Longitude>34.875902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085471</Latitude>
+    <Longitude>34.871888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרייפוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073711</Latitude>
+    <Longitude>34.888710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך אם המושבות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אם המושבות</AlternateName>
+    <Latitude>32.101357</Latitude>
+    <Longitude>34.858557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החיים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>החיים</AlternateName>
+    <Latitude>32.105093</Latitude>
+    <Longitude>34.889923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרב משה מלכה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרב משה מלכה</AlternateName>
+    <Latitude>32.095285</Latitude>
+    <Longitude>34.869920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך זאב ז'בוטינסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>דרך ז'בוטינסקי</AlternateName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>דרך זבוטיסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>32.091865</Latitude>
+    <Longitude>34.861003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך זבולון המר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>זבולון המר</AlternateName>
+    <Latitude>32.103835</Latitude>
+    <Longitude>34.868809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>32.080203</Latitude>
+    <Longitude>34.860349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מנחם בגין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <Latitude>32.072251</Latitude>
+    <Longitude>34.908318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ה' באייר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086500</Latitude>
+    <Longitude>34.899208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האביב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076175</Latitude>
+    <Longitude>34.865536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגמון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080417</Latitude>
+    <Longitude>34.917763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר רבי שלום איפרגן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072103</Latitude>
+    <Longitude>34.877579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097562</Latitude>
+    <Longitude>34.852292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084274</Latitude>
+    <Longitude>34.877183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076688</Latitude>
+    <Longitude>34.867877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים בכר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095901</Latitude>
+    <Longitude>34.879903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים בן עזר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087320</Latitude>
+    <Longitude>34.869554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים יפה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080297</Latitude>
+    <Longitude>34.881728</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>האחים ישראלית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099435</Latitude>
+    <Longitude>34.877829</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>האחים ישראלית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099266</Latitude>
+    <Longitude>34.878161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים רוזוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092468</Latitude>
+    <Longitude>34.881775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים שטרייט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093694</Latitude>
+    <Longitude>34.884036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086307</Latitude>
+    <Longitude>34.899013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלונים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078840</Latitude>
+    <Longitude>34.883667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלוף דוד מרכוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>האלוף דויד מרכוס</AlternateName>
+    <Latitude>32.100843</Latitude>
+    <Longitude>34.896374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י הקדוש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080822</Latitude>
+    <Longitude>34.895280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070995</Latitude>
+    <Longitude>34.888822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097845</Latitude>
+    <Longitude>34.879808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבורסקאי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108107</Latitude>
+    <Longitude>34.892303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הביטחון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087287</Latitude>
+    <Longitude>34.854509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095129</Latitude>
+    <Longitude>34.884066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081238</Latitude>
+    <Longitude>34.918036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיתית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077009</Latitude>
+    <Longitude>34.909782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075445</Latitude>
+    <Longitude>34.863360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097775</Latitude>
+    <Longitude>34.897712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדף היומי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083358</Latitude>
+    <Longitude>34.882952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078863</Latitude>
+    <Longitude>34.868061</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הדר גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077575</Latitude>
+    <Longitude>34.909708</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הדר המושבות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.103463</Latitude>
+    <Longitude>34.872945</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076517</Latitude>
+    <Longitude>34.899315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087970</Latitude>
+    <Longitude>34.885210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082404</Latitude>
+    <Longitude>34.915776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081598</Latitude>
+    <Longitude>34.918594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085955</Latitude>
+    <Longitude>34.884709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הוברמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075522</Latitude>
+    <Longitude>34.887733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076769</Latitude>
+    <Longitude>34.866703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073353</Latitude>
+    <Longitude>34.900969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הותיקים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090560</Latitude>
+    <Longitude>34.903509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079647</Latitude>
+    <Longitude>34.896040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076218</Latitude>
+    <Longitude>34.864848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079896</Latitude>
+    <Longitude>34.864310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078994</Latitude>
+    <Longitude>34.866548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החליל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079553</Latitude>
+    <Longitude>34.906483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמישה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072061</Latitude>
+    <Longitude>34.895056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086200</Latitude>
+    <Longitude>34.890190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079975</Latitude>
+    <Longitude>34.916961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוצים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100194</Latitude>
+    <Longitude>34.860562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.111093</Latitude>
+    <Longitude>34.890089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085834</Latitude>
+    <Longitude>34.867005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096615</Latitude>
+    <Longitude>34.852997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098316</Latitude>
+    <Longitude>34.902395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היבנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080348</Latitude>
+    <Longitude>34.875121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082505</Latitude>
+    <Longitude>34.875203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094925</Latitude>
+    <Longitude>34.849856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075784</Latitude>
+    <Longitude>34.889909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקונים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108659</Latitude>
+    <Longitude>34.901426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכורם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084184</Latitude>
+    <Longitude>34.861283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכינור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077864</Latitude>
+    <Longitude>34.909065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082477</Latitude>
+    <Longitude>34.879706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089741</Latitude>
+    <Longitude>34.900919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075259</Latitude>
+    <Longitude>34.881676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלולב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079515</Latitude>
+    <Longitude>34.918104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085517</Latitude>
+    <Longitude>34.876632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080749</Latitude>
+    <Longitude>34.918384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלסינקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090164</Latitude>
+    <Longitude>34.864493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלפיד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091736</Latitude>
+    <Longitude>34.855620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלפרין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086156</Latitude>
+    <Longitude>34.894987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגיד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082721</Latitude>
+    <Longitude>34.897215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087264</Latitude>
+    <Longitude>34.897149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגשימים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087629</Latitude>
+    <Longitude>34.853541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המהר"ל מפראג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087190</Latitude>
+    <Longitude>34.850941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המורה אליהו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087808</Latitude>
+    <Longitude>34.880342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המורים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089333</Latitude>
+    <Longitude>34.879888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המיתר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080052</Latitude>
+    <Longitude>34.905934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096064</Latitude>
+    <Longitude>34.888385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך כורש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076549</Latitude>
+    <Longitude>34.911209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלכים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072758</Latitude>
+    <Longitude>34.896074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082531</Latitude>
+    <Longitude>34.899394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפלסים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101319</Latitude>
+    <Longitude>34.863158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפעלים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093969</Latitude>
+    <Longitude>34.856242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצלתיים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077288</Latitude>
+    <Longitude>34.906930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגנית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082064</Latitude>
+    <Longitude>34.869360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093120</Latitude>
+    <Longitude>34.856351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשוררת זלדה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077452</Latitude>
+    <Longitude>34.860748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074424</Latitude>
+    <Longitude>34.898432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075787</Latitude>
+    <Longitude>34.888663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנח"ל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100257</Latitude>
+    <Longitude>34.899126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצחון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076412</Latitude>
+    <Longitude>34.901201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078317</Latitude>
+    <Longitude>34.865746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנס אנדרסן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089215</Latitude>
+    <Longitude>34.873614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנצי"ב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092340</Latitude>
+    <Longitude>34.897666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076605</Latitude>
+    <Longitude>34.893967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082603</Latitude>
+    <Longitude>34.868051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיאים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077459</Latitude>
+    <Longitude>34.880878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיבים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085910</Latitude>
+    <Longitude>34.856253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנהדרין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099523</Latitude>
+    <Longitude>34.901802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסתוונית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079727</Latitude>
+    <Longitude>34.879066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העוגב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078381</Latitude>
+    <Longitude>34.908689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה השנייה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086893</Latitude>
+    <Longitude>34.887541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הענבל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076930</Latitude>
+    <Longitude>34.908466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074710</Latitude>
+    <Longitude>34.871397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085905</Latitude>
+    <Longitude>34.866318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081457</Latitude>
+    <Longitude>34.897862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפועל הצעיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089755</Latitude>
+    <Longitude>34.874438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפורצים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088161</Latitude>
+    <Longitude>34.876792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089000</Latitude>
+    <Longitude>34.875067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפסגות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099303</Latitude>
+    <Longitude>34.854921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077120</Latitude>
+    <Longitude>34.874357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077475</Latitude>
+    <Longitude>34.866979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרטיזנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079907</Latitude>
+    <Longitude>34.872145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078127</Latitude>
+    <Longitude>34.901861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצוערים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089346</Latitude>
+    <Longitude>34.870291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצייר צבי שור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080533</Latitude>
+    <Longitude>34.862911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081595</Latitude>
+    <Longitude>34.898356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפירה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088780</Latitude>
+    <Longitude>34.849374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפצפה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087508</Latitude>
+    <Longitude>34.875544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקונגרס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093748</Latitude>
+    <Longitude>34.892586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקידמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097754</Latitude>
+    <Longitude>34.850035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקציר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080388</Latitude>
+    <Longitude>34.915290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקרן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076486</Latitude>
+    <Longitude>34.904290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075993</Latitude>
+    <Longitude>34.863387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקתרוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078645</Latitude>
+    <Longitude>34.907957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר ציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077688</Latitude>
+    <Longitude>34.918651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088939</Latitude>
+    <Longitude>34.887961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אבו רביע</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי אבו רביע</AlternateName>
+    <AlternateName>הרבי אבו רביע</AlternateName>
+    <AlternateName>אבו רביע</AlternateName>
+    <Latitude>32.086827</Latitude>
+    <Longitude>34.896434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אברהם ריין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי אברהם ריין</AlternateName>
+    <AlternateName>הרבי אברהם ריין</AlternateName>
+    <AlternateName>אברהם ריין</AlternateName>
+    <Latitude>32.070938</Latitude>
+    <Longitude>34.910709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אהרונסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי אהרונסון</AlternateName>
+    <AlternateName>אהרונסון</AlternateName>
+    <AlternateName>רבי אהרונסון</AlternateName>
+    <Latitude>32.085278</Latitude>
+    <Longitude>34.881164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אונטרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי איסר יהודה אונטרמן</AlternateName>
+    <AlternateName>הרב איסר יהודה אונטרמן</AlternateName>
+    <AlternateName>הרבי איסר יהודה</AlternateName>
+    <AlternateName>רבי אונטרמן</AlternateName>
+    <AlternateName>איסר יהודה אונטרמן</AlternateName>
+    <AlternateName>איסר יהודה</AlternateName>
+    <AlternateName>אונטרמן</AlternateName>
+    <AlternateName>הרב איסר יהודה</AlternateName>
+    <AlternateName>רבי איסר יהודה</AlternateName>
+    <AlternateName>הרבי אונטרמן</AlternateName>
+    <AlternateName>הרבי איסר יהודה אונטרמן</AlternateName>
+    <Latitude>32.099706</Latitude>
+    <Longitude>34.898243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אורבך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אורבך</AlternateName>
+    <AlternateName>רבי אורבך</AlternateName>
+    <AlternateName>הרבי אורבך</AlternateName>
+    <Latitude>32.096379</Latitude>
+    <Longitude>34.895502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אילוביצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי אילוביצקי</AlternateName>
+    <AlternateName>אילוביצקי</AlternateName>
+    <AlternateName>הרבי אילוביצקי</AlternateName>
+    <Latitude>32.088791</Latitude>
+    <Longitude>34.879389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלבז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי אלבז</AlternateName>
+    <AlternateName>אלבז</AlternateName>
+    <AlternateName>הרבי אלבז</AlternateName>
+    <Latitude>32.070043</Latitude>
+    <Longitude>34.916591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלקלעי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי אלקלאי</AlternateName>
+    <AlternateName>אלקלעי</AlternateName>
+    <AlternateName>אלקלאי</AlternateName>
+    <AlternateName>רבי אלקלאי</AlternateName>
+    <AlternateName>הרב אלקלאי</AlternateName>
+    <AlternateName>רבי אלקלעי</AlternateName>
+    <AlternateName>הרבי אלקלעי</AlternateName>
+    <Latitude>32.077139</Latitude>
+    <Longitude>34.912618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גולד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי גולד</AlternateName>
+    <AlternateName>גולד</AlternateName>
+    <AlternateName>הרבי גולד</AlternateName>
+    <Latitude>32.097575</Latitude>
+    <Longitude>34.899764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ד"ר משה אויערבך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ד"ר משה אויערבך</AlternateName>
+    <AlternateName>רבי ד"ר משה אויערבך</AlternateName>
+    <AlternateName>הרבי ד"ר משה אויערבך</AlternateName>
+    <Latitude>32.071852</Latitude>
+    <Longitude>34.866794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הלר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הלר</AlternateName>
+    <AlternateName>רבי הלר</AlternateName>
+    <AlternateName>הרבי הלר</AlternateName>
+    <Latitude>32.085035</Latitude>
+    <Longitude>34.891609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.096904</Latitude>
+    <Longitude>34.898366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וולף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי וולף</AlternateName>
+    <AlternateName>הרבי וולף</AlternateName>
+    <AlternateName>וולף</AlternateName>
+    <Latitude>32.080893</Latitude>
+    <Longitude>34.877182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חביב ביטון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי חביב ביטון</AlternateName>
+    <AlternateName>חביב ביטון</AlternateName>
+    <AlternateName>הרבי חביב ביטון</AlternateName>
+    <Latitude>32.074016</Latitude>
+    <Longitude>34.872232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חי טייב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי חי טייב</AlternateName>
+    <AlternateName>הרבי חי טייב</AlternateName>
+    <AlternateName>חי טייב</AlternateName>
+    <Latitude>32.072962</Latitude>
+    <Longitude>34.911748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יאיר חפוטא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יאיר חפוטא</AlternateName>
+    <AlternateName>רבי יאיר חפוטא</AlternateName>
+    <AlternateName>הרבי יאיר חפוטא</AlternateName>
+    <Latitude>32.098977</Latitude>
+    <Longitude>34.894159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יחבוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי יחבוב</AlternateName>
+    <AlternateName>רבי יחבוב</AlternateName>
+    <AlternateName>יחבוב</AlternateName>
+    <Latitude>32.088451</Latitude>
+    <Longitude>34.878292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יעקב טולדנו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי יעקב טולדנו</AlternateName>
+    <AlternateName>יעקב טולדנו</AlternateName>
+    <AlternateName>הרבי יעקב טולדנו</AlternateName>
+    <Latitude>32.089578</Latitude>
+    <Longitude>34.891712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ירמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי ירמה</AlternateName>
+    <AlternateName>ירמה</AlternateName>
+    <AlternateName>רבי ירמה</AlternateName>
+    <Latitude>32.093574</Latitude>
+    <Longitude>34.879245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.077422</Latitude>
+    <Longitude>34.892249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה בלוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי משה בלוי</AlternateName>
+    <AlternateName>משה בלוי</AlternateName>
+    <AlternateName>רבי משה בלוי</AlternateName>
+    <Latitude>32.096820</Latitude>
+    <Longitude>34.893797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה צבי נריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי משה צבי נריה</AlternateName>
+    <AlternateName>משה צבי נריה</AlternateName>
+    <AlternateName>הרבי משה צבי נריה</AlternateName>
+    <Latitude>32.073416</Latitude>
+    <Longitude>34.877477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ניימן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי ניימן</AlternateName>
+    <AlternateName>רבי ניימן</AlternateName>
+    <AlternateName>ניימן</AlternateName>
+    <Latitude>32.084298</Latitude>
+    <Longitude>34.879002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ניסן עבודי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ניסן עבודי</AlternateName>
+    <AlternateName>הרבי ניסן עבודי</AlternateName>
+    <AlternateName>רבי ניסן עבודי</AlternateName>
+    <Latitude>32.075838</Latitude>
+    <Longitude>34.912012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.092080</Latitude>
+    <Longitude>34.898486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עמיאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי עמיאל</AlternateName>
+    <AlternateName>עמיאל</AlternateName>
+    <AlternateName>הרבי עמיאל</AlternateName>
+    <Latitude>32.081717</Latitude>
+    <Longitude>34.892663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב פינטו מסעוד אשר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי פינטו מסעוד אשר</AlternateName>
+    <AlternateName>הרבי פינטו מסעוד אשר</AlternateName>
+    <AlternateName>פינטו מסעוד אשר</AlternateName>
+    <Latitude>32.099420</Latitude>
+    <Longitude>34.892806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צעירי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי צעירי</AlternateName>
+    <AlternateName>הרבי צעירי</AlternateName>
+    <AlternateName>צעירי</AlternateName>
+    <Latitude>32.071197</Latitude>
+    <Longitude>34.897092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.082422</Latitude>
+    <Longitude>34.881577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קטרוני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>קטרוני</AlternateName>
+    <AlternateName>הרבי קטרוני</AlternateName>
+    <AlternateName>רבי קטרוני</AlternateName>
+    <Latitude>32.082073</Latitude>
+    <Longitude>34.889920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קידר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>קידר</AlternateName>
+    <AlternateName>הרבי קידר</AlternateName>
+    <AlternateName>רבי קידר</AlternateName>
+    <Latitude>32.072685</Latitude>
+    <Longitude>34.877541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ראם שלמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ראם שלמה</AlternateName>
+    <AlternateName>הרבי ראם שלמה</AlternateName>
+    <AlternateName>רבי ראם שלמה</AlternateName>
+    <Latitude>32.073389</Latitude>
+    <Longitude>34.905147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ריינס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי ריינס</AlternateName>
+    <AlternateName>רבי ריינס</AlternateName>
+    <AlternateName>ריינס</AlternateName>
+    <Latitude>32.093910</Latitude>
+    <Longitude>34.897527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שקדי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רבי שקדי</AlternateName>
+    <AlternateName>הרבי שקדי</AlternateName>
+    <AlternateName>שקדי</AlternateName>
+    <Latitude>32.078287</Latitude>
+    <Longitude>34.893472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרברט סמואל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רציף הרברט סמואל</AlternateName>
+    <Latitude>32.086827</Latitude>
+    <Longitude>34.896434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרז"ה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.068878</Latitude>
+    <Longitude>34.915711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079174</Latitude>
+    <Longitude>34.864226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102965</Latitude>
+    <Longitude>34.894655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכבת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.110389</Latitude>
+    <Longitude>34.890956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093872</Latitude>
+    <Longitude>34.861277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמן צבי שפירא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081320</Latitude>
+    <Longitude>34.886508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמתי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078196</Latitude>
+    <Longitude>34.893255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085354</Latitude>
+    <Longitude>34.887744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085965</Latitude>
+    <Longitude>34.874438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080688</Latitude>
+    <Longitude>34.868224</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השדרה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087365</Latitude>
+    <Longitude>34.849896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090976</Latitude>
+    <Longitude>34.905792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופט ברנדייס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097519</Latitude>
+    <Longitude>34.890451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074729</Latitude>
+    <Longitude>34.896112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079977</Latitude>
+    <Longitude>34.908209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083445</Latitude>
+    <Longitude>34.869035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081407</Latitude>
+    <Longitude>34.915525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082062</Latitude>
+    <Longitude>34.918010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השילוח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091061</Latitude>
+    <Longitude>34.855554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091112</Latitude>
+    <Longitude>34.853008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092140</Latitude>
+    <Longitude>34.897025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099130</Latitude>
+    <Longitude>34.859344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074436</Latitude>
+    <Longitude>34.888007</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079603</Latitude>
+    <Longitude>34.868043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התוף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078163</Latitude>
+    <Longitude>34.908420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076416</Latitude>
+    <Longitude>34.902718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080127</Latitude>
+    <Longitude>34.868178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנופה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099823</Latitude>
+    <Longitude>34.857945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083475</Latitude>
+    <Longitude>34.917694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התשעים ושלוש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082820</Latitude>
+    <Longitude>34.879188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ווינברגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073992</Latitude>
+    <Longitude>34.904897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077931</Latitude>
+    <Longitude>34.872998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינקלר אלתר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092177</Latitude>
+    <Longitude>34.871934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויסוקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090774</Latitude>
+    <Longitude>34.895843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ועד ארבע ארצות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079859</Latitude>
+    <Longitude>34.909570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב אורלוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093556</Latitude>
+    <Longitude>34.881849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב ברא"ז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075838</Latitude>
+    <Longitude>34.909094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב ברנדה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080178</Latitude>
+    <Longitude>34.885417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב יעבץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089132</Latitude>
+    <Longitude>34.850002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב ליפקיס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091167</Latitude>
+    <Longitude>34.881860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבלודוביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089698</Latitude>
+    <Longitude>34.902744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זהבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093502</Latitude>
+    <Longitude>34.900374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיגלבוים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092144</Latitude>
+    <Longitude>34.880135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכרון יעקב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102286</Latitude>
+    <Longitude>34.875299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכרון משה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083446</Latitude>
+    <Longitude>34.881790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה הלל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078682</Latitude>
+    <Longitude>34.892825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071214</Latitude>
+    <Longitude>34.895916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זליג בס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076247</Latitude>
+    <Longitude>34.880214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091095</Latitude>
+    <Longitude>34.850698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמירות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075424</Latitude>
+    <Longitude>34.867165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075733</Latitude>
+    <Longitude>34.892762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זפרן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089745</Latitude>
+    <Longitude>34.892266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זקן השומרים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075624</Latitude>
+    <Longitude>34.907872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרח ברנט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093990</Latitude>
+    <Longitude>34.894003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ח"ן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088619</Latitude>
+    <Longitude>34.872443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079573</Latitude>
+    <Longitude>34.897346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090385</Latitude>
+    <Longitude>34.872046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.068156</Latitude>
+    <Longitude>34.900518</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077201</Latitude>
+    <Longitude>34.901978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070299</Latitude>
+    <Longitude>34.897167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חדווה רשיש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085197</Latitude>
+    <Longitude>34.893859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חדרה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105237</Latitude>
+    <Longitude>34.872016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובבי ציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088537</Latitude>
+    <Longitude>34.883840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090014</Latitude>
+    <Longitude>34.895409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075624</Latitude>
+    <Longitude>34.907872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיה פיינשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098994</Latitude>
+    <Longitude>34.885612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ארלוזורוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>חיים ארלוזרוב</AlternateName>
+    <Latitude>32.084521</Latitude>
+    <Longitude>34.873143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים גלעד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072890</Latitude>
+    <Longitude>34.883441</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים גרינברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.104557</Latitude>
+    <Longitude>34.893049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הזז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084111</Latitude>
+    <Longitude>34.861974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים זכאי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072903</Latitude>
+    <Longitude>34.866177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים כהן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080704</Latitude>
+    <Longitude>34.881624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085015</Latitude>
+    <Longitude>34.903430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים סוטין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101779</Latitude>
+    <Longitude>34.894140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים עוזר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087715</Latitude>
+    <Longitude>34.886996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים צבי גרינשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095599</Latitude>
+    <Longitude>34.882258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חייקה גרוסמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077060</Latitude>
+    <Longitude>34.861580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיסין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091151</Latitude>
+    <Longitude>34.897845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חכם יוסף חיים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092749</Latitude>
+    <Longitude>34.882533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חכמי ישראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072245</Latitude>
+    <Longitude>34.900400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חכמי לובלין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095953</Latitude>
+    <Longitude>34.898639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלוצת הפרדסנות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095840</Latitude>
+    <Longitude>34.884997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101384</Latitude>
+    <Longitude>34.897038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה טרגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075026</Latitude>
+    <Longitude>34.863091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085101</Latitude>
+    <Longitude>34.892270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה רובינא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074603</Latitude>
+    <Longitude>34.908922</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנן לויתן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097217</Latitude>
+    <Longitude>34.876024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסדי שמעון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071446</Latitude>
+    <Longitude>34.904323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081567</Latitude>
+    <Longitude>34.887830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ מרדכי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083166</Latitude>
+    <Longitude>34.879814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חת"ם סופר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088152</Latitude>
+    <Longitude>34.850058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבנקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074607</Latitude>
+    <Longitude>34.886363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071746</Latitude>
+    <Longitude>34.916073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טובה ושמעון דרנגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084151</Latitude>
+    <Longitude>34.858098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טובה ציפורי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078914</Latitude>
+    <Longitude>34.868838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טוסקניני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073711</Latitude>
+    <Longitude>34.888710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083361</Latitude>
+    <Longitude>34.878243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091166</Latitude>
+    <Longitude>34.847765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"ד הבנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073378</Latitude>
+    <Longitude>34.881938</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. הכהן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079241</Latitude>
+    <Longitude>34.891091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069663</Latitude>
+    <Longitude>34.893592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.104912</Latitude>
+    <Longitude>34.874369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094371</Latitude>
+    <Longitude>34.903733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל מוסינזון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071197</Latitude>
+    <Longitude>34.865976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגיע כפיים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097792</Latitude>
+    <Longitude>34.855773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגנס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072437</Latitude>
+    <Longitude>34.882162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078243</Latitude>
+    <Longitude>34.883847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088155</Latitude>
+    <Longitude>34.889815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה לייב פינסקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093486</Latitude>
+    <Longitude>34.883050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.078067</Latitude>
+    <Longitude>34.897430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע חנקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יהושוע חנקין</AlternateName>
+    <Latitude>32.096070</Latitude>
+    <Longitude>34.894297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע שטמפפר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יהושוע שטמפפר</AlternateName>
+    <Latitude>32.093515</Latitude>
+    <Longitude>34.890141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל משה סלומון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084664</Latitude>
+    <Longitude>34.881271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071116</Latitude>
+    <Longitude>34.900298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוכלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099417</Latitude>
+    <Longitude>34.901842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה גרין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098589</Latitude>
+    <Longitude>34.897969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072401</Latitude>
+    <Longitude>34.899449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוני נתניהו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105678</Latitude>
+    <Longitude>34.880345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף אהרונוביץ'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093816</Latitude>
+    <Longitude>34.894959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף בצרי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088557</Latitude>
+    <Longitude>34.873530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חנני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083958</Latitude>
+    <Longitude>34.863620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף לוין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083892</Latitude>
+    <Longitude>34.864273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף נקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072485</Latitude>
+    <Longitude>34.870085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף ספיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097424</Latitude>
+    <Longitude>34.893051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף פלדמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076998</Latitude>
+    <Longitude>34.878561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף פפר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091008</Latitude>
+    <Longitude>34.896866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092140</Latitude>
+    <Longitude>34.897025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קרמרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081359</Latitude>
+    <Longitude>34.869740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף רוזובסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069270</Latitude>
+    <Longitude>34.914290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שכטר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078048</Latitude>
+    <Longitude>34.909936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שפרינצק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074492</Latitude>
+    <Longitude>34.891614</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>32.092050</Latitude>
+    <Longitude>34.903954</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יוספסברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072710</Latitude>
+    <Longitude>34.889020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יורדי הסירה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075538</Latitude>
+    <Longitude>34.860611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל רבינזון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097432</Latitude>
+    <Longitude>34.883189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיאל דרזנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.107102</Latitude>
+    <Longitude>34.896104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיאל מיכל פינס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078619</Latitude>
+    <Longitude>34.890060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיאל צ'לנוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094083</Latitude>
+    <Longitude>34.893753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079694</Latitude>
+    <Longitude>34.919158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יטקובסקי אחים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077740</Latitude>
+    <Longitude>34.875619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086266</Latitude>
+    <Longitude>34.871789</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילדי טהרן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079496</Latitude>
+    <Longitude>34.902042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילדי מרישין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077811</Latitude>
+    <Longitude>34.891020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילישביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078985</Latitude>
+    <Longitude>34.878002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ימין שושן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074808</Latitude>
+    <Longitude>34.867241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יניב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073597</Latitude>
+    <Longitude>34.893202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסוד המעלה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100626</Latitude>
+    <Longitude>34.875672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל רום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100716</Latitude>
+    <Longitude>34.881852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב אחווה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087411</Latitude>
+    <Longitude>34.906149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב זרובבל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071818</Latitude>
+    <Longitude>34.885193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב חזן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077245</Latitude>
+    <Longitude>34.904206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב מרידור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080569</Latitude>
+    <Longitude>34.868940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב משה ברוידה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092468</Latitude>
+    <Longitude>34.881775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב פנחסי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087124</Latitude>
+    <Longitude>34.893468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב קרול</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091698</Latitude>
+    <Longitude>34.877986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב רבינוביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087806</Latitude>
+    <Longitude>34.897809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076454</Latitude>
+    <Longitude>34.862627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפרח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088062</Latitude>
+    <Longitude>34.875966</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן דוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יצחק בן דויד</AlternateName>
+    <Latitude>32.081249</Latitude>
+    <Longitude>34.897132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072629</Latitude>
+    <Longitude>34.886700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בשביס זינגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078634</Latitude>
+    <Longitude>34.860898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק גולדברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093872</Latitude>
+    <Longitude>34.861277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק גרינבוים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083830</Latitude>
+    <Longitude>34.902841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק יצחקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076420</Latitude>
+    <Longitude>34.888490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק למדן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093574</Latitude>
+    <Longitude>34.879245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק צוקרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074888</Latitude>
+    <Longitude>34.864985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088490</Latitude>
+    <Longitude>34.877521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה לדרך זבולון המר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.112717</Latitude>
+    <Longitude>34.872776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה למחלף גהה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092595</Latitude>
+    <Longitude>34.846895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאת אירופה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089741</Latitude>
+    <Longitude>34.900919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083119</Latitude>
+    <Longitude>34.904011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082656</Latitude>
+    <Longitude>34.902411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישי בוך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096538</Latitude>
+    <Longitude>34.889722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל איגלר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075538</Latitude>
+    <Longitude>34.860611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ושרה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084018</Latitude>
+    <Longitude>34.862965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ישעיהו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078971</Latitude>
+    <Longitude>34.899241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל עידוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071795</Latitude>
+    <Longitude>34.862822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל פוקס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097263</Latitude>
+    <Longitude>34.856625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראלוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079848</Latitude>
+    <Longitude>34.892667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ז בניסן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086200</Latitude>
+    <Longitude>34.899775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ט בנובמבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093846</Latitude>
+    <Longitude>34.895947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיבוש העבודה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084445</Latitude>
+    <Longitude>34.916241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר אגוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר אגוז</AlternateName>
+    <Latitude>32.089403</Latitude>
+    <Longitude>34.904584</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אורוגואי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר אורוגואי</AlternateName>
+    <Latitude>32.084864</Latitude>
+    <Longitude>34.887042</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר אלוף הרב שלמה גורן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר אלוף הרב שלמה גורן</AlternateName>
+    <Latitude>32.074770</Latitude>
+    <Longitude>34.870258</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיכר ברוש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר ברוש</AlternateName>
+    <Latitude>32.088595</Latitude>
+    <Longitude>34.904146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר גפן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר גפן</AlternateName>
+    <Latitude>32.087438</Latitude>
+    <Longitude>34.903951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר דולב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר דולב</AlternateName>
+    <Latitude>32.087247</Latitude>
+    <Longitude>34.903004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר הדס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר הדס</AlternateName>
+    <Latitude>32.086304</Latitude>
+    <Longitude>34.903048</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר הרב רבינוביץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>ככר הרב רבינוביץ</AlternateName>
+    <Latitude>32.080272</Latitude>
+    <Longitude>34.878172</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כנסת ישראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071084</Latitude>
+    <Longitude>34.902274</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כפר אברהם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095054</Latitude>
+    <Longitude>34.897487</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר גנים א'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082440</Latitude>
+    <Longitude>34.877282</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר גנים ב'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075605</Latitude>
+    <Longitude>34.877131</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר גנים ג'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070023</Latitude>
+    <Longitude>34.869043</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079527</Latitude>
+    <Longitude>34.875708</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר הבפטיסטים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.114489</Latitude>
+    <Longitude>34.912226</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כרמלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089119</Latitude>
+    <Longitude>34.893651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה אמסטר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073058</Latitude>
+    <Longitude>34.871643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083630</Latitude>
+    <Longitude>34.901165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאון בלום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077258</Latitude>
+    <Longitude>34.874903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073365</Latitude>
+    <Longitude>34.886653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לובטקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073836</Latitude>
+    <Longitude>34.880852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לודיוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095122</Latitude>
+    <Longitude>34.877312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080415</Latitude>
+    <Longitude>34.875847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי השיחרור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086927</Latitude>
+    <Longitude>34.899527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078258</Latitude>
+    <Longitude>34.866462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076816</Latitude>
+    <Longitude>34.882550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוינסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081194</Latitude>
+    <Longitude>34.862347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073993</Latitude>
+    <Longitude>34.896855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליברמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094340</Latitude>
+    <Longitude>34.884912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לייוויק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082830</Latitude>
+    <Longitude>34.900881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליסין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081338</Latitude>
+    <Longitude>34.873143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליפה ויניצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086439</Latitude>
+    <Longitude>34.891445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088796</Latitude>
+    <Longitude>34.871352</Longitude>
+  </Street>
+  <Street>
+    <NativeName>למפרט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089378</Latitude>
+    <Longitude>34.887790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088634</Latitude>
+    <Longitude>34.859203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מ"ג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089215</Latitude>
+    <Longitude>34.873614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר דנקנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094946</Latitude>
+    <Longitude>34.871830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר יערי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076514</Latitude>
+    <Longitude>34.905805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר שפיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101972</Latitude>
+    <Longitude>34.873915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאירוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083322</Latitude>
+    <Longitude>34.896082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086533</Latitude>
+    <Longitude>34.871232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבטחים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087287</Latitude>
+    <Longitude>34.854509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע דקל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093557</Latitude>
+    <Longitude>34.870535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096833</Latitude>
+    <Longitude>34.884166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מדרחוב ירון מאיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080202</Latitude>
+    <Longitude>34.899860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרש"ק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084666</Latitude>
+    <Longitude>34.869671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.109467</Latitude>
+    <Longitude>34.895565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087749</Latitude>
+    <Longitude>34.884960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093941</Latitude>
+    <Longitude>34.864797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087830</Latitude>
+    <Longitude>34.882497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוסטובוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083423</Latitude>
+    <Longitude>34.876806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091603</Latitude>
+    <Longitude>34.879751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072784</Latitude>
+    <Longitude>34.901171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזא"ה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090170</Latitude>
+    <Longitude>34.850393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזכרת בתיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101171</Latitude>
+    <Longitude>34.874125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזרחי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091140</Latitude>
+    <Longitude>34.891469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחנה יהודה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082681</Latitude>
+    <Longitude>34.895969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מטולה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101303</Latitude>
+    <Longitude>34.871556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.068840</Latitude>
+    <Longitude>34.900825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכל לייב כץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075256</Latitude>
+    <Longitude>34.885829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074591</Latitude>
+    <Longitude>34.900437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מישא אשרוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073534</Latitude>
+    <Longitude>34.871381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072717</Latitude>
+    <Longitude>34.897590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלחמת ששת הימים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070151</Latitude>
+    <Longitude>34.884740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084292</Latitude>
+    <Longitude>34.881724</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מנהלת אזור התעשייה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.106239</Latitude>
+    <Longitude>34.898127</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מנחם רצון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080736</Latitude>
+    <Longitude>34.896522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחת שלמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069418</Latitude>
+    <Longitude>34.912551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מניה שוחט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078071</Latitude>
+    <Longitude>34.861726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090702</Latitude>
+    <Longitude>34.850010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסריק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091583</Latitude>
+    <Longitude>34.904049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקליס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075595</Latitude>
+    <Longitude>34.878793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקס ברוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090670</Latitude>
+    <Longitude>34.883495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי ביטרמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080390</Latitude>
+    <Longitude>34.865965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי בן דרור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099579</Latitude>
+    <Longitude>34.888872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי קראוסמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071925</Latitude>
+    <Longitude>34.907156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין גהל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100150</Latitude>
+    <Longitude>34.851427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים ילן שטקליס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078591</Latitude>
+    <Longitude>34.861522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים לוי קרוואני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080479</Latitude>
+    <Longitude>34.894846</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז רפואי רבין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088742</Latitude>
+    <Longitude>34.867213</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרק לברי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076650</Latitude>
+    <Longitude>34.870056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דובדבני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075357</Latitude>
+    <Longitude>34.896148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דוד מייזנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>משה דויד מייזנר</AlternateName>
+    <Latitude>32.076613</Latitude>
+    <Longitude>34.868543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094192</Latitude>
+    <Longitude>34.862213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.087988</Latitude>
+    <Longitude>34.888956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה ליליינבלום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096814</Latitude>
+    <Longitude>34.879896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.101396</Latitude>
+    <Longitude>34.880196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שוולב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.105650</Latitude>
+    <Longitude>34.892667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088000</Latitude>
+    <Longitude>34.873402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה תבורי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081577</Latitude>
+    <Longitude>34.901289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משמר הירדן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090641</Latitude>
+    <Longitude>34.893792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אהרון פינסקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097507</Latitude>
+    <Longitude>34.893447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אליהו שקלובסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084687</Latitude>
+    <Longitude>34.882460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אפרתי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086304</Latitude>
+    <Longitude>34.892786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אפשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093679</Latitude>
+    <Longitude>34.888440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול בני ברית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090805</Latitude>
+    <Longitude>34.877023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול גדליה חסיד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071620</Latitude>
+    <Longitude>34.906825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול גולדרייך קלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094407</Latitude>
+    <Longitude>34.898700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול גלובמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078649</Latitude>
+    <Longitude>34.900427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול ד"ר נפתלי קבנצל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074900</Latitude>
+    <Longitude>34.883078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הולצברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094274</Latitude>
+    <Longitude>34.906215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרב ספיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090527</Latitude>
+    <Longitude>34.888821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יהודה אשרי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088383</Latitude>
+    <Longitude>34.875000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יוסף מהרש"ק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091633</Latitude>
+    <Longitude>34.879349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יוסף מרקוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082760</Latitude>
+    <Longitude>34.874223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יוסף קנופף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073764</Latitude>
+    <Longitude>34.873426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול ילדי טרנסניסטריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081324</Latitude>
+    <Longitude>34.902553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יעקב טלישבסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073992</Latitude>
+    <Longitude>34.878412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יצחק מטלון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086708</Latitude>
+    <Longitude>34.889671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול מבורך עידן וג'וליה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091610</Latitude>
+    <Longitude>34.876235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול מורי מאיר צברי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079546</Latitude>
+    <Longitude>34.899047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול מינה בן עזר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084730</Latitude>
+    <Longitude>34.879005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול מנשה מינס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079531</Latitude>
+    <Longitude>34.895762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול משפחת מקלב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069344</Latitude>
+    <Longitude>34.913365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול סטפן וייז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083948</Latitude>
+    <Longitude>34.874431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול פרבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078045</Latitude>
+    <Longitude>34.886769</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול קאמינקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080178</Latitude>
+    <Longitude>34.885417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול שלום גורני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077485</Latitude>
+    <Longitude>34.902753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול שמשון דיקר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075889</Latitude>
+    <Longitude>34.877804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול שרגא שפילברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075700</Latitude>
+    <Longitude>34.885013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נאות מרגלית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070216</Latitude>
+    <Longitude>34.907404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נבטים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087559</Latitude>
+    <Longitude>34.854360</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה גן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091750</Latitude>
+    <Longitude>34.873084</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084337</Latitude>
+    <Longitude>34.866446</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה מעוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100169</Latitude>
+    <Longitude>34.892315</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עוז הרחבה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074676</Latitude>
+    <Longitude>34.866992</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עוז מערב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076814</Latitude>
+    <Longitude>34.862646</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077513</Latitude>
+    <Longitude>34.866075</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נווה רעים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081407</Latitude>
+    <Longitude>34.915525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086772</Latitude>
+    <Longitude>34.884607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום ניר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078389</Latitude>
+    <Longitude>34.877482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070212</Latitude>
+    <Longitude>34.901089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחלת צבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092488</Latitude>
+    <Longitude>34.890540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.116323</Latitude>
+    <Longitude>34.874495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמן מברסלב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.078734</Latitude>
+    <Longitude>34.897038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.107925</Latitude>
+    <Longitude>34.894533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניגונים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075498</Latitude>
+    <Longitude>34.866422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נס ציונה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102720</Latitude>
+    <Longitude>34.873688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפש חיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088152</Latitude>
+    <Longitude>34.851450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נצח ישראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089919</Latitude>
+    <Longitude>34.900209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב היובל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092232</Latitude>
+    <Longitude>34.901269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן בירנבוים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090873</Latitude>
+    <Longitude>34.848694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן גרינגרט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088967</Latitude>
+    <Longitude>34.870236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן רפפורט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096411</Latitude>
+    <Longitude>34.881951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן שיפריס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.115719</Latitude>
+    <Longitude>34.904347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086267</Latitude>
+    <Longitude>34.891107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוטיצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073678</Latitude>
+    <Longitude>34.880166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.090848</Latitude>
+    <Longitude>34.892301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סורוקה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086963</Latitude>
+    <Longitude>34.865628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092768</Latitude>
+    <Longitude>34.886648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרכילביץ'</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072616</Latitude>
+    <Longitude>34.887355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגליות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072236</Latitude>
+    <Longitude>34.889878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073343</Latitude>
+    <Longitude>34.893982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלבנדי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094863</Latitude>
+    <Longitude>34.898322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089406</Latitude>
+    <Longitude>34.883943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת התבור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108679</Latitude>
+    <Longitude>34.887540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנדר חדד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085445</Latitude>
+    <Longitude>34.879646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנדרוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081066</Latitude>
+    <Longitude>34.874339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדי העופרי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083081</Latitude>
+    <Longitude>34.861828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.088306</Latitude>
+    <Longitude>34.879360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספקטור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084439</Latitude>
+    <Longitude>34.896623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגנון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087784</Latitude>
+    <Longitude>34.870188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עד"ש שפיק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073661</Latitude>
+    <Longitude>34.911081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה הדאיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070200</Latitude>
+    <Longitude>34.906301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074580</Latitude>
+    <Longitude>34.901039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי בבל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092842</Latitude>
+    <Longitude>34.881597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091297</Latitude>
+    <Longitude>34.851376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא ונחמיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073698</Latitude>
+    <Longitude>34.912961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזריאל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099626</Latitude>
+    <Longitude>34.890725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עטייה עזרא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071925</Latitude>
+    <Longitude>34.907156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091877</Latitude>
+    <Longitude>34.850431</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עין גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086991</Latitude>
+    <Longitude>34.894091</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עין גנים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083160</Latitude>
+    <Longitude>34.897693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072245</Latitude>
+    <Longitude>34.900400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083242</Latitude>
+    <Longitude>34.916794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיחי פאגלין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081359</Latitude>
+    <Longitude>34.869740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמינח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097891</Latitude>
+    <Longitude>34.897237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיצור אברהם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089242</Latitude>
+    <Longitude>34.898777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיקם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081135</Latitude>
+    <Longitude>34.918484</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמישב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075593</Latitude>
+    <Longitude>34.912270</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095724</Latitude>
+    <Longitude>34.851874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמנואל זמיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072137</Latitude>
+    <Longitude>34.863747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמנואל לוויס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074773</Latitude>
+    <Longitude>34.866044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108757</Latitude>
+    <Longitude>34.900413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקיבא ליברכט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091652</Latitude>
+    <Longitude>34.884798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עתלית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100542</Latitude>
+    <Longitude>34.874991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פאול גרונינגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085258</Latitude>
+    <Longitude>34.906418</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק פתח תקווה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093846</Latitude>
+    <Longitude>34.868245</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פיארברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077931</Latitude>
+    <Longitude>34.886296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיכמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086207</Latitude>
+    <Longitude>34.869711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינקל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.068539</Latitude>
+    <Longitude>34.915728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיק"א</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086223</Latitude>
+    <Longitude>34.880017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס חגין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073640</Latitude>
+    <Longitude>34.868795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס מאירי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097721</Latitude>
+    <Longitude>34.878520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פני מנחם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069495</Latitude>
+    <Longitude>34.911347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסקל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084576</Latitude>
+    <Longitude>34.886243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פקיעין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088081</Latitude>
+    <Longitude>34.852027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרוג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087610</Latitude>
+    <Longitude>34.871427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרומקין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092636</Latitude>
+    <Longitude>34.884445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' טור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>פרופסור טור</AlternateName>
+    <AlternateName>טור</AlternateName>
+    <Latitude>32.086759</Latitude>
+    <Longitude>34.869802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' נח פלר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>פרופסור נח פלר</AlternateName>
+    <AlternateName>נח פלר</AlternateName>
+    <Latitude>32.073084</Latitude>
+    <Longitude>34.870972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' קלויזנר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>פרופסור קלויזנר</AlternateName>
+    <AlternateName>קלויזנר</AlternateName>
+    <Latitude>32.087060</Latitude>
+    <Longitude>34.876909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' שור</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>שור</AlternateName>
+    <AlternateName>פרופסור שור</AlternateName>
+    <Latitude>32.094148</Latitude>
+    <Longitude>34.887856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופסור יהודה מטות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>יהודה מטות</AlternateName>
+    <AlternateName>פרופ' יהודה מטות</AlternateName>
+    <Latitude>32.087480</Latitude>
+    <Longitude>34.868147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרידמן ילין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076481</Latitude>
+    <Longitude>34.906805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091550</Latitude>
+    <Longitude>34.890565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ גולדשטיין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075356</Latitude>
+    <Longitude>34.861884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ נפתלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093679</Latitude>
+    <Longitude>34.888440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי בן יעקב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074661</Latitude>
+    <Longitude>34.861151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי ברגמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.106775</Latitude>
+    <Longitude>34.889243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי גרף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072627</Latitude>
+    <Longitude>34.879169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי גרץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098572</Latitude>
+    <Longitude>34.892937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086074</Latitude>
+    <Longitude>34.870439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צירלסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091770</Latitude>
+    <Longitude>34.900931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069561</Latitude>
+    <Longitude>34.900273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.069817</Latitude>
+    <Longitude>34.915384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי פרהוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093499</Latitude>
+    <Longitude>34.905807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077025</Latitude>
+    <Longitude>34.894226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיה מולודובסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079759</Latitude>
+    <Longitude>34.860934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיש לוז</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089218</Latitude>
+    <Longitude>34.871423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילות יעקב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.068479</Latitude>
+    <Longitude>34.912405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת יוסטון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091583</Latitude>
+    <Longitude>34.904049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת פינסק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.074410</Latitude>
+    <Longitude>34.897043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת פראג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092231</Latitude>
+    <Longitude>34.905592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת רובנה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091652</Latitude>
+    <Longitude>34.884798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת שיקגו</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072616</Latitude>
+    <Longitude>34.909848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.083668</Latitude>
+    <Longitude>34.899533</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קלישר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081256</Latitude>
+    <Longitude>34.892858</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085721</Latitude>
+    <Longitude>34.868139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרב אל עלמין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076640</Latitude>
+    <Longitude>34.860741</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרול</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094607</Latitude>
+    <Longitude>34.880850</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרימינצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095106</Latitude>
+    <Longitude>34.883187</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית אלון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088832</Latitude>
+    <Longitude>34.904948</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית אליעזר פרי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085883</Latitude>
+    <Longitude>34.898649</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית ארגוב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077337</Latitude>
+    <Longitude>34.893397</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית אריה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096898</Latitude>
+    <Longitude>34.855202</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית דוד אלעזר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>קרית דויד אלעזר</AlternateName>
+    <Latitude>32.085432</Latitude>
+    <Longitude>34.906214</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית המדע והטכנולוגיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096939</Latitude>
+    <Longitude>34.867676</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית המשוררים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082966</Latitude>
+    <Longitude>34.901478</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית הרב סלומון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.099120</Latitude>
+    <Longitude>34.897736</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית מטלון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090276</Latitude>
+    <Longitude>34.849320</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית משה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086771</Latitude>
+    <Longitude>34.850292</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077933</Latitude>
+    <Longitude>34.893704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קשאני</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.088155</Latitude>
+    <Longitude>34.889815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082617</Latitude>
+    <Longitude>34.880589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראול ולנברג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081171</Latitude>
+    <Longitude>34.875198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראש העין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096764</Latitude>
+    <Longitude>34.906318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראש פינה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102720</Latitude>
+    <Longitude>34.873688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראשון לציון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>Rishon leZion</AlternateName>
+    <AlternateName>רשל"צ</AlternateName>
+    <AlternateName>רשל"ץ</AlternateName>
+    <Latitude>32.102880</Latitude>
+    <Longitude>34.876763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהודה הנשיא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרב יהודה הנשיא</AlternateName>
+    <AlternateName>יהודה הנשיא</AlternateName>
+    <AlternateName>הרבי יהודה הנשיא</AlternateName>
+    <Latitude>32.072013</Latitude>
+    <Longitude>34.905630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.098173</Latitude>
+    <Longitude>34.900041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבניצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.103120</Latitude>
+    <Longitude>34.891316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה נוביק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070669</Latitude>
+    <Longitude>34.893610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה קמינסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086926</Latitude>
+    <Longitude>34.886856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה שווימר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073116</Latitude>
+    <Longitude>34.880397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085704</Latitude>
+    <Longitude>34.882126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוקח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091704</Latitude>
+    <Longitude>34.901323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075702</Latitude>
+    <Longitude>34.900155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחובות</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.104000</Latitude>
+    <Longitude>34.875815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085363</Latitude>
+    <Longitude>34.894632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל ונחום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073759</Latitude>
+    <Longitude>34.883764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריבלין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.084040</Latitude>
+    <Longitude>34.903806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רינגלבלום</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>רינגנבלום</AlternateName>
+    <AlternateName>רינגבלום</AlternateName>
+    <Latitude>32.094330</Latitude>
+    <Longitude>34.880123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמ"א</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087302</Latitude>
+    <Longitude>34.850233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090258</Latitude>
+    <Longitude>34.890283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079591</Latitude>
+    <Longitude>34.891940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095486</Latitude>
+    <Longitude>34.896892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת הגולן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093341</Latitude>
+    <Longitude>34.895457</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת ורבר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086532</Latitude>
+    <Longitude>34.877163</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת סיב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089697</Latitude>
+    <Longitude>34.855394</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל איתן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.103597</Latitude>
+    <Longitude>34.882482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רפאל רייס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075488</Latitude>
+    <Longitude>34.861266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087899</Latitude>
+    <Longitude>34.878613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092667</Latitude>
+    <Longitude>34.904782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבדיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.080952</Latitude>
+    <Longitude>34.880843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט אשר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070725</Latitude>
+    <Longitude>34.916789</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט בנימין</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070658</Latitude>
+    <Longitude>34.915903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט גד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.070455</Latitude>
+    <Longitude>34.914731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט דן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.071549</Latitude>
+    <Longitude>34.914033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט יששכר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072425</Latitude>
+    <Longitude>34.911684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט לוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.072710</Latitude>
+    <Longitude>34.910866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט נפתלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077767</Latitude>
+    <Longitude>34.912986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090644</Latitude>
+    <Longitude>34.857883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שולמית</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077206</Latitude>
+    <Longitude>34.901205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שז"ר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.079530</Latitude>
+    <Longitude>34.877118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087101</Latitude>
+    <Longitude>34.858978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטרוק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077308</Latitude>
+    <Longitude>34.862816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטרן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>אברהם שטרן</AlternateName>
+    <Latitude>32.079677</Latitude>
+    <Longitude>34.871077</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון הפועל המזרחי (ותיקים)</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098766</Latitude>
+    <Longitude>34.902507</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון מפ"ם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075348</Latitude>
+    <Longitude>34.886841</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שילר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092433</Latitude>
+    <Longitude>34.879956</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיפר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095879</Latitude>
+    <Longitude>34.891322</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שירת אסתר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091213</Latitude>
+    <Longitude>34.873972</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת הקרוונים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>הקרוונים</AlternateName>
+    <Latitude>32.084047</Latitude>
+    <Longitude>34.907409</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>של"ג</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090873</Latitude>
+    <Longitude>34.848694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום אש</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091903</Latitude>
+    <Longitude>34.876659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום מרחבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077368</Latitude>
+    <Longitude>34.894631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.097491</Latitude>
+    <Longitude>34.893174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום צלח</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076549</Latitude>
+    <Longitude>34.911209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום שבזי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <AlternateName>שבזי</AlternateName>
+    <Latitude>32.080303</Latitude>
+    <Longitude>34.891635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום שרעבי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082919</Latitude>
+    <Longitude>34.894479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלומציון המלכה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.102289</Latitude>
+    <Longitude>34.898560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלונסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094698</Latitude>
+    <Longitude>34.890754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלזינגר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098092</Latitude>
+    <Longitude>34.893274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.091470</Latitude>
+    <Longitude>34.891893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה זלוטניק</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.082808</Latitude>
+    <Longitude>34.858037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה מיכאליס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094187</Latitude>
+    <Longitude>34.853368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה מילר</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.089242</Latitude>
+    <Longitude>34.898777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה קפלנסקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076175</Latitude>
+    <Longitude>34.865536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה שדרוביצקי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081456</Latitude>
+    <Longitude>34.861061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.077817</Latitude>
+    <Longitude>34.901142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנגיד</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.100730</Latitude>
+    <Longitude>34.900860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל חיים לנדוי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.094863</Latitude>
+    <Longitude>34.898322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל מילס</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.096810</Latitude>
+    <Longitude>34.860001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל סלנט</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.081822</Latitude>
+    <Longitude>34.888904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085225</Latitude>
+    <Longitude>34.885090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה אפרתי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.086675</Latitude>
+    <Longitude>34.892954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון בר יוחאי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098087</Latitude>
+    <Longitude>34.903061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.112585</Latitude>
+    <Longitude>34.869407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה ואבטליון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.108003</Latitude>
+    <Longitude>34.894530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.095038</Latitude>
+    <Longitude>34.864739</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שערייה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.075642</Latitude>
+    <Longitude>34.899756</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שפיגל זוסיה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.087835</Latitude>
+    <Longitude>34.887629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרגא רפאלי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.107140</Latitude>
+    <Longitude>34.878764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה אהרונסון</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085467</Latitude>
+    <Longitude>34.888918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תוצרת הארץ</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.090028</Latitude>
+    <Longitude>34.861522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תור הזהב</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.085583</Latitude>
+    <Longitude>34.863605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורה ועבודה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.098529</Latitude>
+    <Longitude>34.901342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093645</Latitude>
+    <Longitude>34.885484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלמים</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.073310</Latitude>
+    <Longitude>34.878885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוצות ישראל</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.076469</Latitude>
+    <Longitude>34.900173</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תקומה</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.092624</Latitude>
+    <Longitude>34.896287</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תרזה קוגלמן</NativeName>
+    <ParentName>פתח תקווה, ישראל</ParentName>
+    <Latitude>32.093059</Latitude>
+    <Longitude>34.872984</Longitude>
+  </Street>
+</LocationData>

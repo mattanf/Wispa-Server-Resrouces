@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אברהם יצחק גלמן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850626</Latitude>
+    <Longitude>34.849969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם מרדכי לוין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850629</Latitude>
+    <Longitude>34.843439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.854545</Latitude>
+    <Longitude>34.849029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.854151</Latitude>
+    <Longitude>34.850319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו בבילה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850931</Latitude>
+    <Longitude>34.842775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר ארקין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853624</Latitude>
+    <Longitude>34.843560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855654</Latitude>
+    <Longitude>34.836623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים שקולניק</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848827</Latitude>
+    <Longitude>34.843616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853964</Latitude>
+    <Longitude>34.851023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכול</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853843</Latitude>
+    <Longitude>34.847431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853342</Latitude>
+    <Longitude>34.852909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית און</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855786</Latitude>
+    <Longitude>34.839173</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בר לב</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.845997</Latitude>
+    <Longitude>34.846455</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ברוך צבי ברונשטיין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850207</Latitude>
+    <Longitude>34.850567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852893</Latitude>
+    <Longitude>34.848335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848997</Latitude>
+    <Longitude>34.837568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרשון שרשבסקי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848994</Latitude>
+    <Longitude>34.841123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב אלוני</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851612</Latitude>
+    <Longitude>34.845895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב שמיר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853615</Latitude>
+    <Longitude>34.838639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849831</Latitude>
+    <Longitude>34.849893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852702</Latitude>
+    <Longitude>34.849005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד בן גוריון</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>דויד בן גוריון</AlternateName>
+    <Latitude>31.853138</Latitude>
+    <Longitude>34.839296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852531</Latitude>
+    <Longitude>34.849662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחים יעקב וצבי ארקין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851108</Latitude>
+    <Longitude>34.849961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853789</Latitude>
+    <Longitude>34.839705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856247</Latitude>
+    <Longitude>34.836557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853574</Latitude>
+    <Longitude>34.843807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850685</Latitude>
+    <Longitude>34.839014</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856200</Latitude>
+    <Longitude>34.839063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852249</Latitude>
+    <Longitude>34.843100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855169</Latitude>
+    <Longitude>34.837709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855815</Latitude>
+    <Longitude>34.843625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת אורחים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852615</Latitude>
+    <Longitude>34.837552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848633</Latitude>
+    <Longitude>34.836334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853452</Latitude>
+    <Longitude>34.838121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850674</Latitude>
+    <Longitude>34.836362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצחון</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849160</Latitude>
+    <Longitude>34.836293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא שז"ר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855332</Latitude>
+    <Longitude>34.846025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849781</Latitude>
+    <Longitude>34.837811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853117</Latitude>
+    <Longitude>34.837318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853269</Latitude>
+    <Longitude>34.845428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856808</Latitude>
+    <Longitude>34.840321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השוטרים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.854577</Latitude>
+    <Longitude>34.844658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855852</Latitude>
+    <Longitude>34.837424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856871</Latitude>
+    <Longitude>34.843135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.854346</Latitude>
+    <Longitude>34.835469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לוי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855401</Latitude>
+    <Longitude>34.841508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים מלר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850674</Latitude>
+    <Longitude>34.836362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים משה פרס</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848881</Latitude>
+    <Longitude>34.846584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852346</Latitude>
+    <Longitude>34.850314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850829</Latitude>
+    <Longitude>34.846832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852893</Latitude>
+    <Longitude>34.845519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע רובינשטיין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>יהושוע רובינשטיין</AlternateName>
+    <Latitude>31.849714</Latitude>
+    <Longitude>34.847827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב שחם</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853827</Latitude>
+    <Longitude>34.840453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל דב פרס</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851229</Latitude>
+    <Longitude>34.844216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף רודבסקי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851152</Latitude>
+    <Longitude>34.837629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל לוין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849479</Latitude>
+    <Longitude>34.846431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיאל בריל</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851748</Latitude>
+    <Longitude>34.847595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב גולד</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849275</Latitude>
+    <Longitude>34.845219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב זטוצקי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850931</Latitude>
+    <Longitude>34.842775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב לסקובסקי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848936</Latitude>
+    <Longitude>34.848509</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר זרחי מלר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>ככר זרחי מלר</AlternateName>
+    <Latitude>31.855206</Latitude>
+    <Longitude>34.840398</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לויטה אהרון זליג</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848262</Latitude>
+    <Longitude>34.841612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853944</Latitude>
+    <Longitude>34.842202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856425</Latitude>
+    <Longitude>34.840932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מידון</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851674</Latitude>
+    <Longitude>34.845535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי ניימן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848262</Latitude>
+    <Longitude>34.841612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הרשקוביץ'</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848052</Latitude>
+    <Longitude>34.842503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה לוין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853831</Latitude>
+    <Longitude>34.836080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מלר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849714</Latitude>
+    <Longitude>34.847827</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות יצחק רבין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.853808</Latitude>
+    <Longitude>34.850531</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות ראשונים</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850829</Latitude>
+    <Longitude>34.845184</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855771</Latitude>
+    <Longitude>34.842344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851472</Latitude>
+    <Longitude>34.846666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב השיירות</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852015</Latitude>
+    <Longitude>34.837438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סבידור</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850579</Latitude>
+    <Longitude>34.834758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.856070</Latitude>
+    <Longitude>34.846116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הבאר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852264</Latitude>
+    <Longitude>34.835953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851064</Latitude>
+    <Longitude>34.835908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמנואל הלזנר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852350</Latitude>
+    <Longitude>34.836256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851590</Latitude>
+    <Longitude>34.838527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קאלגרי</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.850629</Latitude>
+    <Longitude>34.843439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852869</Latitude>
+    <Longitude>34.843559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.855930</Latitude>
+    <Longitude>34.843069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.854618</Latitude>
+    <Longitude>34.846084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.849600</Latitude>
+    <Longitude>34.847148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אליהו</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>שד' אליהו</AlternateName>
+    <AlternateName>אליהו</AlternateName>
+    <Latitude>31.854327</Latitude>
+    <Longitude>34.844552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>31.853145</Latitude>
+    <Longitude>34.849912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מוטה גור</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>מוטה גור</AlternateName>
+    <AlternateName>שד' מוטה גור</AlternateName>
+    <Latitude>31.849080</Latitude>
+    <Longitude>34.839296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>31.849977</Latitude>
+    <Longitude>34.845059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רוטשילד</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>רוטשילד</AlternateName>
+    <AlternateName>שד' רוטשילד</AlternateName>
+    <Latitude>31.853394</Latitude>
+    <Longitude>34.836454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רפאל סויסה</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <AlternateName>רפאל סויסה</AlternateName>
+    <AlternateName>שד' רפאל סויסה</AlternateName>
+    <Latitude>31.845403</Latitude>
+    <Longitude>34.844989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה ויסברג</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.848648</Latitude>
+    <Longitude>34.844679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.851495</Latitude>
+    <Longitude>34.850715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852467</Latitude>
+    <Longitude>34.844148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרמ"ג</NativeName>
+    <ParentName>מזכרת בתיה, ישראל</ParentName>
+    <Latitude>31.852232</Latitude>
+    <Longitude>34.845647</Longitude>
+  </Street>
+</LocationData>

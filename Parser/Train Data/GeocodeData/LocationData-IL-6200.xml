@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבא ברדיצ'ב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028803</Latitude>
+    <Longitude>34.748341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם ליוואי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023455</Latitude>
+    <Longitude>34.748494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.013705</Latitude>
+    <Longitude>34.741904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסקר שינדלר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>שינדלר</AlternateName>
+    <AlternateName>שנדליר</AlternateName>
+    <Latitude>32.030472</Latitude>
+    <Longitude>34.742763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופיר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020746</Latitude>
+    <Longitude>34.757395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורט ישראל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011793</Latitude>
+    <Longitude>34.748237</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אזור חוף הים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018642</Latitude>
+    <Longitude>34.738616</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017182</Latitude>
+    <Longitude>34.740213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020255</Latitude>
+    <Longitude>34.760294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אימבר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>איבמר</AlternateName>
+    <Latitude>32.017477</Latitude>
+    <Longitude>34.742910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012257</Latitude>
+    <Longitude>34.758400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו נחייסי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.032093</Latitude>
+    <Longitude>34.758746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמליח</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018213</Latitude>
+    <Longitude>34.744968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלתרמן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>אלטרמן</AlternateName>
+    <Latitude>32.015018</Latitude>
+    <Longitude>34.742588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.005926</Latitude>
+    <Longitude>34.754173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021988</Latitude>
+    <Longitude>34.752530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.008686</Latitude>
+    <Longitude>34.759187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.012111</Latitude>
+    <Longitude>34.741578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.025003</Latitude>
+    <Longitude>34.744252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024055</Latitude>
+    <Longitude>34.752937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017080</Latitude>
+    <Longitude>34.741543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>באזל</AlternateName>
+    <Latitude>32.016261</Latitude>
+    <Longitude>34.739992</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס ישועות יעקב יוסף</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011609</Latitude>
+    <Longitude>34.760743</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס מקיף אורט רמת יוסף</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019515</Latitude>
+    <Longitude>34.757894</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס מקיף חטיבה עליונה רמות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.004358</Latitude>
+    <Longitude>34.750988</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.020642</Latitude>
+    <Longitude>34.746978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.031794</Latitude>
+    <Longitude>34.745494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית וגן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024647</Latitude>
+    <Longitude>34.752921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021333</Latitude>
+    <Longitude>34.745430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון חלפון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.008298</Latitude>
+    <Longitude>34.751606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יהודה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014367</Latitude>
+    <Longitude>34.743647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017756</Latitude>
+    <Longitude>34.747704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברץ</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021840</Latitude>
+    <Longitude>34.752885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאלאנטי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.008773</Latitude>
+    <Longitude>34.743842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014583</Latitude>
+    <Longitude>34.747777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021451</Latitude>
+    <Longitude>34.752869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028678</Latitude>
+    <Longitude>34.758668</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גינוסר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018187</Latitude>
+    <Longitude>34.739368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גנרל קניג</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>קניג</AlternateName>
+    <Latitude>32.009289</Latitude>
+    <Longitude>34.744965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר נחום ניר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>נחום ניר</AlternateName>
+    <AlternateName>דוקטור נחום ניר</AlternateName>
+    <Latitude>32.007696</Latitude>
+    <Longitude>34.742575</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020258</Latitude>
+    <Longitude>34.753753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020429</Latitude>
+    <Longitude>34.753201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוגית</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013135</Latitude>
+    <Longitude>34.739372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.014526</Latitude>
+    <Longitude>34.741005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.014177</Latitude>
+    <Longitude>34.756977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולפין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018628</Latitude>
+    <Longitude>34.744168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006836</Latitude>
+    <Longitude>34.756826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022055</Latitude>
+    <Longitude>34.750081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018888</Latitude>
+    <Longitude>34.743083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בן גוריון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <Latitude>32.018681</Latitude>
+    <Longitude>34.738964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יגאל אלון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>יגאל אלון</AlternateName>
+    <Latitude>32.024362</Latitude>
+    <Longitude>34.760475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מנחם בגין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <Latitude>32.000090</Latitude>
+    <Longitude>34.745197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מבאבוב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009103</Latitude>
+    <Longitude>34.752047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורגים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009289</Latitude>
+    <Longitude>34.744965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016287</Latitude>
+    <Longitude>34.759355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018628</Latitude>
+    <Longitude>34.758304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006985</Latitude>
+    <Longitude>34.752381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריגדה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.025806</Latitude>
+    <Longitude>34.752115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017137</Latitude>
+    <Longitude>34.759841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.025217</Latitude>
+    <Longitude>34.752105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיבורים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.030500</Latitude>
+    <Longitude>34.755271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011278</Latitude>
+    <Longitude>34.758693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027018</Latitude>
+    <Longitude>34.754658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011895</Latitude>
+    <Longitude>34.740532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024142</Latitude>
+    <Longitude>34.755243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011738</Latitude>
+    <Longitude>34.754603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022668</Latitude>
+    <Longitude>34.752303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020438</Latitude>
+    <Longitude>34.751826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017368</Latitude>
+    <Longitude>34.756495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024142</Latitude>
+    <Longitude>34.755243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.026931</Latitude>
+    <Longitude>34.758474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014397</Latitude>
+    <Longitude>34.750071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018565</Latitude>
+    <Longitude>34.751064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.007266</Latitude>
+    <Longitude>34.743836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029207</Latitude>
+    <Longitude>34.742345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירש</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הברון הירש</AlternateName>
+    <Latitude>32.023677</Latitude>
+    <Longitude>34.743127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011369</Latitude>
+    <Longitude>34.760899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"א</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015075</Latitude>
+    <Longitude>34.739063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלפר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028093</Latitude>
+    <Longitude>34.745254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017566</Latitude>
+    <Longitude>34.741094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011793</Latitude>
+    <Longitude>34.748237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.026456</Latitude>
+    <Longitude>34.755905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרינה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009320</Latitude>
+    <Longitude>34.736774</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>המרכז</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020646</Latitude>
+    <Longitude>34.747585</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.010388</Latitude>
+    <Longitude>34.744680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017151</Latitude>
+    <Longitude>34.760502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוללים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.007695</Latitude>
+    <Longitude>34.747132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמדות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.030350</Latitude>
+    <Longitude>34.746635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006736</Latitude>
+    <Longitude>34.745032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013139</Latitude>
+    <Longitude>34.760961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012607</Latitude>
+    <Longitude>34.759070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפועל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019783</Latitude>
+    <Longitude>34.752724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטמן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017475</Latitude>
+    <Longitude>34.746349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלדה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006199</Latitude>
+    <Longitude>34.743749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029021</Latitude>
+    <Longitude>34.756120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצורפים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006525</Latitude>
+    <Longitude>34.744359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורנים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018277</Latitude>
+    <Longitude>34.757759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029403</Latitude>
+    <Longitude>34.758910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפירה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019851</Latitude>
+    <Longitude>34.740839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוממיות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.003998</Latitude>
+    <Longitude>34.747692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029469</Latitude>
+    <Longitude>34.748018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אביעד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי אביעד</AlternateName>
+    <AlternateName>רבי אביעד</AlternateName>
+    <AlternateName>אביעד</AlternateName>
+    <Latitude>32.031859</Latitude>
+    <Longitude>34.758007</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גביזון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי גביזון</AlternateName>
+    <AlternateName>רבי גביזון</AlternateName>
+    <AlternateName>גביזון</AlternateName>
+    <Latitude>32.026871</Latitude>
+    <Longitude>34.757158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.024088</Latitude>
+    <Longitude>34.748740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב לוזון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>רבי לוזון</AlternateName>
+    <AlternateName>לוזון</AlternateName>
+    <AlternateName>הרבי לוזון</AlternateName>
+    <Latitude>32.011360</Latitude>
+    <Longitude>34.752594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב לוי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>לוי</AlternateName>
+    <AlternateName>הרבי לוי</AlternateName>
+    <AlternateName>רבי לוי</AlternateName>
+    <Latitude>32.013108</Latitude>
+    <Longitude>34.754015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.007502</Latitude>
+    <Longitude>34.753582</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ניסנבאום</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי ניסנבאום</AlternateName>
+    <AlternateName>רבי ניסנבאום</AlternateName>
+    <AlternateName>ניסנבאום</AlternateName>
+    <Latitude>32.009564</Latitude>
+    <Longitude>34.750955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נסים בכר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי נסים בכר</AlternateName>
+    <AlternateName>רבי נסים בכר</AlternateName>
+    <AlternateName>נסים בכר</AlternateName>
+    <Latitude>32.006295</Latitude>
+    <Longitude>34.751741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.022293</Latitude>
+    <Longitude>34.748438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צבי יהודה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי צבי יהודה</AlternateName>
+    <AlternateName>צבי יהודה</AlternateName>
+    <AlternateName>רבי צבי יהודה</AlternateName>
+    <Latitude>32.009171</Latitude>
+    <Longitude>34.753825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.023738</Latitude>
+    <Longitude>34.745269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוקיס</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרבי קוקיס</AlternateName>
+    <AlternateName>קוקיס</AlternateName>
+    <AlternateName>רבי קוקיס</AlternateName>
+    <Latitude>32.021182</Latitude>
+    <Longitude>34.742348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017438</Latitude>
+    <Longitude>34.758330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024709</Latitude>
+    <Longitude>34.743193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרשת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021790</Latitude>
+    <Longitude>34.747976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השבטים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.004176</Latitude>
+    <Longitude>34.749524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027629</Latitude>
+    <Longitude>34.758682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012525</Latitude>
+    <Longitude>34.760406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016477</Latitude>
+    <Longitude>34.757198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013697</Latitude>
+    <Longitude>34.744230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027334</Latitude>
+    <Longitude>34.755245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השר ברזילי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012226</Latitude>
+    <Longitude>34.740327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השר רבינוביץ</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012073</Latitude>
+    <Longitude>34.747394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השר שפירא</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014714</Latitude>
+    <Longitude>34.741779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.010512</Latitude>
+    <Longitude>34.757080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012593</Latitude>
+    <Longitude>34.757610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022665</Latitude>
+    <Longitude>34.758133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028517</Latitude>
+    <Longitude>34.754108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.021182</Latitude>
+    <Longitude>34.742348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן מייזל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016040</Latitude>
+    <Longitude>34.751794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020054</Latitude>
+    <Longitude>34.749366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרובבל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018755</Latitude>
+    <Longitude>34.741798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017590</Latitude>
+    <Longitude>34.753571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חי"ש</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.025206</Latitude>
+    <Longitude>34.752928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים דוד מסיקה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>חיים דויד מסיקה</AlternateName>
+    <Latitude>32.030363</Latitude>
+    <Longitude>34.743566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים שפרבר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.003547</Latitude>
+    <Longitude>34.752592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמית</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.032359</Latitude>
+    <Longitude>34.756878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028725</Latitude>
+    <Longitude>34.744041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצור</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011550</Latitude>
+    <Longitude>34.757287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבנקין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017682</Latitude>
+    <Longitude>34.742618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024727</Latitude>
+    <Longitude>34.750874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020433</Latitude>
+    <Longitude>34.747919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.008061</Latitude>
+    <Longitude>34.757839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024617</Latitude>
+    <Longitude>34.751601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014367</Latitude>
+    <Longitude>34.743647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן הסנדלר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.005031</Latitude>
+    <Longitude>34.741688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוטבתה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009982</Latitude>
+    <Longitude>34.758107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוספטל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <Latitude>32.016215</Latitude>
+    <Longitude>34.750131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל דנין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017756</Latitude>
+    <Longitude>34.747704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק נפחא</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.004198</Latitude>
+    <Longitude>34.743950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011116</Latitude>
+    <Longitude>34.741385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה למחלף דב הוז</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023733</Latitude>
+    <Longitude>34.760417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016406</Latitude>
+    <Longitude>34.742235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.026028</Latitude>
+    <Longitude>34.747430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירקוני</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015069</Latitude>
+    <Longitude>34.757161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל בן ציון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015849</Latitude>
+    <Longitude>34.746729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל וישנגרד המסגר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.010462</Latitude>
+    <Longitude>34.747262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל'ס</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019160</Latitude>
+    <Longitude>34.755766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ט בנובמבר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009544</Latitude>
+    <Longitude>34.755246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כובשי החרמון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009948</Latitude>
+    <Longitude>34.760870</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר המגינים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>ככר המגינים</AlternateName>
+    <Latitude>32.027338</Latitude>
+    <Longitude>34.748464</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר המדינה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>ככר המדינה</AlternateName>
+    <Latitude>32.024709</Latitude>
+    <Longitude>34.743193</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר וינגייט</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>ככר וינגייט</AlternateName>
+    <Latitude>32.026745</Latitude>
+    <Longitude>34.745230</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כינור דוד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>כינור דויד</AlternateName>
+    <Latitude>32.015808</Latitude>
+    <Longitude>34.741657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.020003</Latitude>
+    <Longitude>34.754475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לווייתן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019740</Latitude>
+    <Longitude>34.755768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבורנו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011758</Latitude>
+    <Longitude>34.760036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבסקינד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027183</Latitude>
+    <Longitude>34.742072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009795</Latitude>
+    <Longitude>34.759074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מ"ג</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023769</Latitude>
+    <Longitude>34.749378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע סיני</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018665</Latitude>
+    <Longitude>34.759235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011135</Latitude>
+    <Longitude>34.759445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיליאני</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020289</Latitude>
+    <Longitude>34.755740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012462</Latitude>
+    <Longitude>34.759823</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.006579</Latitude>
+    <Longitude>34.751035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוכרי הסיגריות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013792</Latitude>
+    <Longitude>34.756002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחרוזת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.033254</Latitude>
+    <Longitude>34.757404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018668</Latitude>
+    <Longitude>34.748149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם יקואל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.008931</Latitude>
+    <Longitude>34.748637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסריק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021947</Latitude>
+    <Longitude>34.740935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעבר ישי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.026885</Latitude>
+    <Longitude>34.746540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה השיחרור</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023090</Latitude>
+    <Longitude>34.740347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013587</Latitude>
+    <Longitude>34.757908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצודת בית"ר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013661</Latitude>
+    <Longitude>34.749536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקס נורדאו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015148</Latitude>
+    <Longitude>34.741000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016064</Latitude>
+    <Longitude>34.739416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה כהן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027941</Latitude>
+    <Longitude>34.752089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017417</Latitude>
+    <Longitude>34.757782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017558</Latitude>
+    <Longitude>34.752539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אייל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015414</Latitude>
+    <Longitude>34.746707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו גנם</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>מתיתיהו גנם</AlternateName>
+    <Latitude>32.023767</Latitude>
+    <Longitude>34.759116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נגבה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028468</Latitude>
+    <Longitude>34.751632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נויקלן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020045</Latitude>
+    <Longitude>34.739713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נייגו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020949</Latitude>
+    <Longitude>34.751146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017283</Latitude>
+    <Longitude>34.755340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.025432</Latitude>
+    <Longitude>34.759255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.022560</Latitude>
+    <Longitude>34.742307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020797</Latitude>
+    <Longitude>34.756787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הראשונים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029841</Latitude>
+    <Longitude>34.747365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מיסיסטרנו</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019370</Latitude>
+    <Longitude>34.750684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגנון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.015203</Latitude>
+    <Longitude>34.739527</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עיריית בת ים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016186</Latitude>
+    <Longitude>34.741188</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פיינשטיין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028593</Latitude>
+    <Longitude>34.742337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייר ז'ילבר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.010619</Latitude>
+    <Longitude>34.742975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018451</Latitude>
+    <Longitude>34.748033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרלשטיין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.021027</Latitude>
+    <Longitude>34.747955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024316</Latitude>
+    <Longitude>34.747717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי לוצק</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028503</Latitude>
+    <Longitude>34.754504</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.024037</Latitude>
+    <Longitude>34.746770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת סלונים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012073</Latitude>
+    <Longitude>34.747394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028549</Latitude>
+    <Longitude>34.759452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלוזנר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023452</Latitude>
+    <Longitude>34.751125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרייתי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.016336</Latitude>
+    <Longitude>34.752028</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית באבוב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.009578</Latitude>
+    <Longitude>34.752907</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.004925</Latitude>
+    <Longitude>34.750529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023435</Latitude>
+    <Longitude>34.757592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי בנימין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הרב בנימין</AlternateName>
+    <AlternateName>בנימין</AlternateName>
+    <AlternateName>הרבי בנימין</AlternateName>
+    <Latitude>32.017421</Latitude>
+    <Longitude>34.748610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רהב</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022665</Latitude>
+    <Longitude>34.758133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027074</Latitude>
+    <Longitude>34.747674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.017019</Latitude>
+    <Longitude>34.744395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023244</Latitude>
+    <Longitude>34.753091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.029903</Latitude>
+    <Longitude>34.745937</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת הנשיא</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.011891</Latitude>
+    <Longitude>34.758190</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת יוסף</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019876</Latitude>
+    <Longitude>34.757262</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.012602</Latitude>
+    <Longitude>34.740370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול בר</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.028130</Latitude>
+    <Longitude>34.746395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול הדדי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018565</Latitude>
+    <Longitude>34.756137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014032</Latitude>
+    <Longitude>34.740473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.008437</Latitude>
+    <Longitude>34.760396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בר אילן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>שד' בר אילן</AlternateName>
+    <AlternateName>בר אילן</AlternateName>
+    <Latitude>32.013978</Latitude>
+    <Longitude>34.747186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות העצמאות</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>שד' העצמאות</AlternateName>
+    <AlternateName>העצמאות</AlternateName>
+    <Latitude>32.024379</Latitude>
+    <Longitude>34.747435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטרן</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>אברהם שטרן</AlternateName>
+    <Latitude>32.014080</Latitude>
+    <Longitude>34.754040</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון עולה חדש א'</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023721</Latitude>
+    <Longitude>34.756862</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון עולה חדש ב'</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.023998</Latitude>
+    <Longitude>34.758951</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון עולה חדש ג'</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022731</Latitude>
+    <Longitude>34.759242</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת הקרוונים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <AlternateName>הקרוונים</AlternateName>
+    <Latitude>32.003131</Latitude>
+    <Longitude>34.746482</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום אש</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.020130</Latitude>
+    <Longitude>34.758980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.019639</Latitude>
+    <Longitude>34.748652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.027263</Latitude>
+    <Longitude>34.749698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.014618</Latitude>
+    <Longitude>34.740096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון הבורסקאי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.004106</Latitude>
+    <Longitude>34.743458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.018195</Latitude>
+    <Longitude>34.751832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.013767</Latitude>
+    <Longitude>34.761126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תנין</NativeName>
+    <ParentName>בת ים, ישראל</ParentName>
+    <Latitude>32.022867</Latitude>
+    <Longitude>34.755272</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717303</Latitude>
+    <Longitude>35.097138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.721060</Latitude>
+    <Longitude>35.090963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשד</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.713789</Latitude>
+    <Longitude>35.095479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשמת</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717306</Latitude>
+    <Longitude>35.086936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.714304</Latitude>
+    <Longitude>35.097755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719788</Latitude>
+    <Longitude>35.097480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.720076</Latitude>
+    <Longitude>35.089337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.715041</Latitude>
+    <Longitude>35.099774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.721101</Latitude>
+    <Longitude>35.094331</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הר כתרון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.720122</Latitude>
+    <Longitude>35.089734</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718042</Latitude>
+    <Longitude>35.102580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טללים</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.713307</Latitude>
+    <Longitude>35.095744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717846</Latitude>
+    <Longitude>35.099980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.721183</Latitude>
+    <Longitude>35.096139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718634</Latitude>
+    <Longitude>35.099167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.716287</Latitude>
+    <Longitude>35.087569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719040</Latitude>
+    <Longitude>35.089373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הגפן</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.715419</Latitude>
+    <Longitude>35.101311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדס</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.714642</Latitude>
+    <Longitude>35.101161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חצב</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718173</Latitude>
+    <Longitude>35.100077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חרוב</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.715379</Latitude>
+    <Longitude>35.100302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא לוטם</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718951</Latitude>
+    <Longitude>35.100282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא סיגלית</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717846</Latitude>
+    <Longitude>35.099980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא תמר</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.714778</Latitude>
+    <Longitude>35.100140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מור</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.720927</Latitude>
+    <Longitude>35.090149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719205</Latitude>
+    <Longitude>35.088600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718287</Latitude>
+    <Longitude>35.100994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נטפים</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.712927</Latitude>
+    <Longitude>35.095614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרד</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.716472</Latitude>
+    <Longitude>35.087052</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718143</Latitude>
+    <Longitude>35.098294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717526</Latitude>
+    <Longitude>35.101664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718791</Latitude>
+    <Longitude>35.102500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.718065</Latitude>
+    <Longitude>35.102262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717171</Latitude>
+    <Longitude>35.099244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפית</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.715817</Latitude>
+    <Longitude>35.099133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדרון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.714308</Latitude>
+    <Longitude>35.101950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קטלב</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719304</Latitude>
+    <Longitude>35.099995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קידה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717408</Latitude>
+    <Longitude>35.087817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קינמון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719346</Latitude>
+    <Longitude>35.091015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קציעה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719243</Latitude>
+    <Longitude>35.090322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רכסים</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.712913</Latitude>
+    <Longitude>35.098570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.716563</Latitude>
+    <Longitude>35.099962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרי יהודה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <AlternateName>שד' הרי יהודה</AlternateName>
+    <AlternateName>הרי יהודה</AlternateName>
+    <Latitude>31.716504</Latitude>
+    <Longitude>35.097262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.713923</Latitude>
+    <Longitude>35.098540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.719330</Latitude>
+    <Longitude>35.094613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמון</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.714350</Latitude>
+    <Longitude>35.096967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>צור הדסה, ישראל</ParentName>
+    <Latitude>31.717396</Latitude>
+    <Longitude>35.095193</Longitude>
+  </Street>
+</LocationData>

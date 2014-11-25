@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.842825</Latitude>
+    <Longitude>35.094330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אושה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.821871</Latitude>
+    <Longitude>35.081399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.860085</Latitude>
+    <Longitude>35.099950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.830126</Latitude>
+    <Longitude>35.087117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.852195</Latitude>
+    <Longitude>35.099089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.827924</Latitude>
+    <Longitude>35.083561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.843489</Latitude>
+    <Longitude>35.095941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.844066</Latitude>
+    <Longitude>35.097252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקליפטוס</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853169</Latitude>
+    <Longitude>35.099553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.826230</Latitude>
+    <Longitude>35.089489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.840394</Latitude>
+    <Longitude>35.090363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837164</Latitude>
+    <Longitude>35.088463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי המלאכה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.863150</Latitude>
+    <Longitude>35.097812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.859025</Latitude>
+    <Longitude>35.095386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'ורג' לנדאור</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.826485</Latitude>
+    <Longitude>35.085190</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הרקפות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834283</Latitude>
+    <Longitude>35.102128</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.839441</Latitude>
+    <Longitude>35.093735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.816132</Latitude>
+    <Longitude>35.078840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש חלב</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853162</Latitude>
+    <Longitude>35.094569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.813958</Latitude>
+    <Longitude>35.077003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.827719</Latitude>
+    <Longitude>35.082284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.851067</Latitude>
+    <Longitude>35.093880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.841412</Latitude>
+    <Longitude>35.094796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.848671</Latitude>
+    <Longitude>35.094179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.829022</Latitude>
+    <Longitude>35.088277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837857</Latitude>
+    <Longitude>35.091196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832275</Latitude>
+    <Longitude>35.089626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.846838</Latitude>
+    <Longitude>35.094202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בגין</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>בגין</AlternateName>
+    <Latitude>32.836020</Latitude>
+    <Longitude>35.103366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך עכו חיפה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>עכו חיפה</AlternateName>
+    <Latitude>32.833589</Latitude>
+    <Longitude>35.083315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832137</Latitude>
+    <Longitude>35.084354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלונים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.833943</Latitude>
+    <Longitude>35.086654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.835138</Latitude>
+    <Longitude>35.089369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברושים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.831757</Latitude>
+    <Longitude>35.088427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814982</Latitude>
+    <Longitude>35.076234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832781</Latitude>
+    <Longitude>35.088577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.829336</Latitude>
+    <Longitude>35.084349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.831708</Latitude>
+    <Longitude>35.087364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814451</Latitude>
+    <Longitude>35.078106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.831663</Latitude>
+    <Longitude>35.085035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החקלאים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.821796</Latitude>
+    <Longitude>35.082766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוזם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.864687</Latitude>
+    <Longitude>35.096177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.864007</Latitude>
+    <Longitude>35.096093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.842522</Latitude>
+    <Longitude>35.092412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.845466</Latitude>
+    <Longitude>35.093255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.865348</Latitude>
+    <Longitude>35.097840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפיל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.819245</Latitude>
+    <Longitude>35.081484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנס מולר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.864610</Latitude>
+    <Longitude>35.097816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.824812</Latitude>
+    <Longitude>35.082887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832498</Latitude>
+    <Longitude>35.083570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדנה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.868100</Latitude>
+    <Longitude>35.098620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.856102</Latitude>
+    <Longitude>35.095816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמקים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.816776</Latitude>
+    <Longitude>35.079084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.840575</Latitude>
+    <Longitude>35.092449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערמונים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837709</Latitude>
+    <Longitude>35.093609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.841837</Latitude>
+    <Longitude>35.094527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.838192</Latitude>
+    <Longitude>35.087296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרטיזנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.857423</Latitude>
+    <Longitude>35.097965</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הפרפר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.842099</Latitude>
+    <Longitude>35.095288</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.858133</Latitude>
+    <Longitude>35.095293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.841992</Latitude>
+    <Longitude>35.092875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.830939</Latitude>
+    <Longitude>35.088001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקדים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834838</Latitude>
+    <Longitude>35.089868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.836386</Latitude>
+    <Longitude>35.090976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.843167</Latitude>
+    <Longitude>35.096317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.849128</Latitude>
+    <Longitude>35.096106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמרים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.831318</Latitude>
+    <Longitude>35.088221</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.861141</Latitude>
+    <Longitude>35.097017</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832137</Latitude>
+    <Longitude>35.084354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.856504</Latitude>
+    <Longitude>35.097857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.839368</Latitude>
+    <Longitude>35.088951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זינגר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.827662</Latitude>
+    <Longitude>35.085808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייך</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.852909</Latitude>
+    <Longitude>35.097301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.833031</Latitude>
+    <Longitude>35.084400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוגלה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.846875</Latitude>
+    <Longitude>35.096995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.852793</Latitude>
+    <Longitude>35.098180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיננית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.833610</Latitude>
+    <Longitude>35.101928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853121</Latitude>
+    <Longitude>35.095480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חניתה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.829584</Latitude>
+    <Longitude>35.082162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.851248</Latitude>
+    <Longitude>35.095749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרובים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.852153</Latitude>
+    <Longitude>35.098639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרושת</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.865656</Latitude>
+    <Longitude>35.100166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814993</Latitude>
+    <Longitude>35.077510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853352</Latitude>
+    <Longitude>35.099103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגור</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.820853</Latitude>
+    <Longitude>35.082120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה בורלא</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.860734</Latitude>
+    <Longitude>35.098340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837604</Latitude>
+    <Longitude>35.086930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.848820</Latitude>
+    <Longitude>35.094275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף לוי</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.867428</Latitude>
+    <Longitude>35.096626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853045</Latitude>
+    <Longitude>35.096387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.829584</Latitude>
+    <Longitude>35.082162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.833810</Latitude>
+    <Longitude>35.103123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834066</Latitude>
+    <Longitude>35.104207</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר הפרחים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>ככר הפרחים</AlternateName>
+    <Latitude>32.834662</Latitude>
+    <Longitude>35.102637</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר יד לבנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>ככר יד לבנים</AlternateName>
+    <Latitude>32.827943</Latitude>
+    <Longitude>35.083498</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר מצילי יהודי הולנד</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>ככר מצילי יהודי הולנד</AlternateName>
+    <Latitude>32.821930</Latitude>
+    <Longitude>35.081510</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כלניות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.850457</Latitude>
+    <Longitude>35.096497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנען</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814478</Latitude>
+    <Longitude>35.077330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814126</Latitude>
+    <Longitude>35.076501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.856766</Latitude>
+    <Longitude>35.096873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834651</Latitude>
+    <Longitude>35.101394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.844234</Latitude>
+    <Longitude>35.094146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.835778</Latitude>
+    <Longitude>35.101881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנשה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837639</Latitude>
+    <Longitude>35.092164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834203</Latitude>
+    <Longitude>35.103756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין בובר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.858426</Latitude>
+    <Longitude>35.097572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.851614</Latitude>
+    <Longitude>35.099171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.847662</Latitude>
+    <Longitude>35.093907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.845087</Latitude>
+    <Longitude>35.093477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.833635</Latitude>
+    <Longitude>35.086460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניר עם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.813598</Latitude>
+    <Longitude>35.075921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.839970</Latitude>
+    <Longitude>35.092157</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביניה</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.829158</Latitude>
+    <Longitude>35.084906</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.852751</Latitude>
+    <Longitude>35.099215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגליות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.851203</Latitude>
+    <Longitude>35.096179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיתוונית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834919</Latitude>
+    <Longitude>35.103801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.848534</Latitude>
+    <Longitude>35.093051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.847955</Latitude>
+    <Longitude>35.095382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.814640</Latitude>
+    <Longitude>35.077901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.857558</Latitude>
+    <Longitude>35.095139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.853953</Latitude>
+    <Longitude>35.099129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צברים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.851504</Latitude>
+    <Longitude>35.093940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.849583</Latitude>
+    <Longitude>35.094718</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>צור שלום</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.855625</Latitude>
+    <Longitude>35.098217</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ציפורי</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.818329</Latitude>
+    <Longitude>35.081570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.850562</Latitude>
+    <Longitude>35.093860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קישון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.819919</Latitude>
+    <Longitude>35.081942</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קריון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.842653</Latitude>
+    <Longitude>35.090926</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834266</Latitude>
+    <Longitude>35.087882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.822560</Latitude>
+    <Longitude>35.080626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.838772</Latitude>
+    <Longitude>35.093384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.835622</Latitude>
+    <Longitude>35.087165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.827272</Latitude>
+    <Longitude>35.085552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפות</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.849834</Latitude>
+    <Longitude>35.096397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.859078</Latitude>
+    <Longitude>35.100513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.839378</Latitude>
+    <Longitude>35.090824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנרקיסים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.832630</Latitude>
+    <Longitude>35.082708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הפרדס</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.834224</Latitude>
+    <Longitude>35.100592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>32.831384</Latitude>
+    <Longitude>35.085915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הבנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>שד' הבנים</AlternateName>
+    <AlternateName>הבנים</AlternateName>
+    <Latitude>32.842517</Latitude>
+    <Longitude>35.094766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרצל</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>הרצל</AlternateName>
+    <AlternateName>שד' הרצל</AlternateName>
+    <Latitude>32.852981</Latitude>
+    <Longitude>35.096381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות וייצמן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>וייצמן</AlternateName>
+    <AlternateName>שד' וייצמן</AlternateName>
+    <Latitude>32.821994</Latitude>
+    <Longitude>35.081522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ח"ן</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>ח"ן</AlternateName>
+    <AlternateName>שד' ח"ן</AlternateName>
+    <Latitude>32.860797</Latitude>
+    <Longitude>35.097658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>32.823804</Latitude>
+    <Longitude>35.081797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רבין</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <AlternateName>שד' רבין</AlternateName>
+    <AlternateName>רבין</AlternateName>
+    <Latitude>32.839841</Latitude>
+    <Longitude>35.096079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנים</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.850457</Latitude>
+    <Longitude>35.096497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.860811</Latitude>
+    <Longitude>35.096869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.837858</Latitude>
+    <Longitude>35.088049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרעם</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.818101</Latitude>
+    <Longitude>35.080151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.817425</Latitude>
+    <Longitude>35.079678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>קרית ביאליק, ישראל</ParentName>
+    <Latitude>32.850531</Latitude>
+    <Longitude>35.094667</Longitude>
+  </Street>
+</LocationData>

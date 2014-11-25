@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביבית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268367</Latitude>
+    <Longitude>34.877842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגמון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264839</Latitude>
+    <Longitude>34.883130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדם</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277448</Latitude>
+    <Longitude>34.886307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265606</Latitude>
+    <Longitude>34.884968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת ציון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.279525</Latitude>
+    <Longitude>34.881151</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אחוזת מישורים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.280070</Latitude>
+    <Longitude>34.889750</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>איילת השחר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271072</Latitude>
+    <Longitude>34.887030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס הארגמן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264340</Latitude>
+    <Longitude>34.880993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוגן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271471</Latitude>
+    <Longitude>34.876382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264700</Latitude>
+    <Longitude>34.884370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.263989</Latitude>
+    <Longitude>34.890131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסותא</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271562</Latitude>
+    <Longitude>34.887792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265032</Latitude>
+    <Longitude>34.888996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באר גנים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271699</Latitude>
+    <Longitude>34.878891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית השואבה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.279525</Latitude>
+    <Longitude>34.881151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני בנימין</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268249</Latitude>
+    <Longitude>34.887164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267917</Latitude>
+    <Longitude>34.881595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267889</Latitude>
+    <Longitude>34.881692</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת רימון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271348</Latitude>
+    <Longitude>34.875407</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דגן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270200</Latitude>
+    <Longitude>34.892862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264606</Latitude>
+    <Longitude>34.891129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.278034</Latitude>
+    <Longitude>34.887513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.263496</Latitude>
+    <Longitude>34.889502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בין השדות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <AlternateName>בין השדות</AlternateName>
+    <Latitude>32.272540</Latitude>
+    <Longitude>34.878997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רבין</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <AlternateName>רבין</AlternateName>
+    <Latitude>32.262890</Latitude>
+    <Longitude>34.879789</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265737</Latitude>
+    <Longitude>34.886170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגס</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265364</Latitude>
+    <Longitude>34.885292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האודם</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268195</Latitude>
+    <Longitude>34.880597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האוכמנית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265905</Latitude>
+    <Longitude>34.883021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275081</Latitude>
+    <Longitude>34.888532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיזמרגד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272518</Latitude>
+    <Longitude>34.885151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277835</Latitude>
+    <Longitude>34.884642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוסים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272828</Latitude>
+    <Longitude>34.890843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277807</Latitude>
+    <Longitude>34.892727</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274898</Latitude>
+    <Longitude>34.890088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.278311</Latitude>
+    <Longitude>34.884902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265275</Latitude>
+    <Longitude>34.884614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבאר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271812</Latitude>
+    <Longitude>34.879929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.280674</Latitude>
+    <Longitude>34.883486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.260484</Latitude>
+    <Longitude>34.889865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273424</Latitude>
+    <Longitude>34.888810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267619</Latitude>
+    <Longitude>34.889195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.262827</Latitude>
+    <Longitude>34.890826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272677</Latitude>
+    <Longitude>34.888196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגת</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277163</Latitude>
+    <Longitude>34.888044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדובדבן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267661</Latitude>
+    <Longitude>34.882478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדודאים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268267</Latitude>
+    <Longitude>34.878946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדולב</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268641</Latitude>
+    <Longitude>34.881075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדליות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265934</Latitude>
+    <Longitude>34.877914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277218</Latitude>
+    <Longitude>34.890726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270965</Latitude>
+    <Longitude>34.887285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265915</Latitude>
+    <Longitude>34.890088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271551</Latitude>
+    <Longitude>34.889774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדופים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273587</Latitude>
+    <Longitude>34.885530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270250</Latitude>
+    <Longitude>34.877783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277018</Latitude>
+    <Longitude>34.890913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלמונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.279060</Latitude>
+    <Longitude>34.881814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמנית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267067</Latitude>
+    <Longitude>34.883978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277945</Latitude>
+    <Longitude>34.884396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היבולים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273266</Latitude>
+    <Longitude>34.887276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היונה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265864</Latitude>
+    <Longitude>34.888316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273242</Latitude>
+    <Longitude>34.881092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוחמים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.260946</Latitude>
+    <Longitude>34.890318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרת</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277571</Latitude>
+    <Longitude>34.883230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.269724</Latitude>
+    <Longitude>34.885393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271543</Latitude>
+    <Longitude>34.879782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.260823</Latitude>
+    <Longitude>34.888379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתמיד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265514</Latitude>
+    <Longitude>34.886777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטע</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268069</Latitude>
+    <Longitude>34.886190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275318</Latitude>
+    <Longitude>34.883835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנופר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271137</Latitude>
+    <Longitude>34.877847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276856</Latitude>
+    <Longitude>34.883739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275599</Latitude>
+    <Longitude>34.884001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוף</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.278034</Latitude>
+    <Longitude>34.887513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסחלב</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267072</Latitude>
+    <Longitude>34.881436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268394</Latitude>
+    <Longitude>34.883156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העירית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270176</Latitude>
+    <Longitude>34.879368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274172</Latitude>
+    <Longitude>34.887066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276412</Latitude>
+    <Longitude>34.887300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטל</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.278519</Latitude>
+    <Longitude>34.889674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.257727</Latitude>
+    <Longitude>34.888220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפעמונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268195</Latitude>
+    <Longitude>34.880597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרגים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265934</Latitude>
+    <Longitude>34.877914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצאלון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271685</Latitude>
+    <Longitude>34.888204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272971</Latitude>
+    <Longitude>34.889748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267718</Latitude>
+    <Longitude>34.884359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272984</Latitude>
+    <Longitude>34.887771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264126</Latitude>
+    <Longitude>34.886142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268367</Latitude>
+    <Longitude>34.877842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיח</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268411</Latitude>
+    <Longitude>34.884687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271692</Latitude>
+    <Longitude>34.890891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277175</Latitude>
+    <Longitude>34.887011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265113</Latitude>
+    <Longitude>34.887959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274453</Latitude>
+    <Longitude>34.891776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.266338</Latitude>
+    <Longitude>34.883700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273265</Latitude>
+    <Longitude>34.884910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275143</Latitude>
+    <Longitude>34.890814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268981</Latitude>
+    <Longitude>34.877181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274041</Latitude>
+    <Longitude>34.885954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ותיקים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.261008</Latitude>
+    <Longitude>34.887527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוויתן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265152</Latitude>
+    <Longitude>34.891865</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277764</Latitude>
+    <Longitude>34.890510</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277868</Latitude>
+    <Longitude>34.891223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274704</Latitude>
+    <Longitude>34.882304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275304</Latitude>
+    <Longitude>34.884786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272690</Latitude>
+    <Longitude>34.876528</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276076</Latitude>
+    <Longitude>34.884596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274704</Latitude>
+    <Longitude>34.882304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.274693</Latitude>
+    <Longitude>34.883946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268897</Latitude>
+    <Longitude>34.881973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271959</Latitude>
+    <Longitude>34.884251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מכבי</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273919</Latitude>
+    <Longitude>34.893543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנטה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272317</Latitude>
+    <Longitude>34.890428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הארגמן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276703</Latitude>
+    <Longitude>34.886567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הלבונה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276653</Latitude>
+    <Longitude>34.885558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הרתמים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275074</Latitude>
+    <Longitude>34.886535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.280469</Latitude>
+    <Longitude>34.886180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.271402</Latitude>
+    <Longitude>34.891893</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה הדר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267803</Latitude>
+    <Longitude>34.882750</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נר הלילה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267718</Latitude>
+    <Longitude>34.884359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275701</Latitude>
+    <Longitude>34.882888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סהרון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268597</Latitude>
+    <Longitude>34.891459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270390</Latitude>
+    <Longitude>34.890784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האלה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275505</Latitude>
+    <Longitude>34.892359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הורדים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.279106</Latitude>
+    <Longitude>34.889015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החרמון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267638</Latitude>
+    <Longitude>34.889603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הניצנים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265721</Latitude>
+    <Longitude>34.886876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השושנה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.277780</Latitude>
+    <Longitude>34.889730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יערה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.272807</Latitude>
+    <Longitude>34.877576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עופרית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.266035</Latitude>
+    <Longitude>34.890659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264480</Latitude>
+    <Longitude>34.890037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275521</Latitude>
+    <Longitude>34.883360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264937</Latitude>
+    <Longitude>34.889283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדעד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273280</Latitude>
+    <Longitude>34.875490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופרית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.266705</Latitude>
+    <Longitude>34.891517</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עממי</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.258409</Latitude>
+    <Longitude>34.888343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.266403</Latitude>
+    <Longitude>34.889533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עציון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.258340</Latitude>
+    <Longitude>34.889132</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פאר גנים</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.273949</Latitude>
+    <Longitude>34.875422</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.266350</Latitude>
+    <Longitude>34.877234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.269560</Latitude>
+    <Longitude>34.884987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צורית</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270690</Latitude>
+    <Longitude>34.879424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270704</Latitude>
+    <Longitude>34.880060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.261150</Latitude>
+    <Longitude>34.891384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קינמון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267690</Latitude>
+    <Longitude>34.880481</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קקטוס</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268976</Latitude>
+    <Longitude>34.878740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.264918</Latitude>
+    <Longitude>34.889164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוזמרין</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270897</Latitude>
+    <Longitude>34.892329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריחן</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.280856</Latitude>
+    <Longitude>34.880440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת בן גוריון</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270941</Latitude>
+    <Longitude>34.884160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת היובל</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.278990</Latitude>
+    <Longitude>34.888546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.280315</Latitude>
+    <Longitude>34.882105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנוטע</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268998</Latitude>
+    <Longitude>34.886553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדמה</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.268269</Latitude>
+    <Longitude>34.879677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שומשום</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.276449</Latitude>
+    <Longitude>34.891547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265592</Latitude>
+    <Longitude>34.889924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.279167</Latitude>
+    <Longitude>34.892171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265957</Latitude>
+    <Longitude>34.889869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלהבת</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265776</Latitude>
+    <Longitude>34.879296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שן הארי</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267854</Latitude>
+    <Longitude>34.877833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שנהב</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.267245</Latitude>
+    <Longitude>34.878780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270158</Latitude>
+    <Longitude>34.887691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורמוס</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270558</Latitude>
+    <Longitude>34.891687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תירוש</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.270558</Latitude>
+    <Longitude>34.891687</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תל צור</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.275750</Latitude>
+    <Longitude>34.893725</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>אבן יהודה, ישראל</ParentName>
+    <Latitude>32.265507</Latitude>
+    <Longitude>34.884021</Longitude>
+  </Street>
+</LocationData>

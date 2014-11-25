@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דוד נבון</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <AlternateName>דויד נבון</AlternateName>
+    <Latitude>32.046210</Latitude>
+    <Longitude>34.902766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המייסדים</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <AlternateName>המייסדים</AlternateName>
+    <Latitude>32.046641</Latitude>
+    <Longitude>34.900935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.044070</Latitude>
+    <Longitude>34.898889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.046069</Latitude>
+    <Longitude>34.898409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.045774</Latitude>
+    <Longitude>34.897748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.046051</Latitude>
+    <Longitude>34.897099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.046060</Latitude>
+    <Longitude>34.897728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.045730</Latitude>
+    <Longitude>34.894360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.044930</Latitude>
+    <Longitude>34.897788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.051015</Latitude>
+    <Longitude>34.899916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנרקיס</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.044874</Latitude>
+    <Longitude>34.902522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרדוף</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.044795</Latitude>
+    <Longitude>34.901899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יסמין</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.044743</Latitude>
+    <Longitude>34.897796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת פעמונית</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.050914</Latitude>
+    <Longitude>34.899703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת רותם</NativeName>
+    <ParentName>מגשימים, ישראל</ParentName>
+    <Latitude>32.050968</Latitude>
+    <Longitude>34.901146</Longitude>
+  </Street>
+</LocationData>

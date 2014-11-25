@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך הטבק</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <AlternateName>הטבק</AlternateName>
+    <Latitude>33.036669</Latitude>
+    <Longitude>35.113313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך כליל החורש</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <AlternateName>כליל החורש</AlternateName>
+    <Latitude>33.034573</Latitude>
+    <Longitude>35.112216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הברוש</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.039711</Latitude>
+    <Longitude>35.112451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הארז</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.039208</Latitude>
+    <Longitude>35.113721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הגפן</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.039667</Latitude>
+    <Longitude>35.114511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הדולב</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.039084</Latitude>
+    <Longitude>35.114537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב ההרדוף</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.038567</Latitude>
+    <Longitude>35.114294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הזית</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.037792</Latitude>
+    <Longitude>35.113633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב החרוב</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.037148</Latitude>
+    <Longitude>35.113640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב היערה</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.035027</Latitude>
+    <Longitude>35.111900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הלוטם</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.035936</Latitude>
+    <Longitude>35.109002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב המרגנית</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.036379</Latitude>
+    <Longitude>35.108717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הנרקיס</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.036965</Latitude>
+    <Longitude>35.108471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הסחלב</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.037447</Latitude>
+    <Longitude>35.108284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הערבה</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.037994</Latitude>
+    <Longitude>35.108087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרת האורנים</NativeName>
+    <ParentName>גשר הזיו, ישראל</ParentName>
+    <Latitude>33.039865</Latitude>
+    <Longitude>35.109037</Longitude>
+  </Street>
+</LocationData>

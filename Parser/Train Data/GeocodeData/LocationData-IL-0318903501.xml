@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביטל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.889620</Latitude>
+    <Longitude>35.022604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבני חושן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903186</Latitude>
+    <Longitude>34.994884</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אבני חן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905596</Latitude>
+    <Longitude>34.995723</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890171</Latitude>
+    <Longitude>35.016277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.901395</Latitude>
+    <Longitude>35.014836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדיר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891583</Latitude>
+    <Longitude>35.021671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907647</Latitude>
+    <Longitude>35.008345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.913364</Latitude>
+    <Longitude>35.014691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904190</Latitude>
+    <Longitude>34.996035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894232</Latitude>
+    <Longitude>35.032394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחלמה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903409</Latitude>
+    <Longitude>34.997198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איזדרכת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.901877</Latitude>
+    <Longitude>35.013796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אייר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.915846</Latitude>
+    <Longitude>35.011059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוסים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883693</Latitude>
+    <Longitude>35.018677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890811</Latitude>
+    <Longitude>35.014178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלול</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.917989</Latitude>
+    <Longitude>35.005020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.882690</Latitude>
+    <Longitude>35.007476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911989</Latitude>
+    <Longitude>35.006829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910551</Latitude>
+    <Longitude>35.008075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886401</Latitude>
+    <Longitude>35.016483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוגן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.901977</Latitude>
+    <Longitude>35.012665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885005</Latitude>
+    <Longitude>35.018174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894618</Latitude>
+    <Longitude>35.030961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883267</Latitude>
+    <Longitude>35.010798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפיקי מים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907469</Latitude>
+    <Longitude>35.018024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884032</Latitude>
+    <Longitude>35.006453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891604</Latitude>
+    <Longitude>35.020923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.889563</Latitude>
+    <Longitude>35.016289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשחר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.900794</Latitude>
+    <Longitude>35.014243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892840</Latitude>
+    <Longitude>35.013131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885761</Latitude>
+    <Longitude>34.999692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בדולח</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903905</Latitude>
+    <Longitude>34.994620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסתן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894809</Latitude>
+    <Longitude>35.032624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887290</Latitude>
+    <Longitude>35.005253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890441</Latitude>
+    <Longitude>35.014929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקנית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894623</Latitude>
+    <Longitude>35.029526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886616</Latitude>
+    <Longitude>35.013924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892854</Latitude>
+    <Longitude>35.017301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884545</Latitude>
+    <Longitude>35.006476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893549</Latitude>
+    <Longitude>35.029529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891604</Latitude>
+    <Longitude>35.020923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גינת אגוז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908051</Latitude>
+    <Longitude>35.017643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיתית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886066</Latitude>
+    <Longitude>35.010942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891594</Latitude>
+    <Longitude>35.019376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גליל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891596</Latitude>
+    <Longitude>35.020186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890971</Latitude>
+    <Longitude>35.018610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895403</Latitude>
+    <Longitude>35.032802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.916512</Latitude>
+    <Longitude>34.999850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורנית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906577</Latitude>
+    <Longitude>35.009916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892851</Latitude>
+    <Longitude>35.015244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896020</Latitude>
+    <Longitude>35.033019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דם המכבים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908723</Latitude>
+    <Longitude>35.010341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.889292</Latitude>
+    <Longitude>35.003097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905666</Latitude>
+    <Longitude>35.010209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893467</Latitude>
+    <Longitude>35.015256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ד"ר ישראל פלד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>ד"ר ישראל פלד</AlternateName>
+    <Latitude>31.891163</Latitude>
+    <Longitude>35.033069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המייסדים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>המייסדים</AlternateName>
+    <Latitude>31.894448</Latitude>
+    <Longitude>35.034069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הראשונים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>הראשונים</AlternateName>
+    <Latitude>31.895020</Latitude>
+    <Longitude>35.029958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888675</Latitude>
+    <Longitude>34.965017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורג</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883534</Latitude>
+    <Longitude>34.962814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנאי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.882589</Latitude>
+    <Longitude>34.961711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883423</Latitude>
+    <Longitude>34.963022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדודאים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908440</Latitude>
+    <Longitude>35.015133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדורית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892713</Latitude>
+    <Longitude>35.029845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892039</Latitude>
+    <Longitude>35.012442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888256</Latitude>
+    <Longitude>35.016238</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הכרמים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.915224</Latitude>
+    <Longitude>35.008669</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הלוח העברי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.917734</Latitude>
+    <Longitude>35.006782</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>המגינים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908548</Latitude>
+    <Longitude>35.000462</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>המכונאי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886034</Latitude>
+    <Longitude>34.959462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.920479</Latitude>
+    <Longitude>34.968306</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911616</Latitude>
+    <Longitude>35.005134</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הנגר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885781</Latitude>
+    <Longitude>34.963002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצנים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908527</Latitude>
+    <Longitude>35.017296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנפח</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888679</Latitude>
+    <Longitude>34.966988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוחר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890981</Latitude>
+    <Longitude>34.962663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסתת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885447</Latitude>
+    <Longitude>34.962467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצמיחה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.920620</Latitude>
+    <Longitude>34.975767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקדר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888675</Latitude>
+    <Longitude>34.965017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר אמיר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888156</Latitude>
+    <Longitude>35.037038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר ארגמן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888366</Latitude>
+    <Longitude>35.034207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר בוקר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887657</Latitude>
+    <Longitude>35.036381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר דלתון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886965</Latitude>
+    <Longitude>35.037084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הילה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886669</Latitude>
+    <Longitude>35.037880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר ורדה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886206</Latitude>
+    <Longitude>35.037607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר זיו</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886102</Latitude>
+    <Longitude>35.038277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר חזון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885243</Latitude>
+    <Longitude>35.038439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר טללים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885523</Latitude>
+    <Longitude>35.037597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר יודפת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884597</Latitude>
+    <Longitude>35.038024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר כנען</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884247</Latitude>
+    <Longitude>35.037069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר להבים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884810</Latitude>
+    <Longitude>35.036183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מעוז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885380</Latitude>
+    <Longitude>35.035835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נטופה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885309</Latitude>
+    <Longitude>35.036757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר סנה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885934</Latitude>
+    <Longitude>35.036381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר פורת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886590</Latitude>
+    <Longitude>35.035976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר צפריר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886647</Latitude>
+    <Longitude>35.034834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר קדרים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887228</Latitude>
+    <Longitude>35.035251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר רביד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887670</Latitude>
+    <Longitude>35.034632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר רמון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887180</Latitude>
+    <Longitude>35.033753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שאול</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887410</Latitude>
+    <Longitude>35.032157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שחר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887907</Latitude>
+    <Longitude>35.033729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר תורען</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888343</Latitude>
+    <Longitude>35.032510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר תמנע</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888288</Latitude>
+    <Longitude>35.031465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896370</Latitude>
+    <Longitude>35.032992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכבת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.900816</Latitude>
+    <Longitude>35.006433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השדרה המרכזית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.921085</Latitude>
+    <Longitude>34.971236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השולמית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908028</Latitude>
+    <Longitude>35.016153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893012</Latitude>
+    <Longitude>35.030262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896145</Latitude>
+    <Longitude>35.033958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910427</Latitude>
+    <Longitude>35.013017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת השרון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907811</Latitude>
+    <Longitude>35.017779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884306</Latitude>
+    <Longitude>35.016211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגווי הסלע</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907492</Latitude>
+    <Longitude>35.017187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911066</Latitude>
+    <Longitude>35.009814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892801</Latitude>
+    <Longitude>35.030780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוט השני</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907315</Latitude>
+    <Longitude>35.017246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבה שבע</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911682</Latitude>
+    <Longitude>34.996180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909493</Latitude>
+    <Longitude>35.002503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גבעתי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911005</Latitude>
+    <Longitude>35.001245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גולני</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910137</Latitude>
+    <Longitude>35.001039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הנח"ל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910568</Latitude>
+    <Longitude>35.001631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הצנחנים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907633</Latitude>
+    <Longitude>34.999106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.912418</Latitude>
+    <Longitude>34.998272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת יפתח</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911657</Latitude>
+    <Longitude>35.000561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיננית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908330</Latitude>
+    <Longitude>35.009194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמונית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907913</Latitude>
+    <Longitude>35.009346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885005</Latitude>
+    <Longitude>35.018174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896682</Latitude>
+    <Longitude>35.034490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892191</Latitude>
+    <Longitude>35.016572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906122</Latitude>
+    <Longitude>35.011219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חשוון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.914306</Latitude>
+    <Longitude>35.013407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבלן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892280</Latitude>
+    <Longitude>35.030875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבק</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895980</Latitude>
+    <Longitude>35.034639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.914939</Latitude>
+    <Longitude>35.008399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886195</Latitude>
+    <Longitude>35.014546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.923008</Latitude>
+    <Longitude>34.997621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890544</Latitude>
+    <Longitude>35.004583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906449</Latitude>
+    <Longitude>34.997180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.915839</Latitude>
+    <Longitude>35.000776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יובלים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885668</Latitude>
+    <Longitude>35.031866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910288</Latitude>
+    <Longitude>35.011563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888036</Latitude>
+    <Longitude>35.005538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.913291</Latitude>
+    <Longitude>35.003621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892723</Latitude>
+    <Longitude>35.031337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל הגיבורה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.882519</Latitude>
+    <Longitude>35.010159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896457</Latitude>
+    <Longitude>35.035172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886486</Latitude>
+    <Longitude>35.022610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884308</Latitude>
+    <Longitude>35.015506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירח אב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.914061</Latitude>
+    <Longitude>35.013045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירחים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.915195</Latitude>
+    <Longitude>35.005622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.911656</Latitude>
+    <Longitude>35.004241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.914207</Latitude>
+    <Longitude>35.003920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישפה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904643</Latitude>
+    <Longitude>34.996854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884866</Latitude>
+    <Longitude>35.002124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כחלית ההרים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905465</Latitude>
+    <Longitude>35.013313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר חטיבת הנגב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>ככר חטיבת הנגב</AlternateName>
+    <Latitude>31.908540</Latitude>
+    <Longitude>35.003476</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר חטיבת הראל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>ככר חטיבת הראל</AlternateName>
+    <Latitude>31.912665</Latitude>
+    <Longitude>34.998550</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיכר מלאכי הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>ככר מלאכי הנביא</AlternateName>
+    <Latitude>31.910660</Latitude>
+    <Longitude>35.006619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר עמוס הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>ככר עמוס הנביא</AlternateName>
+    <Latitude>31.914507</Latitude>
+    <Longitude>35.003030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903088</Latitude>
+    <Longitude>35.015273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895810</Latitude>
+    <Longitude>35.035303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנרית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892531</Latitude>
+    <Longitude>35.032203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כסלו</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.916126</Latitude>
+    <Longitude>35.008398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907013</Latitude>
+    <Longitude>35.013639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891586</Latitude>
+    <Longitude>35.018604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כתם פז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907713</Latitude>
+    <Longitude>35.016983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה אמנו</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.882712</Latitude>
+    <Longitude>35.003029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לב העיר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.898926</Latitude>
+    <Longitude>35.007943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.900104</Latitude>
+    <Longitude>35.011336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891989</Latitude>
+    <Longitude>35.032228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.888453</Latitude>
+    <Longitude>35.009295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוע הארי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904660</Latitude>
+    <Longitude>35.009689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884418</Latitude>
+    <Longitude>35.020542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.901202</Latitude>
+    <Longitude>35.010206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903048</Latitude>
+    <Longitude>34.995795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא רעות</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885709</Latitude>
+    <Longitude>35.021678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע דני</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905263</Latitude>
+    <Longitude>35.002598</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע דקל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905213</Latitude>
+    <Longitude>35.002973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע חורב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905978</Latitude>
+    <Longitude>35.002557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע חירם</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909209</Latitude>
+    <Longitude>35.000211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יואב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908443</Latitude>
+    <Longitude>35.001009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יונתן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906443</Latitude>
+    <Longitude>35.001111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע לוט</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910133</Latitude>
+    <Longitude>34.998943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע נחשון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905667</Latitude>
+    <Longitude>35.001150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע עובדה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907801</Latitude>
+    <Longitude>34.999735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906922</Latitude>
+    <Longitude>35.003171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קלשון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.910239</Latitude>
+    <Longitude>34.998758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל דוד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>מגדל דויד</AlternateName>
+    <Latitude>31.901139</Latitude>
+    <Longitude>35.013347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל הלבנון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895051</Latitude>
+    <Longitude>35.009376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל המנורה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.902115</Latitude>
+    <Longitude>34.996939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל ים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905608</Latitude>
+    <Longitude>34.994239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל עוז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.898466</Latitude>
+    <Longitude>35.012522</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909120</Latitude>
+    <Longitude>35.002462</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מיכה הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.913933</Latitude>
+    <Longitude>35.002964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890971</Latitude>
+    <Longitude>35.018610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיתר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887774</Latitude>
+    <Longitude>35.011699</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מכבים-רעות</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>מכבים רעות</AlternateName>
+    <Latitude>31.888235</Latitude>
+    <Longitude>35.023023</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מנשה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884737</Latitude>
+    <Longitude>35.007350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנתור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904265</Latitude>
+    <Longitude>35.016077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה גדעון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895490</Latitude>
+    <Longitude>35.010717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה דורון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896390</Latitude>
+    <Longitude>35.008231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה נמר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894721</Latitude>
+    <Longitude>35.005426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה עמיעז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897696</Latitude>
+    <Longitude>35.008827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895213</Latitude>
+    <Longitude>35.035984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906727</Latitude>
+    <Longitude>35.012924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרום</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884295</Latitude>
+    <Longitude>35.013256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרומית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891464</Latitude>
+    <Longitude>35.032223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים החשמונאית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.881747</Latitude>
+    <Longitude>35.010151</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משואה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894397</Latitude>
+    <Longitude>35.007627</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נאות הדשא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909243</Latitude>
+    <Longitude>35.016773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נהר הירדן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896823</Latitude>
+    <Longitude>35.007569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נופך</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.906023</Latitude>
+    <Longitude>34.995089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894465</Latitude>
+    <Longitude>35.035766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884378</Latitude>
+    <Longitude>35.020050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אביב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886977</Latitude>
+    <Longitude>35.030746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אל על</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895606</Latitude>
+    <Longitude>35.003915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ארנון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894112</Latitude>
+    <Longitude>35.005248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל בוקק</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893456</Latitude>
+    <Longitude>35.004345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל בזק</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896806</Latitude>
+    <Longitude>35.019736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל בצת</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897918</Latitude>
+    <Longitude>35.018331</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ברק</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887436</Latitude>
+    <Longitude>35.030029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל גלים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894688</Latitude>
+    <Longitude>35.002907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל געתון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896557</Latitude>
+    <Longitude>35.022108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דליה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897077</Latitude>
+    <Longitude>35.022323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886093</Latitude>
+    <Longitude>35.029896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הבשור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897187</Latitude>
+    <Longitude>35.023549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הירמוך</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897207</Latitude>
+    <Longitude>35.014459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הירקון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.898113</Latitude>
+    <Longitude>35.019948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל זוהר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893220</Latitude>
+    <Longitude>35.005840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל חבר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893820</Latitude>
+    <Longitude>35.009804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל טף</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883633</Latitude>
+    <Longitude>35.031714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל יבנאל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895355</Latitude>
+    <Longitude>35.006869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל יגור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892446</Latitude>
+    <Longitude>35.006219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל לכיש</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884327</Latitude>
+    <Longitude>35.033017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מירון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.896754</Latitude>
+    <Longitude>35.025016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נטוף</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884064</Latitude>
+    <Longitude>35.033935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נטפים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895414</Latitude>
+    <Longitude>35.023925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נעמן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893756</Latitude>
+    <Longitude>35.003835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל סער</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884728</Latitude>
+    <Longitude>35.033988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עוז</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885237</Latitude>
+    <Longitude>35.033095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עיון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897384</Latitude>
+    <Longitude>35.011799</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עמוד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891683</Latitude>
+    <Longitude>35.009211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל פארן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894929</Latitude>
+    <Longitude>35.020195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל פולג</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885952</Latitude>
+    <Longitude>35.032538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל צופר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893935</Latitude>
+    <Longitude>35.003112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל צין</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894652</Latitude>
+    <Longitude>35.014426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ציפורי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895226</Latitude>
+    <Longitude>35.005110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל צלמון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892342</Latitude>
+    <Longitude>35.010220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קדרון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895462</Latitude>
+    <Longitude>35.017541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קטלב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894032</Latitude>
+    <Longitude>35.006818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שורק</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893773</Latitude>
+    <Longitude>35.007912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שיקמה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897502</Latitude>
+    <Longitude>35.022496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שניר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895166</Latitude>
+    <Longitude>35.015449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל תבור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895025</Latitude>
+    <Longitude>35.023945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל תנינים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.898103</Latitude>
+    <Longitude>35.022556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.917859</Latitude>
+    <Longitude>35.008935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.884615</Latitude>
+    <Longitude>35.022111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.886420</Latitude>
+    <Longitude>35.008734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נץ החלב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904646</Latitude>
+    <Longitude>35.012531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נקר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890808</Latitude>
+    <Longitude>35.032211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883912</Latitude>
+    <Longitude>35.015494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907222</Latitude>
+    <Longitude>35.014575</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביונים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.883385</Latitude>
+    <Longitude>35.017674</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.882998</Latitude>
+    <Longitude>35.020065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיוון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.917525</Latitude>
+    <Longitude>35.004577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.893978</Latitude>
+    <Longitude>35.035807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909335</Latitude>
+    <Longitude>35.016151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890279</Latitude>
+    <Longitude>35.032222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.885721</Latitude>
+    <Longitude>35.013802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904703</Latitude>
+    <Longitude>35.013439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.890784</Latitude>
+    <Longitude>35.030635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה הנביא</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.912242</Latitude>
+    <Longitude>35.004783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופר האיילים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908350</Latitude>
+    <Longitude>35.016883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק איילון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904206</Latitude>
+    <Longitude>35.015158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק בית שאן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.913453</Latitude>
+    <Longitude>34.995485</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמק דותן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.899824</Latitude>
+    <Longitude>35.013841</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמק דותן</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.899478</Latitude>
+    <Longitude>35.016317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק האלה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.918456</Latitude>
+    <Longitude>34.996701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק החולה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.895784</Latitude>
+    <Longitude>35.016980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק זבולון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.904959</Latitude>
+    <Longitude>34.998958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק חרוד</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.919315</Latitude>
+    <Longitude>35.005021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.897892</Latitude>
+    <Longitude>35.015947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.905231</Latitude>
+    <Longitude>34.996732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצי היער</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909209</Latitude>
+    <Longitude>35.015882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.889700</Latitude>
+    <Longitude>35.020174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894349</Latitude>
+    <Longitude>35.035278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבי נחל</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.892854</Latitude>
+    <Longitude>35.017301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערוגות הבושם</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909008</Latitude>
+    <Longitude>35.016925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערער</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.900845</Latitude>
+    <Longitude>35.007889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עת הזמיר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908233</Latitude>
+    <Longitude>35.016122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטדה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.903282</Latitude>
+    <Longitude>34.998049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיקוס</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.901620</Latitude>
+    <Longitude>35.009341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלח הרימון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.908097</Latitude>
+    <Longitude>35.017066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894816</Latitude>
+    <Longitude>35.034980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרי מגדים</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.909067</Latitude>
+    <Longitude>35.015592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.891609</Latitude>
+    <Longitude>35.031656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלה</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.894347</Latitude>
+    <Longitude>35.034476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.907714</Latitude>
+    <Longitude>35.015044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלע ההר</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.920812</Latitude>
+    <Longitude>34.969924</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רעות</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <Latitude>31.887338</Latitude>
+    <Longitude>35.017784</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות יצחק רבין</NativeName>
+    <ParentName>מודיעין מכבים רעות, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <AlternateName>שד' יצחק רבין</AlternateName>
+    <Latitude>31.891547</Latitude>
+    <Longitude>35.004474</Longitude>
+  </Street>
+</LocationData>

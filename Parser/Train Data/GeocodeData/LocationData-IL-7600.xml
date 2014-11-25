@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.937209</Latitude>
+    <Longitude>35.092800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבות ובנים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933142</Latitude>
+    <Longitude>35.074951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבירי יוחנן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922230</Latitude>
+    <Longitude>35.069285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931842</Latitude>
+    <Longitude>35.092158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931858</Latitude>
+    <Longitude>35.091466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם בן שושן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927342</Latitude>
+    <Longitude>35.092325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם דנינו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926555</Latitude>
+    <Longitude>35.095557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י אילת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934912</Latitude>
+    <Longitude>35.073473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936524</Latitude>
+    <Longitude>35.091853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.944803</Latitude>
+    <Longitude>35.079508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ג'זאר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923167</Latitude>
+    <Longitude>35.071048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921193</Latitude>
+    <Longitude>35.069281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קפלן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924531</Latitude>
+    <Longitude>35.076027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר מוקדון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921327</Latitude>
+    <Longitude>35.070640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמלפי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920410</Latitude>
+    <Longitude>35.068980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה דושניצקי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933048</Latitude>
+    <Longitude>35.085424</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אשר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923682</Latitude>
+    <Longitude>35.086018</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920385</Latitude>
+    <Longitude>35.068185</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באלדווין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921632</Latitude>
+    <Longitude>35.069076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בבל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936384</Latitude>
+    <Longitude>35.093593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.937195</Latitude>
+    <Longitude>35.094562</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס גורדון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926584</Latitude>
+    <Longitude>35.093285</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נועם הרצוג</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932140</Latitude>
+    <Longitude>35.076430</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925284</Latitude>
+    <Longitude>35.094043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלטימור</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.899711</Latitude>
+    <Longitude>35.088475</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924368</Latitude>
+    <Longitude>35.095609</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926095</Latitude>
+    <Longitude>35.092721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן עמי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922845</Latitude>
+    <Longitude>35.088755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין מטודלה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>מטודלה</AlternateName>
+    <Latitude>32.921486</Latitude>
+    <Longitude>35.069633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדוד 22</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922679</Latitude>
+    <Longitude>35.080012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.935997</Latitude>
+    <Longitude>35.095566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי סיני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928530</Latitude>
+    <Longitude>35.075718</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן גיבורי סיני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930844</Latitude>
+    <Longitude>35.075721</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן נווה ספיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.919174</Latitude>
+    <Longitude>35.092275</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן רסקו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938802</Latitude>
+    <Longitude>35.093135</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ד'אהר אל עומר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923788</Latitude>
+    <Longitude>35.071493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932109</Latitude>
+    <Longitude>35.072228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד נוי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>דויד נוי</AlternateName>
+    <Latitude>32.928572</Latitude>
+    <Longitude>35.073719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פנקס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>דויד פנקס</AlternateName>
+    <Latitude>32.925383</Latitude>
+    <Longitude>35.075075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.924540</Latitude>
+    <Longitude>35.082749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.942682</Latitude>
+    <Longitude>35.078077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.945224</Latitude>
+    <Longitude>35.077084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הארבעה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>הארבעה</AlternateName>
+    <Latitude>32.926405</Latitude>
+    <Longitude>35.079017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החיים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>החיים</AlternateName>
+    <Latitude>32.920063</Latitude>
+    <Longitude>35.079772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המלאכה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>המלאכה</AlternateName>
+    <Latitude>32.924204</Latitude>
+    <Longitude>35.080691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.937286</Latitude>
+    <Longitude>35.078361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.937897</Latitude>
+    <Longitude>35.074994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוסים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941857</Latitude>
+    <Longitude>35.077717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.939955</Latitude>
+    <Longitude>35.080557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנפה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925563</Latitude>
+    <Longitude>35.090121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשכולית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923650</Latitude>
+    <Longitude>35.094751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934944</Latitude>
+    <Longitude>35.079642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922246</Latitude>
+    <Longitude>35.094339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבהאים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922298</Latitude>
+    <Longitude>35.067544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבוסתן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927791</Latitude>
+    <Longitude>35.084720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936165</Latitude>
+    <Longitude>35.077184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברק</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924348</Latitude>
+    <Longitude>35.090947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאולה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932846</Latitude>
+    <Longitude>35.094238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגנית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.940735</Latitude>
+    <Longitude>35.078061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934270</Latitude>
+    <Longitude>35.093271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938673</Latitude>
+    <Longitude>35.077543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927516</Latitude>
+    <Longitude>35.069379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדוף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.940314</Latitude>
+    <Longitude>35.080121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938102</Latitude>
+    <Longitude>35.079341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930941</Latitude>
+    <Longitude>35.071576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925489</Latitude>
+    <Longitude>35.088104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929385</Latitude>
+    <Longitude>35.092029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923698</Latitude>
+    <Longitude>35.080458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934443</Latitude>
+    <Longitude>35.092613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934949</Latitude>
+    <Longitude>35.074472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.940571</Latitude>
+    <Longitude>35.077317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.899240</Latitude>
+    <Longitude>35.087940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.892519</Latitude>
+    <Longitude>35.090950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצרים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926991</Latitude>
+    <Longitude>35.085397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הילדה וד"ר ריכרד שטראוס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938673</Latitude>
+    <Longitude>35.077543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941527</Latitude>
+    <Longitude>35.077867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היערה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925085</Latitude>
+    <Longitude>35.087865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930779</Latitude>
+    <Longitude>35.071052</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכפיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923915</Latitude>
+    <Longitude>35.091221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.939565</Latitude>
+    <Longitude>35.078516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוטוס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941072</Latitude>
+    <Longitude>35.077488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923196</Latitude>
+    <Longitude>35.094552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המארוניטים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920488</Latitude>
+    <Longitude>35.067642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922264</Latitude>
+    <Longitude>35.079370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המוסכים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.899900</Latitude>
+    <Longitude>35.086532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנדרינה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921991</Latitude>
+    <Longitude>35.094493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920804</Latitude>
+    <Longitude>35.082351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפעל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923321</Latitude>
+    <Longitude>35.079285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרווה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941930</Latitude>
+    <Longitude>35.077423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנדיב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932806</Latitude>
+    <Longitude>35.095352</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.940063</Latitude>
+    <Longitude>35.078434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.939391</Latitude>
+    <Longitude>35.093920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926225</Latitude>
+    <Longitude>35.087742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביונים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931130</Latitude>
+    <Longitude>35.072271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדנה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922102</Latitude>
+    <Longitude>35.080574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגלית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930311</Latitude>
+    <Longitude>35.071322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925419</Latitude>
+    <Longitude>35.090638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הספנים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923032</Latitude>
+    <Longitude>35.077264</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>העיר העתיקה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921918</Latitude>
+    <Longitude>35.068105</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927811</Latitude>
+    <Longitude>35.091993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922402</Latitude>
+    <Longitude>35.078878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.944299</Latitude>
+    <Longitude>35.079228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העציון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925085</Latitude>
+    <Longitude>35.087865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928530</Latitude>
+    <Longitude>35.075718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924831</Latitude>
+    <Longitude>35.091043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933969</Latitude>
+    <Longitude>35.093870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצלבנים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923630</Latitude>
+    <Longitude>35.068580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקורנס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924831</Latitude>
+    <Longitude>35.091043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.932856</Latitude>
+    <Longitude>35.075593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נסים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>הרבי נסים</AlternateName>
+    <AlternateName>נסים</AlternateName>
+    <AlternateName>רבי נסים</AlternateName>
+    <Latitude>32.918914</Latitude>
+    <Longitude>35.090878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב רייפמן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>רייפמן</AlternateName>
+    <AlternateName>רבי רייפמן</AlternateName>
+    <AlternateName>הרבי רייפמן</AlternateName>
+    <Latitude>32.918854</Latitude>
+    <Longitude>35.093650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלמה לופס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>רבי שלמה לופס</AlternateName>
+    <AlternateName>שלמה לופס</AlternateName>
+    <AlternateName>הרבי שלמה לופס</AlternateName>
+    <Latitude>32.926758</Latitude>
+    <Longitude>35.088094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936385</Latitude>
+    <Longitude>35.076505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכבת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.898722</Latitude>
+    <Longitude>35.086680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929434</Latitude>
+    <Longitude>35.094335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929288</Latitude>
+    <Longitude>35.076877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931063</Latitude>
+    <Longitude>35.071178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השוק העות'מני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922543</Latitude>
+    <Longitude>35.070442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.940641</Latitude>
+    <Longitude>35.079630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936784</Latitude>
+    <Longitude>35.074307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921724</Latitude>
+    <Longitude>35.080385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928987</Latitude>
+    <Longitude>35.091487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.893530</Latitude>
+    <Longitude>35.093718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922729</Latitude>
+    <Longitude>35.094472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926654</Latitude>
+    <Longitude>35.072795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויתקין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.939298</Latitude>
+    <Longitude>35.093384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיגורד שער ניקור</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921329</Latitude>
+    <Longitude>35.070998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן הצורף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921493</Latitude>
+    <Longitude>35.068106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.943917</Latitude>
+    <Longitude>35.076650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים בר לב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933943</Latitude>
+    <Longitude>35.084024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932303</Latitude>
+    <Longitude>35.094924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים משה שפירא</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938484</Latitude>
+    <Longitude>35.078116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929226</Latitude>
+    <Longitude>35.078174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה אלקלעי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>יהודה אלקלאי</AlternateName>
+    <Latitude>32.929935</Latitude>
+    <Longitude>35.091844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה בורלא</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930589</Latitude>
+    <Longitude>35.089423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929456</Latitude>
+    <Longitude>35.093478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושפט</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925120</Latitude>
+    <Longitude>35.076290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוליוס קיסר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920751</Latitude>
+    <Longitude>35.069284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף גדיש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926426</Latitude>
+    <Longitude>35.086819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף גרשון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921659</Latitude>
+    <Longitude>35.094485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף טרומפלדור</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926251</Latitude>
+    <Longitude>35.074112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף כתראן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925352</Latitude>
+    <Longitude>35.086718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל אגא</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924819</Latitude>
+    <Longitude>35.093280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיאל מפאריס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922461</Latitude>
+    <Longitude>35.071041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926625</Latitude>
+    <Longitude>35.092750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933858</Latitude>
+    <Longitude>35.094439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931549</Latitude>
+    <Longitude>35.093953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931090</Latitude>
+    <Longitude>35.094342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933062</Latitude>
+    <Longitude>35.078798</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר גנואה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>ככר גנואה</AlternateName>
+    <Latitude>32.921457</Latitude>
+    <Longitude>35.067747</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר הדייגים ונציה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>ככר הדייגים ונציה</AlternateName>
+    <Latitude>32.920338</Latitude>
+    <Longitude>35.069542</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר הרב חיים פרחי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>ככר הרב חיים פרחי</AlternateName>
+    <Latitude>32.922434</Latitude>
+    <Longitude>35.071349</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר פיזה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>ככר פיזה</AlternateName>
+    <Latitude>32.920176</Latitude>
+    <Longitude>35.068541</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כנרית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.943377</Latitude>
+    <Longitude>35.078616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפר עברי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927431</Latitude>
+    <Longitude>35.088737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לואי דה פיליפו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922192</Latitude>
+    <Longitude>35.068250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לואי התשיעי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922312</Latitude>
+    <Longitude>35.067942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928103</Latitude>
+    <Longitude>35.073548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליאופולד השני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.919760</Latitude>
+    <Longitude>35.069286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.935130</Latitude>
+    <Longitude>35.084064</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוסד להשתלמות קצינים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923886</Latitude>
+    <Longitude>35.075162</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מוסד עתידות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.939045</Latitude>
+    <Longitude>35.091415</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מור ולבונה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931267</Latitude>
+    <Longitude>35.087805</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוריה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927356</Latitude>
+    <Longitude>35.095408</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מנו"פ יד נתן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.937607</Latitude>
+    <Longitude>35.088921</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.938655</Latitude>
+    <Longitude>35.075883</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מסגד אל מג'אדלה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923213</Latitude>
+    <Longitude>35.068728</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מסגד אל-ג'זאר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>מסגד אל ג'זאר</AlternateName>
+    <Latitude>32.921942</Latitude>
+    <Longitude>35.070628</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מעלה החורשה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925928</Latitude>
+    <Longitude>35.073608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הכרמים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941284</Latitude>
+    <Longitude>35.080474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מפרץ שלמה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933623</Latitude>
+    <Longitude>35.076850</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז לבריאות הנפש פליגלמן מזרע</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.941502</Latitude>
+    <Longitude>35.074772</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרכז עכו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927157</Latitude>
+    <Longitude>35.073294</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרקו פולו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921893</Latitude>
+    <Longitude>35.070733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה בורונשטיין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.903340</Latitude>
+    <Longitude>35.086801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.923554</Latitude>
+    <Longitude>35.093175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה צורי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924057</Latitude>
+    <Longitude>35.075816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.932061</Latitude>
+    <Longitude>35.078362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משמר הים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.906897</Latitude>
+    <Longitude>35.086407</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות ים בבנייה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930197</Latitude>
+    <Longitude>35.087791</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה אביב</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.935404</Latitude>
+    <Longitude>35.093706</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה אלון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931600</Latitude>
+    <Longitude>35.091884</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נור אלדין אלישרוטי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923195</Latitude>
+    <Longitude>35.068148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.943724</Latitude>
+    <Longitude>35.079562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפוליאון בונפרטה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924726</Latitude>
+    <Longitude>35.070279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב חטיבת גולני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.934417</Latitude>
+    <Longitude>35.077591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סולימאן פאשא</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921203</Latitude>
+    <Longitude>35.067949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.944725</Latitude>
+    <Longitude>35.080469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סר אייזיק</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929221</Latitude>
+    <Longitude>35.080244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.917776</Latitude>
+    <Longitude>35.090448</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930644</Latitude>
+    <Longitude>35.092046</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פורצי המבצר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922969</Latitude>
+    <Longitude>35.069714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פח'ר א דין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920751</Latitude>
+    <Longitude>35.069284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925332</Latitude>
+    <Longitude>35.092306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמינגו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.942715</Latitude>
+    <Longitude>35.080337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסח פרלמן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922783</Latitude>
+    <Longitude>35.096125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרחי אהרון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925836</Latitude>
+    <Longitude>35.091693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרנציסקוס ד'אסיזי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.921307</Latitude>
+    <Longitude>35.070341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרנקו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.931356</Latitude>
+    <Longitude>35.091479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ סמולנסקין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923039</Latitude>
+    <Longitude>35.092868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.944650</Latitude>
+    <Longitude>35.081490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.944905</Latitude>
+    <Longitude>35.078045</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>צפון הכרם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.943975</Latitude>
+    <Longitude>35.078393</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קדושי השואה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936017</Latitude>
+    <Longitude>35.093599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928479</Latitude>
+    <Longitude>35.090261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926660</Latitude>
+    <Longitude>35.084852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפרלי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924942</Latitude>
+    <Longitude>35.072432</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית וולפסון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929251</Latitude>
+    <Longitude>35.081419</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רחמים פיטוסי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925691</Latitude>
+    <Longitude>35.087686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.919766</Latitude>
+    <Longitude>35.067567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924814</Latitude>
+    <Longitude>35.094494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רצ'רד לב ארי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.922237</Latitude>
+    <Longitude>35.069740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האודם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929186</Latitude>
+    <Longitude>35.087003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האחלמה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928727</Latitude>
+    <Longitude>35.087626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האקליפטוס</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926555</Latitude>
+    <Longitude>35.095557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הארגמן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.924033</Latitude>
+    <Longitude>35.086479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הארז</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926358</Latitude>
+    <Longitude>35.095534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגיא</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925838</Latitude>
+    <Longitude>35.094648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928962</Latitude>
+    <Longitude>35.091999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגפן</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928264</Latitude>
+    <Longitude>35.091446</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל היהלום</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928727</Latitude>
+    <Longitude>35.087626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הישפה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929811</Latitude>
+    <Longitude>35.088060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הלילך</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927459</Latitude>
+    <Longitude>35.095238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הלשם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929442</Latitude>
+    <Longitude>35.087631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל המרגנית</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925534</Latitude>
+    <Longitude>35.095486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנופך</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930659</Latitude>
+    <Longitude>35.088106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הספיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930186</Latitude>
+    <Longitude>35.087922</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הפטדה</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.930815</Latitude>
+    <Longitude>35.087613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הצבעוני</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925983</Latitude>
+    <Longitude>35.096213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הרותם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926922</Latitude>
+    <Longitude>35.094724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השבו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.927992</Latitude>
+    <Longitude>35.086811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השוהם</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.928364</Latitude>
+    <Longitude>35.087248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השיר</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925273</Latitude>
+    <Longitude>35.094988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התרשיש</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.929380</Latitude>
+    <Longitude>35.088735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדליץ</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925978</Latitude>
+    <Longitude>35.090266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הפלמ"ח</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>שד' הפלמ"ח</AlternateName>
+    <AlternateName>הפלמ"ח</AlternateName>
+    <Latitude>32.925043</Latitude>
+    <Longitude>35.090509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנוף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>שד' מנוף</AlternateName>
+    <AlternateName>מנוף</AlternateName>
+    <Latitude>32.938104</Latitude>
+    <Longitude>35.088265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.942394</Latitude>
+    <Longitude>35.078175</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת הקרוונים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <AlternateName>הקרוונים</AlternateName>
+    <Latitude>32.919116</Latitude>
+    <Longitude>35.088070</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.943115</Latitude>
+    <Longitude>35.077634</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום הגליל</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.919558</Latitude>
+    <Longitude>35.091929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926704</Latitude>
+    <Longitude>35.070848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה קליין</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.923662</Latitude>
+    <Longitude>35.096115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון לוזון</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.925009</Latitude>
+    <Longitude>35.087076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שני אליהו</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.926252</Latitude>
+    <Longitude>35.070619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.933980</Latitude>
+    <Longitude>35.075343</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תחנת נסיונות משרד החקלאות</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.936549</Latitude>
+    <Longitude>35.087890</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תלמי</NativeName>
+    <ParentName>עכו, ישראל</ParentName>
+    <Latitude>32.920417</Latitude>
+    <Longitude>35.070074</Longitude>
+  </Street>
+</LocationData>

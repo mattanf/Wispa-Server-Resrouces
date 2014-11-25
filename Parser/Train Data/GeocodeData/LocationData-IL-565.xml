@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אחד במאי</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.022237</Latitude>
+    <Longitude>34.807503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.019367</Latitude>
+    <Longitude>34.812942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025699</Latitude>
+    <Longitude>34.808680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.023630</Latitude>
+    <Longitude>34.810760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.023212</Latitude>
+    <Longitude>34.810356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025035</Latitude>
+    <Longitude>34.808838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.027294</Latitude>
+    <Longitude>34.801349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.026752</Latitude>
+    <Longitude>34.801224</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.018258</Latitude>
+    <Longitude>34.814935</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.032807</Latitude>
+    <Longitude>34.798744</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני אזור</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.030883</Latitude>
+    <Longitude>34.800454</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ד"ר ליכט</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>ליכט</AlternateName>
+    <AlternateName>דוקטור ליכט</AlternateName>
+    <Latitude>32.022739</Latitude>
+    <Longitude>34.808306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בן גוריון</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <Latitude>32.016896</Latitude>
+    <Longitude>34.815685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השבעה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>השבעה</AlternateName>
+    <Latitude>32.019638</Latitude>
+    <Longitude>34.807476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיכרים</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.029155</Latitude>
+    <Longitude>34.801195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.018674</Latitude>
+    <Longitude>34.811647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025511</Latitude>
+    <Longitude>34.807853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.026978</Latitude>
+    <Longitude>34.804997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025691</Latitude>
+    <Longitude>34.803422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.032498</Latitude>
+    <Longitude>34.796474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.026039</Latitude>
+    <Longitude>34.801708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.016938</Latitude>
+    <Longitude>34.814205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצודה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.029814</Latitude>
+    <Longitude>34.797403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה השנייה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.026007</Latitude>
+    <Longitude>34.802403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.022434</Latitude>
+    <Longitude>34.805965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.032012</Latitude>
+    <Longitude>34.797315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.031159</Latitude>
+    <Longitude>34.798062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.021662</Latitude>
+    <Longitude>34.808127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.014943</Latitude>
+    <Longitude>34.812847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.030515</Latitude>
+    <Longitude>34.799800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.024364</Latitude>
+    <Longitude>34.804444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.031538</Latitude>
+    <Longitude>34.797794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.017222</Latitude>
+    <Longitude>34.810676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.022023</Latitude>
+    <Longitude>34.807684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.019480</Latitude>
+    <Longitude>34.813776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.026020</Latitude>
+    <Longitude>34.808977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.027429</Latitude>
+    <Longitude>34.800859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.017998</Latitude>
+    <Longitude>34.815055</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.024554</Latitude>
+    <Longitude>34.809432</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.024364</Latitude>
+    <Longitude>34.809800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.030995</Latitude>
+    <Longitude>34.801001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.016962</Latitude>
+    <Longitude>34.812089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מדורגי המצודה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025658</Latitude>
+    <Longitude>34.802820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מניה שוחט</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.024364</Latitude>
+    <Longitude>34.809800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.028232</Latitude>
+    <Longitude>34.803445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יעקב</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025130</Latitude>
+    <Longitude>34.804093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.021145</Latitude>
+    <Longitude>34.808915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.023692</Latitude>
+    <Longitude>34.806423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטה אלמונית</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.019613</Latitude>
+    <Longitude>34.815753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס ספיר</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.017037</Latitude>
+    <Longitude>34.815123</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדוק</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.032607</Latitude>
+    <Longitude>34.798748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.020163</Latitude>
+    <Longitude>34.810374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.019319</Latitude>
+    <Longitude>34.811664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות דוד ז'זק</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <AlternateName>שד' דוד ז'זק</AlternateName>
+    <AlternateName>דויד ז'זק</AlternateName>
+    <AlternateName>שדרות דויד ז'זק</AlternateName>
+    <AlternateName>שד' דויד ז'זק</AlternateName>
+    <AlternateName>דוד ז'זק</AlternateName>
+    <Latitude>32.023619</Latitude>
+    <Longitude>34.809243</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון גג</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.022221</Latitude>
+    <Longitude>34.806651</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון שבענה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.019032</Latitude>
+    <Longitude>34.810695</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שפינוזה</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.022026</Latitude>
+    <Longitude>34.805740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפירא</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.020427</Latitude>
+    <Longitude>34.814602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>אזור, ישראל</ParentName>
+    <Latitude>32.025910</Latitude>
+    <Longitude>34.804885</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.921120</Latitude>
+    <Longitude>35.013330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.921235</Latitude>
+    <Longitude>35.016876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.920403</Latitude>
+    <Longitude>35.014586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.919073</Latitude>
+    <Longitude>35.020523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האורנים</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>האורנים</AlternateName>
+    <Latitude>31.920663</Latitude>
+    <Longitude>35.016485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הזית</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>הזית</AlternateName>
+    <Latitude>31.917960</Latitude>
+    <Longitude>35.018479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החממות</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>החממות</AlternateName>
+    <Latitude>31.914453</Latitude>
+    <Longitude>35.021187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החרוב</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>החרוב</AlternateName>
+    <Latitude>31.920065</Latitude>
+    <Longitude>35.020873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החשמונאים</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>החשמונאים</AlternateName>
+    <Latitude>31.916542</Latitude>
+    <Longitude>35.017988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המכבים</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <AlternateName>המכבים</AlternateName>
+    <Latitude>31.919499</Latitude>
+    <Longitude>35.013845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.918560</Latitude>
+    <Longitude>35.016384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.917814</Latitude>
+    <Longitude>35.018092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.917659</Latitude>
+    <Longitude>35.017513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.917659</Latitude>
+    <Longitude>35.017513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הערבה</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.918932</Latitude>
+    <Longitude>35.018705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.920663</Latitude>
+    <Longitude>35.016485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.921155</Latitude>
+    <Longitude>35.019602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.922450</Latitude>
+    <Longitude>35.015751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>שילת, ישראל</ParentName>
+    <Latitude>31.920298</Latitude>
+    <Longitude>35.018441</Longitude>
+  </Street>
+</LocationData>

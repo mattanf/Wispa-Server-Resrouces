@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביר יעקב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008773</Latitude>
+    <Longitude>35.104411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.016491</Latitude>
+    <Longitude>35.092086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002812</Latitude>
+    <Longitude>35.094301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איסי לה מולינו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.995273</Latitude>
+    <Longitude>35.099651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.993795</Latitude>
+    <Longitude>35.088243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.990153</Latitude>
+    <Longitude>35.094885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.016940</Latitude>
+    <Longitude>35.097418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.013795</Latitude>
+    <Longitude>35.105706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים שריר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.998290</Latitude>
+    <Longitude>35.099107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>33.020510</Latitude>
+    <Longitude>35.094250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.030189</Latitude>
+    <Longitude>35.099548</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ח גליל המערבי נהריה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.010057</Latitude>
+    <Longitude>35.116008</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>33.021517</Latitude>
+    <Longitude>35.095925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.011073</Latitude>
+    <Longitude>35.104403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בילפלד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008925</Latitude>
+    <Longitude>35.103208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.998721</Latitude>
+    <Longitude>35.088599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יהודה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.007517</Latitude>
+    <Longitude>35.098627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכה פולד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023743</Latitude>
+    <Longitude>35.109850</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת אוסישקין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>גבעת אוסשקין</AlternateName>
+    <Latitude>33.000407</Latitude>
+    <Longitude>35.102065</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת טרומפלדור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022251</Latitude>
+    <Longitude>35.106978</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת כצנלסון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>גבעת קצנלסון</AlternateName>
+    <Latitude>33.009109</Latitude>
+    <Longitude>35.103760</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת שרת</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.013335</Latitude>
+    <Longitude>35.104351</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גדוד 21</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997120</Latitude>
+    <Longitude>35.097802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009157</Latitude>
+    <Longitude>35.095744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>33.018506</Latitude>
+    <Longitude>35.093398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019116</Latitude>
+    <Longitude>35.105492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024755</Latitude>
+    <Longitude>35.106526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>33.008650</Latitude>
+    <Longitude>35.090408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד בן גאון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>דויד בן גאון</AlternateName>
+    <Latitude>33.026300</Latitude>
+    <Longitude>35.099660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>33.003395</Latitude>
+    <Longitude>35.090844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בר כוכבא</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>בר כוכבא</AlternateName>
+    <Latitude>33.020585</Latitude>
+    <Longitude>35.108402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך העצמאות</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>העצמאות</AlternateName>
+    <Latitude>33.018385</Latitude>
+    <Longitude>35.103623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השיירה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>השיירה</AlternateName>
+    <Latitude>33.009099</Latitude>
+    <Longitude>35.106531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יחיעם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>יחיעם</AlternateName>
+    <Latitude>33.007437</Latitude>
+    <Longitude>35.104214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך סטרומה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>סטרומה</AlternateName>
+    <Latitude>33.008359</Latitude>
+    <Longitude>35.105097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך שלמה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שלמה</AlternateName>
+    <Latitude>32.998934</Latitude>
+    <Longitude>35.095366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמונית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.990367</Latitude>
+    <Longitude>35.093486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.018168</Latitude>
+    <Longitude>35.098048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האזדרכת</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002696</Latitude>
+    <Longitude>35.087510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.001502</Latitude>
+    <Longitude>35.087181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.001756</Latitude>
+    <Longitude>35.088367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארנון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.987553</Latitude>
+    <Longitude>35.092170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.017878</Latitude>
+    <Longitude>35.094302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020635</Latitude>
+    <Longitude>35.093746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021685</Latitude>
+    <Longitude>35.094272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאולה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024819</Latitude>
+    <Longitude>35.099828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.018996</Latitude>
+    <Longitude>35.095389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005282</Latitude>
+    <Longitude>35.106399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006334</Latitude>
+    <Longitude>35.102293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020886</Latitude>
+    <Longitude>35.096255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגרניום</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.994381</Latitude>
+    <Longitude>35.094306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדבורנית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991956</Latitude>
+    <Longitude>35.088929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדליה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022208</Latitude>
+    <Longitude>35.096348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021504</Latitude>
+    <Longitude>35.097063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021078</Latitude>
+    <Longitude>35.094492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024668</Latitude>
+    <Longitude>35.096561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדוף</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024685</Latitude>
+    <Longitude>35.095348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023457</Latitude>
+    <Longitude>35.094642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזיתים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009558</Latitude>
+    <Longitude>35.110203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.003914</Latitude>
+    <Longitude>35.109197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019828</Latitude>
+    <Longitude>35.093018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022742</Latitude>
+    <Longitude>35.105924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמנית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022967</Latitude>
+    <Longitude>35.094905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997339</Latitude>
+    <Longitude>35.100543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020041</Latitude>
+    <Longitude>35.107238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצרים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.033471</Latitude>
+    <Longitude>35.103929</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>היפר פארם מול שטראוס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.004746</Latitude>
+    <Longitude>35.098127</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988350</Latitude>
+    <Longitude>35.094260</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988421</Latitude>
+    <Longitude>35.092222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019994</Latitude>
+    <Longitude>35.094736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020077</Latitude>
+    <Longitude>35.106057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.999452</Latitude>
+    <Longitude>35.092127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009503</Latitude>
+    <Longitude>35.095275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך דוד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>המלך דויד</AlternateName>
+    <Latitude>32.995839</Latitude>
+    <Longitude>35.101926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך שאול</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997312</Latitude>
+    <Longitude>35.103274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך שלמה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.999324</Latitude>
+    <Longitude>35.103122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעונה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.014368</Latitude>
+    <Longitude>35.090682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.012148</Latitude>
+    <Longitude>35.090222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006563</Latitude>
+    <Longitude>35.106112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019545</Latitude>
+    <Longitude>35.096631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניסנית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991348</Latitude>
+    <Longitude>35.088919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.003164</Latitude>
+    <Longitude>35.092096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>משה הס</AlternateName>
+    <Latitude>33.014468</Latitude>
+    <Longitude>35.097197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021031</Latitude>
+    <Longitude>35.095523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגלית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.989833</Latitude>
+    <Longitude>35.093202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997340</Latitude>
+    <Longitude>35.089581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.017816</Latitude>
+    <Longitude>35.092393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.025563</Latitude>
+    <Longitude>35.095405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019497</Latitude>
+    <Longitude>35.095022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרג</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020596</Latitude>
+    <Longitude>35.095637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרטיזנים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.000926</Latitude>
+    <Longitude>35.095957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.996867</Latitude>
+    <Longitude>35.094482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021697</Latitude>
+    <Longitude>35.096132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצלף</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991277</Latitude>
+    <Longitude>35.089543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988314</Latitude>
+    <Longitude>35.093111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023112</Latitude>
+    <Longitude>35.105581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר תבור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.013576</Latitude>
+    <Longitude>35.102958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.996510</Latitude>
+    <Longitude>35.102594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>33.009942</Latitude>
+    <Longitude>35.107665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נמירובר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>הרבי נמירובר</AlternateName>
+    <AlternateName>רבי נמירובר</AlternateName>
+    <AlternateName>נמירובר</AlternateName>
+    <Latitude>33.023303</Latitude>
+    <Longitude>35.109735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>33.000538</Latitude>
+    <Longitude>35.103546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021965</Latitude>
+    <Longitude>35.094413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005377</Latitude>
+    <Longitude>35.095990</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020444</Latitude>
+    <Longitude>35.096746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.017900</Latitude>
+    <Longitude>35.095433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024364</Latitude>
+    <Longitude>35.094778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.000283</Latitude>
+    <Longitude>35.086887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.004969</Latitude>
+    <Longitude>35.088248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988296</Latitude>
+    <Longitude>35.087176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006295</Latitude>
+    <Longitude>35.104294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022505</Latitude>
+    <Longitude>35.094917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991287</Latitude>
+    <Longitude>35.087659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.011403</Latitude>
+    <Longitude>35.097543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייסבורג</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006544</Latitude>
+    <Longitude>35.101161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005778</Latitude>
+    <Longitude>35.092553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויקטור מנביץ'</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.032406</Latitude>
+    <Longitude>35.099717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>33.011864</Latitude>
+    <Longitude>35.091855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיסו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008189</Latitude>
+    <Longitude>35.102097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023175</Latitude>
+    <Longitude>35.108125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ח.מ. שפירא</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.016005</Latitude>
+    <Longitude>35.097197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023809</Latitude>
+    <Longitude>35.095804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חומה ומגדל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023743</Latitude>
+    <Longitude>35.109850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008672</Latitude>
+    <Longitude>35.101369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חניתה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.016445</Latitude>
+    <Longitude>35.094718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997340</Latitude>
+    <Longitude>35.089581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טיילת אופירה נבון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.001159</Latitude>
+    <Longitude>35.093305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.019304</Latitude>
+    <Longitude>35.107646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"ד ליל הגשרים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.018195</Latitude>
+    <Longitude>35.106351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005507</Latitude>
+    <Longitude>35.097043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.018750</Latitude>
+    <Longitude>35.095404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.025554</Latitude>
+    <Longitude>35.107707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024855</Latitude>
+    <Longitude>35.107957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף לוי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.010577</Latitude>
+    <Longitude>35.096065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ימבור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.017198</Latitude>
+    <Longitude>35.095636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024668</Latitude>
+    <Longitude>35.107197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.999018</Latitude>
+    <Longitude>35.100837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק גרינבוים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.014041</Latitude>
+    <Longitude>35.095455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023537</Latitude>
+    <Longitude>35.099981</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988026</Latitude>
+    <Longitude>35.089314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.996951</Latitude>
+    <Longitude>35.099537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישורון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005530</Latitude>
+    <Longitude>35.094628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ג יורדי הסירה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022210</Latitude>
+    <Longitude>35.109612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002310</Latitude>
+    <Longitude>35.097475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטוס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991886</Latitude>
+    <Longitude>35.093865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.995031</Latitude>
+    <Longitude>35.094474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.004305</Latitude>
+    <Longitude>35.104335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליאו בק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.995246</Latitude>
+    <Longitude>35.095795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע חירם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021697</Latitude>
+    <Longitude>35.107633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יונתן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023675</Latitude>
+    <Longitude>35.106217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022305</Latitude>
+    <Longitude>35.105809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסריק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.017334</Latitude>
+    <Longitude>35.099971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020326</Latitude>
+    <Longitude>35.105112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצובה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008298</Latitude>
+    <Longitude>35.107197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקס נורדאו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.011231</Latitude>
+    <Longitude>35.092897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקס שטיינמץ</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.012707</Latitude>
+    <Longitude>35.095085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024857</Latitude>
+    <Longitude>35.106931</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז קליטה תפוז</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024848</Latitude>
+    <Longitude>35.095263</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.001780</Latitude>
+    <Longitude>35.100168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול רייך</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024990</Latitude>
+    <Longitude>35.109995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>מתיתיהו</AlternateName>
+    <Latitude>33.024549</Latitude>
+    <Longitude>35.108744</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אלון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021441</Latitude>
+    <Longitude>35.095256</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה יצחק רבין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006436</Latitude>
+    <Longitude>35.108860</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה מנחם בגין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.993028</Latitude>
+    <Longitude>35.089655</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.993346</Latitude>
+    <Longitude>35.092225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום סוקולוב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>33.003411</Latitude>
+    <Longitude>35.088839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005237</Latitude>
+    <Longitude>35.107344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחלת אשר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.010700</Latitude>
+    <Longitude>35.102611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002399</Latitude>
+    <Longitude>35.103829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמן סירקין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.011384</Latitude>
+    <Longitude>35.105932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.012174</Latitude>
+    <Longitude>35.104919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נר הלילה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.991463</Latitude>
+    <Longitude>35.088316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נשר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002372</Latitude>
+    <Longitude>35.106336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוסקין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.010955</Latitude>
+    <Longitude>35.094696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.992300</Latitude>
+    <Longitude>35.090947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סילבר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.014450</Latitude>
+    <Longitude>35.093386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.006034</Latitude>
+    <Longitude>35.094686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגנון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.003014</Latitude>
+    <Longitude>35.093077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדעד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988583</Latitude>
+    <Longitude>35.084547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002186</Latitude>
+    <Longitude>35.103161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין התכלת</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.020089</Latitude>
+    <Longitude>35.095569</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עין שרה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.989331</Latitude>
+    <Longitude>35.086764</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.015460</Latitude>
+    <Longitude>35.096454</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005612</Latitude>
+    <Longitude>35.104194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פורצי כלא עכו</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.996649</Latitude>
+    <Longitude>35.096849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטוניה</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.988691</Latitude>
+    <Longitude>35.089043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009070</Latitude>
+    <Longitude>35.092563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס לבון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009841</Latitude>
+    <Longitude>35.099276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.996591</Latitude>
+    <Longitude>35.095191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.012164</Latitude>
+    <Longitude>35.105357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.999620</Latitude>
+    <Longitude>35.091232</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית בן גוריון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.004563</Latitude>
+    <Longitude>35.100731</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית גרשון טץ</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.042932</Latitude>
+    <Longitude>35.105142</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית חוף</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.995297</Latitude>
+    <Longitude>35.086064</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית חינוך</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.012502</Latitude>
+    <Longitude>35.098724</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית יוספטל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.005684</Latitude>
+    <Longitude>35.103558</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית עשור</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008202</Latitude>
+    <Longitude>35.100622</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.002489</Latitude>
+    <Longitude>35.096334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>33.010312</Latitude>
+    <Longitude>35.106818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.994181</Latitude>
+    <Longitude>35.089580</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009231</Latitude>
+    <Longitude>35.107957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.998141</Latitude>
+    <Longitude>35.102552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל דוד דדון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שביל דויד דדון</AlternateName>
+    <Latitude>33.005764</Latitude>
+    <Longitude>35.087953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הארז</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.023345</Latitude>
+    <Longitude>35.097204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגנים</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008781</Latitude>
+    <Longitude>35.095076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הכרם</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009322</Latitude>
+    <Longitude>35.111377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הלל</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008889</Latitude>
+    <Longitude>35.108893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנרקיס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.022750</Latitude>
+    <Longitude>35.096035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסיתוונית</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.993793</Latitude>
+    <Longitude>35.094148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הפרדס</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.009644</Latitude>
+    <Longitude>35.110969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הגעתון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>הגעתון</AlternateName>
+    <AlternateName>שד' הגעתון</AlternateName>
+    <Latitude>33.006630</Latitude>
+    <Longitude>35.094561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הנשיא בן צבי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>הנשיא בן צבי</AlternateName>
+    <AlternateName>שד' הנשיא בן צבי</AlternateName>
+    <Latitude>33.006382</Latitude>
+    <Longitude>35.106413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ורה וייצמן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שד' ורה וייצמן</AlternateName>
+    <AlternateName>ורה וייצמן</AlternateName>
+    <Latitude>32.997873</Latitude>
+    <Longitude>35.093620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות זלמן שז"ר</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שד' זלמן שז"ר</AlternateName>
+    <AlternateName>זלמן שז"ר</AlternateName>
+    <Latitude>32.989844</Latitude>
+    <Longitude>35.090437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות קיי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <AlternateName>שד' קיי</AlternateName>
+    <AlternateName>קיי</AlternateName>
+    <Latitude>32.997957</Latitude>
+    <Longitude>35.092551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטיינהרט</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.000217</Latitude>
+    <Longitude>35.093084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמאי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.010823</Latitude>
+    <Longitude>35.107286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון רייך</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.008641</Latitude>
+    <Longitude>35.094276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.024728</Latitude>
+    <Longitude>35.108273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמריהו לוין</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.014355</Latitude>
+    <Longitude>35.097991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.004003</Latitude>
+    <Longitude>35.101965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>33.021246</Latitude>
+    <Longitude>35.110302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>נהריה, ישראל</ParentName>
+    <Latitude>32.997316</Latitude>
+    <Longitude>35.085541</Longitude>
+  </Street>
+</LocationData>

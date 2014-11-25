@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794282</Latitude>
+    <Longitude>34.824826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799866</Latitude>
+    <Longitude>34.820649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדרון</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794518</Latitude>
+    <Longitude>34.824794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794472</Latitude>
+    <Longitude>34.825915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האבות</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <AlternateName>האבות</AlternateName>
+    <Latitude>31.795351</Latitude>
+    <Longitude>34.821682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מיכה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <AlternateName>מיכה</AlternateName>
+    <Latitude>31.795054</Latitude>
+    <Longitude>34.821677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.798728</Latitude>
+    <Longitude>34.823317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794219</Latitude>
+    <Longitude>34.822426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחלים</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797923</Latitude>
+    <Longitude>34.821098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797100</Latitude>
+    <Longitude>34.822700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797630</Latitude>
+    <Longitude>34.823595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדית</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.795177</Latitude>
+    <Longitude>34.824847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.795856</Latitude>
+    <Longitude>34.824871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.796941</Latitude>
+    <Longitude>34.825647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כחל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797552</Latitude>
+    <Longitude>34.825388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797617</Latitude>
+    <Longitude>34.818454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגלן</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.798119</Latitude>
+    <Longitude>34.825819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוריה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.798394</Latitude>
+    <Longitude>34.818870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797226</Latitude>
+    <Longitude>34.819815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה עמוס</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794477</Latitude>
+    <Longitude>34.818284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799768</Latitude>
+    <Longitude>34.820111</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נחל תמנה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.795034</Latitude>
+    <Longitude>34.818162</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נירים</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799598</Latitude>
+    <Longitude>34.819153</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נשר</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799340</Latitude>
+    <Longitude>34.825508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת גלבוע</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799209</Latitude>
+    <Longitude>34.818300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השקד</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.798964</Latitude>
+    <Longitude>34.822386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת התאנה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.796591</Latitude>
+    <Longitude>34.823087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת חגי</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.795477</Latitude>
+    <Longitude>34.817911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יואל</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.795300</Latitude>
+    <Longitude>34.821004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יונה</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794975</Latitude>
+    <Longitude>34.817703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עמשא</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799641</Latitude>
+    <Longitude>34.818758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עצמון</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.800032</Latitude>
+    <Longitude>34.819275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.800308</Latitude>
+    <Longitude>34.824868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סער</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.801091</Latitude>
+    <Longitude>34.820650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.801142</Latitude>
+    <Longitude>34.823790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.800790</Latitude>
+    <Longitude>34.822915</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שדות</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.794769</Latitude>
+    <Longitude>34.820741</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.798844</Latitude>
+    <Longitude>34.825995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלו</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.799006</Latitude>
+    <Longitude>34.824718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.800380</Latitude>
+    <Longitude>34.818558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>יד בנימין, ישראל</ParentName>
+    <Latitude>31.797538</Latitude>
+    <Longitude>34.819134</Longitude>
+  </Street>
+</LocationData>

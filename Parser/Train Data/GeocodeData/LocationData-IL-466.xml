@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.996157</Latitude>
+    <Longitude>34.827731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבעת המינים</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001941</Latitude>
+    <Longitude>34.828976</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בנה ביתך</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.999554</Latitude>
+    <Longitude>34.827221</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן נווה חן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.996762</Latitude>
+    <Longitude>34.829128</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>האשכולית</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.002275</Latitude>
+    <Longitude>34.830842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001968</Latitude>
+    <Longitude>34.830995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001524</Latitude>
+    <Longitude>34.832420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.999132</Latitude>
+    <Longitude>34.833171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.999226</Latitude>
+    <Longitude>34.834679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.999666</Latitude>
+    <Longitude>34.827918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001379</Latitude>
+    <Longitude>34.827622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000318</Latitude>
+    <Longitude>34.828299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.998565</Latitude>
+    <Longitude>34.829278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000464</Latitude>
+    <Longitude>34.833509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היובל</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997713</Latitude>
+    <Longitude>34.829744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000956</Latitude>
+    <Longitude>34.833708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלולב</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001834</Latitude>
+    <Longitude>34.828319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001332</Latitude>
+    <Longitude>34.833973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001737</Latitude>
+    <Longitude>34.835551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000135</Latitude>
+    <Longitude>34.827000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השעורה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.998849</Latitude>
+    <Longitude>34.829321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001434</Latitude>
+    <Longitude>34.834056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000900</Latitude>
+    <Longitude>34.836777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000318</Latitude>
+    <Longitude>34.828299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.998869</Latitude>
+    <Longitude>34.827621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001237</Latitude>
+    <Longitude>34.830925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.995163</Latitude>
+    <Longitude>34.826472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.003943</Latitude>
+    <Longitude>34.829213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997942</Latitude>
+    <Longitude>34.828392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.002829</Latitude>
+    <Longitude>34.834231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001908</Latitude>
+    <Longitude>34.833999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.996157</Latitude>
+    <Longitude>34.827731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.995954</Latitude>
+    <Longitude>34.828321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.002023</Latitude>
+    <Longitude>34.825588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997054</Latitude>
+    <Longitude>34.826793</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה גנים</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.002457</Latitude>
+    <Longitude>34.834063</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה הדרים</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.002006</Latitude>
+    <Longitude>34.829870</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נקודת חן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997226</Latitude>
+    <Longitude>34.826606</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.996356</Latitude>
+    <Longitude>34.827069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997582</Latitude>
+    <Longitude>34.827161</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק נקודת חן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.995369</Latitude>
+    <Longitude>34.825980</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.002023</Latitude>
+    <Longitude>34.825588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.003603</Latitude>
+    <Longitude>34.831231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000216</Latitude>
+    <Longitude>34.832322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000983</Latitude>
+    <Longitude>34.829730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.004853</Latitude>
+    <Longitude>34.834915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>31.997054</Latitude>
+    <Longitude>34.826793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.003188</Latitude>
+    <Longitude>34.828810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבעת המינים</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.000538</Latitude>
+    <Longitude>34.829067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>32.002695</Latitude>
+    <Longitude>34.831155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שומרון</NativeName>
+    <ParentName>בית דגן, ישראל</ParentName>
+    <Latitude>32.001501</Latitude>
+    <Longitude>34.833677</Longitude>
+  </Street>
+</LocationData>

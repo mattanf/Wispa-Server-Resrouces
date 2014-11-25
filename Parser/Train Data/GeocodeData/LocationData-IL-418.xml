@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.213679</Latitude>
+    <Longitude>34.868198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנשי בראשית</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.222373</Latitude>
+    <Longitude>34.870083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השדות</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <AlternateName>השדות</AlternateName>
+    <Latitude>32.220264</Latitude>
+    <Longitude>34.861294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.216271</Latitude>
+    <Longitude>34.872743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחרשה</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215353</Latitude>
+    <Longitude>34.868175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנים</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.218475</Latitude>
+    <Longitude>34.868401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחל</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.223141</Latitude>
+    <Longitude>34.874346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלתן</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215931</Latitude>
+    <Longitude>34.868304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חורשת האורנים</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.220081</Latitude>
+    <Longitude>34.872417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חורשת האקליפטוס</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.221463</Latitude>
+    <Longitude>34.864988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חמציץ</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.217653</Latitude>
+    <Longitude>34.862999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.217080</Latitude>
+    <Longitude>34.862836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמש</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215069</Latitude>
+    <Longitude>34.862113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215673</Latitude>
+    <Longitude>34.868284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.218109</Latitude>
+    <Longitude>34.862382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגל</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.217098</Latitude>
+    <Longitude>34.863208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.216095</Latitude>
+    <Longitude>34.871908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נענע</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.216342</Latitude>
+    <Longitude>34.865339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215698</Latitude>
+    <Longitude>34.870231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.218744</Latitude>
+    <Longitude>34.862690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215668</Latitude>
+    <Longitude>34.870927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.220952</Latitude>
+    <Longitude>34.863995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורנית</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215759</Latitude>
+    <Longitude>34.866217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל קליפות התפוזים</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.214970</Latitude>
+    <Longitude>34.862739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.224209</Latitude>
+    <Longitude>34.868236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורמוס</NativeName>
+    <ParentName>בני ציון, ישראל</ParentName>
+    <Latitude>32.215913</Latitude>
+    <Longitude>34.868929</Longitude>
+  </Street>
+</LocationData>

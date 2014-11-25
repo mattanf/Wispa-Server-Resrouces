@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך האורן</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>האורן</AlternateName>
+    <Latitude>31.964971</Latitude>
+    <Longitude>34.909832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האלה</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>האלה</AlternateName>
+    <Latitude>31.965951</Latitude>
+    <Longitude>34.911213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הארז</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הארז</AlternateName>
+    <Latitude>31.965373</Latitude>
+    <Longitude>34.910184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הברוש</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הברוש</AlternateName>
+    <Latitude>31.965373</Latitude>
+    <Longitude>34.910184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגנים</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הגנים</AlternateName>
+    <Latitude>31.963349</Latitude>
+    <Longitude>34.915382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הדולב</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הדולב</AlternateName>
+    <Latitude>31.966430</Latitude>
+    <Longitude>34.911590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הדקל</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הדקל</AlternateName>
+    <Latitude>31.961734</Latitude>
+    <Longitude>34.911777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הזית</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הזית</AlternateName>
+    <Latitude>31.961837</Latitude>
+    <Longitude>34.912771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החרוב</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>החרוב</AlternateName>
+    <Latitude>31.963634</Latitude>
+    <Longitude>34.913363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הצאלון</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הצאלון</AlternateName>
+    <Latitude>31.966874</Latitude>
+    <Longitude>34.911980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרימון</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>הרימון</AlternateName>
+    <Latitude>31.963547</Latitude>
+    <Longitude>34.916254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השיקמה</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>השיקמה</AlternateName>
+    <Latitude>31.965951</Latitude>
+    <Longitude>34.911213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך התאנה</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>התאנה</AlternateName>
+    <Latitude>31.966438</Latitude>
+    <Longitude>34.912827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך התמר</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <AlternateName>התמר</AlternateName>
+    <Latitude>31.962156</Latitude>
+    <Longitude>34.912156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האגוז</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <Latitude>31.964860</Latitude>
+    <Longitude>34.912229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הפקאן</NativeName>
+    <ParentName>גינתון, ישראל</ParentName>
+    <Latitude>31.964473</Latitude>
+    <Longitude>34.912758</Longitude>
+  </Street>
+</LocationData>

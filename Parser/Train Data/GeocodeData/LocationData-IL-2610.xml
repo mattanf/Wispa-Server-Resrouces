@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבא נעמת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749850</Latitude>
+    <Longitude>34.988964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביטל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743727</Latitude>
+    <Longitude>34.993205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751610</Latitude>
+    <Longitude>34.980704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת ישראל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742296</Latitude>
+    <Longitude>34.981022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוהל יהושע</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>אוהל יהושוע</AlternateName>
+    <Latitude>31.735299</Latitude>
+    <Longitude>34.989918</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אולפן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750467</Latitude>
+    <Longitude>34.989607</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אור חיים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737450</Latitude>
+    <Longitude>34.993519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אור שמח</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739341</Latitude>
+    <Longitude>34.993698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורטל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743944</Latitude>
+    <Longitude>34.992701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחיה השילוני</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.704748</Latitude>
+    <Longitude>34.980055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחיעזר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741417</Latitude>
+    <Longitude>34.994101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלברט מנדלר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742015</Latitude>
+    <Longitude>34.988422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליכין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752217</Latitude>
+    <Longitude>34.981301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמרי אמת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740422</Latitude>
+    <Longitude>34.993486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.708371</Latitude>
+    <Longitude>34.980432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה לוין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741956</Latitude>
+    <Longitude>34.986996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>31.751102</Latitude>
+    <Longitude>34.989309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738640</Latitude>
+    <Longitude>34.990292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באר שבע</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.712967</Latitude>
+    <Longitude>34.986991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>31.752353</Latitude>
+    <Longitude>34.983757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית ישראל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741529</Latitude>
+    <Longitude>34.993679</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית מדרש פני שמואל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.710855</Latitude>
+    <Longitude>34.996279</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן איש חי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747513</Latitude>
+    <Longitude>35.000494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן אליעזר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740633</Latitude>
+    <Longitude>34.983172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גרא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752396</Latitude>
+    <Longitude>34.985977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן עזאי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737408</Latitude>
+    <Longitude>34.998320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן צבי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.748478</Latitude>
+    <Longitude>34.988722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון אבא שאול</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.748589</Latitude>
+    <Longitude>34.999864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני דן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750391</Latitude>
+    <Longitude>34.983675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741741</Latitude>
+    <Longitude>34.989169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכת אברהם</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738867</Latitude>
+    <Longitude>34.993448</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת סביון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744988</Latitude>
+    <Longitude>34.975634</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת שרת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739082</Latitude>
+    <Longitude>34.979101</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737815</Latitude>
+    <Longitude>34.991606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גור אריה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751232</Latitude>
+    <Longitude>34.985242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובר שלום</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.736684</Latitude>
+    <Longitude>34.989888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>31.707298</Latitude>
+    <Longitude>34.983369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>31.742737</Latitude>
+    <Longitude>34.983165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747790</Latitude>
+    <Longitude>34.986148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דם המכבים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750873</Latitude>
+    <Longitude>34.988340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן לנר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741846</Latitude>
+    <Longitude>34.991043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החיים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>החיים</AlternateName>
+    <Latitude>31.743249</Latitude>
+    <Longitude>34.997574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>31.745489</Latitude>
+    <Longitude>34.993650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מבעלזא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.731918</Latitude>
+    <Longitude>34.991089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האומן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.754259</Latitude>
+    <Longitude>34.994990</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743610</Latitude>
+    <Longitude>34.976919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739607</Latitude>
+    <Longitude>34.979322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750353</Latitude>
+    <Longitude>34.978846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארבל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746753</Latitude>
+    <Longitude>34.996811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743099</Latitude>
+    <Longitude>34.975672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742644</Latitude>
+    <Longitude>34.977357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743813</Latitude>
+    <Longitude>34.976117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנאי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.756210</Latitude>
+    <Longitude>34.993257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741705</Latitude>
+    <Longitude>34.979451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744629</Latitude>
+    <Longitude>34.991463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745364</Latitude>
+    <Longitude>34.992838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747677</Latitude>
+    <Longitude>34.996951</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הגפן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747348</Latitude>
+    <Longitude>34.986872</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הדובדבן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743879</Latitude>
+    <Longitude>34.979057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743509</Latitude>
+    <Longitude>34.974833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744426</Latitude>
+    <Longitude>34.976779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההכשרה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.734535</Latitude>
+    <Longitude>34.953288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הותיקים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751023</Latitude>
+    <Longitude>34.994422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.735998</Latitude>
+    <Longitude>34.978924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיד"א</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749536</Latitude>
+    <Longitude>34.999262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.753962</Latitude>
+    <Longitude>34.989942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החפץ חיים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747211</Latitude>
+    <Longitude>34.999569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.736659</Latitude>
+    <Longitude>34.982636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוצים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.731548</Latitude>
+    <Longitude>34.960927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746953</Latitude>
+    <Longitude>34.995594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.735693</Latitude>
+    <Longitude>34.980340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.757294</Latitude>
+    <Longitude>34.990222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738895</Latitude>
+    <Longitude>34.974731</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>היפר פארם רמת בית שמש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713130</Latitude>
+    <Longitude>34.988745</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.731767</Latitude>
+    <Longitude>34.958507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739032</Latitude>
+    <Longitude>34.979782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.727945</Latitude>
+    <Longitude>34.992621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המורה יעקב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747906</Latitude>
+    <Longitude>34.988636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכתש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.753010</Latitude>
+    <Longitude>34.981764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.731855</Latitude>
+    <Longitude>34.957021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.755904</Latitude>
+    <Longitude>34.994284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751150</Latitude>
+    <Longitude>34.986413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשלט</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750547</Latitude>
+    <Longitude>34.992760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738183</Latitude>
+    <Longitude>34.979673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737414</Latitude>
+    <Longitude>34.977226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747404</Latitude>
+    <Longitude>34.982758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738509</Latitude>
+    <Longitude>34.982125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוללה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.732581</Latitude>
+    <Longitude>34.959505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגלית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740812</Latitude>
+    <Longitude>34.981762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752542</Latitude>
+    <Longitude>34.986800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.733182</Latitude>
+    <Longitude>34.954671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745761</Latitude>
+    <Longitude>34.975262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערמון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הארמון</AlternateName>
+    <Latitude>31.742565</Latitude>
+    <Longitude>34.976550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצאלה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742207</Latitude>
+    <Longitude>34.977424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצדיק משטפנשט</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.716036</Latitude>
+    <Longitude>34.988099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.736793</Latitude>
+    <Longitude>34.976097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר בשן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747089</Latitude>
+    <Longitude>34.997482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר גבנונים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746066</Latitude>
+    <Longitude>34.996610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר המוריה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745913</Latitude>
+    <Longitude>34.997660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745758</Latitude>
+    <Longitude>34.997025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751253</Latitude>
+    <Longitude>34.997138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף בוסקילה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי יוסף בוסקילה</AlternateName>
+    <AlternateName>יוסף בוסקילה</AlternateName>
+    <AlternateName>רבי יוסף בוסקילה</AlternateName>
+    <Latitude>31.749947</Latitude>
+    <Longitude>34.983539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מבריסק</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי מבריסק</AlternateName>
+    <AlternateName>מבריסק</AlternateName>
+    <AlternateName>רבי מבריסק</AlternateName>
+    <Latitude>31.739392</Latitude>
+    <Longitude>34.992320</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרבנות הראשית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749896</Latitude>
+    <Longitude>34.989467</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749188</Latitude>
+    <Longitude>34.991082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740682</Latitude>
+    <Longitude>34.979535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השבעה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750060</Latitude>
+    <Longitude>34.982610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.736506</Latitude>
+    <Longitude>34.982853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744381</Latitude>
+    <Longitude>34.978172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745089</Latitude>
+    <Longitude>34.977387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745597</Latitude>
+    <Longitude>34.994357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.734563</Latitude>
+    <Longitude>34.954667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745839</Latitude>
+    <Longitude>34.974641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וירג'יניה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737929</Latitude>
+    <Longitude>34.963193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.752972</Latitude>
+    <Longitude>34.994086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכרון יעקב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741736</Latitude>
+    <Longitude>34.994691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709707</Latitude>
+    <Longitude>34.977573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.707057</Latitude>
+    <Longitude>34.982315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713936</Latitude>
+    <Longitude>34.982131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738684</Latitude>
+    <Longitude>34.993033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746349</Latitude>
+    <Longitude>34.986342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הלוי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740289</Latitude>
+    <Longitude>34.996363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742592</Latitude>
+    <Longitude>34.986328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבריה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713675</Latitude>
+    <Longitude>34.985226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713417</Latitude>
+    <Longitude>34.984903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742964</Latitude>
+    <Longitude>34.984571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751520</Latitude>
+    <Longitude>34.981060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.748551</Latitude>
+    <Longitude>34.981868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.705278</Latitude>
+    <Longitude>34.980825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה בן אמיתי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.705207</Latitude>
+    <Longitude>34.987637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסי בנאי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752706</Latitude>
+    <Longitude>34.980172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744723</Latitude>
+    <Longitude>35.000550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.703663</Latitude>
+    <Longitude>34.984186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב דורי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743348</Latitude>
+    <Longitude>34.983001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743230</Latitude>
+    <Longitude>34.981526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741986</Latitude>
+    <Longitude>34.989362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר נוימן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>ככר נוימן</AlternateName>
+    <Latitude>31.748863</Latitude>
+    <Longitude>34.986088</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר רבי יהודה הנשיא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>ככר רבי יהודה הנשיא</AlternateName>
+    <Latitude>31.729079</Latitude>
+    <Longitude>34.993567</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לב שמחה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737109</Latitude>
+    <Longitude>34.995144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרי"ל דיסקין</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740393</Latitude>
+    <Longitude>34.995311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.748005</Latitude>
+    <Longitude>34.992300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורי יעקב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750867</Latitude>
+    <Longitude>34.988749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מחזיקי הדת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.731403</Latitude>
+    <Longitude>34.990702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיטל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744079</Latitude>
+    <Longitude>34.992155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלאכי הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.706094</Latitude>
+    <Longitude>34.979841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנוח</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747619</Latitude>
+    <Longitude>34.979462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחת יצחק</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738767</Latitude>
+    <Longitude>34.993944</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה דוד</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>מעלה דויד</AlternateName>
+    <Latitude>31.749885</Latitude>
+    <Longitude>34.985670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הצופים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752641</Latitude>
+    <Longitude>34.982298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה יאיר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751322</Latitude>
+    <Longitude>34.985665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות הרמ"א</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.729094</Latitude>
+    <Longitude>34.993660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעפילי אגוז</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738901</Latitude>
+    <Longitude>34.991684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעשי חייא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741865</Latitude>
+    <Longitude>34.993651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749238</Latitude>
+    <Longitude>34.997298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצפה הרש"פ</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.730410</Latitude>
+    <Longitude>34.992135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי מקלף</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743325</Latitude>
+    <Longitude>34.984213</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז הדרכה משטרת ישראל בבנייה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.733997</Latitude>
+    <Longitude>34.951179</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה ספיר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741189</Latitude>
+    <Longitude>34.990664</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נופי אביב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737422</Latitude>
+    <Longitude>34.981253</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחום הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.705611</Latitude>
+    <Longitude>34.983721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אוריה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.716899</Latitude>
+    <Longitude>34.991288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל איילון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.712215</Latitude>
+    <Longitude>34.994840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אכזיב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.711533</Latitude>
+    <Longitude>34.995078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אל על</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.711766</Latitude>
+    <Longitude>35.000662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אלכסנדר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.711965</Latitude>
+    <Longitude>35.001103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל גילה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.711019</Latitude>
+    <Longitude>34.993080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דולב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713311</Latitude>
+    <Longitude>34.998104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הבשור</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709341</Latitude>
+    <Longitude>34.999978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל זוהר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714330</Latitude>
+    <Longitude>34.987568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל זוויתן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709545</Latitude>
+    <Longitude>34.991828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל חבר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714121</Latitude>
+    <Longitude>34.982347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל יעלה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.716846</Latitude>
+    <Longitude>34.998912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל לוז</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709081</Latitude>
+    <Longitude>34.994878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל לכיש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714844</Latitude>
+    <Longitude>34.993271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מאור</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.708502</Latitude>
+    <Longitude>35.000288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מטע</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.712009</Latitude>
+    <Longitude>34.998647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מיכה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.716555</Latitude>
+    <Longitude>34.992523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל משמר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.715306</Latitude>
+    <Longitude>34.991485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נועם</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.710819</Latitude>
+    <Longitude>34.992051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נחשון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714081</Latitude>
+    <Longitude>34.993380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ניצנים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713727</Latitude>
+    <Longitude>34.988179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל עין גדי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714558</Latitude>
+    <Longitude>34.984033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ערוגות</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714979</Latitude>
+    <Longitude>34.987741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קטלב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.716487</Latitude>
+    <Longitude>34.996132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל רביבים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.710770</Latitude>
+    <Longitude>34.993675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל רזיאל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.710376</Latitude>
+    <Longitude>35.000047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל רמות</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.711156</Latitude>
+    <Longitude>34.994045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל רפאים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.710827</Latitude>
+    <Longitude>35.000669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שורק</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.715639</Latitude>
+    <Longitude>34.992062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שחם</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.712956</Latitude>
+    <Longitude>34.990003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שמשון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713425</Latitude>
+    <Longitude>35.000337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שניר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709611</Latitude>
+    <Longitude>34.991700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל תמנה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.714296</Latitude>
+    <Longitude>34.998422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל תמר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709322</Latitude>
+    <Longitude>34.994600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752393</Latitude>
+    <Longitude>34.980240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738110</Latitude>
+    <Longitude>34.983687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נריה הנביא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.704251</Latitude>
+    <Longitude>34.977915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750252</Latitude>
+    <Longitude>34.997922</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747187</Latitude>
+    <Longitude>34.988657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אלעזרי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750740</Latitude>
+    <Longitude>34.982122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האלון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.747591</Latitude>
+    <Longitude>34.982534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגפן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.748251</Latitude>
+    <Longitude>34.990530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ויצ"ו</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749091</Latitude>
+    <Longitude>34.984690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עליית הנוער</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.745920</Latitude>
+    <Longitude>34.992111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.736724</Latitude>
+    <Longitude>34.984510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.706924</Latitude>
+    <Longitude>34.982235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746279</Latitude>
+    <Longitude>34.991860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק הזיתים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746220</Latitude>
+    <Longitude>34.990005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקביא בן מהללאל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737072</Latitude>
+    <Longitude>34.999056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פולה בן גוריון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743709</Latitude>
+    <Longitude>34.983087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.712846</Latitude>
+    <Longitude>34.986091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושת אהרון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.735840</Latitude>
+    <Longitude>34.990550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת יעקב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.737741</Latitude>
+    <Longitude>34.996299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלמן מגן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741941</Latitude>
+    <Longitude>34.990229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרית ארבע</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.713592</Latitude>
+    <Longitude>34.982402</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית אריה שיינפלד</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.738010</Latitude>
+    <Longitude>34.989257</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית בן אליעזר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741407</Latitude>
+    <Longitude>34.983789</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית החינוך</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740577</Latitude>
+    <Longitude>34.986078</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית הרמ"א</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.732620</Latitude>
+    <Longitude>34.991654</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749743</Latitude>
+    <Longitude>34.992627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739818</Latitude>
+    <Longitude>34.987421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי אלעזר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי אלעזר</AlternateName>
+    <AlternateName>הרב אלעזר</AlternateName>
+    <AlternateName>אלעזר</AlternateName>
+    <Latitude>31.727700</Latitude>
+    <Longitude>34.994563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי טרפון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי טרפון</AlternateName>
+    <AlternateName>טרפון</AlternateName>
+    <AlternateName>הרב טרפון</AlternateName>
+    <Latitude>31.724933</Latitude>
+    <Longitude>34.995971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהושע</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי יהושוע</AlternateName>
+    <AlternateName>יהושוע</AlternateName>
+    <AlternateName>הרב יהושוע</AlternateName>
+    <AlternateName>יהושע</AlternateName>
+    <AlternateName>רבי יהושוע</AlternateName>
+    <AlternateName>הרב יהושע</AlternateName>
+    <AlternateName>הרבי יהושע</AlternateName>
+    <Latitude>31.731128</Latitude>
+    <Longitude>34.992613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יוחנן בן זכאי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>יוחנן בן זכאי</AlternateName>
+    <AlternateName>הרב יוחנן בן זכאי</AlternateName>
+    <AlternateName>הרבי יוחנן בן זכאי</AlternateName>
+    <Latitude>31.722848</Latitude>
+    <Longitude>34.991683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יוסי בן קיסמא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>יוסי בן קיסמא</AlternateName>
+    <AlternateName>הרבי יוסי בן קיסמא</AlternateName>
+    <AlternateName>הרב יוסי בן קיסמא</AlternateName>
+    <Latitude>31.737149</Latitude>
+    <Longitude>34.997302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי ינאי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי ינאי</AlternateName>
+    <AlternateName>ינאי</AlternateName>
+    <AlternateName>הרב ינאי</AlternateName>
+    <Latitude>31.737330</Latitude>
+    <Longitude>34.985940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי לויטס</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>לויטס</AlternateName>
+    <AlternateName>הרב לויטס</AlternateName>
+    <AlternateName>הרבי לויטס</AlternateName>
+    <Latitude>31.727745</Latitude>
+    <Longitude>34.993306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>31.728712</Latitude>
+    <Longitude>34.990729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי פנחס בן יאיר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>פנחס בן יאיר</AlternateName>
+    <AlternateName>הרב פנחס בן יאיר</AlternateName>
+    <AlternateName>הרבי פנחס בן יאיר</AlternateName>
+    <Latitude>31.734809</Latitude>
+    <Longitude>34.992843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי צדוק</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי צדוק</AlternateName>
+    <AlternateName>צדוק</AlternateName>
+    <AlternateName>הרב צדוק</AlternateName>
+    <Latitude>31.723453</Latitude>
+    <Longitude>34.995125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי צדקה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרבי צדקה</AlternateName>
+    <AlternateName>הרב צדקה</AlternateName>
+    <AlternateName>צדקה</AlternateName>
+    <Latitude>31.744125</Latitude>
+    <Longitude>34.999019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רביצקי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.751794</Latitude>
+    <Longitude>34.994302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רויטל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744217</Latitude>
+    <Longitude>34.991627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריב"ל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.723551</Latitude>
+    <Longitude>34.991573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.752335</Latitude>
+    <Longitude>34.992383</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת בית שמש א'</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.719060</Latitude>
+    <Longitude>34.995181</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת בית שמש ב'</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.730803</Latitude>
+    <Longitude>34.991887</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת בית שמש ג' בבנייה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709638</Latitude>
+    <Longitude>34.978812</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת לח"י</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749107</Latitude>
+    <Longitude>34.983128</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל אלנקווה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.746803</Latitude>
+    <Longitude>34.986125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.741341</Latitude>
+    <Longitude>34.987998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"ג</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.729374</Latitude>
+    <Longitude>34.990891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"י</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.727681</Latitude>
+    <Longitude>34.991841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.709551</Latitude>
+    <Longitude>34.979708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740615</Latitude>
+    <Longitude>34.986233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האשל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.753419</Latitude>
+    <Longitude>34.992693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הגיחון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.715257</Latitude>
+    <Longitude>34.999864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הדולב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.744563</Latitude>
+    <Longitude>34.975849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החרובים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743619</Latitude>
+    <Longitude>34.977861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הל"ה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.750013</Latitude>
+    <Longitude>34.996499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנחש</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.717271</Latitude>
+    <Longitude>34.982864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התמרים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.754175</Latitude>
+    <Longitude>34.986994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל שער השמים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740938</Latitude>
+    <Longitude>34.993188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>31.746449</Latitude>
+    <Longitude>34.979648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הדקל</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הדקל</AlternateName>
+    <AlternateName>שד' הדקל</AlternateName>
+    <Latitude>31.741283</Latitude>
+    <Longitude>34.981410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרב הרצוג</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>הרב הרצוג</AlternateName>
+    <AlternateName>שד' הרב הרצוג</AlternateName>
+    <Latitude>31.736857</Latitude>
+    <Longitude>34.992716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יגאל אלון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>שד' יגאל אלון</AlternateName>
+    <AlternateName>יגאל אלון</AlternateName>
+    <Latitude>31.754610</Latitude>
+    <Longitude>34.993269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יהודה בן זאב</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>יהודה בן זאב</AlternateName>
+    <AlternateName>שד' יהודה בן זאב</AlternateName>
+    <Latitude>31.743462</Latitude>
+    <Longitude>34.984919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות לוי אשכול</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>שד' לוי אשכול</AlternateName>
+    <AlternateName>לוי אשכול</AlternateName>
+    <Latitude>31.744713</Latitude>
+    <Longitude>34.997252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נהר הדן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>שד' נהר הדן</AlternateName>
+    <AlternateName>נהר הדן</AlternateName>
+    <Latitude>31.737176</Latitude>
+    <Longitude>34.987646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נהר הירדן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>נהר הירדן</AlternateName>
+    <AlternateName>שד' נהר הירדן</AlternateName>
+    <Latitude>31.721526</Latitude>
+    <Longitude>34.996599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נהר הירקון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>נהר הירקון</AlternateName>
+    <AlternateName>שד' נהר הירקון</AlternateName>
+    <Latitude>31.707539</Latitude>
+    <Longitude>34.998987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נחל הקישון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>נחל הקישון</AlternateName>
+    <AlternateName>שד' נחל הקישון</AlternateName>
+    <Latitude>31.715667</Latitude>
+    <Longitude>34.989943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נחל צאלים</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>נחל צאלים</AlternateName>
+    <AlternateName>שד' נחל צאלים</AlternateName>
+    <Latitude>31.712846</Latitude>
+    <Longitude>34.986091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רבי יהודה הנשיא</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>רבי יהודה הנשיא</AlternateName>
+    <AlternateName>שד' רבי יהודה הנשיא</AlternateName>
+    <Latitude>31.729777</Latitude>
+    <Longitude>34.992254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות רבי מאיר בעל הנס</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <AlternateName>שד' רבי מאיר בעל הנס</AlternateName>
+    <AlternateName>רבי מאיר בעל הנס</AlternateName>
+    <Latitude>31.725450</Latitude>
+    <Longitude>34.994071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שועלי שמשון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749755</Latitude>
+    <Longitude>34.981053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.707858</Latitude>
+    <Longitude>34.982936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל גונן</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742483</Latitude>
+    <Longitude>34.987118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.739013</Latitude>
+    <Longitude>34.987144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפת אמת</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.740141</Latitude>
+    <Longitude>34.996015</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ת"ת מגן אבות</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.725953</Latitude>
+    <Longitude>34.994966</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ת"ת תורת אליהו</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.715981</Latitude>
+    <Longitude>34.988940</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תאשור</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.743072</Latitude>
+    <Longitude>34.977787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.742179</Latitude>
+    <Longitude>34.978677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תכלת מרדכי</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.732972</Latitude>
+    <Longitude>34.989783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפארת משה</NativeName>
+    <ParentName>בית שמש, ישראל</ParentName>
+    <Latitude>31.749822</Latitude>
+    <Longitude>34.993749</Longitude>
+  </Street>
+</LocationData>

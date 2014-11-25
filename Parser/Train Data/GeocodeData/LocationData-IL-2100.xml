@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.753109</Latitude>
+    <Longitude>34.971047</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>איילת הכרמל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.754715</Latitude>
+    <Longitude>34.975387</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אליאס כרמל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.761474</Latitude>
+    <Longitude>34.973805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.763279</Latitude>
+    <Longitude>34.967740</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אשכול</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.756008</Latitude>
+    <Longitude>34.974748</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אתגר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.772702</Latitude>
+    <Longitude>34.968008</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.767509</Latitude>
+    <Longitude>34.970715</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בן צבי</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.751893</Latitude>
+    <Longitude>34.972505</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ברנר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.766829</Latitude>
+    <Longitude>34.975662</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גיורא</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.754153</Latitude>
+    <Longitude>34.971009</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד נורי</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>דויד נורי</AlternateName>
+    <Latitude>32.757730</Latitude>
+    <Longitude>34.971615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.765742</Latitude>
+    <Longitude>34.968082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.755070</Latitude>
+    <Longitude>34.974641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.757071</Latitude>
+    <Longitude>34.975799</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.754400</Latitude>
+    <Longitude>34.973656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.755766</Latitude>
+    <Longitude>34.975894</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.759846</Latitude>
+    <Longitude>34.976456</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.766110</Latitude>
+    <Longitude>34.972253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.759426</Latitude>
+    <Longitude>34.978525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.762133</Latitude>
+    <Longitude>34.976020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.767604</Latitude>
+    <Longitude>34.966954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.761474</Latitude>
+    <Longitude>34.973805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטיש</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.767586</Latitude>
+    <Longitude>34.967694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.761107</Latitude>
+    <Longitude>34.974432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.757199</Latitude>
+    <Longitude>34.973607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ברזני סלומון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>רבי ברזני סלומון</AlternateName>
+    <AlternateName>הרבי ברזני סלומון</AlternateName>
+    <AlternateName>ברזני סלומון</AlternateName>
+    <Latitude>32.760875</Latitude>
+    <Longitude>34.970061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וינרוב</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>רבי וינרוב</AlternateName>
+    <AlternateName>וינרוב</AlternateName>
+    <AlternateName>הרבי וינרוב</AlternateName>
+    <Latitude>32.761600</Latitude>
+    <Longitude>34.971246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב זרביב</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>הרבי זרביב</AlternateName>
+    <AlternateName>רבי זרביב</AlternateName>
+    <AlternateName>זרביב</AlternateName>
+    <Latitude>32.766876</Latitude>
+    <Longitude>34.975280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה מרדכי</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>הרבי משה מרדכי</AlternateName>
+    <AlternateName>רבי משה מרדכי</AlternateName>
+    <AlternateName>משה מרדכי</AlternateName>
+    <Latitude>32.762379</Latitude>
+    <Longitude>34.970971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.764998</Latitude>
+    <Longitude>34.972639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.770716</Latitude>
+    <Longitude>34.974621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.759019</Latitude>
+    <Longitude>34.975750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.766740</Latitude>
+    <Longitude>34.969088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיחרור</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.763383</Latitude>
+    <Longitude>34.973231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.761562</Latitude>
+    <Longitude>34.969324</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.767386</Latitude>
+    <Longitude>34.967290</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.760723</Latitude>
+    <Longitude>34.970618</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.760304</Latitude>
+    <Longitude>34.967030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"א הספורטאים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.764548</Latitude>
+    <Longitude>34.967159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוזמה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.772207</Latitude>
+    <Longitude>34.965620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.754737</Latitude>
+    <Longitude>34.970084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ג יורדי הסירה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.757730</Latitude>
+    <Longitude>34.971615</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כהן</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.758358</Latitude>
+    <Longitude>34.972073</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר דקר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>ככר דקר</AlternateName>
+    <Latitude>32.766641</Latitude>
+    <Longitude>34.967371</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר י"א הספורטאים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>ככר י"א הספורטאים</AlternateName>
+    <Latitude>32.764888</Latitude>
+    <Longitude>34.966362</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר ירושלים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>ככר ירושלים</AlternateName>
+    <Latitude>32.754631</Latitude>
+    <Longitude>34.970344</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר ש"י עגנון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>ככר ש"י עגנון</AlternateName>
+    <Latitude>32.753943</Latitude>
+    <Longitude>34.971471</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כלניות</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.760157</Latitude>
+    <Longitude>34.966043</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כרמלים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.771419</Latitude>
+    <Longitude>34.967271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.756025</Latitude>
+    <Longitude>34.973959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.766867</Latitude>
+    <Longitude>34.967420</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.768583</Latitude>
+    <Longitude>34.973023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלחמת ששת הימים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.757796</Latitude>
+    <Longitude>34.972929</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מעלה נוף</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.768129</Latitude>
+    <Longitude>34.975241</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות כרמל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.770351</Latitude>
+    <Longitude>34.975014</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה אליאס</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.762876</Latitude>
+    <Longitude>34.973236</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה גלים</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.757546</Latitude>
+    <Longitude>34.967635</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נתן אלבז</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.754023</Latitude>
+    <Longitude>34.972618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.759016</Latitude>
+    <Longitude>34.973735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת שיטרית</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.763378</Latitude>
+    <Longitude>34.971529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגנון</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.753516</Latitude>
+    <Longitude>34.971033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוצמה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.769789</Latitude>
+    <Longitude>34.970875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא לניאדו</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.758913</Latitude>
+    <Longitude>34.977623</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.760587</Latitude>
+    <Longitude>34.971853</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.769982</Latitude>
+    <Longitude>34.969239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רזיאל</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.751316</Latitude>
+    <Longitude>34.971789</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.767934</Latitude>
+    <Longitude>34.973530</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת בגין</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.760613</Latitude>
+    <Longitude>34.978624</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות ההגנה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <AlternateName>ההגנה</AlternateName>
+    <AlternateName>שד' ההגנה</AlternateName>
+    <Latitude>32.777154</Latitude>
+    <Longitude>34.963182</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שז"ר דקר</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.763702</Latitude>
+    <Longitude>34.967474</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיטרית</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.763401</Latitude>
+    <Longitude>34.970274</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שרת</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.762856</Latitude>
+    <Longitude>34.968959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תנופה</NativeName>
+    <ParentName>טירת כרמל, ישראל</ParentName>
+    <Latitude>32.769946</Latitude>
+    <Longitude>34.971408</Longitude>
+  </Street>
+</LocationData>

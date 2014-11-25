@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א זהרא'</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.110949</Latitude>
+    <Longitude>34.982473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א זיתון</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117014</Latitude>
+    <Longitude>34.971902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א נוזהה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111543</Latitude>
+    <Longitude>34.984593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א נור</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117137</Latitude>
+    <Longitude>34.974346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א נסר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119250</Latitude>
+    <Longitude>34.986711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א סולטאני</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.116881</Latitude>
+    <Longitude>34.979208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א ראזי</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115058</Latitude>
+    <Longitude>34.970908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רבאט</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.116904</Latitude>
+    <Longitude>34.984589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רדואן</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111939</Latitude>
+    <Longitude>34.980421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רחמה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115945</Latitude>
+    <Longitude>34.974765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רמלה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111427</Latitude>
+    <Longitude>34.985548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רשיד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111681</Latitude>
+    <Longitude>34.982385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א שוהדא'</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115681</Latitude>
+    <Longitude>34.972918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א תוובה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114148</Latitude>
+    <Longitude>34.981166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו בכר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113812</Latitude>
+    <Longitude>34.977916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו חניפה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115556</Latitude>
+    <Longitude>34.979695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן ח'לדון</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115438</Latitude>
+    <Longitude>34.977458</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן חזם</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115900</Latitude>
+    <Longitude>34.978568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן רושד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.109490</Latitude>
+    <Longitude>34.981737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן תיימייה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.110113</Latitude>
+    <Longitude>34.981760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוחוד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114749</Latitude>
+    <Longitude>34.974012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחמד שווקי</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119171</Latitude>
+    <Longitude>34.975992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל אמל</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111340</Latitude>
+    <Longitude>34.976422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל אנדלוס</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.116412</Latitude>
+    <Longitude>34.965884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל אנסאר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115809</Latitude>
+    <Longitude>34.983042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל אסרא'</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117776</Latitude>
+    <Longitude>34.978527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל אקצא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118258</Latitude>
+    <Longitude>34.970428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ארד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119488</Latitude>
+    <Longitude>34.985837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל בוראק</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117553</Latitude>
+    <Longitude>34.975403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ביאדר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111836</Latitude>
+    <Longitude>34.981495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל בלאד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.108824</Latitude>
+    <Longitude>34.979439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ג'ילאני</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115003</Latitude>
+    <Longitude>34.969631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל הודא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.108761</Latitude>
+    <Longitude>34.977227</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל היג'רה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114560</Latitude>
+    <Longitude>34.982706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל וחדה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112968</Latitude>
+    <Longitude>34.973230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל וטן</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118908</Latitude>
+    <Longitude>34.984933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ח'ליל</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119367</Latitude>
+    <Longitude>34.967154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ח'נדק</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114196</Latitude>
+    <Longitude>34.974549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ח'נסא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115622</Latitude>
+    <Longitude>34.988646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל חק</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118826</Latitude>
+    <Longitude>34.974455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל חרם</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119722</Latitude>
+    <Longitude>34.976317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ירמוכ</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117554</Latitude>
+    <Longitude>34.979206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל כראמה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112384</Latitude>
+    <Longitude>34.984704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מג'דל</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.109448</Latitude>
+    <Longitude>34.972932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מג'זרה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.109001</Latitude>
+    <Longitude>34.980283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מדינה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111034</Latitude>
+    <Longitude>34.975371</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מורוג'</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113756</Latitude>
+    <Longitude>34.984842</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מחפור</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118189</Latitude>
+    <Longitude>34.976465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מיזאן</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112368</Latitude>
+    <Longitude>34.969964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מנאר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.109812</Latitude>
+    <Longitude>34.972506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מנשייה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115585</Latitude>
+    <Longitude>34.976522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מרוה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111744</Latitude>
+    <Longitude>34.971557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ע'זאלי</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114548</Latitude>
+    <Longitude>34.985216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל עוודה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118305</Latitude>
+    <Longitude>34.972521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל עקאד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115459</Latitude>
+    <Longitude>34.985611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל פתח</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.107817</Latitude>
+    <Longitude>34.977887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל קודס</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119621</Latitude>
+    <Longitude>34.966551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל קסאם</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118157</Latitude>
+    <Longitude>34.980567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בדר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113003</Latitude>
+    <Longitude>34.970746</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס אבן ח'לדון</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.108429</Latitude>
+    <Longitude>34.979039</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס אבן סינא חט"ב</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115174</Latitude>
+    <Longitude>34.984291</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס ניסויי א זהרא'</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113157</Latitude>
+    <Longitude>34.985754</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בילאל</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119540</Latitude>
+    <Longitude>34.968946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דיר יאסין</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115957</Latitude>
+    <Longitude>34.967290</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הגרעין הישן עיסא בדיר</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114339</Latitude>
+    <Longitude>34.974635</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>השכונה החדשה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119380</Latitude>
+    <Longitude>34.968644</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ח'אלד אבן אל וליד</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113426</Latitude>
+    <Longitude>34.974125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטין</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.119619</Latitude>
+    <Longitude>34.983236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיטין</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113781</Latitude>
+    <Longitude>34.969438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חמזה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112863</Latitude>
+    <Longitude>34.960175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסאן בן ת'אבת</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115172</Latitude>
+    <Longitude>34.975987</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>טאהא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114901</Latitude>
+    <Longitude>34.984517</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יאפא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.116357</Latitude>
+    <Longitude>34.985484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאלכ בן אנס</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.113508</Latitude>
+    <Longitude>34.978917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מכה</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117691</Latitude>
+    <Longitude>34.973230</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מסגד סלאח א דין</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117445</Latitude>
+    <Longitude>34.977417</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מסגד עומר אבן אל ח'טאב</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111440</Latitude>
+    <Longitude>34.979171</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>משפחת עיסא</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.118730</Latitude>
+    <Longitude>34.977645</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סלאח א דין</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.117713</Latitude>
+    <Longitude>34.977715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבד אל כרים קאסם</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.111209</Latitude>
+    <Longitude>34.963557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עומר בן אל ח'טאב</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.115315</Latitude>
+    <Longitude>34.980523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עומר בן עבד אל עזיז</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112380</Latitude>
+    <Longitude>34.973171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עות'מאן בן עפאן</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114614</Latitude>
+    <Longitude>34.973058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלי בן אבו טאלב</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.114654</Latitude>
+    <Longitude>34.968271</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת הבדואים הדרומית</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <AlternateName>הבדואים הדרומית</AlternateName>
+    <Latitude>32.108719</Latitude>
+    <Longitude>34.978709</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת הבדואים המזרחית</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <AlternateName>הבדואים המזרחית</AlternateName>
+    <Latitude>32.112093</Latitude>
+    <Longitude>34.986509</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תבוכ</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.112722</Latitude>
+    <Longitude>34.976624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמרינדי</NativeName>
+    <ParentName>כפר קאסם, ישראל</ParentName>
+    <Latitude>32.108800</Latitude>
+    <Longitude>34.970932</Longitude>
+  </Street>
+</LocationData>

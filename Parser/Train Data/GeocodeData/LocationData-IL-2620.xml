@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.066005</Latitude>
+    <Longitude>34.852347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061708</Latitude>
+    <Longitude>34.865249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062602</Latitude>
+    <Longitude>34.865152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם גולני</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057726</Latitude>
+    <Longitude>34.858701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון אהרונסון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062569</Latitude>
+    <Longitude>34.847908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.059027</Latitude>
+    <Longitude>34.853268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחאב</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056425</Latitude>
+    <Longitude>34.862310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.049806</Latitude>
+    <Longitude>34.861744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063707</Latitude>
+    <Longitude>34.863110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיל זולא</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>אמיל זולה</AlternateName>
+    <AlternateName>עמיל זולה</AlternateName>
+    <AlternateName>עמיל זולא</AlternateName>
+    <Latitude>32.064561</Latitude>
+    <Longitude>34.857564</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנגל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061582</Latitude>
+    <Longitude>34.855955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.066022</Latitude>
+    <Longitude>34.847875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.060088</Latitude>
+    <Longitude>34.854833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארנון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061819</Latitude>
+    <Longitude>34.858720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוקצ'ין נחמיה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.055384</Latitude>
+    <Longitude>34.854716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.066781</Latitude>
+    <Longitude>34.859027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061206</Latitude>
+    <Longitude>34.852987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066663</Latitude>
+    <Longitude>34.853547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060311</Latitude>
+    <Longitude>34.855807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יהודה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.055488</Latitude>
+    <Longitude>34.866158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכה פולד</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.067217</Latitude>
+    <Longitude>34.855339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066979</Latitude>
+    <Longitude>34.857099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברש</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058349</Latitude>
+    <Longitude>34.852316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064224</Latitude>
+    <Longitude>34.856206</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני אילן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063845</Latitude>
+    <Longitude>34.847105</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058797</Latitude>
+    <Longitude>34.852176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061071</Latitude>
+    <Longitude>34.864548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד דבורה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>דויד דבורה</AlternateName>
+    <Latitude>32.063074</Latitude>
+    <Longitude>34.864839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.062543</Latitude>
+    <Longitude>34.857348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרייפוס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066397</Latitude>
+    <Longitude>34.852810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בר אילן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>בר אילן</AlternateName>
+    <Latitude>32.066319</Latitude>
+    <Longitude>34.847219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגנים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>הגנים</AlternateName>
+    <Latitude>32.057977</Latitude>
+    <Longitude>34.856549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך חטיבת אלכסנדרוני</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>חטיבת אלכסנדרוני</AlternateName>
+    <Latitude>32.046751</Latitude>
+    <Longitude>34.865699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך לוי אשכול</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>לוי אשכול</AlternateName>
+    <Latitude>32.048624</Latitude>
+    <Longitude>34.864924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רב אלוף יעקב דורי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>רב אלוף יעקב דורי</AlternateName>
+    <Latitude>32.048249</Latitude>
+    <Longitude>34.860621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רפאל איתן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>רפאל איתן</AlternateName>
+    <Latitude>32.066817</Latitude>
+    <Longitude>34.862039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.067695</Latitude>
+    <Longitude>34.864331</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060782</Latitude>
+    <Longitude>34.862817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האפרסק</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.069684</Latitude>
+    <Longitude>34.864937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064625</Latitude>
+    <Longitude>34.865128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.069428</Latitude>
+    <Longitude>34.866097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הביטחון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.049352</Latitude>
+    <Longitude>34.861340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063847</Latitude>
+    <Longitude>34.860344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066163</Latitude>
+    <Longitude>34.854508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.053771</Latitude>
+    <Longitude>34.860110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדובדבן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.068825</Latitude>
+    <Longitude>34.864953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057472</Latitude>
+    <Longitude>34.860579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064493</Latitude>
+    <Longitude>34.847829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.053398</Latitude>
+    <Longitude>34.860956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057657</Latitude>
+    <Longitude>34.865221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.052833</Latitude>
+    <Longitude>34.861995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057743</Latitude>
+    <Longitude>34.859428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.050900</Latitude>
+    <Longitude>34.862868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.059848</Latitude>
+    <Longitude>34.861330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירמוך</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062061</Latitude>
+    <Longitude>34.859198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062012</Latitude>
+    <Longitude>34.858194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056345</Latitude>
+    <Longitude>34.863911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכפר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.054431</Latitude>
+    <Longitude>34.854737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.069843</Latitude>
+    <Longitude>34.865852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060614</Latitude>
+    <Longitude>34.859845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056120</Latitude>
+    <Longitude>34.858024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעגל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.047511</Latitude>
+    <Longitude>34.866567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066465</Latitude>
+    <Longitude>34.851986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.059775</Latitude>
+    <Longitude>34.853421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.059094</Latitude>
+    <Longitude>34.851121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העץ הבודד</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057041</Latitude>
+    <Longitude>34.853534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060879</Latitude>
+    <Longitude>34.860750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056614</Latitude>
+    <Longitude>34.853902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057009</Latitude>
+    <Longitude>34.853447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.048433</Latitude>
+    <Longitude>34.863786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061990</Latitude>
+    <Longitude>34.859687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.048600</Latitude>
+    <Longitude>34.866060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הגלבוע</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064464</Latitude>
+    <Longitude>34.846819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר החרמון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064051</Latitude>
+    <Longitude>34.846969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הכרמל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064848</Latitude>
+    <Longitude>34.846666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר התבור</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.065360</Latitude>
+    <Longitude>34.847007</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלום יצחק הלוי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>רבי שלום יצחק הלוי</AlternateName>
+    <AlternateName>שלום יצחק הלוי</AlternateName>
+    <AlternateName>הרבי שלום יצחק הלוי</AlternateName>
+    <Latitude>32.064839</Latitude>
+    <Longitude>34.859551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרוגי מלכות בבל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057110</Latitude>
+    <Longitude>34.863544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.054876</Latitude>
+    <Longitude>34.863404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.065382</Latitude>
+    <Longitude>34.853278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.049351</Latitude>
+    <Longitude>34.863469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיזף</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.068675</Latitude>
+    <Longitude>34.866881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.051252</Latitude>
+    <Longitude>34.863722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060468</Latitude>
+    <Longitude>34.858872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066113</Latitude>
+    <Longitude>34.859378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.053651</Latitude>
+    <Longitude>34.862628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התזמורת</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057842</Latitude>
+    <Longitude>34.851230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.052370</Latitude>
+    <Longitude>34.862824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.068634</Latitude>
+    <Longitude>34.863099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.067688</Latitude>
+    <Longitude>34.865624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וושינגטון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062884</Latitude>
+    <Longitude>34.858459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וילסון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063161</Latitude>
+    <Longitude>34.859193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינגייט</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063628</Latitude>
+    <Longitude>34.853574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.066896</Latitude>
+    <Longitude>34.851892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיידמן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061368</Latitude>
+    <Longitude>34.861316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.067116</Latitude>
+    <Longitude>34.856784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובבי ציון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066400</Latitude>
+    <Longitude>34.851298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזקיהו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057658</Latitude>
+    <Longitude>34.862423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הרצוג</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057473</Latitude>
+    <Longitude>34.858782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066472</Latitude>
+    <Longitude>34.855397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064501</Latitude>
+    <Longitude>34.860186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062411</Latitude>
+    <Longitude>34.852753</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.059590</Latitude>
+    <Longitude>34.854039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.051125</Latitude>
+    <Longitude>34.865208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063745</Latitude>
+    <Longitude>34.845845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהואש</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057532</Latitude>
+    <Longitude>34.861703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061970</Latitude>
+    <Longitude>34.864543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061406</Latitude>
+    <Longitude>34.855035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056262</Latitude>
+    <Longitude>34.865468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ימיני חיים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064458</Latitude>
+    <Longitude>34.859890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.054425</Latitude>
+    <Longitude>34.854556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק רבין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064636</Latitude>
+    <Longitude>34.863088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060476</Latitude>
+    <Longitude>34.849131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.056820</Latitude>
+    <Longitude>34.861600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058350</Latitude>
+    <Longitude>34.866046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060668</Latitude>
+    <Longitude>34.865403</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר האחים גרין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>ככר האחים גרין</AlternateName>
+    <Latitude>32.063875</Latitude>
+    <Longitude>34.857608</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.060349</Latitude>
+    <Longitude>34.852514</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוס אנג'לס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063637</Latitude>
+    <Longitude>34.859135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066022</Latitude>
+    <Longitude>34.847875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לינקולן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>אברהם לינקולן</AlternateName>
+    <Latitude>32.063710</Latitude>
+    <Longitude>34.859752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063980</Latitude>
+    <Longitude>34.852934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לנדאו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058143</Latitude>
+    <Longitude>34.852036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064508</Latitude>
+    <Longitude>34.852212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרי"ץ</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.065199</Latitude>
+    <Longitude>34.858331</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062016</Latitude>
+    <Longitude>34.848188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062648</Latitude>
+    <Longitude>34.859603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.065538</Latitude>
+    <Longitude>34.854565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכאל וולך</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060049</Latitude>
+    <Longitude>34.858997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלצ'ט</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061575</Latitude>
+    <Longitude>34.859734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058821</Latitude>
+    <Longitude>34.856495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מניה שוחט</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.067313</Latitude>
+    <Longitude>34.855944</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות הנעורים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062342</Latitude>
+    <Longitude>34.855680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064301</Latitude>
+    <Longitude>34.852872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה אהרון טוב</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062569</Latitude>
+    <Longitude>34.847908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.065794</Latitude>
+    <Longitude>34.848797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064848</Latitude>
+    <Longitude>34.846666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נהר הירדן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.050456</Latitude>
+    <Longitude>34.859099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל גמלא</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.052271</Latitude>
+    <Longitude>34.856330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.050906</Latitude>
+    <Longitude>34.858890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל סער</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.053022</Latitude>
+    <Longitude>34.858024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שיאון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.052223</Latitude>
+    <Longitude>34.858369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שניר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.051768</Latitude>
+    <Longitude>34.858593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחלת נשלסק</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064208</Latitude>
+    <Longitude>34.854241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.061160</Latitude>
+    <Longitude>34.856561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת בזל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>סמטת באזל</AlternateName>
+    <Latitude>32.065388</Latitude>
+    <Longitude>34.851812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.063629</Latitude>
+    <Longitude>34.864982</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עבר הירדן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.050942</Latitude>
+    <Longitude>34.858493</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058339</Latitude>
+    <Longitude>34.865232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק איילון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063306</Latitude>
+    <Longitude>34.846700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק האלה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062913</Latitude>
+    <Longitude>34.846223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק הורדים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063456</Latitude>
+    <Longitude>34.846417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק הירדן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063893</Latitude>
+    <Longitude>34.846335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064250</Latitude>
+    <Longitude>34.846121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064017</Latitude>
+    <Longitude>34.852933</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פסגת אונו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.066842</Latitude>
+    <Longitude>34.863850</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פקיעין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060986</Latitude>
+    <Longitude>34.848747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדקיהו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057156</Latitude>
+    <Longitude>34.862622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.051025</Latitude>
+    <Longitude>34.859705</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קיראון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.052954</Latitude>
+    <Longitude>34.863080</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063142</Latitude>
+    <Longitude>34.852873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062012</Latitude>
+    <Longitude>34.858194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רופין</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062677</Latitude>
+    <Longitude>34.856640</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רחבת בני ברית</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.061776</Latitude>
+    <Longitude>34.861939</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רחבת המייסדים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.057349</Latitude>
+    <Longitude>34.857868</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רחבת לורדייל לייקס</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.049709</Latitude>
+    <Longitude>34.862307</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רימון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.048089</Latitude>
+    <Longitude>34.867028</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063074</Latitude>
+    <Longitude>34.864839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062123</Latitude>
+    <Longitude>34.860490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062711</Latitude>
+    <Longitude>34.864845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.058520</Latitude>
+    <Longitude>34.863033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.063909</Latitude>
+    <Longitude>34.858967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אהרון קציר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>אהרון קציר</AlternateName>
+    <AlternateName>שד' אהרון קציר</AlternateName>
+    <Latitude>32.063934</Latitude>
+    <Longitude>34.845628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אסתר</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>שד' אסתר</AlternateName>
+    <AlternateName>אסתר</AlternateName>
+    <Latitude>32.061621</Latitude>
+    <Longitude>34.850369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>32.055831</Latitude>
+    <Longitude>34.851394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הנביאים</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>הנביאים</AlternateName>
+    <AlternateName>שד' הנביאים</AlternateName>
+    <Latitude>32.058704</Latitude>
+    <Longitude>34.865488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הנרייטה סולד</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>הנרייטה סולד</AlternateName>
+    <AlternateName>שד' הנרייטה סולד</AlternateName>
+    <Latitude>32.062071</Latitude>
+    <Longitude>34.859673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יהודית</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>יהודית</AlternateName>
+    <AlternateName>שד' יהודית</AlternateName>
+    <Latitude>32.061081</Latitude>
+    <Longitude>34.851122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יעל</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>שד' יעל</AlternateName>
+    <AlternateName>יעל</AlternateName>
+    <Latitude>32.060495</Latitude>
+    <Longitude>34.853208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נורדאו</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>נורדאו</AlternateName>
+    <AlternateName>שד' נורדאו</AlternateName>
+    <Latitude>32.065512</Latitude>
+    <Longitude>34.850468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטרן</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <AlternateName>אברהם שטרן</AlternateName>
+    <Latitude>32.052050</Latitude>
+    <Longitude>34.866813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.053903</Latitude>
+    <Longitude>34.858716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנביא</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.060366</Latitude>
+    <Longitude>34.864555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.062787</Latitude>
+    <Longitude>34.846925</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שער הקריה</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.051967</Latitude>
+    <Longitude>34.855771</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.063938</Latitude>
+    <Longitude>34.852406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תנועת המרי</NativeName>
+    <ParentName>קרית אונו, ישראל</ParentName>
+    <Latitude>32.064709</Latitude>
+    <Longitude>34.848743</Longitude>
+  </Street>
+</LocationData>

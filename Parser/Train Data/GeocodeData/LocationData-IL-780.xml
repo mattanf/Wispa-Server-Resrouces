@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.754699</Latitude>
+    <Longitude>35.155709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.754148</Latitude>
+    <Longitude>35.154039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.753920</Latitude>
+    <Longitude>35.155556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.758979</Latitude>
+    <Longitude>35.155246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.756401</Latitude>
+    <Longitude>35.154849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.756765</Latitude>
+    <Longitude>35.156110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.753733</Latitude>
+    <Longitude>35.156806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.751574</Latitude>
+    <Longitude>35.148464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.752279</Latitude>
+    <Longitude>35.151169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.750450</Latitude>
+    <Longitude>35.147588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.750933</Latitude>
+    <Longitude>35.151422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.752838</Latitude>
+    <Longitude>35.148731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.755460</Latitude>
+    <Longitude>35.155074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.758318</Latitude>
+    <Longitude>35.157110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.752712</Latitude>
+    <Longitude>35.153198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.758791</Latitude>
+    <Longitude>35.157347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>אורה, ישראל</ParentName>
+    <Latitude>31.749776</Latitude>
+    <Longitude>35.148736</Longitude>
+  </Street>
+</LocationData>

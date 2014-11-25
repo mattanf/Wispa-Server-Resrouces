@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך האביב</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <AlternateName>האביב</AlternateName>
+    <Latitude>32.186859</Latitude>
+    <Longitude>34.818235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הבאר</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <AlternateName>הבאר</AlternateName>
+    <Latitude>32.183856</Latitude>
+    <Longitude>34.819260</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגנים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <AlternateName>הגנים</AlternateName>
+    <Latitude>32.182844</Latitude>
+    <Longitude>34.819245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השדות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <AlternateName>השדות</AlternateName>
+    <Latitude>32.184854</Latitude>
+    <Longitude>34.823692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.192102</Latitude>
+    <Longitude>34.820056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.189806</Latitude>
+    <Longitude>34.823905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.192885</Latitude>
+    <Longitude>34.824776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.178875</Latitude>
+    <Longitude>34.818614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזורע</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.185406</Latitude>
+    <Longitude>34.821257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.186767</Latitude>
+    <Longitude>34.816327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.185189</Latitude>
+    <Longitude>34.818473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.179374</Latitude>
+    <Longitude>34.821784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המערות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.192482</Latitude>
+    <Longitude>34.820699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטע</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.190861</Latitude>
+    <Longitude>34.820424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוריות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.186513</Latitude>
+    <Longitude>34.817394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.190695</Latitude>
+    <Longitude>34.825594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוצר</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.189272</Latitude>
+    <Longitude>34.820042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.188490</Latitude>
+    <Longitude>34.825369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.178148</Latitude>
+    <Longitude>34.820059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלמים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.185023</Latitude>
+    <Longitude>34.822399</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר הראשונים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <AlternateName>ככר הראשונים</AlternateName>
+    <Latitude>32.180095</Latitude>
+    <Longitude>34.819042</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.178561</Latitude>
+    <Longitude>34.818463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האביב</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.186166</Latitude>
+    <Longitude>34.820127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הזורע</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.186115</Latitude>
+    <Longitude>34.820314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.185561</Latitude>
+    <Longitude>34.820136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רגבים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.189122</Latitude>
+    <Longitude>34.826619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הבנים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.190083</Latitude>
+    <Longitude>34.821009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הברושים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.191929</Latitude>
+    <Longitude>34.822061</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הדגנים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.188202</Latitude>
+    <Longitude>34.820777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החיטה</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.187272</Latitude>
+    <Longitude>34.821323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החצבים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.192482</Latitude>
+    <Longitude>34.820699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החרוב</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.193830</Latitude>
+    <Longitude>34.821801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החרצית</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.181420</Latitude>
+    <Longitude>34.821286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל היוגב</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.187686</Latitude>
+    <Longitude>34.823450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל היסמין</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.189048</Latitude>
+    <Longitude>34.824297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הכורם</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.180469</Latitude>
+    <Longitude>34.822160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הכלניות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.193009</Latitude>
+    <Longitude>34.822913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל המעלות</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.184885</Latitude>
+    <Longitude>34.818747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הרימונים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.190084</Latitude>
+    <Longitude>34.821798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השעורה</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.187308</Latitude>
+    <Longitude>34.820034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התאנים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.190428</Latitude>
+    <Longitude>34.820366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התפוזים</NativeName>
+    <ParentName>כפר שמריהו, ישראל</ParentName>
+    <Latitude>32.193596</Latitude>
+    <Longitude>34.819007</Longitude>
+  </Street>
+</LocationData>

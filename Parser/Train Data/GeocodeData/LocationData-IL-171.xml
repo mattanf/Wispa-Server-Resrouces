@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך הצנחנים</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <AlternateName>הצנחנים</AlternateName>
+    <Latitude>32.302005</Latitude>
+    <Longitude>34.912158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305755</Latitude>
+    <Longitude>34.903715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוס</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305171</Latitude>
+    <Longitude>34.909322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.308400</Latitude>
+    <Longitude>34.907715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305563</Latitude>
+    <Longitude>34.905623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306154</Latitude>
+    <Longitude>34.907965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307435</Latitude>
+    <Longitude>34.915399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306859</Latitude>
+    <Longitude>34.911190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305005</Latitude>
+    <Longitude>34.904974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.304257</Latitude>
+    <Longitude>34.905812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307504</Latitude>
+    <Longitude>34.911432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306448</Latitude>
+    <Longitude>34.903239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305748</Latitude>
+    <Longitude>34.902500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305597</Latitude>
+    <Longitude>34.910870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.308798</Latitude>
+    <Longitude>34.912097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307160</Latitude>
+    <Longitude>34.909931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303560</Latitude>
+    <Longitude>34.908935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.304772</Latitude>
+    <Longitude>34.909647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306227</Latitude>
+    <Longitude>34.909009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306621</Latitude>
+    <Longitude>34.915160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטל</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.308350</Latitude>
+    <Longitude>34.913139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפיקוס</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.310501</Latitude>
+    <Longitude>34.913686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצאלון</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307199</Latitude>
+    <Longitude>34.914836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבר</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305831</Latitude>
+    <Longitude>34.901945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.309646</Latitude>
+    <Longitude>34.911616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305679</Latitude>
+    <Longitude>34.907018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307094</Latitude>
+    <Longitude>34.914415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.304810</Latitude>
+    <Longitude>34.911648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושן</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307766</Latitude>
+    <Longitude>34.913004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305847</Latitude>
+    <Longitude>34.915009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.304992</Latitude>
+    <Longitude>34.902979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307337</Latitude>
+    <Longitude>34.916015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התדהר</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.308817</Latitude>
+    <Longitude>34.912701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התהילה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305766</Latitude>
+    <Longitude>34.904430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התות</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.305829</Latitude>
+    <Longitude>34.903125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307478</Latitude>
+    <Longitude>34.907612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.307494</Latitude>
+    <Longitude>34.912390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה פישר</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303806</Latitude>
+    <Longitude>34.914248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הדרור</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303614</Latitude>
+    <Longitude>34.913002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת היונה</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303081</Latitude>
+    <Longitude>34.914861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השחף</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303864</Latitude>
+    <Longitude>34.911295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת התור</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.303049</Latitude>
+    <Longitude>34.914128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הארז</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <Latitude>32.306957</Latitude>
+    <Longitude>34.905872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום שבזי</NativeName>
+    <ParentName>פרדסיה, ישראל</ParentName>
+    <AlternateName>שבזי</AlternateName>
+    <Latitude>32.302678</Latitude>
+    <Longitude>34.913528</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.צ. גרינברג</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182467</Latitude>
+    <Longitude>34.885010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191536</Latitude>
+    <Longitude>34.868675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191053</Latitude>
+    <Longitude>34.866739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184431</Latitude>
+    <Longitude>34.883177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבשלום</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180823</Latitude>
+    <Longitude>34.876274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסטרובסקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177570</Latitude>
+    <Longitude>34.873305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופסטרלנד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179807</Latitude>
+    <Longitude>34.870169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אזולאי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190770</Latitude>
+    <Longitude>34.867972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י דקר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187174</Latitude>
+    <Longitude>34.881115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181970</Latitude>
+    <Longitude>34.883611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחוזה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181145</Latitude>
+    <Longitude>34.871523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איזי שפירא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190999</Latitude>
+    <Longitude>34.869702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184431</Latitude>
+    <Longitude>34.883177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190499</Latitude>
+    <Longitude>34.872654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186796</Latitude>
+    <Longitude>34.868045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלימלך רימלט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195512</Latitude>
+    <Longitude>34.850265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר יפה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183939</Latitude>
+    <Longitude>34.875822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלפסי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190031</Latitude>
+    <Longitude>34.872203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקלעי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>אלקלאי</AlternateName>
+    <Latitude>32.191609</Latitude>
+    <Longitude>34.867440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלתרמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>אלטרמן</AlternateName>
+    <Latitude>32.179727</Latitude>
+    <Longitude>34.883313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178169</Latitude>
+    <Longitude>34.861968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193876</Latitude>
+    <Longitude>34.858271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197372</Latitude>
+    <Longitude>34.875720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187444</Latitude>
+    <Longitude>34.869121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.176560</Latitude>
+    <Longitude>34.878048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186510</Latitude>
+    <Longitude>34.861245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בובר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185238</Latitude>
+    <Longitude>34.882875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186440</Latitude>
+    <Longitude>34.878017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.177131</Latitude>
+    <Longitude>34.879590</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179864</Latitude>
+    <Longitude>34.864685</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית איזי שפירא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191438</Latitude>
+    <Longitude>34.869702</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית הלל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181507</Latitude>
+    <Longitude>34.880168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית השואבה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183425</Latitude>
+    <Longitude>34.856701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית שמאי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182552</Latitude>
+    <Longitude>34.880496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178152</Latitude>
+    <Longitude>34.870174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186665</Latitude>
+    <Longitude>34.884711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנטוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184351</Latitude>
+    <Longitude>34.886268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185371</Latitude>
+    <Longitude>34.874911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר גיורא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177996</Latitude>
+    <Longitude>34.883635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188037</Latitude>
+    <Longitude>34.871596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190688</Latitude>
+    <Longitude>34.867351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברל כצנלסון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>ברל קצנלסון</AlternateName>
+    <Latitude>32.192022</Latitude>
+    <Longitude>34.877975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנדייס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177821</Latitude>
+    <Longitude>34.871951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176680</Latitude>
+    <Longitude>34.877409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאולה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193814</Latitude>
+    <Longitude>34.855939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182572</Latitude>
+    <Longitude>34.874006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גונן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177355</Latitude>
+    <Longitude>34.862872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.179864</Latitude>
+    <Longitude>34.864685</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן אחד העם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184368</Latitude>
+    <Longitude>34.884530</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן דיין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181373</Latitude>
+    <Longitude>34.862244</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן יגאל ידין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182235</Latitude>
+    <Longitude>34.863710</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן כצנלסון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>גן קצנלסון</AlternateName>
+    <Latitude>32.191902</Latitude>
+    <Longitude>34.881470</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרץ</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174774</Latitude>
+    <Longitude>34.872417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188178</Latitude>
+    <Longitude>34.868277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195514</Latitude>
+    <Longitude>34.873841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191213</Latitude>
+    <Longitude>34.878191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובנוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176694</Latitude>
+    <Longitude>34.873021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.181310</Latitude>
+    <Longitude>34.886356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.180114</Latitude>
+    <Longitude>34.874029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191190</Latitude>
+    <Longitude>34.852686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.200600</Latitude>
+    <Longitude>34.880780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.199366</Latitude>
+    <Longitude>34.880393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197015</Latitude>
+    <Longitude>34.854708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האוניברסיטה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>האוניברסיטה</AlternateName>
+    <Latitude>32.187854</Latitude>
+    <Longitude>34.889106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך החקלאים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>החקלאים</AlternateName>
+    <Latitude>32.199805</Latitude>
+    <Longitude>34.853801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפארק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>הפארק</AlternateName>
+    <Latitude>32.187665</Latitude>
+    <Longitude>34.846715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השרון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>השרון</AlternateName>
+    <Latitude>32.176837</Latitude>
+    <Longitude>34.889747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ירושלים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <Latitude>32.183329</Latitude>
+    <Longitude>34.853354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך כפר נחמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>כפר נחמן</AlternateName>
+    <Latitude>32.198023</Latitude>
+    <Longitude>34.859773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182669</Latitude>
+    <Longitude>34.853931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189865</Latitude>
+    <Longitude>34.859800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191247</Latitude>
+    <Longitude>34.855883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195567</Latitude>
+    <Longitude>34.856839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188132</Latitude>
+    <Longitude>34.885009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190670</Latitude>
+    <Longitude>34.857605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האצ"ל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>אצ"ל</AlternateName>
+    <Latitude>32.177099</Latitude>
+    <Longitude>34.886064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194023</Latitude>
+    <Longitude>34.873415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186556</Latitude>
+    <Longitude>34.885414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182673</Latitude>
+    <Longitude>34.855104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191556</Latitude>
+    <Longitude>34.858285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180172</Latitude>
+    <Longitude>34.870654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190196</Latitude>
+    <Longitude>34.856369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריכה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182362</Latitude>
+    <Longitude>34.856142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183785</Latitude>
+    <Longitude>34.865550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדנ"ע</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187174</Latitude>
+    <Longitude>34.881115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196346</Latitude>
+    <Longitude>34.849488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184249</Latitude>
+    <Longitude>34.879364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187731</Latitude>
+    <Longitude>34.857268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191277</Latitude>
+    <Longitude>34.857814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190000</Latitude>
+    <Longitude>34.884361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189307</Latitude>
+    <Longitude>34.856195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188424</Latitude>
+    <Longitude>34.872263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186847</Latitude>
+    <Longitude>34.873622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180394</Latitude>
+    <Longitude>34.859720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185498</Latitude>
+    <Longitude>34.858523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188881</Latitude>
+    <Longitude>34.884146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190787</Latitude>
+    <Longitude>34.854003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החוחית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192399</Latitude>
+    <Longitude>34.854104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186484</Latitude>
+    <Longitude>34.888026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורשה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174566</Latitude>
+    <Longitude>34.878806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185746</Latitude>
+    <Longitude>34.865195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196207</Latitude>
+    <Longitude>34.858002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החליל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181792</Latitude>
+    <Longitude>34.858861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191416</Latitude>
+    <Longitude>34.856472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195402</Latitude>
+    <Longitude>34.880535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196346</Latitude>
+    <Longitude>34.849488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178824</Latitude>
+    <Longitude>34.859163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184530</Latitude>
+    <Longitude>34.878106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטייסים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188065</Latitude>
+    <Longitude>34.881063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטללים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186922</Latitude>
+    <Longitude>34.857011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלום</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174939</Latitude>
+    <Longitude>34.890175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היובל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185533</Latitude>
+    <Longitude>34.872935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194910</Latitude>
+    <Longitude>34.876097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היקינטון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181753</Latitude>
+    <Longitude>34.855923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189947</Latitude>
+    <Longitude>34.882160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכוכב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186552</Latitude>
+    <Longitude>34.857464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190358</Latitude>
+    <Longitude>34.885394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196362</Latitude>
+    <Longitude>34.851624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184740</Latitude>
+    <Longitude>34.862443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלבונה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179011</Latitude>
+    <Longitude>34.867474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוטוס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180560</Latitude>
+    <Longitude>34.856348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלימון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192548</Latitude>
+    <Longitude>34.855167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190234</Latitude>
+    <Longitude>34.862384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175009</Latitude>
+    <Longitude>34.881993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המיתר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182972</Latitude>
+    <Longitude>34.857094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197752</Latitude>
+    <Longitude>34.878250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלכים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180661</Latitude>
+    <Longitude>34.860497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195538</Latitude>
+    <Longitude>34.882629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183890</Latitude>
+    <Longitude>34.854523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179374</Latitude>
+    <Longitude>34.874804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185424</Latitude>
+    <Longitude>34.866793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190279</Latitude>
+    <Longitude>34.873977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנבל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183439</Latitude>
+    <Longitude>34.858178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180593</Latitude>
+    <Longitude>34.877977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183785</Latitude>
+    <Longitude>34.865550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנופר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194373</Latitude>
+    <Longitude>34.884353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183487</Latitude>
+    <Longitude>34.856079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176868</Latitude>
+    <Longitude>34.881866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיאים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188170</Latitude>
+    <Longitude>34.862745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190382</Latitude>
+    <Longitude>34.852639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>משה הס</AlternateName>
+    <Latitude>32.174774</Latitude>
+    <Longitude>34.872417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195470</Latitude>
+    <Longitude>34.857919</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדנא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195100</Latitude>
+    <Longitude>34.878699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסולן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182433</Latitude>
+    <Longitude>34.860307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסחלב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179496</Latitude>
+    <Longitude>34.857160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191151</Latitude>
+    <Longitude>34.849888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192139</Latitude>
+    <Longitude>34.852211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189381</Latitude>
+    <Longitude>34.880245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העיט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191151</Latitude>
+    <Longitude>34.849888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197724</Latitude>
+    <Longitude>34.880530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191190</Latitude>
+    <Longitude>34.852686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187303</Latitude>
+    <Longitude>34.875528</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189434</Latitude>
+    <Longitude>34.855521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190533</Latitude>
+    <Longitude>34.876477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפנינה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174662</Latitude>
+    <Longitude>34.888933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפעמונים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181618</Latitude>
+    <Longitude>34.856793</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178615</Latitude>
+    <Longitude>34.857029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצאלון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.198470</Latitude>
+    <Longitude>34.878627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצליל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182639</Latitude>
+    <Longitude>34.858723</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189269</Latitude>
+    <Longitude>34.881220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקדושים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187626</Latitude>
+    <Longitude>34.873577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוממיות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188932</Latitude>
+    <Longitude>34.874594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191236</Latitude>
+    <Longitude>34.882814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקרן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181456</Latitude>
+    <Longitude>34.860024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקשת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187324</Latitude>
+    <Longitude>34.859062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר סיני</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183831</Latitude>
+    <Longitude>34.869688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אפרים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>אפרים</AlternateName>
+    <AlternateName>רבי אפרים</AlternateName>
+    <AlternateName>הרבי אפרים</AlternateName>
+    <Latitude>32.181165</Latitude>
+    <Longitude>34.886993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק נסים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>הרבי יצחק נסים</AlternateName>
+    <AlternateName>רבי יצחק נסים</AlternateName>
+    <AlternateName>יצחק נסים</AlternateName>
+    <Latitude>32.179240</Latitude>
+    <Longitude>34.886741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ס.בן אור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>הרבי ס.בן אור</AlternateName>
+    <AlternateName>רבי ס.בן אור</AlternateName>
+    <AlternateName>ס.בן אור</AlternateName>
+    <Latitude>32.182721</Latitude>
+    <Longitude>34.867311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.196292</Latitude>
+    <Longitude>34.873930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קלישר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>רבי קלישר</AlternateName>
+    <AlternateName>קלישר</AlternateName>
+    <AlternateName>הרבי קלישר</AlternateName>
+    <Latitude>32.181501</Latitude>
+    <Longitude>34.867592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179584</Latitude>
+    <Longitude>34.873868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179044</Latitude>
+    <Longitude>34.868186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189708</Latitude>
+    <Longitude>34.886374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השביט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184929</Latitude>
+    <Longitude>34.858319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187824</Latitude>
+    <Longitude>34.877439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השוק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179427</Latitude>
+    <Longitude>34.877719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחפים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191611</Latitude>
+    <Longitude>34.853912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187904</Latitude>
+    <Longitude>34.858602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיזף</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192184</Latitude>
+    <Longitude>34.885726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190913</Latitude>
+    <Longitude>34.885338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185660</Latitude>
+    <Longitude>34.885733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186580</Latitude>
+    <Longitude>34.860584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189005</Latitude>
+    <Longitude>34.885147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188704</Latitude>
+    <Longitude>34.880251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192126</Latitude>
+    <Longitude>34.857602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196516</Latitude>
+    <Longitude>34.850805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התדהר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196787</Latitude>
+    <Longitude>34.884355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192061</Latitude>
+    <Longitude>34.854130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196205</Latitude>
+    <Longitude>34.854833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190329</Latitude>
+    <Longitude>34.857811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197202</Latitude>
+    <Longitude>34.873125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196515</Latitude>
+    <Longitude>34.880067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189519</Latitude>
+    <Longitude>34.857833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195081</Latitude>
+    <Longitude>34.856912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקומה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195586</Latitude>
+    <Longitude>34.854001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192427</Latitude>
+    <Longitude>34.866416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינגייט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184154</Latitude>
+    <Longitude>34.861082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ולנברג</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177287</Latitude>
+    <Longitude>34.884082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.179584</Latitude>
+    <Longitude>34.873868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרחין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196633</Latitude>
+    <Longitude>34.882593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189197</Latitude>
+    <Longitude>34.869404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191987</Latitude>
+    <Longitude>34.871782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184243</Latitude>
+    <Longitude>34.863151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גבעתי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185257</Latitude>
+    <Longitude>34.863889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גולני</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188336</Latitude>
+    <Longitude>34.862412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188235</Latitude>
+    <Longitude>34.863168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיבת ציון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180525</Latitude>
+    <Longitude>34.866775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ברלב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178664</Latitude>
+    <Longitude>34.863256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הזז</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191655</Latitude>
+    <Longitude>34.865240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181580</Latitude>
+    <Longitude>34.861432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189483</Latitude>
+    <Longitude>34.867055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182324</Latitude>
+    <Longitude>34.877438</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183930</Latitude>
+    <Longitude>34.867641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבנקין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187581</Latitude>
+    <Longitude>34.860267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190270</Latitude>
+    <Longitude>34.880040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176015</Latitude>
+    <Longitude>34.873768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194158</Latitude>
+    <Longitude>34.848091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175009</Latitude>
+    <Longitude>34.884065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182166</Latitude>
+    <Longitude>34.863085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה בורלא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191631</Latitude>
+    <Longitude>34.864776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178978</Latitude>
+    <Longitude>34.865491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197044</Latitude>
+    <Longitude>34.873986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן בן זכאי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195514</Latitude>
+    <Longitude>34.873841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב דורי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179366</Latitude>
+    <Longitude>34.862790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב חזן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189057</Latitude>
+    <Longitude>34.861037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184519</Latitude>
+    <Longitude>34.888050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183286</Latitude>
+    <Longitude>34.858901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאת אירופה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196607</Latitude>
+    <Longitude>34.856585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192985</Latitude>
+    <Longitude>34.883977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191189</Latitude>
+    <Longitude>34.860321</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>לב הפארק</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194884</Latitude>
+    <Longitude>34.851341</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לבהרי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175396</Latitude>
+    <Longitude>34.879714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177293</Latitude>
+    <Longitude>34.878929</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>לזר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184977</Latitude>
+    <Longitude>34.858149</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מאה ושישים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174364</Latitude>
+    <Longitude>34.865472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187066</Latitude>
+    <Longitude>34.883611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187712</Latitude>
+    <Longitude>34.866186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188055</Latitude>
+    <Longitude>34.865818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178689</Latitude>
+    <Longitude>34.880075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מולדת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196300</Latitude>
+    <Longitude>34.858605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.189105</Latitude>
+    <Longitude>34.871914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185595</Latitude>
+    <Longitude>34.869169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195670</Latitude>
+    <Longitude>34.858970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורשה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195735</Latitude>
+    <Longitude>34.858171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מכבי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182742</Latitude>
+    <Longitude>34.879624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176754</Latitude>
+    <Longitude>34.865783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186380</Latitude>
+    <Longitude>34.875795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקלף</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177922</Latitude>
+    <Longitude>34.863042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי אנילביץ'</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187875</Latitude>
+    <Longitude>34.868229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין דרוקר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.192744</Latitude>
+    <Longitude>34.844667</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז קליטה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177235</Latitude>
+    <Longitude>34.869228</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180143</Latitude>
+    <Longitude>34.863038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194698</Latitude>
+    <Longitude>34.850408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שפירא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193240</Latitude>
+    <Longitude>34.850713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נאות שדה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193182</Latitude>
+    <Longitude>34.877624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נג'ארה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195028</Latitude>
+    <Longitude>34.872780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186023</Latitude>
+    <Longitude>34.885401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום גוטמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190751</Latitude>
+    <Longitude>34.863579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187256</Latitude>
+    <Longitude>34.871398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185918</Latitude>
+    <Longitude>34.881683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176174</Latitude>
+    <Longitude>34.885089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב האבות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174492</Latitude>
+    <Longitude>34.890334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן יונתן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179668</Latitude>
+    <Longitude>34.882097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.180415</Latitude>
+    <Longitude>34.867287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197356</Latitude>
+    <Longitude>34.856691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176754</Latitude>
+    <Longitude>34.865783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגשר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.179243</Latitude>
+    <Longitude>34.878375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החומה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190404</Latitude>
+    <Longitude>34.865020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החשמונאים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183405</Latitude>
+    <Longitude>34.880909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת המכבים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.184723</Latitude>
+    <Longitude>34.880994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנוגה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186269</Latitude>
+    <Longitude>34.858120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת לח"י</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177592</Latitude>
+    <Longitude>34.884860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.193353</Latitude>
+    <Longitude>34.873434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עטרות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187777</Latitude>
+    <Longitude>34.859149</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186427</Latitude>
+    <Longitude>34.865629</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עציון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187420</Latitude>
+    <Longitude>34.859780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקיבא</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185261</Latitude>
+    <Longitude>34.882228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עתידים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195718</Latitude>
+    <Longitude>34.875452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פוזין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181597</Latitude>
+    <Longitude>34.873784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטריה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197570</Latitude>
+    <Longitude>34.857431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177722</Latitude>
+    <Longitude>34.866439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186241</Latitude>
+    <Longitude>34.883421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס רוזן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183063</Latitude>
+    <Longitude>34.883265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרדס משותף</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.174411</Latitude>
+    <Longitude>34.870541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187209</Latitude>
+    <Longitude>34.883634</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פרץ</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193332</Latitude>
+    <Longitude>34.855138</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צומת רעננה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175907</Latitude>
+    <Longitude>34.887547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צימנד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182276</Latitude>
+    <Longitude>34.871908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185743</Latitude>
+    <Longitude>34.882491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קארו</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190819</Latitude>
+    <Longitude>34.867361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קזן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175340</Latitude>
+    <Longitude>34.880112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.197293</Latitude>
+    <Longitude>34.857416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלאוזנר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177191</Latitude>
+    <Longitude>34.874819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.177344</Latitude>
+    <Longitude>34.879026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קצין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176573</Latitude>
+    <Longitude>34.883172</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית בן צבי רסקו</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196585</Latitude>
+    <Longitude>34.873840</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית גנים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190872</Latitude>
+    <Longitude>34.855867</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית הספורט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194051</Latitude>
+    <Longitude>34.847078</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית וייצמן</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.187075</Latitude>
+    <Longitude>34.868877</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית שז"ר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190734</Latitude>
+    <Longitude>34.870483</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית שרת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196575</Latitude>
+    <Longitude>34.857340</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186824</Latitude>
+    <Longitude>34.872039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבוצקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.183862</Latitude>
+    <Longitude>34.886126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן גמליאל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190031</Latitude>
+    <Longitude>34.872203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה גובר</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193970</Latitude>
+    <Longitude>34.850552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191648</Latitude>
+    <Longitude>34.861558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל כהן כגן לוברסקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190943</Latitude>
+    <Longitude>34.876439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176549</Latitude>
+    <Longitude>34.866677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176849</Latitude>
+    <Longitude>34.876412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186622</Latitude>
+    <Longitude>34.869584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רננים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196921</Latitude>
+    <Longitude>34.876651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176355</Latitude>
+    <Longitude>34.883821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178056</Latitude>
+    <Longitude>34.870796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.190147</Latitude>
+    <Longitude>34.868529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176640</Latitude>
+    <Longitude>34.882879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הדליה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194225</Latitude>
+    <Longitude>34.858899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הזהב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.185592</Latitude>
+    <Longitude>34.887704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החצב</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196116</Latitude>
+    <Longitude>34.859605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל היסמין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.194873</Latitude>
+    <Longitude>34.859075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנרקיס</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195178</Latitude>
+    <Longitude>34.854541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסיגלית</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.193848</Latitude>
+    <Longitude>34.859197</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הצבעוני</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.195713</Latitude>
+    <Longitude>34.859705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הרותם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.196454</Latitude>
+    <Longitude>34.859310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שברץ</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.180773</Latitude>
+    <Longitude>34.881826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בגין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>שד' בגין</AlternateName>
+    <AlternateName>בגין</AlternateName>
+    <Latitude>32.193824</Latitude>
+    <Longitude>34.850319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרדוף</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <AlternateName>הרדוף</AlternateName>
+    <AlternateName>שד' הרדוף</AlternateName>
+    <Latitude>32.189309</Latitude>
+    <Longitude>34.885184</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון עובדים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191694</Latitude>
+    <Longitude>34.876480</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.176694</Latitude>
+    <Longitude>34.873021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלונסקי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.191648</Latitude>
+    <Longitude>34.861558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שליט</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178414</Latitude>
+    <Longitude>34.881019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנגיד</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.190501</Latitude>
+    <Longitude>34.871140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.186009</Latitude>
+    <Longitude>34.855316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמריהו לוין</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.175292</Latitude>
+    <Longitude>34.870791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפינוזה</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.188975</Latitude>
+    <Longitude>34.864089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה אהרונסון</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.178508</Latitude>
+    <Longitude>34.860467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.181767</Latitude>
+    <Longitude>34.884303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>רעננה, ישראל</ParentName>
+    <Latitude>32.182716</Latitude>
+    <Longitude>34.873072</Longitude>
+  </Street>
+</LocationData>

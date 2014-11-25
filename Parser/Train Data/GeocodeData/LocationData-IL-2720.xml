@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א זהרא'</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.229531</Latitude>
+    <Longitude>34.955294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א נדא</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.235988</Latitude>
+    <Longitude>34.954798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א נור</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232405</Latitude>
+    <Longitude>34.953681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א סלאם</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232504</Latitude>
+    <Longitude>34.942125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א ראזי</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.229329</Latitude>
+    <Longitude>34.946120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א רביע</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.239176</Latitude>
+    <Longitude>34.949769</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א שוהדא'</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.238333</Latitude>
+    <Longitude>34.947962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א תופאח</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.239115</Latitude>
+    <Longitude>34.951702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבו בכר</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.238044</Latitude>
+    <Longitude>34.957773</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אבו סלאח</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.228445</Latitude>
+    <Longitude>34.945666</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אבו עובידה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.226229</Latitude>
+    <Longitude>34.957088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן בטוטה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.236451</Latitude>
+    <Longitude>34.958929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן ח'לדון</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.238021</Latitude>
+    <Longitude>34.960147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן רושד</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.237314</Latitude>
+    <Longitude>34.960344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל בסה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232821</Latitude>
+    <Longitude>34.943626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ג'ומעה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.228065</Latitude>
+    <Longitude>34.947714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל ח'מיס</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.240265</Latitude>
+    <Longitude>34.944970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל חפא'יר</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.241336</Latitude>
+    <Longitude>34.960448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מוראביטון</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.240681</Latitude>
+    <Longitude>34.954375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל מערי</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232385</Latitude>
+    <Longitude>34.957617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל קודס</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.228571</Latitude>
+    <Longitude>34.954897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באב אל ח'אן</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.227832</Latitude>
+    <Longitude>34.963547</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס א זהרא'</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.230085</Latitude>
+    <Longitude>34.954474</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס טירה א' חט"ב</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.227774</Latitude>
+    <Longitude>34.945904</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בילאל</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232492</Latitude>
+    <Longitude>34.950724</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ג'ורת קשוע</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.237427</Latitude>
+    <Longitude>34.948836</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דאוד ראזק</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.233573</Latitude>
+    <Longitude>34.951662</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>דאמו</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.237685</Latitude>
+    <Longitude>34.943567</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרך א סולטאני</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <AlternateName>א סולטאני</AlternateName>
+    <Latitude>32.240588</Latitude>
+    <Longitude>34.963914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יפו</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <AlternateName>יפו</AlternateName>
+    <Latitude>32.228053</Latitude>
+    <Longitude>34.942614</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>העיר העתיקה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232209</Latitude>
+    <Longitude>34.945701</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ח'ור א נדא</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.235143</Latitude>
+    <Longitude>34.956343</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ח'ור אבו דקר</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.228050</Latitude>
+    <Longitude>34.948643</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ח'ור לס</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.236455</Latitude>
+    <Longitude>34.952246</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חט"ב א'</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.227402</Latitude>
+    <Longitude>34.946527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חמזה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.232111</Latitude>
+    <Longitude>34.958949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טארק עבד אל חי</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.233336</Latitude>
+    <Longitude>34.959354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יום אל ארד</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.227969</Latitude>
+    <Longitude>34.950643</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כרם א זיתון</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.227580</Latitude>
+    <Longitude>34.951268</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מסגד עומר</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.234724</Latitude>
+    <Longitude>34.951683</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מקורות</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.229947</Latitude>
+    <Longitude>34.956031</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרכז העיר</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <AlternateName>מרכז</AlternateName>
+    <Latitude>32.232718</Latitude>
+    <Longitude>34.948975</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עומר בן אל ח'טאב</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.234532</Latitude>
+    <Longitude>34.951533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלי</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.228533</Latitude>
+    <Longitude>34.955199</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עקפה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.237191</Latitude>
+    <Longitude>34.945972</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קלקיליה</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.224743</Latitude>
+    <Longitude>34.951881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרחביל אבן חסנא</NativeName>
+    <ParentName>טירה, ישראל</ParentName>
+    <Latitude>32.236441</Latitude>
+    <Longitude>34.950959</Longitude>
+  </Street>
+</LocationData>

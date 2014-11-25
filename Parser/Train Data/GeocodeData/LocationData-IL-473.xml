@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>א שוקפאן</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.955128</Latitude>
+    <Longitude>35.169953</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אבו אל חסן</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.962183</Latitude>
+    <Longitude>35.158560</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ג'ורה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.959231</Latitude>
+    <Longitude>35.170276</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל הדאפה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.960460</Latitude>
+    <Longitude>35.164319</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל חלקאת</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.964332</Latitude>
+    <Longitude>35.171362</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל מופאסילה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.963576</Latitude>
+    <Longitude>35.167185</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל מלה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.960344</Latitude>
+    <Longitude>35.174105</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ע'וזה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.960672</Latitude>
+    <Longitude>35.161804</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל עוקבה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.956713</Latitude>
+    <Longitude>35.170736</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אלח'רוב שכונת החיילים המשוחררים החדשה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.963223</Latitude>
+    <Longitude>35.180844</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אלח'רוב שכונת החיילים המשוחררים הישנה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.961775</Latitude>
+    <Longitude>35.178767</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הוואדי</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.956674</Latitude>
+    <Longitude>35.169850</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>השכונה הדרומית</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.953853</Latitude>
+    <Longitude>35.173790</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כרם א רוג'ומה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.960600</Latitude>
+    <Longitude>35.167911</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרכז הכפר</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.959398</Latitude>
+    <Longitude>35.175189</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עומדאן סעד</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.962014</Latitude>
+    <Longitude>35.174257</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עשוואן</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.957417</Latitude>
+    <Longitude>35.167757</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית החינוך בראס אל כרם</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.963613</Latitude>
+    <Longitude>35.169547</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ראס אל כרם</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <Latitude>32.960983</Latitude>
+    <Longitude>35.171119</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת הכנסייה</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <AlternateName>הכנסייה</AlternateName>
+    <Latitude>32.957894</Latitude>
+    <Longitude>35.172447</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת המסגד</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <AlternateName>המסגד</AlternateName>
+    <Latitude>32.964332</Latitude>
+    <Longitude>35.164976</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת השוק</NativeName>
+    <ParentName>אבו סנאן, ישראל</ParentName>
+    <AlternateName>השוק</AlternateName>
+    <Latitude>32.958839</Latitude>
+    <Longitude>35.166781</Longitude>
+  </CityRegion>
+</LocationData>

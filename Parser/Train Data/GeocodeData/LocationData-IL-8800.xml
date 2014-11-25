@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>א טייבה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.784419</Latitude>
+    <Longitude>35.187620</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אבו שח'</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.827661</Latitude>
+    <Longitude>35.159671</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אבו ת'אבת</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.806449</Latitude>
+    <Longitude>35.182056</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אלעין</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.810738</Latitude>
+    <Longitude>35.164828</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארכ'בישוף אל חג'אר</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.802262</Latitude>
+    <Longitude>35.172825</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>באב א דיר העיר העתיקה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.804392</Latitude>
+    <Longitude>35.172618</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בית קברות דרוזי</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.806466</Latitude>
+    <Longitude>35.165314</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ג'באתה מערבית</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.816799</Latitude>
+    <Longitude>35.150484</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ג'באתה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.810574</Latitude>
+    <Longitude>35.155727</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>העיר העתיקה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.803454</Latitude>
+    <Longitude>35.171234</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ואדי א סקיע</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.794793</Latitude>
+    <Longitude>35.173860</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ואדי אל חמאם</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.812034</Latitude>
+    <Longitude>35.182742</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ואדי הושה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.801184</Latitude>
+    <Longitude>35.153095</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>וערת ג'רוס</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.799254</Latitude>
+    <Longitude>35.158506</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>חיילים משוחררים צפונית</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.818269</Latitude>
+    <Longitude>35.166013</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מרכז שפרעם ארמלי</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.802938</Latitude>
+    <Longitude>35.173392</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>סופתעאדי</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.823277</Latitude>
+    <Longitude>35.169233</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עג'רוש</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.804110</Latitude>
+    <Longitude>35.176687</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עין עאפיה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.811067</Latitude>
+    <Longitude>35.186147</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קדמאני</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.790543</Latitude>
+    <Longitude>35.198945</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שאהין חסון</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <Latitude>32.808558</Latitude>
+    <Longitude>35.170807</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת חיילים משוחררים חדשה</NativeName>
+    <ParentName>שפרעם, ישראל</ParentName>
+    <AlternateName>חיילים משוחררים חדשה</AlternateName>
+    <Latitude>32.806088</Latitude>
+    <Longitude>35.153980</Longitude>
+  </CityRegion>
+</LocationData>

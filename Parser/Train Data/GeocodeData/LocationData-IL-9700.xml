@@ -1,0 +1,2537 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.159431</Latitude>
+    <Longitude>34.883808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163574</Latitude>
+    <Longitude>34.903592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבני דרך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153057</Latitude>
+    <Longitude>34.894710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבשלום פיינברג</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150450</Latitude>
+    <Longitude>34.889028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160372</Latitude>
+    <Longitude>34.886867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161550</Latitude>
+    <Longitude>34.900012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד בן גרא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.143030</Latitude>
+    <Longitude>34.877416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון אהרונסון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150364</Latitude>
+    <Longitude>34.886629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחווה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161221</Latitude>
+    <Longitude>34.899240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איזמרגד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146498</Latitude>
+    <Longitude>34.889622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איילת השחר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150391</Latitude>
+    <Longitude>34.893860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אייר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161485</Latitude>
+    <Longitude>34.886293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157820</Latitude>
+    <Longitude>34.923466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איציק מאנגר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162083</Latitude>
+    <Longitude>34.892240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איתמר בן אב"י</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161901</Latitude>
+    <Longitude>34.892237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלול</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162272</Latitude>
+    <Longitude>34.885549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף הניצחון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>הניצחון</AlternateName>
+    <Latitude>32.135027</Latitude>
+    <Longitude>34.875596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156314</Latitude>
+    <Longitude>34.916028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי מיצד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158007</Latitude>
+    <Longitude>34.913473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150963</Latitude>
+    <Longitude>34.880437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר הגדול</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.139275</Latitude>
+    <Longitude>34.899948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר זייד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150531</Latitude>
+    <Longitude>34.887214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר פן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162227</Latitude>
+    <Longitude>34.890684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלעזר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137945</Latitude>
+    <Longitude>34.902056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אם הקבוצות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148168</Latitude>
+    <Longitude>34.883208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160711</Latitude>
+    <Longitude>34.907738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצילביץ'</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.167247</Latitude>
+    <Longitude>34.902995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנשי בראשית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153945</Latitude>
+    <Longitude>34.887266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנשי הכנסת הגדולה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141268</Latitude>
+    <Longitude>34.901428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.165016</Latitude>
+    <Longitude>34.906595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסף הרופא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150481</Latitude>
+    <Longitude>34.895062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138828</Latitude>
+    <Longitude>34.898231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים קציר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166088</Latitude>
+    <Longitude>34.900652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.161220</Latitude>
+    <Longitude>34.882342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכול</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158001</Latitude>
+    <Longitude>34.903585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154994</Latitude>
+    <Longitude>34.887937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160202</Latitude>
+    <Longitude>34.880750</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס נווה נאמן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.139374</Latitude>
+    <Longitude>34.900217</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס תל"י</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156595</Latitude>
+    <Longitude>34.913488</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביכורים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159738</Latitude>
+    <Longitude>34.907392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית אורן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147182</Latitude>
+    <Longitude>34.882356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית הבד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160472</Latitude>
+    <Longitude>34.895247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית קמה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147039</Latitude>
+    <Longitude>34.881223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158908</Latitude>
+    <Longitude>34.889297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני ברית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153477</Latitude>
+    <Longitude>34.890306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בצת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141786</Latitude>
+    <Longitude>34.884257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145565</Latitude>
+    <Longitude>34.890342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשביס זינגר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161573</Latitude>
+    <Longitude>34.891914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת חן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157322</Latitude>
+    <Longitude>34.887871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעת התצפית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159087</Latitude>
+    <Longitude>34.910304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גברעם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147412</Latitude>
+    <Longitude>34.881367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166580</Latitude>
+    <Longitude>34.898708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155718</Latitude>
+    <Longitude>34.914689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גזית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146286</Latitude>
+    <Longitude>34.887682</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גיל עמל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158160</Latitude>
+    <Longitude>34.919440</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גיתית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166823</Latitude>
+    <Longitude>34.890573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159754</Latitude>
+    <Longitude>34.912717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלגל המזלות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157887</Latitude>
+    <Longitude>34.907879</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני צבי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149740</Latitude>
+    <Longitude>34.878184</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרניט</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153472</Latitude>
+    <Longitude>34.885613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גשמי ברכה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157505</Latitude>
+    <Longitude>34.910707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149379</Latitude>
+    <Longitude>34.887111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157490</Latitude>
+    <Longitude>34.884260</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151086</Latitude>
+    <Longitude>34.886773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגנית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157490</Latitude>
+    <Longitude>34.884260</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.157965</Latitude>
+    <Longitude>34.911672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.144465</Latitude>
+    <Longitude>34.876234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.149603</Latitude>
+    <Longitude>34.887971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142001</Latitude>
+    <Longitude>34.889802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דור ההמשך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153053</Latitude>
+    <Longitude>34.894069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146749</Latitude>
+    <Longitude>34.882685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.168193</Latitude>
+    <Longitude>34.906927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>הים</AlternateName>
+    <Latitude>32.135694</Latitude>
+    <Longitude>34.891186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך כפר הדר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>כפר הדר</AlternateName>
+    <Latitude>32.151712</Latitude>
+    <Longitude>34.887910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מגדיאל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>מגדיאל</AlternateName>
+    <Latitude>32.157543</Latitude>
+    <Longitude>34.898912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רמתיים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>רמתיים</AlternateName>
+    <Latitude>32.147074</Latitude>
+    <Longitude>34.894630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגודה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142798</Latitude>
+    <Longitude>34.882762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האודם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.144068</Latitude>
+    <Longitude>34.889063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האוטהקר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157229</Latitude>
+    <Longitude>34.892109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האוכמניות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155182</Latitude>
+    <Longitude>34.903679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153738</Latitude>
+    <Longitude>34.888287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיחוד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160338</Latitude>
+    <Longitude>34.896771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160342</Latitude>
+    <Longitude>34.891190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוס</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157385</Latitude>
+    <Longitude>34.880820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האצ"ל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>אצ"ל</AlternateName>
+    <Latitude>32.139742</Latitude>
+    <Longitude>34.876178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארבל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156416</Latitude>
+    <Longitude>34.903120</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.139536</Latitude>
+    <Longitude>34.879621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148366</Latitude>
+    <Longitude>34.876457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבבלי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152224</Latitude>
+    <Longitude>34.877533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבוסתן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159888</Latitude>
+    <Longitude>34.891245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנאי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155517</Latitude>
+    <Longitude>34.922675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156249</Latitude>
+    <Longitude>34.884596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156550</Latitude>
+    <Longitude>34.885911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163154</Latitude>
+    <Longitude>34.898462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאולה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157664</Latitude>
+    <Longitude>34.891367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159208</Latitude>
+    <Longitude>34.922631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149622</Latitude>
+    <Longitude>34.892443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיבור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150009</Latitude>
+    <Longitude>34.892834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140443</Latitude>
+    <Longitude>34.877770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156526</Latitude>
+    <Longitude>34.887567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142714</Latitude>
+    <Longitude>34.875409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151273</Latitude>
+    <Longitude>34.874474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגשר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151930</Latitude>
+    <Longitude>34.882795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדבש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145859</Latitude>
+    <Longitude>34.875949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדובדבן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155182</Latitude>
+    <Longitude>34.903679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדסים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142663</Latitude>
+    <Longitude>34.884285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142561</Latitude>
+    <Longitude>34.881027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160599</Latitude>
+    <Longitude>34.897691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151129</Latitude>
+    <Longitude>34.877167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההכשרות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150192</Latitude>
+    <Longitude>34.881080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156498</Latitude>
+    <Longitude>34.889333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157368</Latitude>
+    <Longitude>34.879978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162780</Latitude>
+    <Longitude>34.905638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148227</Latitude>
+    <Longitude>34.875437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החומש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161143</Latitude>
+    <Longitude>34.906521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147484</Latitude>
+    <Longitude>34.875619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החייל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153164</Latitude>
+    <Longitude>34.876788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.167163</Latitude>
+    <Longitude>34.904519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החקלאי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158353</Latitude>
+    <Longitude>34.902591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158213</Latitude>
+    <Longitude>34.921835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.131200</Latitude>
+    <Longitude>34.896326</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137435</Latitude>
+    <Longitude>34.898686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידיד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.136301</Latitude>
+    <Longitude>34.874917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידידות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161108</Latitude>
+    <Longitude>34.901875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היובלים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.133162</Latitude>
+    <Longitude>34.902769</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היער</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156988</Latitude>
+    <Longitude>34.889328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159279</Latitude>
+    <Longitude>34.914293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכוהנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152102</Latitude>
+    <Longitude>34.889153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכיבוש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157321</Latitude>
+    <Longitude>34.895359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157596</Latitude>
+    <Longitude>34.882833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159470</Latitude>
+    <Longitude>34.885605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.139524</Latitude>
+    <Longitude>34.877072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכשרת היישוב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151064</Latitude>
+    <Longitude>34.892968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוויים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152042</Latitude>
+    <Longitude>34.889705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלולב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149127</Latitude>
+    <Longitude>34.876087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלח"י</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137770</Latitude>
+    <Longitude>34.872828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155863</Latitude>
+    <Longitude>34.907652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המדרגות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141889</Latitude>
+    <Longitude>34.880815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המוסדות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153596</Latitude>
+    <Longitude>34.876666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145008</Latitude>
+    <Longitude>34.877293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.135731</Latitude>
+    <Longitude>34.899041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנחם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152895</Latitude>
+    <Longitude>34.887363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.132154</Latitude>
+    <Longitude>34.896209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעבר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161011</Latitude>
+    <Longitude>34.894172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעגל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158456</Latitude>
+    <Longitude>34.925124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149578</Latitude>
+    <Longitude>34.893641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158595</Latitude>
+    <Longitude>34.894401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפיל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148326</Latitude>
+    <Longitude>34.878434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המקשר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154321</Latitude>
+    <Longitude>34.904210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתנחלים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159018</Latitude>
+    <Longitude>34.917111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158152</Latitude>
+    <Longitude>34.920247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.130090</Latitude>
+    <Longitude>34.894169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.135816</Latitude>
+    <Longitude>34.875965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157873</Latitude>
+    <Longitude>34.879158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיאים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164024</Latitude>
+    <Longitude>34.906330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151841</Latitude>
+    <Longitude>34.895935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155960</Latitude>
+    <Longitude>34.921290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוכנות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150343</Latitude>
+    <Longitude>34.882444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסרגל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163972</Latitude>
+    <Longitude>34.900165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153283</Latitude>
+    <Longitude>34.886370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העובד הציוני</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154938</Latitude>
+    <Longitude>34.901584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העליות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147790</Latitude>
+    <Longitude>34.879860</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156484</Latitude>
+    <Longitude>34.888467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149062</Latitude>
+    <Longitude>34.893661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146692</Latitude>
+    <Longitude>34.876627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטיש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155280</Latitude>
+    <Longitude>34.920449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154489</Latitude>
+    <Longitude>34.903198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138974</Latitude>
+    <Longitude>34.874098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146578</Latitude>
+    <Longitude>34.884806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.168460</Latitude>
+    <Longitude>34.899131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרסה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156780</Latitude>
+    <Longitude>34.896375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157750</Latitude>
+    <Longitude>34.878365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158226</Latitude>
+    <Longitude>34.881810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצברים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.169439</Latitude>
+    <Longitude>34.912538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציונות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145434</Latitude>
+    <Longitude>34.885875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163076</Latitude>
+    <Longitude>34.903710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר גילה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155102</Latitude>
+    <Longitude>34.895266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157203</Latitude>
+    <Longitude>34.917655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152328</Latitude>
+    <Longitude>34.892929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב רפאל ביטון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>הרבי רפאל ביטון</AlternateName>
+    <AlternateName>רבי רפאל ביטון</AlternateName>
+    <AlternateName>רפאל ביטון</AlternateName>
+    <Latitude>32.154720</Latitude>
+    <Longitude>34.909696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156469</Latitude>
+    <Longitude>34.882802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149012</Latitude>
+    <Longitude>34.875283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154856</Latitude>
+    <Longitude>34.913544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155861</Latitude>
+    <Longitude>34.904187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159402</Latitude>
+    <Longitude>34.882088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137910</Latitude>
+    <Longitude>34.902868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרשות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158565</Latitude>
+    <Longitude>34.896253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137247</Latitude>
+    <Longitude>34.874109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.143678</Latitude>
+    <Longitude>34.880523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152876</Latitude>
+    <Longitude>34.893023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153427</Latitude>
+    <Longitude>34.874839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159462</Latitude>
+    <Longitude>34.886887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158226</Latitude>
+    <Longitude>34.881810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלושה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157954</Latitude>
+    <Longitude>34.889145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השעורה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146743</Latitude>
+    <Longitude>34.875795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149637</Latitude>
+    <Longitude>34.874471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162819</Latitude>
+    <Longitude>34.898469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התכלת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150611</Latitude>
+    <Longitude>34.885227</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלמיד</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162853</Latitude>
+    <Longitude>34.896246</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140672</Latitude>
+    <Longitude>34.898206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155571</Latitude>
+    <Longitude>34.903377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.143341</Latitude>
+    <Longitude>34.881954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוויתן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141986</Latitude>
+    <Longitude>34.883424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שז"ר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163861</Latitude>
+    <Longitude>34.910405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמיר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142476</Latitude>
+    <Longitude>34.886252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זקיף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159522</Latitude>
+    <Longitude>34.903322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ח.נ. ביאליק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161086</Latitude>
+    <Longitude>34.887691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156484</Latitude>
+    <Longitude>34.879020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חודשי השנה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161867</Latitude>
+    <Longitude>34.885553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142057</Latitude>
+    <Longitude>34.891354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חולות נודדים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146284</Latitude>
+    <Longitude>34.887035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבה 7</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.135329</Latitude>
+    <Longitude>34.872337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גבעתי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.136453</Latitude>
+    <Longitude>34.875692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גולני</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163223</Latitude>
+    <Longitude>34.904713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.133456</Latitude>
+    <Longitude>34.876698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת יפתח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.134979</Latitude>
+    <Longitude>34.874605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הרצוג</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.168451</Latitude>
+    <Longitude>34.899859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים וייצמן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.165142</Latitude>
+    <Longitude>34.911894</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158701</Latitude>
+    <Longitude>34.912622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלוקי נחל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146503</Latitude>
+    <Longitude>34.888334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חליל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163885</Latitude>
+    <Longitude>34.890338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151928</Latitude>
+    <Longitude>34.885853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חמנית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156899</Latitude>
+    <Longitude>34.876766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150442</Latitude>
+    <Longitude>34.886917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקין</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158641</Latitude>
+    <Longitude>34.908679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156066</Latitude>
+    <Longitude>34.878978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצוצרה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164899</Latitude>
+    <Longitude>34.890779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156968</Latitude>
+    <Longitude>34.884772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חשוון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159999</Latitude>
+    <Longitude>34.885683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160578</Latitude>
+    <Longitude>34.884587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טווס</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142109</Latitude>
+    <Longitude>34.892372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146511</Latitude>
+    <Longitude>34.889008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161529</Latitude>
+    <Longitude>34.904096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. פרץ</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159800</Latitude>
+    <Longitude>34.890047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161967</Latitude>
+    <Longitude>34.907669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158142</Latitude>
+    <Longitude>34.913089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138559</Latitude>
+    <Longitude>34.902344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138949</Latitude>
+    <Longitude>34.896263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן גמלא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>יהושוע בן גמלא</AlternateName>
+    <Latitude>32.157321</Latitude>
+    <Longitude>34.895359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.143534</Latitude>
+    <Longitude>34.877272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145510</Latitude>
+    <Longitude>34.888358</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.139173</Latitude>
+    <Longitude>34.902434</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יורדי הים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147934</Latitude>
+    <Longitude>34.878820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150010</Latitude>
+    <Longitude>34.880029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסוד המעלה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160106</Latitude>
+    <Longitude>34.912932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157095</Latitude>
+    <Longitude>34.881364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב דורי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159206</Latitude>
+    <Longitude>34.911548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164810</Latitude>
+    <Longitude>34.908289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150568</Latitude>
+    <Longitude>34.888345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156428</Latitude>
+    <Longitude>34.876221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלמי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152758</Latitude>
+    <Longitude>34.876041</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמוך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141924</Latitude>
+    <Longitude>34.885487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150963</Latitude>
+    <Longitude>34.880437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישורון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159205</Latitude>
+    <Longitude>34.892889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150010</Latitude>
+    <Longitude>34.880029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישפה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145513</Latitude>
+    <Longitude>34.889024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראלי הרופא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158075</Latitude>
+    <Longitude>34.894717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכבן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152455</Latitude>
+    <Longitude>34.874517</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כזיב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142829</Latitude>
+    <Longitude>34.883418</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אוסישקין</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>ככר מנחם אוסשקין</AlternateName>
+    <AlternateName>ככר אוסישקין</AlternateName>
+    <AlternateName>ככר אוסשקין</AlternateName>
+    <AlternateName>כיכר אוסשקין</AlternateName>
+    <AlternateName>כיכר מנחם אוסשקין</AlternateName>
+    <AlternateName>כיכר מנחם אוסישקין</AlternateName>
+    <AlternateName>ככר מנחם אוסישקין</AlternateName>
+    <Latitude>32.160674</Latitude>
+    <Longitude>34.903031</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר המגינים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>ככר המגינים</AlternateName>
+    <Latitude>32.150011</Latitude>
+    <Longitude>34.890618</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר טוביה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>ככר טוביה</AlternateName>
+    <Latitude>32.158929</Latitude>
+    <Longitude>34.890060</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כינור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166259</Latitude>
+    <Longitude>34.890157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כסלו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159810</Latitude>
+    <Longitude>34.886139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפר מנחם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147357</Latitude>
+    <Longitude>34.883364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153617</Latitude>
+    <Longitude>34.874012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לב השכונה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158622</Latitude>
+    <Longitude>34.911987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155171</Latitude>
+    <Longitude>34.875072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156390</Latitude>
+    <Longitude>34.877994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145481</Latitude>
+    <Longitude>34.887706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חמה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157017</Latitude>
+    <Longitude>34.910473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא קדם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155074</Latitude>
+    <Longitude>34.919302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע משה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159169</Latitude>
+    <Longitude>34.920562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155424</Latitude>
+    <Longitude>34.916042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע שלמה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158579</Latitude>
+    <Longitude>34.921164</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מגדיאל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161717</Latitude>
+    <Longitude>34.900796</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138416</Latitude>
+    <Longitude>34.899210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מולדת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157407</Latitude>
+    <Longitude>34.901788</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149566</Latitude>
+    <Longitude>34.877338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל אריה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155914</Latitude>
+    <Longitude>34.906090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל גדי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157887</Latitude>
+    <Longitude>34.907879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל דגים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155788</Latitude>
+    <Longitude>34.905589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל דלי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156836</Latitude>
+    <Longitude>34.906419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל טלה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156342</Latitude>
+    <Longitude>34.905394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל מאזניים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157463</Latitude>
+    <Longitude>34.905770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל עקרב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158802</Latitude>
+    <Longitude>34.907064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל קשת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157773</Latitude>
+    <Longitude>34.906469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל שור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156960</Latitude>
+    <Longitude>34.905188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזל תאומים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157753</Latitude>
+    <Longitude>34.904751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיטל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157774</Latitude>
+    <Longitude>34.885405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיתר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163827</Latitude>
+    <Longitude>34.890946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנוחה ונחלה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154165</Latitude>
+    <Longitude>34.877069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנצח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164964</Latitude>
+    <Longitude>34.891429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעייני</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160656</Latitude>
+    <Longitude>34.905335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מפוחית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163434</Latitude>
+    <Longitude>34.889342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162754</Latitude>
+    <Longitude>34.904827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצובה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142151</Latitude>
+    <Longitude>34.883583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצילתיים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163894</Latitude>
+    <Longitude>34.889881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגוע</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156369</Latitude>
+    <Longitude>34.900533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגלית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145547</Latitude>
+    <Longitude>34.889691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי מוטה גור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158963</Latitude>
+    <Longitude>34.910708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרחביה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162819</Latitude>
+    <Longitude>34.898469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים החשמונאית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140498</Latitude>
+    <Longitude>34.902073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משאבים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161647</Latitude>
+    <Longitude>34.890001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162549</Latitude>
+    <Longitude>34.885169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משושים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140903</Latitude>
+    <Longitude>34.886441</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגפנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153836</Latitude>
+    <Longitude>34.892668</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>מתיתיהו</AlternateName>
+    <Latitude>32.139791</Latitude>
+    <Longitude>34.902283</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה הדר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138134</Latitude>
+    <Longitude>34.873671</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה נאמן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138647</Latitude>
+    <Longitude>34.897634</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.150700</Latitude>
+    <Longitude>34.890536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נופך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145460</Latitude>
+    <Longitude>34.887059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156175</Latitude>
+    <Longitude>34.876799</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דליות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158041</Latitude>
+    <Longitude>34.908704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל הבשור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141191</Latitude>
+    <Longitude>34.881839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ערוגות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156761</Latitude>
+    <Longitude>34.908038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל פרצים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156544</Latitude>
+    <Longitude>34.910249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.143027</Latitude>
+    <Longitude>34.888818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166639</Latitude>
+    <Longitude>34.904359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נטעים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160798</Latitude>
+    <Longitude>34.910914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160923</Latitude>
+    <Longitude>34.885715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159849</Latitude>
+    <Longitude>34.907042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעורים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157375</Latitude>
+    <Longitude>34.889974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נצח ישראל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162450</Latitude>
+    <Longitude>34.910601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן אלתרמן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>נתן אלטרמן</AlternateName>
+    <Latitude>32.161166</Latitude>
+    <Longitude>34.890024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.166180</Latitude>
+    <Longitude>34.901699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162253</Latitude>
+    <Longitude>34.884995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137061</Latitude>
+    <Longitude>34.876241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיתוונית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156066</Latitude>
+    <Longitude>34.878978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אבן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152485</Latitude>
+    <Longitude>34.887351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אדמונית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158451</Latitude>
+    <Longitude>34.902244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האגוז</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157016</Latitude>
+    <Longitude>34.882822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האלון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154757</Latitude>
+    <Longitude>34.889025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הדרור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153911</Latitude>
+    <Longitude>34.891706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הי"ח</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161008</Latitude>
+    <Longitude>34.892809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הירק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149292</Latitude>
+    <Longitude>34.884640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרינה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160906</Latitude>
+    <Longitude>34.900775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת נוגה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151525</Latitude>
+    <Longitude>34.894436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ניל"י</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.134979</Latitude>
+    <Longitude>34.874605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141973</Latitude>
+    <Longitude>34.887229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.152532</Latitude>
+    <Longitude>34.876967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152804</Latitude>
+    <Longitude>34.885207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סקסופון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163043</Latitude>
+    <Longitude>34.889343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתיו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163424</Latitude>
+    <Longitude>34.904340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוגב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.166139</Latitude>
+    <Longitude>34.891024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין דור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146894</Latitude>
+    <Longitude>34.881494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין חי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156575</Latitude>
+    <Longitude>34.893312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155421</Latitude>
+    <Longitude>34.877085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155384</Latitude>
+    <Longitude>34.898486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עקלתון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158851</Latitude>
+    <Longitude>34.882102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פדויים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156235</Latitude>
+    <Longitude>34.902250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסנתר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164903</Latitude>
+    <Longitude>34.890234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156306</Latitude>
+    <Longitude>34.874907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157095</Latitude>
+    <Longitude>34.881364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פשוש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140985</Latitude>
+    <Longitude>34.889064</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צ'לו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.164165</Latitude>
+    <Longitude>34.890978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.134113</Latitude>
+    <Longitude>34.872158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140469</Latitude>
+    <Longitude>34.887228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152857</Latitude>
+    <Longitude>34.885722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צורן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146376</Latitude>
+    <Longitude>34.890302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צליל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.165818</Latitude>
+    <Longitude>34.890591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלמון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142476</Latitude>
+    <Longitude>34.886252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159873</Latitude>
+    <Longitude>34.920118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ יסודות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148380</Latitude>
+    <Longitude>34.883134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קישון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141486</Latitude>
+    <Longitude>34.883573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155611</Latitude>
+    <Longitude>34.877795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.152678</Latitude>
+    <Longitude>34.906569</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמות מנחם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142505</Latitude>
+    <Longitude>34.889864</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161322</Latitude>
+    <Longitude>34.882342</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת הדר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.144771</Latitude>
+    <Longitude>34.879027</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמתיים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157490</Latitude>
+    <Longitude>34.885919</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רסקו ג'</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141596</Latitude>
+    <Longitude>34.878494</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רעות</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159252</Latitude>
+    <Longitude>34.900028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158159</Latitude>
+    <Longitude>34.885444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161513</Latitude>
+    <Longitude>34.905762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160297</Latitude>
+    <Longitude>34.887771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142680</Latitude>
+    <Longitude>34.877401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבו</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.146283</Latitude>
+    <Longitude>34.886546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבי ציון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159024</Latitude>
+    <Longitude>34.913081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החלב</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156772</Latitude>
+    <Longitude>34.912175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התיכון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145032</Latitude>
+    <Longitude>34.890909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התפוזים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156209</Latitude>
+    <Longitude>34.911900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבתאי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.151448</Latitude>
+    <Longitude>34.891274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל ב'</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154537</Latitude>
+    <Longitude>34.917863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.154014</Latitude>
+    <Longitude>34.914424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141965</Latitude>
+    <Longitude>34.888086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.155469</Latitude>
+    <Longitude>34.902585</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון בלוקונים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161057</Latitude>
+    <Longitude>34.921901</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון פועלים א'</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.161324</Latitude>
+    <Longitude>34.882360</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון פועלים ב'</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.158145</Latitude>
+    <Longitude>34.888246</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שילה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.140444</Latitude>
+    <Longitude>34.899478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.141968</Latitude>
+    <Longitude>34.888932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.159459</Latitude>
+    <Longitude>34.888407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלומציון</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.134954</Latitude>
+    <Longitude>34.901423</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148396</Latitude>
+    <Longitude>34.886720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.143242</Latitude>
+    <Longitude>34.875838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמגר בן ענת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.144068</Latitude>
+    <Longitude>34.877131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנביא</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.149724</Latitude>
+    <Longitude>34.879395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמיר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.168127</Latitude>
+    <Longitude>34.904737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון הצדיק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.137873</Latitude>
+    <Longitude>34.901523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142851</Latitude>
+    <Longitude>34.885447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שנת היובל</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.156582</Latitude>
+    <Longitude>34.918301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער העמקים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.148178</Latitude>
+    <Longitude>34.882146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157202</Latitude>
+    <Longitude>34.915844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקנאי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.142087</Latitude>
+    <Longitude>34.891873</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שרת</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162424</Latitude>
+    <Longitude>34.891126</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.157766</Latitude>
+    <Longitude>34.917424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160134</Latitude>
+    <Longitude>34.911531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תווים</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.167053</Latitude>
+    <Longitude>34.890572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תוף</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.163174</Latitude>
+    <Longitude>34.890585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תור</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.143465</Latitude>
+    <Longitude>34.890044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל דן</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.138168</Latitude>
+    <Longitude>34.883732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל יצחק</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.147570</Latitude>
+    <Longitude>34.882272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמוז</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.162288</Latitude>
+    <Longitude>34.886158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרפ"ה</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.153316</Latitude>
+    <Longitude>34.895128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.145510</Latitude>
+    <Longitude>34.888358</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תשרי</NativeName>
+    <ParentName>הוד השרון, ישראל</ParentName>
+    <Latitude>32.160033</Latitude>
+    <Longitude>34.884487</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך האורנים</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <AlternateName>האורנים</AlternateName>
+    <Latitude>32.211473</Latitude>
+    <Longitude>34.900069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הדקל</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <AlternateName>הדקל</AlternateName>
+    <Latitude>32.208101</Latitude>
+    <Longitude>34.904927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ההדרים</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <AlternateName>ההדרים</AlternateName>
+    <Latitude>32.206461</Latitude>
+    <Longitude>34.904349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפרחים</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <AlternateName>הפרחים</AlternateName>
+    <Latitude>32.203093</Latitude>
+    <Longitude>34.908348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.212107</Latitude>
+    <Longitude>34.893392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.210316</Latitude>
+    <Longitude>34.904698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.210422</Latitude>
+    <Longitude>34.904094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש דרום</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.211731</Latitude>
+    <Longitude>34.891765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש צפון</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.212862</Latitude>
+    <Longitude>34.895147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.212353</Latitude>
+    <Longitude>34.892335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.212219</Latitude>
+    <Longitude>34.893968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.211748</Latitude>
+    <Longitude>34.892825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.200464</Latitude>
+    <Longitude>34.913055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.213545</Latitude>
+    <Longitude>34.895512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.213650</Latitude>
+    <Longitude>34.895161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הילד</NativeName>
+    <ParentName>שדה ורבורג, ישראל</ParentName>
+    <Latitude>32.203465</Latitude>
+    <Longitude>34.912817</Longitude>
+  </Street>
+</LocationData>

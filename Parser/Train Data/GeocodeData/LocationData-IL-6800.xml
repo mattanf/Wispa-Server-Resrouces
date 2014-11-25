@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביגדור עשת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814040</Latitude>
+    <Longitude>35.119875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802669</Latitude>
+    <Longitude>35.100555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם טביב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809767</Latitude>
+    <Longitude>35.119760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם צדוק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.790535</Latitude>
+    <Longitude>35.089926</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אברמסקי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811044</Latitude>
+    <Longitude>35.101783</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אדגר דגה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807544</Latitude>
+    <Longitude>35.137856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדוארד מאנה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805680</Latitude>
+    <Longitude>35.136795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בן יוסף</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814621</Latitude>
+    <Longitude>35.115762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוגיסט רודן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806298</Latitude>
+    <Longitude>35.135244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורנים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811059</Latitude>
+    <Longitude>35.109710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811297</Latitude>
+    <Longitude>35.101957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813283</Latitude>
+    <Longitude>35.114106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלבז</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810641</Latitude>
+    <Longitude>35.118486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלברטו ג'קומטי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806846</Latitude>
+    <Longitude>35.134414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809758</Latitude>
+    <Longitude>35.123141</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801153</Latitude>
+    <Longitude>35.104641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוגן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801133</Latitude>
+    <Longitude>35.132666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמדיאו מודיליאני</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801317</Latitude>
+    <Longitude>35.141204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנרי מאטיס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800469</Latitude>
+    <Longitude>35.141868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסף שמחוני</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810465</Latitude>
+    <Longitude>35.116513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה רגב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810092</Latitude>
+    <Longitude>35.125623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.805847</Latitude>
+    <Longitude>35.110318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכנזי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798492</Latitude>
+    <Longitude>35.088363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתא</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799025</Latitude>
+    <Longitude>35.103466</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס ארצי לשוטרים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.818774</Latitude>
+    <Longitude>35.121979</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס גבעת טל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801644</Latitude>
+    <Longitude>35.139899</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס גבעת רם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799507</Latitude>
+    <Longitude>35.133797</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס גיבורי עציון העצמאות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808867</Latitude>
+    <Longitude>35.127415</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס ירושלים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814892</Latitude>
+    <Longitude>35.108848</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס ממלכתי פינקר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814167</Latitude>
+    <Longitude>35.108396</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס שח"ם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810265</Latitude>
+    <Longitude>35.107923</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.812635</Latitude>
+    <Longitude>35.101231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809620</Latitude>
+    <Longitude>35.091938</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית וגן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799100</Latitude>
+    <Longitude>35.103789</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית לחם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806034</Latitude>
+    <Longitude>35.106617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית"ר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813371</Latitude>
+    <Longitude>35.125563</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814554</Latitude>
+    <Longitude>35.110111</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן עמי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810564</Latitude>
+    <Longitude>35.128003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל שם טוב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802158</Latitude>
+    <Longitude>35.110879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יהודה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803049</Latitude>
+    <Longitude>35.074697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.790527</Latitude>
+    <Longitude>35.086952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811369</Latitude>
+    <Longitude>35.124199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברדיצ'בסקי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811790</Latitude>
+    <Longitude>35.103506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברכה פולד</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814992</Latitude>
+    <Longitude>35.116772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808233</Latitude>
+    <Longitude>35.114365</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעה א'</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813092</Latitude>
+    <Longitude>35.118810</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת אלונים בתיכנון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813905</Latitude>
+    <Longitude>35.140975</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת הכלניות בתיכנון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.820945</Latitude>
+    <Longitude>35.130131</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת המשטרה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.818404</Latitude>
+    <Longitude>35.121202</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת הרקפות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809341</Latitude>
+    <Longitude>35.126488</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת טל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806106</Latitude>
+    <Longitude>35.139293</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת רם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802410</Latitude>
+    <Longitude>35.135488</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גד מנלה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.794513</Latitude>
+    <Longitude>35.088379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809022</Latitude>
+    <Longitude>35.114407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807517</Latitude>
+    <Longitude>35.127687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי הקריה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802666</Latitude>
+    <Longitude>35.094556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805833</Latitude>
+    <Longitude>35.104972</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן מינץ</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808611</Latitude>
+    <Longitude>35.130445</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.797121</Latitude>
+    <Longitude>35.091090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוידאשווילי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807455</Latitude>
+    <Longitude>35.114911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דייגו וולסקיז</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807846</Latitude>
+    <Longitude>35.136745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804044</Latitude>
+    <Longitude>35.133086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809249</Latitude>
+    <Longitude>35.116573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך דשנים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>דשנים</AlternateName>
+    <Latitude>32.793754</Latitude>
+    <Longitude>35.076402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך חיפה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>חיפה</AlternateName>
+    <Latitude>32.805826</Latitude>
+    <Longitude>35.074258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>32.820560</Latitude>
+    <Longitude>35.116605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מנחם בגין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <Latitude>32.812024</Latitude>
+    <Longitude>35.130090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.796709</Latitude>
+    <Longitude>35.138107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804613</Latitude>
+    <Longitude>35.132322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797946</Latitude>
+    <Longitude>35.100243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האסיף</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804017</Latitude>
+    <Longitude>35.085539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803432</Latitude>
+    <Longitude>35.130969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארי השואג</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813806</Latitude>
+    <Longitude>35.126000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800890</Latitude>
+    <Longitude>35.134119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הביכורים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804224</Latitude>
+    <Longitude>35.084677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806095</Latitude>
+    <Longitude>35.102940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבורה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804099</Latitude>
+    <Longitude>35.080697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804079</Latitude>
+    <Longitude>35.086104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805763</Latitude>
+    <Longitude>35.115040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798722</Latitude>
+    <Longitude>35.106499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800315</Latitude>
+    <Longitude>35.134616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799364</Latitude>
+    <Longitude>35.101069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805283</Latitude>
+    <Longitude>35.103613</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803259</Latitude>
+    <Longitude>35.111165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הוגו מולר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813201</Latitude>
+    <Longitude>35.109834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808534</Latitude>
+    <Longitude>35.124360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הותיקים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808720</Latitude>
+    <Longitude>35.092615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798469</Latitude>
+    <Longitude>35.105750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801444</Latitude>
+    <Longitude>35.113113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801991</Latitude>
+    <Longitude>35.060217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.796485</Latitude>
+    <Longitude>35.089929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802625</Latitude>
+    <Longitude>35.105209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחרשה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814200</Latitude>
+    <Longitude>35.124392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803826</Latitude>
+    <Longitude>35.105326</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808443</Latitude>
+    <Longitude>35.126239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803608</Latitude>
+    <Longitude>35.068421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפקד קיש</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811854</Latitude>
+    <Longitude>35.125502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800056</Latitude>
+    <Longitude>35.108874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805474</Latitude>
+    <Longitude>35.114894</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרי מור</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798730</Latitude>
+    <Longitude>35.140399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.812219</Latitude>
+    <Longitude>35.116713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802301</Latitude>
+    <Longitude>35.089486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805275</Latitude>
+    <Longitude>35.110951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804552</Latitude>
+    <Longitude>35.104020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811221</Latitude>
+    <Longitude>35.114172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקורנית</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800038</Latitude>
+    <Longitude>35.110922</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.792365</Latitude>
+    <Longitude>35.091142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814117</Latitude>
+    <Longitude>35.106451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלשייך</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>רבי אלשייך</AlternateName>
+    <AlternateName>הרבי אלשייך</AlternateName>
+    <AlternateName>אלשייך</AlternateName>
+    <Latitude>32.788310</Latitude>
+    <Longitude>35.088321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בר אילן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>רבי בר אילן</AlternateName>
+    <AlternateName>בר אילן</AlternateName>
+    <AlternateName>הרבי בר אילן</AlternateName>
+    <Latitude>32.804950</Latitude>
+    <Longitude>35.094847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>32.810891</Latitude>
+    <Longitude>35.129399</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.808079</Latitude>
+    <Longitude>35.127263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מינץ</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>הרבי מינץ</AlternateName>
+    <AlternateName>רבי מינץ</AlternateName>
+    <AlternateName>מינץ</AlternateName>
+    <Latitude>32.807779</Latitude>
+    <Longitude>35.129468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משאש</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>הרבי משאש</AlternateName>
+    <AlternateName>משאש</AlternateName>
+    <AlternateName>רבי משאש</AlternateName>
+    <Latitude>32.810745</Latitude>
+    <Longitude>35.128794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.812856</Latitude>
+    <Longitude>35.117460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.805911</Latitude>
+    <Longitude>35.094670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלום סלח</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>רבי שלום סלח</AlternateName>
+    <AlternateName>שלום סלח</AlternateName>
+    <AlternateName>הרבי שלום סלח</AlternateName>
+    <Latitude>32.801214</Latitude>
+    <Longitude>35.101682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801770</Latitude>
+    <Longitude>35.134205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי גולן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811431</Latitude>
+    <Longitude>35.125312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809144</Latitude>
+    <Longitude>35.109499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השבעה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809717</Latitude>
+    <Longitude>35.127742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802554</Latitude>
+    <Longitude>35.108852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799911</Latitude>
+    <Longitude>35.108280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השוק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.816262</Latitude>
+    <Longitude>35.110808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקדים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798327</Latitude>
+    <Longitude>35.099203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799282</Latitude>
+    <Longitude>35.109693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804735</Latitude>
+    <Longitude>35.113828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמרים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797154</Latitude>
+    <Longitude>35.101395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעלה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804733</Latitude>
+    <Longitude>35.099537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801196</Latitude>
+    <Longitude>35.069266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814802</Latitude>
+    <Longitude>35.114777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינגייט</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.816362</Latitude>
+    <Longitude>35.114086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינסנט ון גוך</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803464</Latitude>
+    <Longitude>35.138196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וסילי קנדינסקי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804880</Latitude>
+    <Longitude>35.141415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803020</Latitude>
+    <Longitude>35.103048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.808774</Latitude>
+    <Longitude>35.120839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'ורז' סרה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808168</Latitude>
+    <Longitude>35.136390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803614</Latitude>
+    <Longitude>35.090477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.816362</Latitude>
+    <Longitude>35.114086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799987</Latitude>
+    <Longitude>35.094955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.815588</Latitude>
+    <Longitude>35.114675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800331</Latitude>
+    <Longitude>35.089846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.815453</Latitude>
+    <Longitude>35.117887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.816084</Latitude>
+    <Longitude>35.115549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חואן מירו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807711</Latitude>
+    <Longitude>35.137037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810786</Latitude>
+    <Longitude>35.118841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811503</Latitude>
+    <Longitude>35.109872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809748</Latitude>
+    <Longitude>35.102431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טולוז לוטרק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809008</Latitude>
+    <Longitude>35.133645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804641</Latitude>
+    <Longitude>35.112859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.796506</Latitude>
+    <Longitude>35.094878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813991</Latitude>
+    <Longitude>35.113393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבניאלי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809878</Latitude>
+    <Longitude>35.121667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803003</Latitude>
+    <Longitude>35.101709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803673</Latitude>
+    <Longitude>35.106692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.811328</Latitude>
+    <Longitude>35.117923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807909</Latitude>
+    <Longitude>35.124035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808891</Latitude>
+    <Longitude>35.123129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף בצרי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804264</Latitude>
+    <Longitude>35.071426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.788334</Latitude>
+    <Longitude>35.085705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שפרינצק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797930</Latitude>
+    <Longitude>35.089905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800853</Latitude>
+    <Longitude>35.094814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803543</Latitude>
+    <Longitude>35.133550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב כהן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798966</Latitude>
+    <Longitude>35.094891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב שטיינברג</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801831</Latitude>
+    <Longitude>35.094583</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יער ברנדייס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808903</Latitude>
+    <Longitude>35.077801</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799432</Latitude>
+    <Longitude>35.109955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה לוי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808832</Latitude>
+    <Longitude>35.116650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק בן צבי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797955</Latitude>
+    <Longitude>35.092433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.812010</Latitude>
+    <Longitude>35.126261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802555</Latitude>
+    <Longitude>35.108736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814724</Latitude>
+    <Longitude>35.114396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814700</Latitude>
+    <Longitude>35.117033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר בני ברית</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>ככר בני ברית</AlternateName>
+    <Latitude>32.800078</Latitude>
+    <Longitude>35.105391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר העירייה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>ככר העירייה</AlternateName>
+    <Latitude>32.805326</Latitude>
+    <Longitude>35.104337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798964</Latitude>
+    <Longitude>35.097104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800198</Latitude>
+    <Longitude>35.110286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810722</Latitude>
+    <Longitude>35.101034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע סיני</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807925</Latitude>
+    <Longitude>35.124657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811262</Latitude>
+    <Longitude>35.108283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804106</Latitude>
+    <Longitude>35.101690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.799190</Latitude>
+    <Longitude>35.135282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809077</Latitude>
+    <Longitude>35.122790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.795492</Latitude>
+    <Longitude>35.094854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814725</Latitude>
+    <Longitude>35.116201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808225</Latitude>
+    <Longitude>35.102023</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מע"ש</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801238</Latitude>
+    <Longitude>35.072345</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מעלה החרמון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808561</Latitude>
+    <Longitude>35.111316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקור ברוך</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802433</Latitude>
+    <Longitude>35.102740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.809460</Latitude>
+    <Longitude>35.113469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מרזוק</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810312</Latitude>
+    <Longitude>35.117759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797347</Latitude>
+    <Longitude>35.091142</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אברהם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.791057</Latitude>
+    <Longitude>35.087518</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה חן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805138</Latitude>
+    <Longitude>35.085659</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נוף הכרמל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.797637</Latitude>
+    <Longitude>35.105816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809933</Latitude>
+    <Longitude>35.108499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל נעמן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800264</Latitude>
+    <Longitude>35.091019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קדרון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.794512</Latitude>
+    <Longitude>35.091125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב השומרון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809159</Latitude>
+    <Longitude>35.115336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן שפריצר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813243</Latitude>
+    <Longitude>35.123380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.809129</Latitude>
+    <Longitude>35.105925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806811</Latitude>
+    <Longitude>35.115603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלוודור דאלי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804999</Latitude>
+    <Longitude>35.137803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמולנסקין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805932</Latitude>
+    <Longitude>35.101297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אביב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813719</Latitude>
+    <Longitude>35.108522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אילון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.812705</Latitude>
+    <Longitude>35.107101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אתא</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.796965</Latitude>
+    <Longitude>35.103617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגלעדי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813667</Latitude>
+    <Longitude>35.124170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הערבה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798457</Latitude>
+    <Longitude>35.104332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הפקאן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798549</Latitude>
+    <Longitude>35.103879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השחר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798789</Latitude>
+    <Longitude>35.105129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת נחום</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.815708</Latitude>
+    <Longitude>35.118581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ניל"י</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.812032</Latitude>
+    <Longitude>35.113886</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עין התכלת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.798385</Latitude>
+    <Longitude>35.104801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עבודה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806958</Latitude>
+    <Longitude>35.101040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808423</Latitude>
+    <Longitude>35.123274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808534</Latitude>
+    <Longitude>35.124360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806626</Latitude>
+    <Longitude>35.116082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פאול קלה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806071</Latitude>
+    <Longitude>35.135917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פבלו פיקסו</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803402</Latitude>
+    <Longitude>35.140213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פול גוגן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805979</Latitude>
+    <Longitude>35.140022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פול סזאן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.808863</Latitude>
+    <Longitude>35.137760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייט מונדריאן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804402</Latitude>
+    <Longitude>35.136738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייר אוגוסט רנואר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800521</Latitude>
+    <Longitude>35.139673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810122</Latitude>
+    <Longitude>35.107191</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.809588</Latitude>
+    <Longitude>35.122387</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פרוסטיג</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806400</Latitude>
+    <Longitude>35.094996</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פרופסור קלאוזנר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>פרופ' קלאוזנר</AlternateName>
+    <AlternateName>קלאוזנר</AlternateName>
+    <Latitude>32.797965</Latitude>
+    <Longitude>35.094871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.810722</Latitude>
+    <Longitude>35.101034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרנסיסקו דה גויה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807512</Latitude>
+    <Longitude>35.140190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי הרר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801261</Latitude>
+    <Longitude>35.133381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.811097</Latitude>
+    <Longitude>35.121965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.816204</Latitude>
+    <Longitude>35.116289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.794545</Latitude>
+    <Longitude>35.093574</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802956</Latitude>
+    <Longitude>35.093039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלישר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803184</Latitude>
+    <Longitude>35.094084</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית בנימין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.796016</Latitude>
+    <Longitude>35.096334</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית נחום</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804100</Latitude>
+    <Longitude>35.072313</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803841</Latitude>
+    <Longitude>35.078567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רופין</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.815327</Latitude>
+    <Longitude>35.110408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802701</Latitude>
+    <Longitude>35.133751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.803998</Latitude>
+    <Longitude>35.095004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.788966</Latitude>
+    <Longitude>35.088342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רנה מגריט</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.802238</Latitude>
+    <Longitude>35.137686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814202</Latitude>
+    <Longitude>35.117161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.788310</Latitude>
+    <Longitude>35.088321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806933</Latitude>
+    <Longitude>35.099963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש. בן ציון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.805079</Latitude>
+    <Longitude>35.095849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804552</Latitude>
+    <Longitude>35.104830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדה בוקר</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.814672</Latitude>
+    <Longitude>35.112209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בורוכוב</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>בורוכוב</AlternateName>
+    <AlternateName>שד' בורוכוב</AlternateName>
+    <Latitude>32.808178</Latitude>
+    <Longitude>35.111297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בית וגן</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>בית וגן</AlternateName>
+    <AlternateName>שד' בית וגן</AlternateName>
+    <Latitude>32.798549</Latitude>
+    <Longitude>35.103879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות המגינים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>שד' המגינים</AlternateName>
+    <AlternateName>המגינים</AlternateName>
+    <Latitude>32.808978</Latitude>
+    <Longitude>35.107070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הציונות</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>הציונות</AlternateName>
+    <AlternateName>שד' הציונות</AlternateName>
+    <Latitude>32.804852</Latitude>
+    <Longitude>35.109192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יוספטל</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>שדרות גיורא יוספטל</AlternateName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <AlternateName>שד' יוספטל</AlternateName>
+    <AlternateName>שד' גיורא יוספטל</AlternateName>
+    <AlternateName>יוספטל</AlternateName>
+    <Latitude>32.812766</Latitude>
+    <Longitude>35.114466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות כצנלסון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <AlternateName>שד' כצנלסון</AlternateName>
+    <AlternateName>שד' קצנלסון</AlternateName>
+    <AlternateName>שדרות קצנלסון</AlternateName>
+    <AlternateName>קצנלסון</AlternateName>
+    <AlternateName>כצנלסון</AlternateName>
+    <Latitude>32.802266</Latitude>
+    <Longitude>35.107294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנת העמקים</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.801230</Latitude>
+    <Longitude>35.088975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטנד</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.800400</Latitude>
+    <Longitude>35.084505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.807171</Latitude>
+    <Longitude>35.093398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.806114</Latitude>
+    <Longitude>35.101270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.804732</Latitude>
+    <Longitude>35.072981</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תל חי</NativeName>
+    <ParentName>קרית אתא, ישראל</ParentName>
+    <Latitude>32.813743</Latitude>
+    <Longitude>35.126871</Longitude>
+  </CityRegion>
+</LocationData>

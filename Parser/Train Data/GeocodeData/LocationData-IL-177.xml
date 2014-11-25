@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך הפרדסים</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <AlternateName>הפרדסים</AlternateName>
+    <Latitude>31.877769</Latitude>
+    <Longitude>34.821295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.878456</Latitude>
+    <Longitude>34.819959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדבש</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.872999</Latitude>
+    <Longitude>34.827463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869166</Latitude>
+    <Longitude>34.826258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.870339</Latitude>
+    <Longitude>34.827245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869039</Latitude>
+    <Longitude>34.826802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחרשה</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869467</Latitude>
+    <Longitude>34.829997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.876757</Latitude>
+    <Longitude>34.821254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפעמון</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.876570</Latitude>
+    <Longitude>34.820006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפקאן</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.872654</Latitude>
+    <Longitude>34.824749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.872999</Latitude>
+    <Longitude>34.827463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869846</Latitude>
+    <Longitude>34.826795</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבורת הדרום</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.878444</Latitude>
+    <Longitude>34.819297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת גפן</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869570</Latitude>
+    <Longitude>34.825820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת חיטה</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.870873</Latitude>
+    <Longitude>34.822737</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת רימון</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.870802</Latitude>
+    <Longitude>34.823958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת תמר</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869144</Latitude>
+    <Longitude>34.825826</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון ב'</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869439</Latitude>
+    <Longitude>34.829651</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון בנים א'</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.873293</Latitude>
+    <Longitude>34.828700</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון ג'</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.869730</Latitude>
+    <Longitude>34.826476</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון ד'</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.871019</Latitude>
+    <Longitude>34.823240</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תלמים</NativeName>
+    <ParentName>כפר ביל"ו, ישראל</ParentName>
+    <Latitude>31.873910</Latitude>
+    <Longitude>34.828622</Longitude>
+  </Street>
+</LocationData>

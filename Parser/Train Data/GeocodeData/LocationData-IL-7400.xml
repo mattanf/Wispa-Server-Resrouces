@@ -1,0 +1,4205 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.333141</Latitude>
+    <Longitude>34.857991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא אחימאיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>אחימאיר</AlternateName>
+    <Latitude>32.321124</Latitude>
+    <Longitude>34.852268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבא הלל סילבר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330358</Latitude>
+    <Longitude>34.867053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313157</Latitude>
+    <Longitude>34.856791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנר בן נר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334090</Latitude>
+    <Longitude>34.867653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם אבו שדיד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319553</Latitude>
+    <Longitude>34.852373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם מרק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313991</Latitude>
+    <Longitude>34.885825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם פרידר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310757</Latitude>
+    <Longitude>34.853221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם קריניצי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.293810</Latitude>
+    <Longitude>34.850549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם שלונסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.285908</Latitude>
+    <Longitude>34.852523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם שפירא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323283</Latitude>
+    <Longitude>34.858427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אד"ם הכהן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.279820</Latitude>
+    <Longitude>34.850185</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדולף שטנד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282130</Latitude>
+    <Longitude>34.848280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271952</Latitude>
+    <Longitude>34.848092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295428</Latitude>
+    <Longitude>34.871327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד בן גרא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334805</Latitude>
+    <Longitude>34.869846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד מנור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.276631</Latitude>
+    <Longitude>34.838892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון ברט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330592</Latitude>
+    <Longitude>34.861634</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אולפן עקיבא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.269412</Latitude>
+    <Longitude>34.838152</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.327668</Latitude>
+    <Longitude>34.851507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317058</Latitude>
+    <Longitude>34.873993</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י דקר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.347532</Latitude>
+    <Longitude>34.857442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326359</Latitude>
+    <Longitude>34.859245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחרית הימים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.351104</Latitude>
+    <Longitude>34.861691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אייזיק רמבה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316600</Latitude>
+    <Longitude>34.853757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אייר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297036</Latitude>
+    <Longitude>34.875386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס הארגמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.286150</Latitude>
+    <Longitude>34.846356</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלול</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297141</Latitude>
+    <Longitude>34.874782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלומות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320177</Latitude>
+    <Longitude>34.888608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון צבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326359</Latitude>
+    <Longitude>34.859245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוני אבא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321241</Latitude>
+    <Longitude>34.864363</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלוף אסף שמחוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>אסף שמחוני</AlternateName>
+    <Latitude>32.340397</Latitude>
+    <Longitude>34.861934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313121</Latitude>
+    <Longitude>34.858213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327344</Latitude>
+    <Longitude>34.863773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339195</Latitude>
+    <Longitude>34.864599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הגלעדי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.328306</Latitude>
+    <Longitude>34.863487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו התשבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295838</Latitude>
+    <Longitude>34.857527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר בן יהודה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322080</Latitude>
+    <Longitude>34.851752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר קפלן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319994</Latitude>
+    <Longitude>34.885760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294737</Latitude>
+    <Longitude>34.857808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר זייד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.312975</Latitude>
+    <Longitude>34.880903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר ינאי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314578</Latitude>
+    <Longitude>34.858659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקלעי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>אלקלאי</AlternateName>
+    <Latitude>32.333516</Latitude>
+    <Longitude>34.870952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275773</Latitude>
+    <Longitude>34.848466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמרי יוסף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329925</Latitude>
+    <Longitude>34.863509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנדה עמיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338126</Latitude>
+    <Longitude>34.867136</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אנדרטת חטיבת אלכסנדרוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.302740</Latitude>
+    <Longitude>34.849963</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אנדריוס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335346</Latitude>
+    <Longitude>34.854656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנטוורפן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343708</Latitude>
+    <Longitude>34.863620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו סירני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271247</Latitude>
+    <Longitude>34.845313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310011</Latitude>
+    <Longitude>34.877571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים אלנקווה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294510</Latitude>
+    <Longitude>34.849347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337708</Latitude>
+    <Longitude>34.866998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344579</Latitude>
+    <Longitude>34.867069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.317568</Latitude>
+    <Longitude>34.861407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אקסודוס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296979</Latitude>
+    <Longitude>34.841696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בן אליעזר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319741</Latitude>
+    <Longitude>34.857573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה לוין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.279537</Latitude>
+    <Longitude>34.855160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה לייב יפה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.283312</Latitude>
+    <Longitude>34.846414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה מוצקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297911</Latitude>
+    <Longitude>34.848926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה רגב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281597</Latitude>
+    <Longitude>34.863114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריק לביא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280073</Latitude>
+    <Longitude>34.843555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298748</Latitude>
+    <Longitude>34.871056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337766</Latitude>
+    <Longitude>34.860914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336746</Latitude>
+    <Longitude>34.856234</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס שובו למדעים אומנות ומסורת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311050</Latitude>
+    <Longitude>34.880888</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס שובו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330468</Latitude>
+    <Longitude>34.865240</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.331995</Latitude>
+    <Longitude>34.852713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337432</Latitude>
+    <Longitude>34.857871</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית גולדמינץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300620</Latitude>
+    <Longitude>34.842842</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בית מרקחת נאות שקד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295066</Latitude>
+    <Longitude>34.850606</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בלומנפלד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.299279</Latitude>
+    <Longitude>34.844906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344474</Latitude>
+    <Longitude>34.862366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן איש חי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.345516</Latitude>
+    <Longitude>34.859251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן זכאי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבן יוחנן בן זכאי</AlternateName>
+    <Latitude>32.339003</Latitude>
+    <Longitude>34.869832</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן ציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314283</Latitude>
+    <Longitude>34.860935</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בני בנימין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296394</Latitude>
+    <Longitude>34.842401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני ברמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.279689</Latitude>
+    <Longitude>34.845054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני גאון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275918</Latitude>
+    <Longitude>34.862310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני וו. רייך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294964</Latitude>
+    <Longitude>34.871309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני יששכר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343452</Latitude>
+    <Longitude>34.855820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין מינץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327455</Latitude>
+    <Longitude>34.863980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337492</Latitude>
+    <Longitude>34.864942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך רם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319854</Latitude>
+    <Longitude>34.846962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך שפינוזה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340805</Latitude>
+    <Longitude>34.871692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוריה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298144</Latitude>
+    <Longitude>34.859309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298945</Latitude>
+    <Longitude>34.875175</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק בן אבינועם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333384</Latitude>
+    <Longitude>34.868899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת חן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301456</Latitude>
+    <Longitude>34.877662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבע</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323938</Latitude>
+    <Longitude>34.861764</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת האירוסים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.285924</Latitude>
+    <Longitude>34.847796</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעת חיים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336216</Latitude>
+    <Longitude>34.857161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד מכנס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327078</Latitude>
+    <Longitude>34.849329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד מנלה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.285031</Latitude>
+    <Longitude>34.862346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדליהו בובליק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317722</Latitude>
+    <Longitude>34.888551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332816</Latitude>
+    <Longitude>34.868843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולי קניה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313886</Latitude>
+    <Longitude>34.861179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ניצנים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326176</Latitude>
+    <Longitude>34.871651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי קאוקז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306532</Latitude>
+    <Longitude>34.859551</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן אברהם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321261</Latitude>
+    <Longitude>34.859744</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן ברכה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334321</Latitude>
+    <Longitude>34.869050</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן כיכר אליעזר ריגלר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334924</Latitude>
+    <Longitude>34.864227</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרשון ש"ץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317468</Latitude>
+    <Longitude>34.853294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר אמיל זומרשטיין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>אמיל זומרשטיין</AlternateName>
+    <AlternateName>דוקטור אמיל זומרשטיין</AlternateName>
+    <Latitude>32.340327</Latitude>
+    <Longitude>34.858569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר בקמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>בקמן</AlternateName>
+    <AlternateName>דוקטור בקמן</AlternateName>
+    <Latitude>32.331173</Latitude>
+    <Longitude>34.855463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר זמנהוף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דוקטור זמנהוף</AlternateName>
+    <AlternateName>זמנהוף</AlternateName>
+    <Latitude>32.319957</Latitude>
+    <Longitude>34.854372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר חיים בן עמר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>חיים בן עמר</AlternateName>
+    <AlternateName>דוקטור חיים בן עמר</AlternateName>
+    <Latitude>32.344159</Latitude>
+    <Longitude>34.864515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר יהודה פרח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>יהודה פרח</AlternateName>
+    <AlternateName>דוקטור יהודה פרח</AlternateName>
+    <Latitude>32.303017</Latitude>
+    <Longitude>34.871592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר יהושע טהון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ד"ר יהושוע טהון</AlternateName>
+    <AlternateName>יהושוע טהון</AlternateName>
+    <AlternateName>יהושע טהון</AlternateName>
+    <AlternateName>דוקטור יהושע טהון</AlternateName>
+    <AlternateName>דוקטור יהושוע טהון</AlternateName>
+    <Latitude>32.339666</Latitude>
+    <Longitude>34.856461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר מאיר אבנר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מאיר אבנר</AlternateName>
+    <AlternateName>דוקטור מאיר אבנר</AlternateName>
+    <Latitude>32.325441</Latitude>
+    <Longitude>34.872957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר מרדכי שריבר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מרדכי שריבר</AlternateName>
+    <AlternateName>דוקטור מרדכי שריבר</AlternateName>
+    <Latitude>32.323048</Latitude>
+    <Longitude>34.859472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר סטופ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>סטופ</AlternateName>
+    <AlternateName>דוקטור סטופ</AlternateName>
+    <Latitude>32.296781</Latitude>
+    <Longitude>34.850030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר שמורק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שמורק</AlternateName>
+    <AlternateName>דוקטור שמורק</AlternateName>
+    <Latitude>32.295942</Latitude>
+    <Longitude>34.851781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר תיאודור וייסלברגר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>תיאודור וייסלברגר</AlternateName>
+    <AlternateName>דוקטור תיאודור וייסלברגר</AlternateName>
+    <Latitude>32.283276</Latitude>
+    <Longitude>34.852507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319137</Latitude>
+    <Longitude>34.859559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336307</Latitude>
+    <Longitude>34.868864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה בארון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338354</Latitude>
+    <Longitude>34.868621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326184</Latitude>
+    <Longitude>34.874981</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דברי חיים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344821</Latitude>
+    <Longitude>34.857059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.332251</Latitude>
+    <Longitude>34.851432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד וולפסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד וולפסון</AlternateName>
+    <Latitude>32.327460</Latitude>
+    <Longitude>34.874622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד ילין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד ילין</AlternateName>
+    <Latitude>32.330671</Latitude>
+    <Longitude>34.863562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פנקס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד פנקס</AlternateName>
+    <Latitude>32.318574</Latitude>
+    <Longitude>34.874065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פרישמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד פרישמן</AlternateName>
+    <Latitude>32.331365</Latitude>
+    <Longitude>34.869209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזניק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד רזניק</AlternateName>
+    <Latitude>32.294057</Latitude>
+    <Longitude>34.844332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.327037</Latitude>
+    <Longitude>34.854002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דודו דותן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.276428</Latitude>
+    <Longitude>34.841151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.307906</Latitude>
+    <Longitude>34.882933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דון יוסף הנשיא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311033</Latitude>
+    <Longitude>34.859314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דונה גרצ'יה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311048</Latitude>
+    <Longitude>34.858548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דיזנגוף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דיזינגוף</AlternateName>
+    <AlternateName>דזנגוף</AlternateName>
+    <Latitude>32.329076</Latitude>
+    <Longitude>34.853437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן שומרון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310727</Latitude>
+    <Longitude>34.861376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298385</Latitude>
+    <Longitude>34.872360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294645</Latitude>
+    <Longitude>34.857182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דר' ישראל בורגנסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318856</Latitude>
+    <Longitude>34.850861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך דגניה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דגניה</AlternateName>
+    <Latitude>32.310598</Latitude>
+    <Longitude>34.875924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך דון יצחק אברבנאל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>דון יצחק אברבנאל</AlternateName>
+    <Latitude>32.319064</Latitude>
+    <Longitude>34.862531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הירדן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הירדן</AlternateName>
+    <Latitude>32.324678</Latitude>
+    <Longitude>34.870839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפארק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הפארק</AlternateName>
+    <Latitude>32.300892</Latitude>
+    <Longitude>34.879635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרכבת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרכבת</AlternateName>
+    <Latitude>32.322083</Latitude>
+    <Longitude>34.868319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רזיאל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רזיאל</AlternateName>
+    <Latitude>32.330084</Latitude>
+    <Longitude>34.862205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ה 93</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322729</Latitude>
+    <Longitude>34.864921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האדמו"ר מויז'ניץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323463</Latitude>
+    <Longitude>34.857467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האומנות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.277740</Latitude>
+    <Longitude>34.860912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האוניברסיטה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306908</Latitude>
+    <Longitude>34.877516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318668</Latitude>
+    <Longitude>34.874177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורזים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319668</Latitude>
+    <Longitude>34.871728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.303077</Latitude>
+    <Longitude>34.875629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318307</Latitude>
+    <Longitude>34.848486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריסים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271473</Latitude>
+    <Longitude>34.841640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האניה ארינופורה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.347585</Latitude>
+    <Longitude>34.856131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.312036</Latitude>
+    <Longitude>34.863454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארבל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306844</Latitude>
+    <Longitude>34.872115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300792</Latitude>
+    <Longitude>34.877088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.351337</Latitude>
+    <Longitude>34.859217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבונים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280236</Latitude>
+    <Longitude>34.861659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הביכורים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350078</Latitude>
+    <Longitude>34.857644</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברבור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.303434</Latitude>
+    <Longitude>34.882452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריגדה היהודית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296508</Latitude>
+    <Longitude>34.844568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306403</Latitude>
+    <Longitude>34.871393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאולה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315524</Latitude>
+    <Longitude>34.857819</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגביש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.288687</Latitude>
+    <Longitude>34.862571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.348111</Latitude>
+    <Longitude>34.858730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגוזל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.307408</Latitude>
+    <Longitude>34.884814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308701</Latitude>
+    <Longitude>34.871093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגילה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315109</Latitude>
+    <Longitude>34.847487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.324833</Latitude>
+    <Longitude>34.854413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.324125</Latitude>
+    <Longitude>34.854213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309044</Latitude>
+    <Longitude>34.872303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349653</Latitude>
+    <Longitude>34.861418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310400</Latitude>
+    <Longitude>34.857395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדודאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274732</Latitude>
+    <Longitude>34.850857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדיצה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315919</Latitude>
+    <Longitude>34.846724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדליות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272158</Latitude>
+    <Longitude>34.840288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדף היומי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344733</Latitude>
+    <Longitude>34.860098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301191</Latitude>
+    <Longitude>34.875086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349712</Latitude>
+    <Longitude>34.864013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308183</Latitude>
+    <Longitude>34.884271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339849</Latitude>
+    <Longitude>34.865949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270493</Latitude>
+    <Longitude>34.842300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335049</Latitude>
+    <Longitude>34.855921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדוף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271963</Latitude>
+    <Longitude>34.841310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההשכלה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308555</Latitude>
+    <Longitude>34.881096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הולנד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.345360</Latitude>
+    <Longitude>34.865778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271192</Latitude>
+    <Longitude>34.841832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308855</Latitude>
+    <Longitude>34.845187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.351166</Latitude>
+    <Longitude>34.863083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306258</Latitude>
+    <Longitude>34.882821</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החדוה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314620</Latitude>
+    <Longitude>34.846433</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החוזה מלובלין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.342545</Latitude>
+    <Longitude>34.856652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350185</Latitude>
+    <Longitude>34.856607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החינוך העברי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308110</Latitude>
+    <Longitude>34.877661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החסידה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.304522</Latitude>
+    <Longitude>34.882128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החפץ חיים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295504</Latitude>
+    <Longitude>34.844995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצבים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.269555</Latitude>
+    <Longitude>34.841724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349143</Latitude>
+    <Longitude>34.861329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309015</Latitude>
+    <Longitude>34.870715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333084</Latitude>
+    <Longitude>34.862311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטורים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317110</Latitude>
+    <Longitude>34.863210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הידידות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317347</Latitude>
+    <Longitude>34.848631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329175</Latitude>
+    <Longitude>34.860412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלומן אברהמס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311201</Latitude>
+    <Longitude>34.851315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היינריך צבי גרץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320525</Latitude>
+    <Longitude>34.889223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270919</Latitude>
+    <Longitude>34.838820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275879</Latitude>
+    <Longitude>34.857883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכהן דוד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הכהן דויד</AlternateName>
+    <Latitude>32.309681</Latitude>
+    <Longitude>34.879968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכובשים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340571</Latitude>
+    <Longitude>34.864731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350781</Latitude>
+    <Longitude>34.860350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325613</Latitude>
+    <Longitude>34.854642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.324741</Latitude>
+    <Longitude>34.861579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלבנון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332086</Latitude>
+    <Longitude>34.866430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272246</Latitude>
+    <Longitude>34.841885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל צייטלין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330583</Latitude>
+    <Longitude>34.869449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגיד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332076</Latitude>
+    <Longitude>34.865464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המדע</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.290401</Latitude>
+    <Longitude>34.864973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המורן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301433</Latitude>
+    <Longitude>34.878351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחקר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.291415</Latitude>
+    <Longitude>34.863009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחשב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.287680</Latitude>
+    <Longitude>34.864567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329928</Latitude>
+    <Longitude>34.855626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280652</Latitude>
+    <Longitude>34.859320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המליץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332229</Latitude>
+    <Longitude>34.865835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלכים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.347632</Latitude>
+    <Longitude>34.855132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320956</Latitude>
+    <Longitude>34.878043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333925</Latitude>
+    <Longitude>34.851164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגניות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270133</Latitude>
+    <Longitude>34.840218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333549</Latitude>
+    <Longitude>34.864160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרכבה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314880</Latitude>
+    <Longitude>34.873319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתמיד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332029</Latitude>
+    <Longitude>34.852558</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296960</Latitude>
+    <Longitude>34.856633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.324426</Latitude>
+    <Longitude>34.853474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316218</Latitude>
+    <Longitude>34.874448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטע</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326924</Latitude>
+    <Longitude>34.855933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנופר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301480</Latitude>
+    <Longitude>34.876603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270135</Latitude>
+    <Longitude>34.840122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295971</Latitude>
+    <Longitude>34.849283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350817</Latitude>
+    <Longitude>34.859096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306690</Latitude>
+    <Longitude>34.882770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הספורטאי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313630</Latitude>
+    <Longitude>34.863320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296392</Latitude>
+    <Longitude>34.853843</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319668</Latitude>
+    <Longitude>34.871728</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329879</Latitude>
+    <Longitude>34.851999</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הפועל הצעיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317794</Latitude>
+    <Longitude>34.883987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפורצים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325291</Latitude>
+    <Longitude>34.862742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלדה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319217</Latitude>
+    <Longitude>34.877855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרגים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274277</Latitude>
+    <Longitude>34.849958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343908</Latitude>
+    <Longitude>34.861461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצורן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.288876</Latitude>
+    <Longitude>34.865611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.324730</Latitude>
+    <Longitude>34.862310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפירה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332234</Latitude>
+    <Longitude>34.866157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקבלה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309609</Latitude>
+    <Longitude>34.845568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקדר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322558</Latitude>
+    <Longitude>34.878892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקליר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315359</Latitude>
+    <Longitude>34.860223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310394</Latitude>
+    <Longitude>34.871547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר ציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325382</Latitude>
+    <Longitude>34.853999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שגיא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.306642</Latitude>
+    <Longitude>34.870622</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אבו חצירא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי אבו חצירא</AlternateName>
+    <AlternateName>הרבי אבו חצירא</AlternateName>
+    <AlternateName>אבו חצירא</AlternateName>
+    <Latitude>32.286169</Latitude>
+    <Longitude>34.856063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אהרונסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי אהרונסון</AlternateName>
+    <AlternateName>אהרונסון</AlternateName>
+    <AlternateName>רבי אהרונסון</AlternateName>
+    <Latitude>32.311589</Latitude>
+    <Longitude>34.853909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אליהו גוטמכר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי אליהו גוטמכר</AlternateName>
+    <AlternateName>אליהו גוטמכר</AlternateName>
+    <AlternateName>הרבי אליהו גוטמכר</AlternateName>
+    <Latitude>32.317727</Latitude>
+    <Longitude>34.889440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב אלימלך נויפלד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי אלימלך נויפלד</AlternateName>
+    <AlternateName>אלימלך נויפלד</AlternateName>
+    <AlternateName>רבי אלימלך נויפלד</AlternateName>
+    <Latitude>32.312285</Latitude>
+    <Longitude>34.883505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בן מאיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>בן מאיר</AlternateName>
+    <AlternateName>רבי בן מאיר</AlternateName>
+    <AlternateName>הרבי בן מאיר</AlternateName>
+    <Latitude>32.313641</Latitude>
+    <Longitude>34.886780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ברוך הלברשטם מגורליץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי ברוך הלברשטם מגורליץ</AlternateName>
+    <AlternateName>הרבי ברוך הלברשטם מגורליץ</AlternateName>
+    <AlternateName>ברוך הלברשטם מגורליץ</AlternateName>
+    <Latitude>32.342135</Latitude>
+    <Longitude>34.855581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גד מכלוף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>גד מכלוף</AlternateName>
+    <AlternateName>רבי גד מכלוף</AlternateName>
+    <AlternateName>הרבי גד מכלוף</AlternateName>
+    <Latitude>32.312016</Latitude>
+    <Longitude>34.885608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הגר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הגר</AlternateName>
+    <AlternateName>הרבי הגר</AlternateName>
+    <AlternateName>רבי הגר</AlternateName>
+    <Latitude>32.313471</Latitude>
+    <Longitude>34.885030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב וורנר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי וורנר</AlternateName>
+    <AlternateName>הרבי וורנר</AlternateName>
+    <AlternateName>וורנר</AlternateName>
+    <Latitude>32.330028</Latitude>
+    <Longitude>34.852880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ז. גולד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי ז. גולד</AlternateName>
+    <AlternateName>ז. גולד</AlternateName>
+    <AlternateName>הרבי ז. גולד</AlternateName>
+    <Latitude>32.310614</Latitude>
+    <Longitude>34.884936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב זוארץ פריג'ה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי זוארץ פריג'ה</AlternateName>
+    <AlternateName>הרבי זוארץ פריג'ה</AlternateName>
+    <AlternateName>זוארץ פריג'ה</AlternateName>
+    <Latitude>32.314334</Latitude>
+    <Longitude>34.887230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חי טייב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי חי טייב</AlternateName>
+    <AlternateName>הרבי חי טייב</AlternateName>
+    <AlternateName>חי טייב</AlternateName>
+    <Latitude>32.346278</Latitude>
+    <Longitude>34.858281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חרל"פ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>חרל"פ</AlternateName>
+    <AlternateName>רבי חרל"פ</AlternateName>
+    <AlternateName>הרבי חרל"פ</AlternateName>
+    <Latitude>32.311874</Latitude>
+    <Longitude>34.860168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב טביב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>טביב</AlternateName>
+    <AlternateName>הרבי טביב</AlternateName>
+    <AlternateName>רבי טביב</AlternateName>
+    <Latitude>32.315837</Latitude>
+    <Longitude>34.855749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב טולדנו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי טולדנו</AlternateName>
+    <AlternateName>רבי טולדנו</AlternateName>
+    <AlternateName>טולדנו</AlternateName>
+    <Latitude>32.309497</Latitude>
+    <Longitude>34.880630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יהודה אונטרמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי יהודה אונטרמן</AlternateName>
+    <AlternateName>הרבי יהודה אונטרמן</AlternateName>
+    <AlternateName>יהודה אונטרמן</AlternateName>
+    <Latitude>32.310680</Latitude>
+    <Longitude>34.877218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף ריבלין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי יוסף ריבלין</AlternateName>
+    <AlternateName>יוסף ריבלין</AlternateName>
+    <AlternateName>רבי יוסף ריבלין</AlternateName>
+    <Latitude>32.333141</Latitude>
+    <Longitude>34.857991</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יעקב רקח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי יעקב רקח</AlternateName>
+    <AlternateName>יעקב רקח</AlternateName>
+    <AlternateName>רבי יעקב רקח</AlternateName>
+    <Latitude>32.315036</Latitude>
+    <Longitude>34.888525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק בן חנן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי יצחק בן חנן</AlternateName>
+    <AlternateName>רבי יצחק בן חנן</AlternateName>
+    <AlternateName>יצחק בן חנן</AlternateName>
+    <Latitude>32.312282</Latitude>
+    <Longitude>34.887864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק הלוי מברדיצ'ב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי יצחק הלוי מברדיצ'ב</AlternateName>
+    <AlternateName>יצחק הלוי מברדיצ'ב</AlternateName>
+    <AlternateName>הרבי יצחק הלוי מברדיצ'ב</AlternateName>
+    <Latitude>32.279360</Latitude>
+    <Longitude>34.853834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק ניסנבוים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי יצחק ניסנבוים</AlternateName>
+    <AlternateName>רבי יצחק ניסנבוים</AlternateName>
+    <AlternateName>יצחק ניסנבוים</AlternateName>
+    <Latitude>32.330229</Latitude>
+    <Longitude>34.864306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מ. נורוק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מ. נורוק</AlternateName>
+    <AlternateName>הרבי מ. נורוק</AlternateName>
+    <AlternateName>רבי מ. נורוק</AlternateName>
+    <Latitude>32.339651</Latitude>
+    <Longitude>34.855446</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מזא"ה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מזא"ה</AlternateName>
+    <AlternateName>הרבי מזא"ה</AlternateName>
+    <AlternateName>רבי מזא"ה</AlternateName>
+    <Latitude>32.343059</Latitude>
+    <Longitude>34.869495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מכלוף יאנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי מכלוף יאנה</AlternateName>
+    <AlternateName>רבי מכלוף יאנה</AlternateName>
+    <AlternateName>מכלוף יאנה</AlternateName>
+    <Latitude>32.308426</Latitude>
+    <Longitude>34.875634</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מנחם זמבה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי מנחם זמבה</AlternateName>
+    <AlternateName>רבי מנחם זמבה</AlternateName>
+    <AlternateName>מנחם זמבה</AlternateName>
+    <Latitude>32.317994</Latitude>
+    <Longitude>34.887272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משה הלוי לוין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי משה הלוי לוין</AlternateName>
+    <AlternateName>הרבי משה הלוי לוין</AlternateName>
+    <AlternateName>משה הלוי לוין</AlternateName>
+    <Latitude>32.310099</Latitude>
+    <Longitude>34.878585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב משולם ראט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>משולם ראט</AlternateName>
+    <AlternateName>הרבי משולם ראט</AlternateName>
+    <AlternateName>רבי משולם ראט</AlternateName>
+    <Latitude>32.310190</Latitude>
+    <Longitude>34.853089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב נריה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי נריה</AlternateName>
+    <AlternateName>נריה</AlternateName>
+    <AlternateName>רבי נריה</AlternateName>
+    <Latitude>32.300152</Latitude>
+    <Longitude>34.876094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עמיאל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי עמיאל</AlternateName>
+    <AlternateName>עמיאל</AlternateName>
+    <AlternateName>הרבי עמיאל</AlternateName>
+    <Latitude>32.311589</Latitude>
+    <Longitude>34.853909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב פרנקל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי פראנקל</AlternateName>
+    <AlternateName>פראנקל</AlternateName>
+    <AlternateName>רבי פרנקל</AlternateName>
+    <AlternateName>הרבי פראנקל</AlternateName>
+    <AlternateName>הרבי פרנקל</AlternateName>
+    <AlternateName>הרב פראנקל</AlternateName>
+    <AlternateName>פרנקל</AlternateName>
+    <Latitude>32.337804</Latitude>
+    <Longitude>34.854741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צבי הירש קלישר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>צבי הירש קלישר</AlternateName>
+    <AlternateName>רבי צבי הירש קלישר</AlternateName>
+    <AlternateName>הרבי צבי הירש קלישר</AlternateName>
+    <Latitude>32.330496</Latitude>
+    <Longitude>34.863840</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב צירלסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>צירלסון</AlternateName>
+    <AlternateName>רבי צירלסון</AlternateName>
+    <AlternateName>הרבי צירלסון</AlternateName>
+    <Latitude>32.310415</Latitude>
+    <Longitude>34.882158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.334817</Latitude>
+    <Longitude>34.854560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב ריינס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי ריינס</AlternateName>
+    <AlternateName>רבי ריינס</AlternateName>
+    <AlternateName>ריינס</AlternateName>
+    <Latitude>32.334964</Latitude>
+    <Longitude>34.865365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב רפאל אנקווה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רבי רפאל אנקווה</AlternateName>
+    <AlternateName>רפאל אנקווה</AlternateName>
+    <AlternateName>הרבי רפאל אנקווה</AlternateName>
+    <Latitude>32.285698</Latitude>
+    <Longitude>34.856030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שבח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי שבח</AlternateName>
+    <AlternateName>רבי שבח</AlternateName>
+    <AlternateName>שבח</AlternateName>
+    <Latitude>32.318730</Latitude>
+    <Longitude>34.858153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלום איפרגן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי שלום איפרגן</AlternateName>
+    <AlternateName>שלום איפרגן</AlternateName>
+    <AlternateName>רבי שלום איפרגן</AlternateName>
+    <Latitude>32.297636</Latitude>
+    <Longitude>34.875673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרופאה רבקה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334714</Latitude>
+    <Longitude>34.864365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרטום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309397</Latitude>
+    <Longitude>34.875310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.352333</Latitude>
+    <Longitude>34.865661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרינה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315041</Latitude>
+    <Longitude>34.846626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315409</Latitude>
+    <Longitude>34.874429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמ"א</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344419</Latitude>
+    <Longitude>34.856019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרעות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318148</Latitude>
+    <Longitude>34.849071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325752</Latitude>
+    <Longitude>34.864609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349026</Latitude>
+    <Longitude>34.860135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השבעה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320798</Latitude>
+    <Longitude>34.850378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310814</Latitude>
+    <Longitude>34.880560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334396</Latitude>
+    <Longitude>34.866161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349301</Latitude>
+    <Longitude>34.858959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.305413</Latitude>
+    <Longitude>34.882304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.284839</Latitude>
+    <Longitude>34.864699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השילוח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.331558</Latitude>
+    <Longitude>34.866576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.351540</Latitude>
+    <Longitude>34.865603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317876</Latitude>
+    <Longitude>34.874127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השעורה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.349945</Latitude>
+    <Longitude>34.857633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.351765</Latitude>
+    <Longitude>34.863241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השר בכור שטרית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281437</Latitude>
+    <Longitude>34.854756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350600</Latitude>
+    <Longitude>34.864321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התהילה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.307021</Latitude>
+    <Longitude>34.844660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.304188</Latitude>
+    <Longitude>34.883179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התלתן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296525</Latitude>
+    <Longitude>34.877506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.353216</Latitude>
+    <Longitude>34.865832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338621</Latitude>
+    <Longitude>34.868871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנועה הציונית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344827</Latitude>
+    <Longitude>34.865001</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקופה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332449</Latitude>
+    <Longitude>34.867117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התרופה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.283038</Latitude>
+    <Longitude>34.861824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וינסטון צ'רצ'יל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343161</Latitude>
+    <Longitude>34.863528</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ועידת הלסינקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297627</Latitude>
+    <Longitude>34.854701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300330</Latitude>
+    <Longitude>34.871503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זהבית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272233</Latitude>
+    <Longitude>34.850143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן ארן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281939</Latitude>
+    <Longitude>34.850101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שז"ר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275866</Latitude>
+    <Longitude>34.845386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.283477</Latitude>
+    <Longitude>34.848854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.345720</Latitude>
+    <Longitude>34.860192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323271</Latitude>
+    <Longitude>34.865039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת החוף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.285327</Latitude>
+    <Longitude>34.847239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297558</Latitude>
+    <Longitude>34.859411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חולדה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298123</Latitude>
+    <Longitude>34.860339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.279761</Latitude>
+    <Longitude>34.852609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301565</Latitude>
+    <Longitude>34.851341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גבעתי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301311</Latitude>
+    <Longitude>34.847705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת הראל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301853</Latitude>
+    <Longitude>34.848365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת קרייתי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301254</Latitude>
+    <Longitude>34.846270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיבת ציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327179</Latitude>
+    <Longitude>34.853189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ארלוזורוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>חיים ארלוזרוב</AlternateName>
+    <Latitude>32.313526</Latitude>
+    <Longitude>34.880177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים בן עטר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316147</Latitude>
+    <Longitude>34.857177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הזז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338615</Latitude>
+    <Longitude>34.867194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ויסבורג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320472</Latitude>
+    <Longitude>34.860206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לבנון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325171</Latitude>
+    <Longitude>34.876601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272276</Latitude>
+    <Longitude>34.844342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמונית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.273783</Latitude>
+    <Longitude>34.851733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323856</Latitude>
+    <Longitude>34.865929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפציבה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310099</Latitude>
+    <Longitude>34.885930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.286702</Latitude>
+    <Longitude>34.851029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חשוון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297043</Latitude>
+    <Longitude>34.872345</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חת"ם סופר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311591</Latitude>
+    <Longitude>34.856983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297125</Latitude>
+    <Longitude>34.870574</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>טוברוק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311740</Latitude>
+    <Longitude>34.852349</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>טיומקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321535</Latitude>
+    <Longitude>34.859542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340592</Latitude>
+    <Longitude>34.863619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321588</Latitude>
+    <Longitude>34.853999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.מ. פינס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329389</Latitude>
+    <Longitude>34.863265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר אברהם שטרן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321588</Latitude>
+    <Longitude>34.853999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280212</Latitude>
+    <Longitude>34.851169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.331411</Latitude>
+    <Longitude>34.866028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל מוסינזון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338027</Latitude>
+    <Longitude>34.867803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יד חרוצים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282392</Latitude>
+    <Longitude>34.864763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה בוכנר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309879</Latitude>
+    <Longitude>34.879290</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320919</Latitude>
+    <Longitude>34.856930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338412</Latitude>
+    <Longitude>34.856566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300864</Latitude>
+    <Longitude>34.870450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.334396</Latitude>
+    <Longitude>34.866161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע שטמפפר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>יהושוע שטמפפר</AlternateName>
+    <Latitude>32.328351</Latitude>
+    <Longitude>34.854516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334237</Latitude>
+    <Longitude>34.866954</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל סלומון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333057</Latitude>
+    <Longitude>34.855521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן הסנדלר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337283</Latitude>
+    <Longitude>34.868275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה הנביא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298546</Latitude>
+    <Longitude>34.861524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה וולך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338446</Latitude>
+    <Longitude>34.868317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסי בן יוסי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314680</Latitude>
+    <Longitude>34.859461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסי בנאי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.278388</Latitude>
+    <Longitude>34.842508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף אהרונוביץ'</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319036</Latitude>
+    <Longitude>34.883960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף בוסל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314259</Latitude>
+    <Longitude>34.879487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף ספיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.328497</Latitude>
+    <Longitude>34.859341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שפרינצק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314553</Latitude>
+    <Longitude>34.885230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297732</Latitude>
+    <Longitude>34.871393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יותם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335480</Latitude>
+    <Longitude>34.866962</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל בן בוזי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.299727</Latitude>
+    <Longitude>34.856330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיא הלוי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313143</Latitude>
+    <Longitude>34.857440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336270</Latitude>
+    <Longitude>34.861306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל אשת חבר הקיני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309677</Latitude>
+    <Longitude>34.876568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב גרינברג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316165</Latitude>
+    <Longitude>34.887893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב דורי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298276</Latitude>
+    <Longitude>34.846625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב וייס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319066</Latitude>
+    <Longitude>34.860839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב שיפר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281787</Latitude>
+    <Longitude>34.847732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפתח הגלעדי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335296</Latitude>
+    <Longitude>34.870025</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק אהרוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319693</Latitude>
+    <Longitude>34.861682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק אפשטיין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280837</Latitude>
+    <Longitude>34.850165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק גרינבוים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294883</Latitude>
+    <Longitude>34.850370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק הנפח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337041</Latitude>
+    <Longitude>34.868166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק מודעי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.293570</Latitude>
+    <Longitude>34.843553</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק קצנלסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>יצחק כצנלסון</AlternateName>
+    <Latitude>32.285408</Latitude>
+    <Longitude>34.853410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340996</Latitude>
+    <Longitude>34.862450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שטייגר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326061</Latitude>
+    <Longitude>34.873035</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272995</Latitude>
+    <Longitude>34.851482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו הלפרין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320111</Latitude>
+    <Longitude>34.850184</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300454</Latitude>
+    <Longitude>34.855291</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ישיבת יד אברהם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.312434</Latitude>
+    <Longitude>34.887224</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300537</Latitude>
+    <Longitude>34.854722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל גלילי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270479</Latitude>
+    <Longitude>34.845810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל פוליאקוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281455</Latitude>
+    <Longitude>34.840429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יששכר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300733</Latitude>
+    <Longitude>34.872291</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אליעזר ריגלר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר אליעזר ריגלר</AlternateName>
+    <Latitude>32.334505</Latitude>
+    <Longitude>34.864231</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר אמני ישראל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר אמני ישראל</AlternateName>
+    <Latitude>32.278388</Latitude>
+    <Longitude>34.842508</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר בנימין מטלון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר בנימין מטלון</AlternateName>
+    <Latitude>32.316897</Latitude>
+    <Longitude>34.846419</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר הבנים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר הבנים</AlternateName>
+    <Latitude>32.315203</Latitude>
+    <Longitude>34.885932</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיכר העצמאות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר העצמאות</AlternateName>
+    <Latitude>32.330768</Latitude>
+    <Longitude>34.851007</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר יהודית ואריה בילו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר יהודית ואריה בילו</AlternateName>
+    <Latitude>32.331840</Latitude>
+    <Longitude>34.856572</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר ציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר ציון</AlternateName>
+    <Latitude>32.328919</Latitude>
+    <Longitude>34.856427</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר רוטרי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ככר רוטרי</AlternateName>
+    <Latitude>32.319777</Latitude>
+    <Longitude>34.848433</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כסלו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297732</Latitude>
+    <Longitude>34.871393</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפר אוריה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.303483</Latitude>
+    <Longitude>34.852519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפר תבור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.283191</Latitude>
+    <Longitude>34.850054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338018</Latitude>
+    <Longitude>34.869038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לבונטין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323048</Latitude>
+    <Longitude>34.859472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298198</Latitude>
+    <Longitude>34.847801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי שושן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280447</Latitude>
+    <Longitude>34.855282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.302226</Latitude>
+    <Longitude>34.870722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317940</Latitude>
+    <Longitude>34.864645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליאון רייך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340496</Latitude>
+    <Longitude>34.856533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבסקינד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321865</Latitude>
+    <Longitude>34.864629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבר זאב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300330</Latitude>
+    <Longitude>34.871503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325253</Latitude>
+    <Longitude>34.858760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר בר אילן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335746</Latitude>
+    <Longitude>34.862739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאירוביץ'</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326785</Latitude>
+    <Longitude>34.856652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282883</Latitude>
+    <Longitude>34.851133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא פורר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339384</Latitude>
+    <Longitude>34.864940</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגורי חיים כהן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298295</Latitude>
+    <Longitude>34.850642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335581</Latitude>
+    <Longitude>34.864500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322449</Latitude>
+    <Longitude>34.863925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוריה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.346328</Latitude>
+    <Longitude>34.861764</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מחנה יעקב בתיכנון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.305097</Latitude>
+    <Longitude>34.851510</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מטולה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326782</Latitude>
+    <Longitude>34.877543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכ"ל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280837</Latitude>
+    <Longitude>34.850165</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מכון וינגייט לחינוך גופני ולספורט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.261273</Latitude>
+    <Longitude>34.834557</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מכון וינגייט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.262592</Latitude>
+    <Longitude>34.834029</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מכנס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339354</Latitude>
+    <Longitude>34.857822</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300054</Latitude>
+    <Longitude>34.857841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלחמת ששת הימים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.331569</Latitude>
+    <Longitude>34.862043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.284405</Latitude>
+    <Longitude>34.855677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274067</Latitude>
+    <Longitude>34.843874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם סבידור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272120</Latitude>
+    <Longitude>34.846861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסדה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313996</Latitude>
+    <Longitude>34.850696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסילות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298629</Latitude>
+    <Longitude>34.860629</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסריק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343789</Latitude>
+    <Longitude>34.868046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה רחבעם זאבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326318</Latitude>
+    <Longitude>34.848036</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות הרב לאו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336737</Latitude>
+    <Longitude>34.855560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעפילי אגוז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274415</Latitude>
+    <Longitude>34.848728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקדונלד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333279</Latitude>
+    <Longitude>34.853085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי אנילביץ'</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321929</Latitude>
+    <Longitude>34.865501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי גור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274373</Latitude>
+    <Longitude>34.845227</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי פיירברג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330918</Latitude>
+    <Longitude>34.868294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין בובר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339904</Latitude>
+    <Longitude>34.868182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297756</Latitude>
+    <Longitude>34.858273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה איכילוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339126</Latitude>
+    <Longitude>34.858256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה גליקסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330255</Latitude>
+    <Longitude>34.865610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.326171</Latitude>
+    <Longitude>34.860165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מונטיפיורי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318900</Latitude>
+    <Longitude>34.887479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מנדלסון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340820</Latitude>
+    <Longitude>34.869093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271809</Latitude>
+    <Longitude>34.844931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שפירא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335746</Latitude>
+    <Longitude>34.862739</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משכנות זבולון המר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308185</Latitude>
+    <Longitude>34.878388</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משמר הירדן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326062</Latitude>
+    <Longitude>34.874931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול קיפניס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.277061</Latitude>
+    <Longitude>34.852941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול שרה שנירר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319707</Latitude>
+    <Longitude>34.865543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משפחת מלבסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.277202</Latitude>
+    <Longitude>34.844640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו דנקנר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מתיתיהו דנקנר</AlternateName>
+    <Latitude>32.324317</Latitude>
+    <Longitude>34.848242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו הכהן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מתיתיהו הכהן</AlternateName>
+    <Latitude>32.332550</Latitude>
+    <Longitude>34.862250</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות גולדה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.276928</Latitude>
+    <Longitude>34.853057</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות התכלת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.345480</Latitude>
+    <Longitude>34.858539</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה איתמר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326708</Latitude>
+    <Longitude>34.876305</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עוז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.302589</Latitude>
+    <Longitude>34.851628</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה שלום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.347439</Latitude>
+    <Longitude>34.859432</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282986</Latitude>
+    <Longitude>34.857057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום גוטמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338147</Latitude>
+    <Longitude>34.868222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום סוקולוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.341773</Latitude>
+    <Longitude>34.863451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300620</Latitude>
+    <Longitude>34.857990</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמה וינר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295560</Latitude>
+    <Longitude>34.854201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296885</Latitude>
+    <Longitude>34.858435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמן סירקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320714</Latitude>
+    <Longitude>34.887473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320651</Latitude>
+    <Longitude>34.861806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניניו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337264</Latitude>
+    <Longitude>34.870630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניסן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296063</Latitude>
+    <Longitude>34.876121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמן בלקינד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327968</Latitude>
+    <Longitude>34.865745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי הרץ אימבר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>נפתלי הרץ איבמר</AlternateName>
+    <Latitude>32.333443</Latitude>
+    <Longitude>34.860361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נפתלי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298601</Latitude>
+    <Longitude>34.870331</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נצח ישראל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296296</Latitude>
+    <Longitude>34.854388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נר הלילה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275762</Latitude>
+    <Longitude>34.850152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרי יצחק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.305643</Latitude>
+    <Longitude>34.883824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן המשורר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280076</Latitude>
+    <Longitude>34.849128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן יונתן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.278144</Latitude>
+    <Longitude>34.839778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן קומוי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.286054</Latitude>
+    <Longitude>34.857506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272214</Latitude>
+    <Longitude>34.847223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטודיו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.331201</Latitude>
+    <Longitude>34.851133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322646</Latitude>
+    <Longitude>34.863130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.273558</Latitude>
+    <Longitude>34.848417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיון אהרון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326490</Latitude>
+    <Longitude>34.850125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.294062</Latitude>
+    <Longitude>34.858487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ארתור רופין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280447</Latitude>
+    <Longitude>34.855282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרולד סילברשטין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.346311</Latitude>
+    <Longitude>34.854698</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמילנסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>סמילסנקי</AlternateName>
+    <Latitude>32.325127</Latitude>
+    <Longitude>34.852521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.344241</Latitude>
+    <Longitude>34.857936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדינה ויעקב פיקסלר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310307</Latitude>
+    <Longitude>34.879479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובד שער</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315517</Latitude>
+    <Longitude>34.854577</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה אברהם הכהן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316525</Latitude>
+    <Longitude>34.889848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה בן שלום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314822</Latitude>
+    <Longitude>34.856614</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה מברטנורא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343103</Latitude>
+    <Longitude>34.858695</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזי חיטמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281864</Latitude>
+    <Longitude>34.841046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327968</Latitude>
+    <Longitude>34.865745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי סידקוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322836</Latitude>
+    <Longitude>34.862325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולש מצוי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272656</Latitude>
+    <Longitude>34.843140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופרה חזה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.279564</Latitude>
+    <Longitude>34.845011</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296669</Latitude>
+    <Longitude>34.857519</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עין התכלת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.350621</Latitude>
+    <Longitude>34.860973</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עיר ימים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.278102</Latitude>
+    <Longitude>34.842567</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.272574</Latitude>
+    <Longitude>34.850768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמנואל מול</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338538</Latitude>
+    <Longitude>34.853758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמנואל פרידר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.335615</Latitude>
+    <Longitude>34.864126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק חפר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.341278</Latitude>
+    <Longitude>34.867883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336582</Latitude>
+    <Longitude>34.862985</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק האלונים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.304276</Latitude>
+    <Longitude>34.876868</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>פארק שיאים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.284272</Latitude>
+    <Longitude>34.863529</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פייר גרנדוס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.342187</Latitude>
+    <Longitude>34.866836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייר ז'ילבר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343065</Latitude>
+    <Longitude>34.865489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייר קניג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308130</Latitude>
+    <Longitude>34.845845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיכמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.323639</Latitude>
+    <Longitude>34.849776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326587</Latitude>
+    <Longitude>34.858540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלוגת מכבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300671</Latitude>
+    <Longitude>34.853576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338256</Latitude>
+    <Longitude>34.864408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס חורגין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316535</Latitude>
+    <Longitude>34.887334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס רוטנברג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>פנחס רוטננברג</AlternateName>
+    <Latitude>32.279917</Latitude>
+    <Longitude>34.854145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנצ'ו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297852</Latitude>
+    <Longitude>34.841711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.275762</Latitude>
+    <Longitude>34.850152</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פרדס הגדוד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343728</Latitude>
+    <Longitude>34.866384</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פרדריך הרמן קיש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338870</Latitude>
+    <Longitude>34.863979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרומקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.334123</Latitude>
+    <Longitude>34.857302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320327</Latitude>
+    <Longitude>34.852465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופסור אלברט איינשטיין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>פרופ' אלברט איינשטיין</AlternateName>
+    <AlternateName>אלברט איינשטיין</AlternateName>
+    <Latitude>32.340653</Latitude>
+    <Longitude>34.869693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופסור ברודצקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>פרופ' ברודצקי</AlternateName>
+    <AlternateName>ברודצקי</AlternateName>
+    <Latitude>32.323779</Latitude>
+    <Longitude>34.855223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופסור יוסף קלאוזנר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>יוסף קלאוזנר</AlternateName>
+    <AlternateName>פרופ' יוסף קלאוזנר</AlternateName>
+    <Latitude>32.306531</Latitude>
+    <Longitude>34.872091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282716</Latitude>
+    <Longitude>34.855986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פתח תקווה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>פ"ת</AlternateName>
+    <Latitude>32.319978</Latitude>
+    <Longitude>34.858731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צ.פ. חיות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339803</Latitude>
+    <Longitude>34.869494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.300665</Latitude>
+    <Longitude>34.878033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי שכטרמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.319977</Latitude>
+    <Longitude>34.877932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צביה לובטקין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297591</Latitude>
+    <Longitude>34.848255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.274228</Latitude>
+    <Longitude>34.851333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צהלה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313615</Latitude>
+    <Longitude>34.846825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271905</Latitude>
+    <Longitude>34.849469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציר טנצר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321970</Latitude>
+    <Longitude>34.888791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צרפת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343554</Latitude>
+    <Longitude>34.864835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קאפח יחיא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.313121</Latitude>
+    <Longitude>34.858213</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי בלזן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332321</Latitude>
+    <Longitude>34.867678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי עירק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301925</Latitude>
+    <Longitude>34.856867</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קדמה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314391</Latitude>
+    <Longitude>34.881373</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קדש</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.340438</Latitude>
+    <Longitude>34.866599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת צפת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.305437</Latitude>
+    <Longitude>34.844835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קמיל הויסמנס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343527</Latitude>
+    <Longitude>34.862229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קנדי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.343708</Latitude>
+    <Longitude>34.863620</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קניון השרון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.326542</Latitude>
+    <Longitude>34.862199</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קפלנסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.336839</Latitude>
+    <Longitude>34.857258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קק"ל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327883</Latitude>
+    <Longitude>34.851597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קראוזה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.328351</Latitude>
+    <Longitude>34.854516</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית השרון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.299760</Latitude>
+    <Longitude>34.874061</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית צאנז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.342471</Latitude>
+    <Longitude>34.860710</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית רבין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311964</Latitude>
+    <Longitude>34.881689</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרליבך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.325166</Latitude>
+    <Longitude>34.849875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרמניאן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329637</Latitude>
+    <Longitude>34.850663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282792</Latitude>
+    <Longitude>34.849391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן ברקת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.328215</Latitude>
+    <Longitude>34.861021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.302354</Latitude>
+    <Longitude>34.872521</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראש פינה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.322763</Latitude>
+    <Longitude>34.852995</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראשון לציון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>רשל"צ</AlternateName>
+    <AlternateName>רשל"ץ</AlternateName>
+    <Latitude>32.327908</Latitude>
+    <Longitude>34.850372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי טרפון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי טרפון</AlternateName>
+    <AlternateName>טרפון</AlternateName>
+    <AlternateName>הרב טרפון</AlternateName>
+    <Latitude>32.343986</Latitude>
+    <Longitude>34.860786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי מאיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>מאיר</AlternateName>
+    <AlternateName>הרב מאיר</AlternateName>
+    <AlternateName>הרבי מאיר</AlternateName>
+    <Latitude>32.344087</Latitude>
+    <Longitude>34.859884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.342727</Latitude>
+    <Longitude>34.862104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן גמליאל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337693</Latitude>
+    <Longitude>34.869609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רד"ק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315788</Latitude>
+    <Longitude>34.860494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רופין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.280900</Latitude>
+    <Longitude>34.853640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רות המואביה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.309633</Latitude>
+    <Longitude>34.876718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.285213</Latitude>
+    <Longitude>34.849390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת מכלוף מרואני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.293861</Latitude>
+    <Longitude>34.850225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל המשוררת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.337177</Latitude>
+    <Longitude>34.867452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.315455</Latitude>
+    <Longitude>34.858776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.317098</Latitude>
+    <Longitude>34.860728</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת אפרים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321980</Latitude>
+    <Longitude>34.861851</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת חן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.310843</Latitude>
+    <Longitude>34.857976</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת ידין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298427</Latitude>
+    <Longitude>34.857663</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת פולג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.269609</Latitude>
+    <Longitude>34.841774</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל איתן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308548</Latitude>
+    <Longitude>34.858716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.316405</Latitude>
+    <Longitude>34.860846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.281713</Latitude>
+    <Longitude>34.850378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338735</Latitude>
+    <Longitude>34.853831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.295808</Latitude>
+    <Longitude>34.870593</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.301950</Latitude>
+    <Longitude>34.871924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אגם כנרת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' אגם כנרת</AlternateName>
+    <AlternateName>אגם כנרת</AlternateName>
+    <Latitude>32.290572</Latitude>
+    <Longitude>34.851865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן אב"י</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' בן אב"י</AlternateName>
+    <AlternateName>בן אב"י</AlternateName>
+    <Latitude>32.318696</Latitude>
+    <Longitude>34.852131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>32.297544</Latitude>
+    <Longitude>34.844134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן צבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>בן צבי</AlternateName>
+    <AlternateName>שד' בן צבי</AlternateName>
+    <Latitude>32.300299</Latitude>
+    <Longitude>34.853915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בנימין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>בנימין</AlternateName>
+    <AlternateName>שד' בנימין</AlternateName>
+    <Latitude>32.320281</Latitude>
+    <Longitude>34.855743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות גולדה מאיר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>גולדה מאיר</AlternateName>
+    <AlternateName>שד' גולדה מאיר</AlternateName>
+    <Latitude>32.277990</Latitude>
+    <Longitude>34.853078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות גיבורי ישראל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' גיבורי ישראל</AlternateName>
+    <AlternateName>גיבורי ישראל</AlternateName>
+    <Latitude>32.279176</Latitude>
+    <Longitude>34.860463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות האגמים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' האגמים</AlternateName>
+    <AlternateName>האגמים</AlternateName>
+    <Latitude>32.290520</Latitude>
+    <Longitude>34.849699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ז'בוטינסקי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זבוטיסקי</AlternateName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זבוטיסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>32.322438</Latitude>
+    <Longitude>34.848856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ח"ן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ח"ן</AlternateName>
+    <AlternateName>שד' ח"ן</AlternateName>
+    <Latitude>32.324637</Latitude>
+    <Longitude>34.850619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות חיים וייצמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>חיים וייצמן</AlternateName>
+    <AlternateName>שד' חיים וייצמן</AlternateName>
+    <Latitude>32.335126</Latitude>
+    <Longitude>34.859322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות טום לנטוס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>טום לנטוס</AlternateName>
+    <AlternateName>שד' טום לנטוס</AlternateName>
+    <Latitude>32.303444</Latitude>
+    <Longitude>34.869610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>32.324524</Latitude>
+    <Longitude>34.853526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ניצה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>ניצה</AlternateName>
+    <AlternateName>שד' ניצה</AlternateName>
+    <Latitude>32.338840</Latitude>
+    <Longitude>34.852450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות עובד בן עמי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>עובד בן עמי</AlternateName>
+    <AlternateName>שד' עובד בן עמי</AlternateName>
+    <Latitude>32.305643</Latitude>
+    <Longitude>34.843201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות עין התכלת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>עין התכלת</AlternateName>
+    <AlternateName>שד' עין התכלת</AlternateName>
+    <Latitude>32.350087</Latitude>
+    <Longitude>34.859024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות פנחס לבון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' פנחס לבון</AlternateName>
+    <AlternateName>פנחס לבון</AlternateName>
+    <Latitude>32.282709</Latitude>
+    <Longitude>34.853715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שמשון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שד' שמשון</AlternateName>
+    <AlternateName>שמשון</AlternateName>
+    <Latitude>32.334299</Latitude>
+    <Longitude>34.869702</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329327</Latitude>
+    <Longitude>34.859604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שולמית</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.270236</Latitude>
+    <Longitude>34.837800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוש עטרי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.273107</Latitude>
+    <Longitude>34.839645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנה דמארי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.278388</Latitude>
+    <Longitude>34.842508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטריקר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.282454</Latitude>
+    <Longitude>34.848828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.287624</Latitude>
+    <Longitude>34.851414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום שבזי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <AlternateName>שבזי</AlternateName>
+    <Latitude>32.314537</Latitude>
+    <Longitude>34.855664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום שוורצבארד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.352627</Latitude>
+    <Longitude>34.868004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318537</Latitude>
+    <Longitude>34.860537</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה דרור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.344469</Latitude>
+    <Longitude>34.870910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.338542</Latitude>
+    <Longitude>34.854332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל ברוד</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311194</Latitude>
+    <Longitude>34.853027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל דיין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.312506</Latitude>
+    <Longitude>34.878538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנציב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.332027</Latitude>
+    <Longitude>34.856554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל לנדאו</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.311774</Latitude>
+    <Longitude>34.884560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298216</Latitude>
+    <Longitude>34.856969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמורת אגם החולה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.291589</Latitude>
+    <Longitude>34.848540</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שמורת בריכת דורה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.291801</Latitude>
+    <Longitude>34.847814</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שמורת נחל בשור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.289670</Latitude>
+    <Longitude>34.852451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמורת נחל ערוגות</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.289079</Latitude>
+    <Longitude>34.851657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמורת נחל שורק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.289670</Latitude>
+    <Longitude>34.852451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמורת נחל שניר</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.289123</Latitude>
+    <Longitude>34.850658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה ארליך</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.299679</Latitude>
+    <Longitude>34.848396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון בר יוחאי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.341188</Latitude>
+    <Longitude>34.870206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון ברכה</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.333920</Latitude>
+    <Longitude>34.869203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון דובנוב</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.321089</Latitude>
+    <Longitude>34.887355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון פרוג</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.330267</Latitude>
+    <Longitude>34.868275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.302645</Latitude>
+    <Longitude>34.871584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער הגיא</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.327778</Latitude>
+    <Longitude>34.857106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער העמק</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329127</Latitude>
+    <Longitude>34.857739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפיגלמן</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.308321</Latitude>
+    <Longitude>34.873012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה מלכין</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.318855</Latitude>
+    <Longitude>34.885051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרעבי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.314671</Latitude>
+    <Longitude>34.857735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרת</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.339709</Latitude>
+    <Longitude>34.864237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאשור</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.298598</Latitude>
+    <Longitude>34.875307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורמוס</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.271371</Latitude>
+    <Longitude>34.846912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תחכמוני</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.320919</Latitude>
+    <Longitude>34.856930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.328986</Latitude>
+    <Longitude>34.854743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמוז</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.297188</Latitude>
+    <Longitude>34.876154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפארת בנים</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.329339</Latitude>
+    <Longitude>34.851927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תשרי</NativeName>
+    <ParentName>נתניה, ישראל</ParentName>
+    <Latitude>32.296767</Latitude>
+    <Longitude>34.870967</Longitude>
+  </Street>
+</LocationData>

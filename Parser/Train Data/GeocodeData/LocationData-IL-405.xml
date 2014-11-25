@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אגדת דשא</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.808202</Latitude>
+    <Longitude>35.081234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל גינת אגוז</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.808087</Latitude>
+    <Longitude>35.080642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>באר בשדה</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.810196</Latitude>
+    <Longitude>35.078374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גן השקמים</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.808557</Latitude>
+    <Longitude>35.077946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך התקווה</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <AlternateName>התקווה</AlternateName>
+    <Latitude>31.808606</Latitude>
+    <Longitude>35.081262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההר הירוק</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.809744</Latitude>
+    <Longitude>35.080452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרח בגני</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.810861</Latitude>
+    <Longitude>35.080549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרעות</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.807963</Latitude>
+    <Longitude>35.079976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיירה</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.808856</Latitude>
+    <Longitude>35.077739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חופים</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.810435</Latitude>
+    <Longitude>35.077968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירח</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.810274</Latitude>
+    <Longitude>35.080440</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר ים השיבולים</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <AlternateName>ככר ים השיבולים</AlternateName>
+    <Latitude>31.810285</Latitude>
+    <Longitude>35.079199</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר רקפת</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <AlternateName>ככר רקפת</AlternateName>
+    <Latitude>31.809291</Latitude>
+    <Longitude>35.078226</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נוף הילדות</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.806542</Latitude>
+    <Longitude>35.084402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סימני דרך</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.809009</Latitude>
+    <Longitude>35.079938</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עץ הרימון</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.809441</Latitude>
+    <Longitude>35.079400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עץ השדה</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.809025</Latitude>
+    <Longitude>35.079927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרפר נחמד</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.808671</Latitude>
+    <Longitude>35.079830</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוח סתיו</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.807710</Latitude>
+    <Longitude>35.081095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבולת בשדה</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.807957</Latitude>
+    <Longitude>35.081522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיר לשלום</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.807703</Latitude>
+    <Longitude>35.081779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שני שושנים</NativeName>
+    <ParentName>נווה אילן, ישראל</ParentName>
+    <Latitude>31.807937</Latitude>
+    <Longitude>35.081171</Longitude>
+  </Street>
+</LocationData>

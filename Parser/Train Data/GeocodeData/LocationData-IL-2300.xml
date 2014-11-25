@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אורנים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.710977</Latitude>
+    <Longitude>35.124369</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אלונים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.716705</Latitude>
+    <Longitude>35.127032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו התשבי</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709231</Latitude>
+    <Longitude>35.104778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר זייד</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709135</Latitude>
+    <Longitude>35.124163</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אלרואי</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>אלרועי</AlternateName>
+    <Latitude>32.708405</Latitude>
+    <Longitude>35.104566</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.724444</Latitude>
+    <Longitude>35.130541</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.714032</Latitude>
+    <Longitude>35.128393</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית שערים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.703757</Latitude>
+    <Longitude>35.129933</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן צבי</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.708896</Latitude>
+    <Longitude>35.125395</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בנימין זאב הרצל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.695356</Latitude>
+    <Longitude>35.107744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק בן אבינועם</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709121</Latitude>
+    <Longitude>35.103331</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.704908</Latitude>
+    <Longitude>35.122339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.705689</Latitude>
+    <Longitude>35.124499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.702088</Latitude>
+    <Longitude>35.106087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.707203</Latitude>
+    <Longitude>35.116349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.723254</Latitude>
+    <Longitude>35.129428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך קרית עמל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>קרית עמל</AlternateName>
+    <Latitude>32.710838</Latitude>
+    <Longitude>35.109772</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.717986</Latitude>
+    <Longitude>35.125492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722119</Latitude>
+    <Longitude>35.134302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבונים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.708686</Latitude>
+    <Longitude>35.131693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברושים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.724805</Latitude>
+    <Longitude>35.142671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגומא</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.698889</Latitude>
+    <Longitude>35.110559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.725628</Latitude>
+    <Longitude>35.142181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדגניות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.720362</Latitude>
+    <Longitude>35.126220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722800</Latitude>
+    <Longitude>35.129912</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.726983</Latitude>
+    <Longitude>35.142705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.726181</Latitude>
+    <Longitude>35.140606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.720735</Latitude>
+    <Longitude>35.130929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלניות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.723136</Latitude>
+    <Longitude>35.127827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.724533</Latitude>
+    <Longitude>35.125565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגדל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.712334</Latitude>
+    <Longitude>35.127923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709810</Latitude>
+    <Longitude>35.122564</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגניות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.726372</Latitude>
+    <Longitude>35.140161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוריות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.725808</Latitude>
+    <Longitude>35.134756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.724179</Latitude>
+    <Longitude>35.137873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגליות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.725415</Latitude>
+    <Longitude>35.136468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.710611</Latitude>
+    <Longitude>35.117530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.694751</Latitude>
+    <Longitude>35.108717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורנים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722937</Latitude>
+    <Longitude>35.134467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709007</Latitude>
+    <Longitude>35.103948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.716595</Latitude>
+    <Longitude>35.121984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.724506</Latitude>
+    <Longitude>35.128692</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.708665</Latitude>
+    <Longitude>35.132567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.721505</Latitude>
+    <Longitude>35.125095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722396</Latitude>
+    <Longitude>35.137236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.725247</Latitude>
+    <Longitude>35.142650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.712283</Latitude>
+    <Longitude>35.123920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ברלב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.705346</Latitude>
+    <Longitude>35.116030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים וייצמן</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.695120</Latitude>
+    <Longitude>35.106040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.711033</Latitude>
+    <Longitude>35.127559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.732621</Latitude>
+    <Longitude>35.143920</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>טבעון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.719456</Latitude>
+    <Longitude>35.126833</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.712962</Latitude>
+    <Longitude>35.115904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.713231</Latitude>
+    <Longitude>35.127623</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע חנקין</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>יהושוע חנקין</AlternateName>
+    <Latitude>32.708602</Latitude>
+    <Longitude>35.122741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שפרינצק</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.690873</Latitude>
+    <Longitude>35.110086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יזרעאל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.707505</Latitude>
+    <Longitude>35.128855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.720351</Latitude>
+    <Longitude>35.134932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.730891</Latitude>
+    <Longitude>35.142664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק רבין</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709812</Latitude>
+    <Longitude>35.119942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.710467</Latitude>
+    <Longitude>35.114792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר בן גוריון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>ככר בן גוריון</AlternateName>
+    <Latitude>32.722296</Latitude>
+    <Longitude>35.130563</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר הבנים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>ככר הבנים</AlternateName>
+    <Latitude>32.712157</Latitude>
+    <Longitude>35.125164</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר עליית הנוער</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>ככר עליית הנוער</AlternateName>
+    <Latitude>32.728573</Latitude>
+    <Longitude>35.143788</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר פטישי</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>ככר פטישי</AlternateName>
+    <Latitude>32.711241</Latitude>
+    <Longitude>35.124453</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.707391</Latitude>
+    <Longitude>35.125576</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מוסד חינוכי רמת הדסה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.730248</Latitude>
+    <Longitude>35.147719</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.733327</Latitude>
+    <Longitude>35.145245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה אבשלום</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.696004</Latitude>
+    <Longitude>35.109181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה השיזף</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.703299</Latitude>
+    <Longitude>35.112204</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מעלה טבעון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.700366</Latitude>
+    <Longitude>35.107709</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרדכי מוטה גור</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.707051</Latitude>
+    <Longitude>35.115473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.704907</Latitude>
+    <Longitude>35.120986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.730536</Latitude>
+    <Longitude>35.143941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.705718</Latitude>
+    <Longitude>35.116536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הלוטם</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.726409</Latitude>
+    <Longitude>35.141968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול סייפן</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.733260</Latitude>
+    <Longitude>35.144206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קדומים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.702548</Latitude>
+    <Longitude>35.105190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.735890</Latitude>
+    <Longitude>35.146063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.732100</Latitude>
+    <Longitude>35.140403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אבשלום</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.692824</Latitude>
+    <Longitude>35.111028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האחים פיש</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.704838</Latitude>
+    <Longitude>35.121728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האלה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722297</Latitude>
+    <Longitude>35.133470</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האקדמאים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.708231</Latitude>
+    <Longitude>35.130605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגליל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.710592</Latitude>
+    <Longitude>35.119126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החרוב</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.718264</Latitude>
+    <Longitude>35.128847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הלבנה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.717527</Latitude>
+    <Longitude>35.126081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת המזרח</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.709242</Latitude>
+    <Longitude>35.105986</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הפרגים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.722228</Latitude>
+    <Longitude>35.128078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.735111</Latitude>
+    <Longitude>35.144972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמלים</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.713897</Latitude>
+    <Longitude>35.102796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.730574</Latitude>
+    <Longitude>35.143315</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית חרושת</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.694151</Latitude>
+    <Longitude>35.108614</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית עמל</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.707768</Latitude>
+    <Longitude>35.119896</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.715654</Latitude>
+    <Longitude>35.127678</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת טבעון</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.735522</Latitude>
+    <Longitude>35.145397</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רקפות</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.723382</Latitude>
+    <Longitude>35.130718</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שרת</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.706663</Latitude>
+    <Longitude>35.126130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>קרית טבעון, ישראל</ParentName>
+    <Latitude>32.733553</Latitude>
+    <Longitude>35.146360</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אורי אילן</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205939</Latitude>
+    <Longitude>35.571545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י אילת</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.199798</Latitude>
+    <Longitude>35.564609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215248</Latitude>
+    <Longitude>35.571970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.213996</Latitude>
+    <Longitude>35.580710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר פרי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.201603</Latitude>
+    <Longitude>35.571643</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>33.223154</Latitude>
+    <Longitude>35.568353</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארנון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.218869</Latitude>
+    <Longitude>35.581603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בבא סאלי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215169</Latitude>
+    <Longitude>35.576555</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בנה ביתך</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.208852</Latitude>
+    <Longitude>35.564916</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.196822</Latitude>
+    <Longitude>35.567278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברל כצנלסון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>ברל קצנלסון</AlternateName>
+    <Latitude>33.204282</Latitude>
+    <Longitude>35.565849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעת שחומית</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205272</Latitude>
+    <Longitude>35.577527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד סלינג'ר</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>דויד סלינג'ר</AlternateName>
+    <Latitude>33.212380</Latitude>
+    <Longitude>35.568663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>33.215304</Latitude>
+    <Longitude>35.569610</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד שמעוני</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>דויד שמעוני</AlternateName>
+    <AlternateName>שימעוני</AlternateName>
+    <AlternateName>שמעוני</AlternateName>
+    <Latitude>33.214309</Latitude>
+    <Longitude>35.572877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן דיין</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.208678</Latitude>
+    <Longitude>35.571262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.209133</Latitude>
+    <Longitude>35.566850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.200062</Latitude>
+    <Longitude>35.563046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברזל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.196755</Latitude>
+    <Longitude>35.573225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.218066</Latitude>
+    <Longitude>35.569911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגנה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.204449</Latitude>
+    <Longitude>35.572227</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הורדים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216001</Latitude>
+    <Longitude>35.580842</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>החולה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.196915</Latitude>
+    <Longitude>35.566043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205660</Latitude>
+    <Longitude>35.575226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.219859</Latitude>
+    <Longitude>35.582162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלבנון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.220643</Latitude>
+    <Longitude>35.571456</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרת</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.212752</Latitude>
+    <Longitude>35.565817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.211359</Latitude>
+    <Longitude>35.568562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.202820</Latitude>
+    <Longitude>35.570755</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרי מלכה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.211634</Latitude>
+    <Longitude>35.576048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.200120</Latitude>
+    <Longitude>35.572841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216868</Latitude>
+    <Longitude>35.576299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלדה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.196666</Latitude>
+    <Longitude>35.574122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצוקים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.201462</Latitude>
+    <Longitude>35.563828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר אביטל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.227077</Latitude>
+    <Longitude>35.568931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר אדמון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.226820</Latitude>
+    <Longitude>35.569932</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר גילה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.227706</Latitude>
+    <Longitude>35.568942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר גלבוע</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.225683</Latitude>
+    <Longitude>35.570416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הצופים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.221779</Latitude>
+    <Longitude>35.568543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר חרמון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.228762</Latitude>
+    <Longitude>35.569183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר ציון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.228939</Latitude>
+    <Longitude>35.568689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שגיא</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.227802</Latitude>
+    <Longitude>35.570813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הרצוג</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>רבי הרצוג</AlternateName>
+    <AlternateName>הרבי הרצוג</AlternateName>
+    <AlternateName>הרצוג</AlternateName>
+    <Latitude>33.203662</Latitude>
+    <Longitude>35.563765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף משאש</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>יוסף משאש</AlternateName>
+    <AlternateName>רבי יוסף משאש</AlternateName>
+    <AlternateName>הרבי יוסף משאש</AlternateName>
+    <Latitude>33.206958</Latitude>
+    <Longitude>35.572643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>33.197562</Latitude>
+    <Longitude>35.565431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי אפרים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.226837</Latitude>
+    <Longitude>35.569497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי יהודה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.226060</Latitude>
+    <Longitude>35.569221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי נפתלי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.219779</Latitude>
+    <Longitude>35.569784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי שומרון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.227578</Latitude>
+    <Longitude>35.566586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205873</Latitude>
+    <Longitude>35.567497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.202122</Latitude>
+    <Longitude>35.564283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.213338</Latitude>
+    <Longitude>35.580663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חומה ומגדל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.198397</Latitude>
+    <Longitude>35.567108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ארלוזורוב</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>חיים ארלוזרוב</AlternateName>
+    <Latitude>33.209020</Latitude>
+    <Longitude>35.568786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים נחמן ביאליק</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>ביאליק</AlternateName>
+    <Latitude>33.214157</Latitude>
+    <Longitude>35.573897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.198038</Latitude>
+    <Longitude>35.567970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.211539</Latitude>
+    <Longitude>35.578711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.217022</Latitude>
+    <Longitude>35.578844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.210539</Latitude>
+    <Longitude>35.568934</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.220400</Latitude>
+    <Longitude>35.571764</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215254</Latitude>
+    <Longitude>35.567941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יובל יניב</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.195315</Latitude>
+    <Longitude>35.572229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חיים ברנר</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.198049</Latitude>
+    <Longitude>35.568389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף טרומפלדור</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.204810</Latitude>
+    <Longitude>35.570704</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף יגר</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.204089</Latitude>
+    <Longitude>35.568895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף שפרינצק</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.214213</Latitude>
+    <Longitude>35.577325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.214483</Latitude>
+    <Longitude>35.580616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב מלול</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.221027</Latitude>
+    <Longitude>35.570724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.199731</Latitude>
+    <Longitude>35.567604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה לרחוב ברל כצנלסון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>יציאה לרחוב ברל קצנלסון</AlternateName>
+    <Latitude>33.206321</Latitude>
+    <Longitude>35.566473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.221021</Latitude>
+    <Longitude>35.569641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיכר צה"ל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>ככר צה"ל</AlternateName>
+    <Latitude>33.208074</Latitude>
+    <Longitude>35.569134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.217499</Latitude>
+    <Longitude>35.580729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא אמנה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205227</Latitude>
+    <Longitude>35.564770</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מורדות הרי נפתלי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.225896</Latitude>
+    <Longitude>35.570663</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מלחמת ששת הימים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.208190</Latitude>
+    <Longitude>35.565472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקורות</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.202389</Latitude>
+    <Longitude>35.568705</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משה חיים שפירא</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.213527</Latitude>
+    <Longitude>35.568005</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משמר הגבול</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.214799</Latitude>
+    <Longitude>35.566359</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נוף חרמון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215806</Latitude>
+    <Longitude>35.565780</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.211620</Latitude>
+    <Longitude>35.580671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נרקיס</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216995</Latitude>
+    <Longitude>35.578522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215035</Latitude>
+    <Longitude>35.580653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.205048</Latitude>
+    <Longitude>35.568463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלומונוביץ</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.203134</Latitude>
+    <Longitude>35.570044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת המלכים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.200595</Latitude>
+    <Longitude>35.564509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנביאים</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.203906</Latitude>
+    <Longitude>35.563233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.202555</Latitude>
+    <Longitude>35.566502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין זהב</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.221357</Latitude>
+    <Longitude>35.577643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.220942</Latitude>
+    <Longitude>35.582022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.201410</Latitude>
+    <Longitude>35.572968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.200422</Latitude>
+    <Longitude>35.575316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.208473</Latitude>
+    <Longitude>35.564471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216158</Latitude>
+    <Longitude>35.575092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.218269</Latitude>
+    <Longitude>35.574616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.215248</Latitude>
+    <Longitude>35.573991</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שדה התעופה קריית שמונה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216667</Latitude>
+    <Longitude>35.596667</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות האצ"ל</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>שדרות אצ"ל</AlternateName>
+    <AlternateName>אצ"ל</AlternateName>
+    <AlternateName>שד' אצ"ל</AlternateName>
+    <AlternateName>שד' האצ"ל</AlternateName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>33.219950</Latitude>
+    <Longitude>35.567925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>33.213726</Latitude>
+    <Longitude>35.581324</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל אוחנה</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.216628</Latitude>
+    <Longitude>35.581172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>קרית שמונה, ישראל</ParentName>
+    <Latitude>33.211747</Latitude>
+    <Longitude>35.570452</Longitude>
+  </Street>
+</LocationData>

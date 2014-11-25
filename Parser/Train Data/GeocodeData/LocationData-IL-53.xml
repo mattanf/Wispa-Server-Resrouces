@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אלון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681889</Latitude>
+    <Longitude>34.941994</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אלמוג החורש</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.699953</Latitude>
+    <Longitude>34.945690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמת המים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690423</Latitude>
+    <Longitude>34.943104</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ארגמן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681884</Latitude>
+    <Longitude>34.939430</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת הבריכות</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690215</Latitude>
+    <Longitude>34.943541</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרך הים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <AlternateName>הים</AlternateName>
+    <Latitude>32.695602</Latitude>
+    <Longitude>34.945975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690390</Latitude>
+    <Longitude>34.948916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681504</Latitude>
+    <Longitude>34.934876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681399</Latitude>
+    <Longitude>34.942244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארגמן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681443</Latitude>
+    <Longitude>34.940077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682161</Latitude>
+    <Longitude>34.939951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.683764</Latitude>
+    <Longitude>34.939812</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הגורן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.695286</Latitude>
+    <Longitude>34.943981</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הגיבורים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682446</Latitude>
+    <Longitude>34.942678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682457</Latitude>
+    <Longitude>34.941105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדוף</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.691335</Latitude>
+    <Longitude>34.940421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.680439</Latitude>
+    <Longitude>34.934879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.685074</Latitude>
+    <Longitude>34.941057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.687024</Latitude>
+    <Longitude>34.940979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היקינטון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.687703</Latitude>
+    <Longitude>34.936202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוחמים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.685241</Latitude>
+    <Longitude>34.942694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוטוס</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.685066</Latitude>
+    <Longitude>34.936578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.686249</Latitude>
+    <Longitude>34.937024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.683327</Latitude>
+    <Longitude>34.942155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המחתרות</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.685020</Latitude>
+    <Longitude>34.939417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.692443</Latitude>
+    <Longitude>34.942908</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.691701</Latitude>
+    <Longitude>34.944576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.686261</Latitude>
+    <Longitude>34.936038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.684117</Latitude>
+    <Longitude>34.935058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.686918</Latitude>
+    <Longitude>34.937174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסלע</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690565</Latitude>
+    <Longitude>34.941476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.686874</Latitude>
+    <Longitude>34.938094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690423</Latitude>
+    <Longitude>34.946075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.684815</Latitude>
+    <Longitude>34.934180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690390</Latitude>
+    <Longitude>34.948916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התכלת</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.699695</Latitude>
+    <Longitude>34.944337</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חופית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.680885</Latitude>
+    <Longitude>34.938160</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חצרות האיכרים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.693350</Latitude>
+    <Longitude>34.945098</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.700219</Latitude>
+    <Longitude>34.944918</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מבצר עתלית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.705924</Latitude>
+    <Longitude>34.932654</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מלח הארץ</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.692079</Latitude>
+    <Longitude>34.936599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האשכולות</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.693529</Latitude>
+    <Longitude>34.946372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגפנים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.692747</Latitude>
+    <Longitude>34.948695</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה משה</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690818</Latitude>
+    <Longitude>34.947715</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחל אורן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.705198</Latitude>
+    <Longitude>34.948928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל אלונה</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.704259</Latitude>
+    <Longitude>34.948790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ברקן</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.704177</Latitude>
+    <Longitude>34.949897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל גלים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.703166</Latitude>
+    <Longitude>34.948690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל דליה</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.703493</Latitude>
+    <Longitude>34.951049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ספונים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.704177</Latitude>
+    <Longitude>34.949897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הכרמים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.691554</Latitude>
+    <Longitude>34.948296</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביוני עתלית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682121</Latitude>
+    <Longitude>34.941060</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סמטת האלמוג</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.687869</Latitude>
+    <Longitude>34.943241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הארז</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.681516</Latitude>
+    <Longitude>34.941563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הברוש</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682000</Latitude>
+    <Longitude>34.941075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת היסמין</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.685615</Latitude>
+    <Longitude>34.935359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הלוטם</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682786</Latitude>
+    <Longitude>34.935733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת המרגנית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.683941</Latitude>
+    <Longitude>34.935895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנורית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682825</Latitude>
+    <Longitude>34.935133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הסיגלית</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682948</Latitude>
+    <Longitude>34.933757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת התמר</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.682458</Latitude>
+    <Longitude>34.941672</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.683229</Latitude>
+    <Longitude>34.940511</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שושנת הים</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.686508</Latitude>
+    <Longitude>34.943262</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שרון</NativeName>
+    <ParentName>עתלית, ישראל</ParentName>
+    <Latitude>32.690107</Latitude>
+    <Longitude>34.942448</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך אחווה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>אחווה</AlternateName>
+    <Latitude>32.740700</Latitude>
+    <Longitude>35.076552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגבעות</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הגבעות</AlternateName>
+    <Latitude>32.741666</Latitude>
+    <Longitude>35.080127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הטווס</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הטווס</AlternateName>
+    <Latitude>32.743928</Latitude>
+    <Longitude>35.074230</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הכרכום</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הכרכום</AlternateName>
+    <Latitude>32.743229</Latitude>
+    <Longitude>35.079439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הכרם</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הכרם</AlternateName>
+    <Latitude>32.742406</Latitude>
+    <Longitude>35.076513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הכרמל</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הכרמל</AlternateName>
+    <Latitude>32.739679</Latitude>
+    <Longitude>35.076195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הלולים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הלולים</AlternateName>
+    <Latitude>32.738713</Latitude>
+    <Longitude>35.080314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הלימון</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הלימון</AlternateName>
+    <Latitude>32.741976</Latitude>
+    <Longitude>35.077320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפרדס</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הפרדס</AlternateName>
+    <Latitude>32.743557</Latitude>
+    <Longitude>35.071945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הקישון</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הקישון</AlternateName>
+    <Latitude>32.743997</Latitude>
+    <Longitude>35.077933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הראשונים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>הראשונים</AlternateName>
+    <Latitude>32.739729</Latitude>
+    <Longitude>35.078113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השדות</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>השדות</AlternateName>
+    <Latitude>32.741810</Latitude>
+    <Longitude>35.081050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך התעשייה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>התעשייה</AlternateName>
+    <Latitude>32.746070</Latitude>
+    <Longitude>35.073431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך חדר אוכל</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>חדר אוכל</AlternateName>
+    <Latitude>32.740529</Latitude>
+    <Longitude>35.077351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יד למגינים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>יד למגינים</AlternateName>
+    <Latitude>32.743190</Latitude>
+    <Longitude>35.074937</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך עמק זבולון</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>עמק זבולון</AlternateName>
+    <Latitude>32.741559</Latitude>
+    <Longitude>35.078421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך שומר המסילה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <AlternateName>שומר המסילה</AlternateName>
+    <Latitude>32.743100</Latitude>
+    <Longitude>35.078315</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>האזדרכת</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742318</Latitude>
+    <Longitude>35.076547</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ההר</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739277</Latitude>
+    <Longitude>35.076972</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הכביש</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741000</Latitude>
+    <Longitude>35.080310</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הכרם</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741633</Latitude>
+    <Longitude>35.075671</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739455</Latitude>
+    <Longitude>35.077533</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הלול</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739129</Latitude>
+    <Longitude>35.079160</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>המשתלה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742705</Latitude>
+    <Longitude>35.080108</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>הסילו</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739443</Latitude>
+    <Longitude>35.080076</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כביש ההר הירוק</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742392</Latitude>
+    <Longitude>35.078030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כביש השלום</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741700</Latitude>
+    <Longitude>35.075969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כביש כפר חסידים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.745373</Latitude>
+    <Longitude>35.077021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הואדי</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.740911</Latitude>
+    <Longitude>35.075684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה המצוקים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741800</Latitude>
+    <Longitude>35.074476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האגוז</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742626</Latitude>
+    <Longitude>35.076481</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האזדרכת</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741989</Latitude>
+    <Longitude>35.076683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האנפה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.740689</Latitude>
+    <Longitude>35.080426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האקליפטוס</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742480</Latitude>
+    <Longitude>35.075929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הבאר</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.738687</Latitude>
+    <Longitude>35.079966</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הברושים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.738927</Latitude>
+    <Longitude>35.078786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הדוכיפת</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742379</Latitude>
+    <Longitude>35.079789</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החיטה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739233</Latitude>
+    <Longitude>35.079979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החלב</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.738621</Latitude>
+    <Longitude>35.081621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הכלנית</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.743661</Latitude>
+    <Longitude>35.078897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הכתר</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739502</Latitude>
+    <Longitude>35.076360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הנחליאלי</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.740116</Latitude>
+    <Longitude>35.080637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסילו</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739657</Latitude>
+    <Longitude>35.079848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסכר</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739393</Latitude>
+    <Longitude>35.075026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסליק</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.740069</Latitude>
+    <Longitude>35.078647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הסתוונית</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742960</Latitude>
+    <Longitude>35.080003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל העפרוני</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741818</Latitude>
+    <Longitude>35.080201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הפיקוסים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.741218</Latitude>
+    <Longitude>35.080382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל הצאלון</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.740184</Latitude>
+    <Longitude>35.077681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השלדג</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739674</Latitude>
+    <Longitude>35.080415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל השקמה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.742289</Latitude>
+    <Longitude>35.075452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התאנה</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.738800</Latitude>
+    <Longitude>35.077864</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התלתן</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739171</Latitude>
+    <Longitude>35.079323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל מגדל המים</NativeName>
+    <ParentName>יגור, ישראל</ParentName>
+    <Latitude>32.739715</Latitude>
+    <Longitude>35.077455</Longitude>
+  </Street>
+</LocationData>

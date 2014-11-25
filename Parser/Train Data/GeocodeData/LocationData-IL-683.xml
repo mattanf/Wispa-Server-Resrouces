@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך האורן</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>האורן</AlternateName>
+    <Latitude>32.659093</Latitude>
+    <Longitude>34.955615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האילנות</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>האילנות</AlternateName>
+    <Latitude>32.661061</Latitude>
+    <Longitude>34.955212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האלון</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>האלון</AlternateName>
+    <Latitude>32.666571</Latitude>
+    <Longitude>34.956122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האשל</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>האשל</AlternateName>
+    <Latitude>32.662726</Latitude>
+    <Longitude>34.954922</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הדקל</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>הדקל</AlternateName>
+    <Latitude>32.665959</Latitude>
+    <Longitude>34.953026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הדרים</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>הדרים</AlternateName>
+    <Latitude>32.664337</Latitude>
+    <Longitude>34.954158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הערבה</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>הערבה</AlternateName>
+    <Latitude>32.659306</Latitude>
+    <Longitude>34.952103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הצאלון</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>הצאלון</AlternateName>
+    <Latitude>32.661048</Latitude>
+    <Longitude>34.955522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרימון</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <AlternateName>הרימון</AlternateName>
+    <Latitude>32.663329</Latitude>
+    <Longitude>34.955803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האגוז</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.661751</Latitude>
+    <Longitude>34.954850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האשכולית</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.664364</Latitude>
+    <Longitude>34.954538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האתרוג</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.663274</Latitude>
+    <Longitude>34.954486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הבוסתן</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.665363</Latitude>
+    <Longitude>34.954659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הפרדס</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.664865</Latitude>
+    <Longitude>34.954606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול השקד</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.662254</Latitude>
+    <Longitude>34.954879</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התמר</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.665540</Latitude>
+    <Longitude>34.955609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התפוז</NativeName>
+    <ParentName>גבע כרמל, ישראל</ParentName>
+    <Latitude>32.663788</Latitude>
+    <Longitude>34.954438</Longitude>
+  </Street>
+</LocationData>

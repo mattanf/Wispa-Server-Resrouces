@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבנר בן יהודה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.915038</Latitude>
+    <Longitude>34.782287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנר בן נר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923165</Latitude>
+    <Longitude>34.810946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדום</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933122</Latitude>
+    <Longitude>34.811484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון בוקסר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923932</Latitude>
+    <Longitude>34.783015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסקר שינדלר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>שינדלר</AlternateName>
+    <AlternateName>שנדליר</AlternateName>
+    <Latitude>31.932813</Latitude>
+    <Longitude>34.790787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.916155</Latitude>
+    <Longitude>34.805342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איתמר בן אב"י</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.909975</Latitude>
+    <Longitude>34.791608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940765</Latitude>
+    <Longitude>34.797748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.939468</Latitude>
+    <Longitude>34.795927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935434</Latitude>
+    <Longitude>34.810334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו מירון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934603</Latitude>
+    <Longitude>34.801762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלתרמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>אלטרמן</AlternateName>
+    <Latitude>31.922607</Latitude>
+    <Longitude>34.780790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925451</Latitude>
+    <Longitude>34.783243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923477</Latitude>
+    <Longitude>34.808927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.934931</Latitude>
+    <Longitude>34.806152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935116</Latitude>
+    <Longitude>34.803243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארגמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933759</Latitude>
+    <Longitude>34.788044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארזים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.939329</Latitude>
+    <Longitude>34.797402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923390</Latitude>
+    <Longitude>34.804304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>31.928463</Latitude>
+    <Longitude>34.801461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930274</Latitude>
+    <Longitude>34.796810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924054</Latitude>
+    <Longitude>34.803723</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני בנימין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.911838</Latitude>
+    <Longitude>34.793183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923071</Latitude>
+    <Longitude>34.779863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברושים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.939703</Latitude>
+    <Longitude>34.794609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גאולה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931608</Latitude>
+    <Longitude>34.810212</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הצבר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.937717</Latitude>
+    <Longitude>34.804227</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת התור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.939986</Latitude>
+    <Longitude>34.796981</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת מיכאל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934126</Latitude>
+    <Longitude>34.791814</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת נוף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923325</Latitude>
+    <Longitude>34.808265</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928984</Latitude>
+    <Longitude>34.800436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.914602</Latitude>
+    <Longitude>34.802250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932171</Latitude>
+    <Longitude>34.803377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולי דמשק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933131</Latitude>
+    <Longitude>34.807933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932627</Latitude>
+    <Longitude>34.811833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>31.922256</Latitude>
+    <Longitude>34.803706</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן יד אליעזר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935205</Latitude>
+    <Longitude>34.811789</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני איריס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934430</Latitude>
+    <Longitude>34.788872</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני הדר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934097</Latitude>
+    <Longitude>34.808877</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>געתון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928678</Latitude>
+    <Longitude>34.787192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורנית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935695</Latitude>
+    <Longitude>34.790390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926367</Latitude>
+    <Longitude>34.807516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>31.928903</Latitude>
+    <Longitude>34.811402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד לנדאו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>דויד לנדאו</AlternateName>
+    <Latitude>31.925388</Latitude>
+    <Longitude>34.784147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד פניק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>דויד פניק</AlternateName>
+    <Latitude>31.925647</Latitude>
+    <Longitude>34.784366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940751</Latitude>
+    <Longitude>34.794688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דישון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932133</Latitude>
+    <Longitude>34.786672</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933177</Latitude>
+    <Longitude>34.796927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929245</Latitude>
+    <Longitude>34.787409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933831</Latitude>
+    <Longitude>34.788664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908336</Latitude>
+    <Longitude>34.785325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך גבעות הכורכר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>גבעות הכורכר</AlternateName>
+    <Latitude>31.931732</Latitude>
+    <Longitude>34.785867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יצחק רבין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <Latitude>31.922266</Latitude>
+    <Longitude>34.788329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האביב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.911573</Latitude>
+    <Longitude>34.789550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925941</Latitude>
+    <Longitude>34.812317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיזמל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923165</Latitude>
+    <Longitude>34.794239</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוסים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933070</Latitude>
+    <Longitude>34.798764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלופים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.917638</Latitude>
+    <Longitude>34.778699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940762</Latitude>
+    <Longitude>34.795222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבאר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.915681</Latitude>
+    <Longitude>34.783002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930269</Latitude>
+    <Longitude>34.802210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגיא</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926338</Latitude>
+    <Longitude>34.813346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926814</Latitude>
+    <Longitude>34.809884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926127</Latitude>
+    <Longitude>34.809318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.911629</Latitude>
+    <Longitude>34.792444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940640</Latitude>
+    <Longitude>34.793983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926257</Latitude>
+    <Longitude>34.796018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928003</Latitude>
+    <Longitude>34.805951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדרים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.921652</Latitude>
+    <Longitude>34.804951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934672</Latitude>
+    <Longitude>34.794147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935944</Latitude>
+    <Longitude>34.797432</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.909539</Latitude>
+    <Longitude>34.790495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908208</Latitude>
+    <Longitude>34.788161</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.939799</Latitude>
+    <Longitude>34.797312</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927336</Latitude>
+    <Longitude>34.802405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940756</Latitude>
+    <Longitude>34.796454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.922487</Latitude>
+    <Longitude>34.799865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטייסים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934359</Latitude>
+    <Longitude>34.796104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוגב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.912821</Latitude>
+    <Longitude>34.790081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היונה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.906696</Latitude>
+    <Longitude>34.781425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934561</Latitude>
+    <Longitude>34.798022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913424</Latitude>
+    <Longitude>34.787515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932142</Latitude>
+    <Longitude>34.793815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המאה ואחד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.937621</Latitude>
+    <Longitude>34.793885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המולדת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927691</Latitude>
+    <Longitude>34.792555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המזמרה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.922216</Latitude>
+    <Longitude>34.794278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.911061</Latitude>
+    <Longitude>34.784203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926630</Latitude>
+    <Longitude>34.800196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המניין הראשון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926259</Latitude>
+    <Longitude>34.794154</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923402</Latitude>
+    <Longitude>34.800760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנבחרת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.916295</Latitude>
+    <Longitude>34.775985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנקר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.905563</Latitude>
+    <Longitude>34.781400</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936912</Latitude>
+    <Longitude>34.798389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הספורט</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.915218</Latitude>
+    <Longitude>34.775985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923815</Latitude>
+    <Longitude>34.799490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העגור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.906352</Latitude>
+    <Longitude>34.782332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העוגן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930329</Latitude>
+    <Longitude>34.793186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העומרים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.914727</Latitude>
+    <Longitude>34.787871</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הפועלים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926438</Latitude>
+    <Longitude>34.802837</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הפטיש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.921876</Latitude>
+    <Longitude>34.792960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדסים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913875</Latitude>
+    <Longitude>34.788838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרטיזנים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923533</Latitude>
+    <Longitude>34.807485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפשוש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.907765</Latitude>
+    <Longitude>34.782740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923653</Latitude>
+    <Longitude>34.807936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקציר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.914011</Latitude>
+    <Longitude>34.790156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927585</Latitude>
+    <Longitude>34.789143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.911167</Latitude>
+    <Longitude>34.791959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926564</Latitude>
+    <Longitude>34.797075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933999</Latitude>
+    <Longitude>34.797745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926076</Latitude>
+    <Longitude>34.792654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923432</Latitude>
+    <Longitude>34.810052</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908269</Latitude>
+    <Longitude>34.779845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השייטת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930579</Latitude>
+    <Longitude>34.791159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926564</Latitude>
+    <Longitude>34.797075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933101</Latitude>
+    <Longitude>34.798251</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931857</Latitude>
+    <Longitude>34.792268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913055</Latitude>
+    <Longitude>34.792721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940350</Latitude>
+    <Longitude>34.795234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931982</Latitude>
+    <Longitude>34.809536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913055</Latitude>
+    <Longitude>34.792721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924122</Latitude>
+    <Longitude>34.797933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.929284</Latitude>
+    <Longitude>34.790527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב כהנוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924572</Latitude>
+    <Longitude>34.785163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוסיא זמל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.922006</Latitude>
+    <Longitude>34.780776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרובבל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926630</Latitude>
+    <Longitude>34.800196</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933007</Latitude>
+    <Longitude>34.792484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חופים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930896</Latitude>
+    <Longitude>34.792612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזקיהו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926533</Latitude>
+    <Longitude>34.783646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים טפר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929300</Latitude>
+    <Longitude>34.795171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930452</Latitude>
+    <Longitude>34.804801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933683</Latitude>
+    <Longitude>34.810275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טוקאן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908446</Latitude>
+    <Longitude>34.783392</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>טירת שלום</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.909470</Latitude>
+    <Longitude>34.785080</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>יד אליעזר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936776</Latitude>
+    <Longitude>34.809504</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יואש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926300</Latitude>
+    <Longitude>34.782983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונק הדבש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.905007</Latitude>
+    <Longitude>34.782917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף פלדמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923986</Latitude>
+    <Longitude>34.781533</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935892</Latitude>
+    <Longitude>34.792401</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב חזן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.909073</Latitude>
+    <Longitude>34.787902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935102</Latitude>
+    <Longitude>34.796807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931280</Latitude>
+    <Longitude>34.803083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאת אירופה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928072</Latitude>
+    <Longitude>34.807849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935263</Latitude>
+    <Longitude>34.788539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936588</Latitude>
+    <Longitude>34.808998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו בוקסר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924948</Latitude>
+    <Longitude>34.793716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירקון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928068</Latitude>
+    <Longitude>34.786825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל היימן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926307</Latitude>
+    <Longitude>34.782186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל שמיד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930605</Latitude>
+    <Longitude>34.812970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כחליל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.906412</Latitude>
+    <Longitude>34.784874</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר לרר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>ככר לרר</AlternateName>
+    <Latitude>31.929218</Latitude>
+    <Longitude>34.796413</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כפר אהרון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.916385</Latitude>
+    <Longitude>34.792272</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>31.925054</Latitude>
+    <Longitude>34.804253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.937455</Latitude>
+    <Longitude>34.791018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934498</Latitude>
+    <Longitude>34.808554</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>לב המושבה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927461</Latitude>
+    <Longitude>34.812275</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927298</Latitude>
+    <Longitude>34.801743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטוס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927747</Latitude>
+    <Longitude>34.790274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934699</Latitude>
+    <Longitude>34.804856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936821</Latitude>
+    <Longitude>34.795103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לסקוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924348</Latitude>
+    <Longitude>34.784462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאיר הרמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.937047</Latitude>
+    <Longitude>34.805220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926068</Latitude>
+    <Longitude>34.801845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913175</Latitude>
+    <Longitude>34.783176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מכבי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926681</Latitude>
+    <Longitude>34.794299</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933435</Latitude>
+    <Longitude>34.809666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924007</Latitude>
+    <Longitude>34.783307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקווה ישראל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932273</Latitude>
+    <Longitude>34.801431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגולין</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935707</Latitude>
+    <Longitude>34.806295</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.917992</Latitude>
+    <Longitude>34.795883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה לוי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>אהרון משה לוי</AlternateName>
+    <AlternateName>משה לוי אהרון</AlternateName>
+    <Latitude>31.936373</Latitude>
+    <Longitude>34.792397</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה לרר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929245</Latitude>
+    <Longitude>34.787409</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936295</Latitude>
+    <Longitude>34.795998</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה קוברסקי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925479</Latitude>
+    <Longitude>34.780563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משחתת אילת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931483</Latitude>
+    <Longitude>34.806887</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משמר אזרחי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926696</Latitude>
+    <Longitude>34.795685</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>משמר הירדן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931557</Latitude>
+    <Longitude>34.788285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נגבה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927545</Latitude>
+    <Longitude>34.804805</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה הדר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928289</Latitude>
+    <Longitude>34.809199</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה כרמית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932563</Latitude>
+    <Longitude>34.797865</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה ניר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929705</Latitude>
+    <Longitude>34.794459</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עובד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928396</Latitude>
+    <Longitude>34.810199</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927478</Latitude>
+    <Longitude>34.804362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936863</Latitude>
+    <Longitude>34.793002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936248</Latitude>
+    <Longitude>34.807095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927397</Latitude>
+    <Longitude>34.791899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928436</Latitude>
+    <Longitude>34.787095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936475</Latitude>
+    <Longitude>34.789083</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סביוני הפארק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935248</Latitude>
+    <Longitude>34.801965</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>31.927165</Latitude>
+    <Longitude>34.799045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936700</Latitude>
+    <Longitude>34.792375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930256</Latitude>
+    <Longitude>34.806765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932523</Latitude>
+    <Longitude>34.791442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936399</Latitude>
+    <Longitude>34.794334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926552</Latitude>
+    <Longitude>34.806774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיתוונית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934324</Latitude>
+    <Longitude>34.788557</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סלע</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928521</Latitude>
+    <Longitude>34.790733</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סמטת האירוסים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932424</Latitude>
+    <Longitude>34.798098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.906618</Latitude>
+    <Longitude>34.783939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה נחום</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.910999</Latitude>
+    <Longitude>34.787677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עונות השנה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.913172</Latitude>
+    <Longitude>34.791208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא ונחמיה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931405</Latitude>
+    <Longitude>34.808787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עלייה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927432</Latitude>
+    <Longitude>34.803842</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927592</Latitude>
+    <Longitude>34.793058</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עמק ההדרים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930274</Latitude>
+    <Longitude>34.791258</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמק השושנים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928310</Latitude>
+    <Longitude>34.790801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933933</Latitude>
+    <Longitude>34.808276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940688</Latitude>
+    <Longitude>34.795821</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק גן נווה</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928429</Latitude>
+    <Longitude>34.806793</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פולג</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927814</Latitude>
+    <Longitude>34.786773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927263</Latitude>
+    <Longitude>34.801102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמינגו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.905961</Latitude>
+    <Longitude>34.780724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס ספיר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.915122</Latitude>
+    <Longitude>34.803963</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פסגת סלע</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927069</Latitude>
+    <Longitude>34.789956</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936267</Latitude>
+    <Longitude>34.793706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.916983</Latitude>
+    <Longitude>34.794647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933759</Latitude>
+    <Longitude>34.788044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.931475</Latitude>
+    <Longitude>34.803306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908823</Latitude>
+    <Longitude>34.785074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צמרות</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.938455</Latitude>
+    <Longitude>34.796559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.933366</Latitude>
+    <Longitude>34.804341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925980</Latitude>
+    <Longitude>34.795252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קשת</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927307</Latitude>
+    <Longitude>34.812635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן לרר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924910</Latitude>
+    <Longitude>34.795961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928352</Latitude>
+    <Longitude>34.795117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.934909</Latitude>
+    <Longitude>34.788523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבעם זאבי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928395</Latitude>
+    <Longitude>34.810102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבעם</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924123</Latitude>
+    <Longitude>34.781522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.932485</Latitude>
+    <Longitude>34.808372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמז</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927343</Latitude>
+    <Longitude>34.803078</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמת בן צבי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935562</Latitude>
+    <Longitude>34.795248</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת סמל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936351</Latitude>
+    <Longitude>34.798126</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל איתן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929635</Latitude>
+    <Longitude>34.788354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935205</Latitude>
+    <Longitude>34.810997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.933368</Latitude>
+    <Longitude>34.807307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935619</Latitude>
+    <Longitude>34.808731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדות</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925219</Latitude>
+    <Longitude>34.812250</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אפרים קומרוב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>שד' אפרים קומרוב</AlternateName>
+    <AlternateName>אפרים קומרוב</AlternateName>
+    <Latitude>31.932833</Latitude>
+    <Longitude>34.804770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות המעפילים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>המעפילים</AlternateName>
+    <AlternateName>שד' המעפילים</AlternateName>
+    <Latitude>31.930125</Latitude>
+    <Longitude>34.788960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות העמק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <AlternateName>שד' העמק</AlternateName>
+    <AlternateName>העמק</AlternateName>
+    <Latitude>31.914987</Latitude>
+    <Longitude>34.788565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שונית</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.930088</Latitude>
+    <Longitude>34.791093</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.928537</Latitude>
+    <Longitude>34.785234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.937418</Latitude>
+    <Longitude>34.794316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926725</Latitude>
+    <Longitude>34.792125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.940907</Latitude>
+    <Longitude>34.797091</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכון אזרחי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925376</Latitude>
+    <Longitude>34.794081</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום לחמי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.908979</Latitude>
+    <Longitude>34.782176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל גוטהלף</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926205</Latitude>
+    <Longitude>34.782181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל נחמיאס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.923331</Latitude>
+    <Longitude>34.780918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל סלוביס</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924897</Latitude>
+    <Longitude>34.784473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל רופמן</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.925850</Latitude>
+    <Longitude>34.781556</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שמורת מליבו</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.924487</Latitude>
+    <Longitude>34.784343</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.927048</Latitude>
+    <Longitude>34.786286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקנאי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.907467</Latitude>
+    <Longitude>34.786545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.936009</Latitude>
+    <Longitude>34.797214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.935666</Latitude>
+    <Longitude>34.803162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל אביב</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.926624</Latitude>
+    <Longitude>34.796039</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.929645</Latitude>
+    <Longitude>34.803303</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרמ"ג</NativeName>
+    <ParentName>נס ציונה, ישראל</ParentName>
+    <Latitude>31.918911</Latitude>
+    <Longitude>34.794591</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אופיר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.809051</Latitude>
+    <Longitude>35.156151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808345</Latitude>
+    <Longitude>35.162523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורנית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802313</Latitude>
+    <Longitude>35.153204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחלמה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807194</Latitude>
+    <Longitude>35.163691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802908</Latitude>
+    <Longitude>35.148984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806286</Latitude>
+    <Longitude>35.152777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802759</Latitude>
+    <Longitude>35.146330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808520</Latitude>
+    <Longitude>35.163888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808011</Latitude>
+    <Longitude>35.152355</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן לאומי הקסטל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795789</Latitude>
+    <Longitude>35.144913</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דם המכבים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802202</Latitude>
+    <Longitude>35.146697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808218</Latitude>
+    <Longitude>35.157734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבושם</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795860</Latitude>
+    <Longitude>35.134925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807700</Latitude>
+    <Longitude>35.148126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807345</Latitude>
+    <Longitude>35.147523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.791786</Latitude>
+    <Longitude>35.143596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806776</Latitude>
+    <Longitude>35.144264</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806330</Latitude>
+    <Longitude>35.143903</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הקסטל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.796102</Latitude>
+    <Longitude>35.144248</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הר כנען</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.810326</Latitude>
+    <Longitude>35.154183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר עצמון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.809945</Latitude>
+    <Longitude>35.153049</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803768</Latitude>
+    <Longitude>35.150269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יוסף חיים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>יוסף חיים</AlternateName>
+    <AlternateName>הרבי יוסף חיים</AlternateName>
+    <AlternateName>רבי יוסף חיים</AlternateName>
+    <Latitude>31.801671</Latitude>
+    <Longitude>35.144391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלום</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.804176</Latitude>
+    <Longitude>35.157816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801680</Latitude>
+    <Longitude>35.156193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זהבית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801581</Latitude>
+    <Longitude>35.157451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית רענן</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801695</Latitude>
+    <Longitude>35.159173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801757</Latitude>
+    <Longitude>35.154896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802052</Latitude>
+    <Longitude>35.147861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.799848</Latitude>
+    <Longitude>35.163523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרובית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802226</Latitude>
+    <Longitude>35.153887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808398</Latitude>
+    <Longitude>35.150070</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806265</Latitude>
+    <Longitude>35.167666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.799040</Latitude>
+    <Longitude>35.163483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802084</Latitude>
+    <Longitude>35.145223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישפה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806900</Latitude>
+    <Longitude>35.167089</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אבני חן</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>ככר אבני חן</AlternateName>
+    <Latitude>31.807791</Latitude>
+    <Longitude>35.154945</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר הפסגות</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>ככר הפסגות</AlternateName>
+    <Latitude>31.806828</Latitude>
+    <Longitude>35.149326</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר חלילים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>ככר חלילים</AlternateName>
+    <Latitude>31.804849</Latitude>
+    <Longitude>35.151297</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר קדמוניות</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>ככר קדמוניות</AlternateName>
+    <Latitude>31.807713</Latitude>
+    <Longitude>35.160128</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807056</Latitude>
+    <Longitude>35.151818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801628</Latitude>
+    <Longitude>35.141474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא אגוז</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.804202</Latitude>
+    <Longitude>35.149905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא בשמת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803698</Latitude>
+    <Longitude>35.161098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדובדבן</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.805219</Latitude>
+    <Longitude>35.148464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדס</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793284</Latitude>
+    <Longitude>35.139112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הדקל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.790508</Latitude>
+    <Longitude>35.147313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הורד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801938</Latitude>
+    <Longitude>35.164562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא התמרים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800830</Latitude>
+    <Longitude>35.156168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא חוגלה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807028</Latitude>
+    <Longitude>35.147198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא טללים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800918</Latitude>
+    <Longitude>35.144439</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא יהלום</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801415</Latitude>
+    <Longitude>35.163428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא יערה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801953</Latitude>
+    <Longitude>35.142092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא יערים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.792440</Latitude>
+    <Longitude>35.137336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא לבונה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795281</Latitude>
+    <Longitude>35.133053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא לבנה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.798574</Latitude>
+    <Longitude>35.162373</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא נעמה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801965</Latitude>
+    <Longitude>35.143436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא סיירים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793628</Latitude>
+    <Longitude>35.142550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ספיר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795648</Latitude>
+    <Longitude>35.140026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא סתוונית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803828</Latitude>
+    <Longitude>35.156539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ערבה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.792870</Latitude>
+    <Longitude>35.138287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא ערמון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.804566</Latitude>
+    <Longitude>35.150231</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא פרג</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803788</Latitude>
+    <Longitude>35.158475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא קטורת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795329</Latitude>
+    <Longitude>35.134262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא רימון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.790567</Latitude>
+    <Longitude>35.149664</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא שזיף</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.794277</Latitude>
+    <Longitude>35.150219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא שעורה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800285</Latitude>
+    <Longitude>35.165706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא תדהר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802362</Latitude>
+    <Longitude>35.162480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא תירוש</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802127</Latitude>
+    <Longitude>35.157947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע נחשון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.794452</Latitude>
+    <Longitude>35.140571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793948</Latitude>
+    <Longitude>35.140507</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מבשרת ירושלים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802285</Latitude>
+    <Longitude>35.157374</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מוצא הקטנה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795311</Latitude>
+    <Longitude>35.149321</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מוצא הקטנה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795237</Latitude>
+    <Longitude>35.149496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מור</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.796381</Latitude>
+    <Longitude>35.138744</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מחצבת אבן סיד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.790421</Latitude>
+    <Longitude>35.138796</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מעלה הקסטל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793970</Latitude>
+    <Longitude>35.143890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצפה הבירה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793888</Latitude>
+    <Longitude>35.148270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגלית</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806729</Latitude>
+    <Longitude>35.165683</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז קליטה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803204</Latitude>
+    <Longitude>35.146795</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נהר פרת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801162</Latitude>
+    <Longitude>35.142619</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נוף הרים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801255</Latitude>
+    <Longitude>35.150478</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נוף הרים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801113</Latitude>
+    <Longitude>35.149620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נופך</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807586</Latitude>
+    <Longitude>35.162182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נצח ישראל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802759</Latitude>
+    <Longitude>35.146330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הפורצים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.797823</Latitude>
+    <Longitude>35.139491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795857</Latitude>
+    <Longitude>35.138478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דוכיפת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807203</Latitude>
+    <Longitude>35.144381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עינב</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.792460</Latitude>
+    <Longitude>35.151424</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סנטר פארם</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.799265</Latitude>
+    <Longitude>35.149419</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עין חמד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793023</Latitude>
+    <Longitude>35.136562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807590</Latitude>
+    <Longitude>35.156751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטדה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807673</Latitude>
+    <Longitude>35.161200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרי מגדים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800992</Latitude>
+    <Longitude>35.161305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבר</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.804602</Latitude>
+    <Longitude>35.157742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.792567</Latitude>
+    <Longitude>35.143561</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית חינוך</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800139</Latitude>
+    <Longitude>35.156608</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.800503</Latitude>
+    <Longitude>35.143341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795729</Latitude>
+    <Longitude>35.142173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי סעדיה גאון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>הרב סעדיה גאון</AlternateName>
+    <AlternateName>הרב סעדיה</AlternateName>
+    <AlternateName>רבי סעדיה</AlternateName>
+    <AlternateName>סעדיה</AlternateName>
+    <AlternateName>סעדיה גאון</AlternateName>
+    <AlternateName>הרבי סעדיה גאון</AlternateName>
+    <AlternateName>הרבי סעדיה</AlternateName>
+    <Latitude>31.802080</Latitude>
+    <Longitude>35.164090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת העצמאות</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.794394</Latitude>
+    <Longitude>35.145805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801895</Latitude>
+    <Longitude>35.159180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבו</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.807376</Latitude>
+    <Longitude>35.162961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.793265</Latitude>
+    <Longitude>35.139635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבי ציון</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.803403</Latitude>
+    <Longitude>35.148633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבע אחיות</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.795131</Latitude>
+    <Longitude>35.148611</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדה חמד</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801599</Latitude>
+    <Longitude>35.155505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות החוצבים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>החוצבים</AlternateName>
+    <AlternateName>שד' החוצבים</AlternateName>
+    <Latitude>31.793372</Latitude>
+    <Longitude>35.145097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות החושן</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <AlternateName>החושן</AlternateName>
+    <AlternateName>שד' החושן</AlternateName>
+    <Latitude>31.807844</Latitude>
+    <Longitude>35.160309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801392</Latitude>
+    <Longitude>35.142259</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.797111</Latitude>
+    <Longitude>35.165165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנה</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801080</Latitude>
+    <Longitude>35.166066</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונה ג'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.802968</Latitude>
+    <Longitude>35.159150</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ד'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808622</Latitude>
+    <Longitude>35.146971</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ה'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808965</Latitude>
+    <Longitude>35.152291</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ו'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808102</Latitude>
+    <Longitude>35.152131</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ז'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808441</Latitude>
+    <Longitude>35.157538</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ח'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.808762</Latitude>
+    <Longitude>35.162547</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונה ט'</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.801013</Latitude>
+    <Longitude>35.165188</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.804869</Latitude>
+    <Longitude>35.148655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806484</Latitude>
+    <Longitude>35.151877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>מבשרת ציון, ישראל</ParentName>
+    <Latitude>31.806989</Latitude>
+    <Longitude>35.164455</Longitude>
+  </Street>
+</LocationData>

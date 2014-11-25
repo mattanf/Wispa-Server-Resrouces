@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אור חדש</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.747019</Latitude>
+    <Longitude>35.103767</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.753990</Latitude>
+    <Longitude>35.107441</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני תורה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754197</Latitude>
+    <Longitude>35.102686</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעה א'</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.751364</Latitude>
+    <Longitude>35.097840</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעה ג'</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.750870</Latitude>
+    <Longitude>35.104434</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעה ד'</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754732</Latitude>
+    <Longitude>35.106670</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת חרובים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755773</Latitude>
+    <Longitude>35.100730</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754775</Latitude>
+    <Longitude>35.107453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755417</Latitude>
+    <Longitude>35.106846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המדרשים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>המדרשים</AlternateName>
+    <Latitude>32.753504</Latitude>
+    <Longitude>35.099783</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הרב משקובסקי</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>הרב משקובסקי</AlternateName>
+    <Latitude>32.747875</Latitude>
+    <Longitude>35.102805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יוסף פלץ</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>יוסף פלץ</AlternateName>
+    <Latitude>32.746666</Latitude>
+    <Longitude>35.103679</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך שרה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>שרה</AlternateName>
+    <Latitude>32.750764</Latitude>
+    <Longitude>35.101318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.751022</Latitude>
+    <Longitude>35.100065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוסים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754668</Latitude>
+    <Longitude>35.099676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלונים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.750393</Latitude>
+    <Longitude>35.096654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.749301</Latitude>
+    <Longitude>35.097951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755164</Latitude>
+    <Longitude>35.106980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755018</Latitude>
+    <Longitude>35.096369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלניות</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.753978</Latitude>
+    <Longitude>35.100072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755961</Latitude>
+    <Longitude>35.102255</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.746724</Latitude>
+    <Longitude>35.097583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.747996</Latitude>
+    <Longitude>35.100411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמעונוביץ</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>שמעונוביץ</AlternateName>
+    <AlternateName>הרבי שמעונוביץ</AlternateName>
+    <AlternateName>רבי שמעונוביץ</AlternateName>
+    <Latitude>32.747828</Latitude>
+    <Longitude>35.099091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.750425</Latitude>
+    <Longitude>35.098034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפות</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.752834</Latitude>
+    <Longitude>35.100236</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.756778</Latitude>
+    <Longitude>35.107187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.752188</Latitude>
+    <Longitude>35.104582</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755007</Latitude>
+    <Longitude>35.101430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.751103</Latitude>
+    <Longitude>35.105006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755115</Latitude>
+    <Longitude>35.099046</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר יגאל אלון</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>ככר יגאל אלון</AlternateName>
+    <Latitude>32.749265</Latitude>
+    <Longitude>35.100436</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>לב אליהו</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.756424</Latitude>
+    <Longitude>35.099093</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754107</Latitude>
+    <Longitude>35.105902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות דוד</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <AlternateName>מעלות דויד</AlternateName>
+    <Latitude>32.752606</Latitude>
+    <Longitude>35.107404</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.756031</Latitude>
+    <Longitude>35.099035</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>משכנות</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.746858</Latitude>
+    <Longitude>35.098267</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.756165</Latitude>
+    <Longitude>35.098211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.753742</Latitude>
+    <Longitude>35.105992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הורדים</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755044</Latitude>
+    <Longitude>35.097427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.754287</Latitude>
+    <Longitude>35.105134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.756271</Latitude>
+    <Longitude>35.097436</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית אור חדש מרכז חינוכי</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.746071</Latitude>
+    <Longitude>35.104313</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.753746</Latitude>
+    <Longitude>35.106621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שעורה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755046</Latitude>
+    <Longitude>35.099865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755435</Latitude>
+    <Longitude>35.105882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>רכסים, ישראל</ParentName>
+    <Latitude>32.755169</Latitude>
+    <Longitude>35.100787</Longitude>
+  </Street>
+</LocationData>

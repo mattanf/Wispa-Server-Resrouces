@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058796</Latitude>
+    <Longitude>34.875452</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061912</Latitude>
+    <Longitude>34.873478</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית שאן</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060280</Latitude>
+    <Longitude>34.872488</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בקעת הירדן</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.062527</Latitude>
+    <Longitude>34.869460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056957</Latitude>
+    <Longitude>34.878251</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת סביון החדשה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.063026</Latitude>
+    <Longitude>34.880661</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גנים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.064242</Latitude>
+    <Longitude>34.871121</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דביר</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056512</Latitude>
+    <Longitude>34.874117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.057625</Latitude>
+    <Longitude>34.882248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך איילות</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <AlternateName>איילות</AlternateName>
+    <Latitude>32.065030</Latitude>
+    <Longitude>34.869837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האגמים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <AlternateName>האגמים</AlternateName>
+    <Latitude>32.063055</Latitude>
+    <Longitude>34.870385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <AlternateName>הים</AlternateName>
+    <Latitude>32.064535</Latitude>
+    <Longitude>34.872807</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המלך</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <AlternateName>המלך</AlternateName>
+    <Latitude>32.065220</Latitude>
+    <Longitude>34.872725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך התקווה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <AlternateName>התקווה</AlternateName>
+    <Latitude>32.067165</Latitude>
+    <Longitude>34.872811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.063884</Latitude>
+    <Longitude>34.878782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האקליפטוס</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.064454</Latitude>
+    <Longitude>34.875903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.055734</Latitude>
+    <Longitude>34.869665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.057436</Latitude>
+    <Longitude>34.873280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.055644</Latitude>
+    <Longitude>34.867090</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.057921</Latitude>
+    <Longitude>34.871896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061141</Latitude>
+    <Longitude>34.880315</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056571</Latitude>
+    <Longitude>34.870385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060245</Latitude>
+    <Longitude>34.882249</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצפה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.062369</Latitude>
+    <Longitude>34.871015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061295</Latitude>
+    <Longitude>34.876729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחל</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.063074</Latitude>
+    <Longitude>34.879750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמקים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060215</Latitude>
+    <Longitude>34.871723</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061714</Latitude>
+    <Longitude>34.879841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפסגה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.062192</Latitude>
+    <Longitude>34.873872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060731</Latitude>
+    <Longitude>34.874351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי יהודה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061179</Latitude>
+    <Longitude>34.871125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי ירושלים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061542</Latitude>
+    <Longitude>34.875307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.062731</Latitude>
+    <Longitude>34.880804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058848</Latitude>
+    <Longitude>34.869306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060672</Latitude>
+    <Longitude>34.871179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.062399</Latitude>
+    <Longitude>34.881489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.059095</Latitude>
+    <Longitude>34.868284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058300</Latitude>
+    <Longitude>34.877232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יודפת</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056654</Latitude>
+    <Longitude>34.874920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ים המלח</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061398</Latitude>
+    <Longitude>34.878731</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ישמח משה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058670</Latitude>
+    <Longitude>34.868379</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרחביה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058051</Latitude>
+    <Longitude>34.880138</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נוף סביון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061731</Latitude>
+    <Longitude>34.867796</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>סופר פארם גבעת סביון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.057001</Latitude>
+    <Longitude>34.869233</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סמטת הלבונה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058911</Latitude>
+    <Longitude>34.874573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הר סיני</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.059879</Latitude>
+    <Longitude>34.875787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת כינרת</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.059543</Latitude>
+    <Longitude>34.878646</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עמק זבולון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.059223</Latitude>
+    <Longitude>34.872653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת קדש</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061670</Latitude>
+    <Longitude>34.875901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת תל חי</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058195</Latitude>
+    <Longitude>34.878212</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060764</Latitude>
+    <Longitude>34.878019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גנים</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060128</Latitude>
+    <Longitude>34.867526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין חנוך</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061661</Latitude>
+    <Longitude>34.868690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין שמש</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.061661</Latitude>
+    <Longitude>34.868690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056270</Latitude>
+    <Longitude>34.871829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.059856</Latitude>
+    <Longitude>34.880002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי השואה</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058487</Latitude>
+    <Longitude>34.879385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קישון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058916</Latitude>
+    <Longitude>34.873565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת אלון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.060305</Latitude>
+    <Longitude>34.869813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת גונן</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.058609</Latitude>
+    <Longitude>34.869848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת דולב</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.057831</Latitude>
+    <Longitude>34.869370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה רבאון</NativeName>
+    <ParentName>גני תקווה, ישראל</ParentName>
+    <Latitude>32.056935</Latitude>
+    <Longitude>34.866863</Longitude>
+  </Street>
+</LocationData>

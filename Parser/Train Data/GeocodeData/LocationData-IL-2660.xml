@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביבית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883885</Latitude>
+    <Longitude>34.730903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878411</Latitude>
+    <Longitude>34.734477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגמון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874435</Latitude>
+    <Longitude>34.726416</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877500</Latitude>
+    <Longitude>34.733668</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון חג'ג'</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877506</Latitude>
+    <Longitude>34.746895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.792862</Latitude>
+    <Longitude>34.711115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אזוב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876843</Latitude>
+    <Longitude>34.734888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אטד</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872625</Latitude>
+    <Longitude>34.735562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס הארגמן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.901075</Latitude>
+    <Longitude>34.740934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877138</Latitude>
+    <Longitude>34.734343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877915</Latitude>
+    <Longitude>34.734107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלעזר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.781609</Latitude>
+    <Longitude>34.691670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876276</Latitude>
+    <Longitude>34.733153</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.788389</Latitude>
+    <Longitude>34.708700</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876672</Latitude>
+    <Longitude>34.734004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879489</Latitude>
+    <Longitude>34.735578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוהיניה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875712</Latitude>
+    <Longitude>34.738453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוכריס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870247</Latitude>
+    <Longitude>34.744879</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס רמות וייצמן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878016</Latitude>
+    <Longitude>34.731345</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874898</Latitude>
+    <Longitude>34.726062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.793996</Latitude>
+    <Longitude>34.710815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גומא</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875120</Latitude>
+    <Longitude>34.728732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי החיל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.869102</Latitude>
+    <Longitude>34.743171</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868714</Latitude>
+    <Longitude>34.744013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875910</Latitude>
+    <Longitude>34.727751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>31.869573</Latitude>
+    <Longitude>34.750129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877168</Latitude>
+    <Longitude>34.744150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880223</Latitude>
+    <Longitude>34.725578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דותן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.894738</Latitude>
+    <Longitude>34.738852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דם המכבים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875812</Latitude>
+    <Longitude>34.729343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.893727</Latitude>
+    <Longitude>34.739112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879320</Latitude>
+    <Longitude>34.734056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האבוקדו</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883086</Latitude>
+    <Longitude>34.739309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האומן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.866581</Latitude>
+    <Longitude>34.741892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורגים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.866581</Latitude>
+    <Longitude>34.741892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878021</Latitude>
+    <Longitude>34.739947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האיריס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875514</Latitude>
+    <Longitude>34.747889</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877534</Latitude>
+    <Longitude>34.742905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האמוראים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.869266</Latitude>
+    <Longitude>34.741645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האפרסק</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879188</Latitude>
+    <Longitude>34.739403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האקליפטוס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879177</Latitude>
+    <Longitude>34.743627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארבל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874690</Latitude>
+    <Longitude>34.752310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשכולית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883082</Latitude>
+    <Longitude>34.738221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880574</Latitude>
+    <Longitude>34.742509</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878335</Latitude>
+    <Longitude>34.733321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876880</Latitude>
+    <Longitude>34.751730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגולן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874647</Latitude>
+    <Longitude>34.729157</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874414</Latitude>
+    <Longitude>34.751823</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880465</Latitude>
+    <Longitude>34.730649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875265</Latitude>
+    <Longitude>34.752817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879998</Latitude>
+    <Longitude>34.739756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880277</Latitude>
+    <Longitude>34.734760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875452</Latitude>
+    <Longitude>34.737861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874773</Latitude>
+    <Longitude>34.744113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877119</Latitude>
+    <Longitude>34.738063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873858</Latitude>
+    <Longitude>34.742726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבוש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879667</Latitude>
+    <Longitude>34.740748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873818</Latitude>
+    <Longitude>34.745143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876551</Latitude>
+    <Longitude>34.747357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.888506</Latitude>
+    <Longitude>34.740352</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירמוך</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.887023</Latitude>
+    <Longitude>34.731210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.896806</Latitude>
+    <Longitude>34.738820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873437</Latitude>
+    <Longitude>34.744917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879253</Latitude>
+    <Longitude>34.738450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876528</Latitude>
+    <Longitude>34.750609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.871377</Latitude>
+    <Longitude>34.747208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המיסב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.863442</Latitude>
+    <Longitude>34.742924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנגו</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875490</Latitude>
+    <Longitude>34.736555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפרש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.790841</Latitude>
+    <Longitude>34.721386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870468</Latitude>
+    <Longitude>34.750898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877352</Latitude>
+    <Longitude>34.727766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875357</Latitude>
+    <Longitude>34.748368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיאים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.871434</Latitude>
+    <Longitude>34.751104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872577</Latitude>
+    <Longitude>34.742109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874089</Latitude>
+    <Longitude>34.747271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העגור</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875786</Latitude>
+    <Longitude>34.743997</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.865158</Latitude>
+    <Longitude>34.742621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878678</Latitude>
+    <Longitude>34.738412</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפיקוס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879041</Latitude>
+    <Longitude>34.739764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפקאן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875416</Latitude>
+    <Longitude>34.736734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרת</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.887884</Latitude>
+    <Longitude>34.738904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצבעוני</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877477</Latitude>
+    <Longitude>34.748738</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפצפה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879041</Latitude>
+    <Longitude>34.739764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוקוס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875973</Latitude>
+    <Longitude>34.735891</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקישון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.886507</Latitude>
+    <Longitude>34.733749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הזיתים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876192</Latitude>
+    <Longitude>34.751119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874055</Latitude>
+    <Longitude>34.752044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874572</Latitude>
+    <Longitude>34.751313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר סיני</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873008</Latitude>
+    <Longitude>34.752247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868585</Latitude>
+    <Longitude>34.748493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877183</Latitude>
+    <Longitude>34.728782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874438</Latitude>
+    <Longitude>34.748689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875102</Latitude>
+    <Longitude>34.724346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.871247</Latitude>
+    <Longitude>34.748849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874391</Latitude>
+    <Longitude>34.746511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872389</Latitude>
+    <Longitude>34.741630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876138</Latitude>
+    <Longitude>34.740421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877229</Latitude>
+    <Longitude>34.727747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875597</Latitude>
+    <Longitude>34.739968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880675</Latitude>
+    <Longitude>34.727556</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878433</Latitude>
+    <Longitude>34.738955</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873400</Latitude>
+    <Longitude>34.749729</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התדהר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878846</Latitude>
+    <Longitude>34.740136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התורן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.790694</Latitude>
+    <Longitude>34.720956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868035</Latitude>
+    <Longitude>34.743635</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוז</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876627</Latitude>
+    <Longitude>34.736545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879226</Latitude>
+    <Longitude>34.739936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זהבית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879046</Latitude>
+    <Longitude>34.728253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבלבל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872474</Latitude>
+    <Longitude>34.747536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת החוף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.902019</Latitude>
+    <Longitude>34.739555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת גבעתי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.869718</Latitude>
+    <Longitude>34.735020</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חידקל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.891489</Latitude>
+    <Longitude>34.738982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמונית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870506</Latitude>
+    <Longitude>34.736719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חמנית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873430</Latitude>
+    <Longitude>34.729263</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879373</Latitude>
+    <Longitude>34.726584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880494</Latitude>
+    <Longitude>34.737142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874898</Latitude>
+    <Longitude>34.750575</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883566</Latitude>
+    <Longitude>34.730382</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.791628</Latitude>
+    <Longitude>34.710145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873883</Latitude>
+    <Longitude>34.729165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878877</Latitude>
+    <Longitude>34.725742</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכבית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883849</Latitude>
+    <Longitude>34.731565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כחלית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.878053</Latitude>
+    <Longitude>34.726601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880761</Latitude>
+    <Longitude>34.741472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוע הארי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877002</Latitude>
+    <Longitude>34.724876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880556</Latitude>
+    <Longitude>34.733620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע דני</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.867827</Latitude>
+    <Longitude>34.751337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע חירם</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.867853</Latitude>
+    <Longitude>34.748796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע יונתן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868370</Latitude>
+    <Longitude>34.749475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע עובדה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.867968</Latitude>
+    <Longitude>34.749964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868423</Latitude>
+    <Longitude>34.750650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע תש"ח</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.869350</Latitude>
+    <Longitude>34.748048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוריה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873949</Latitude>
+    <Longitude>34.750019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.881421</Latitude>
+    <Longitude>34.738871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי יהודה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.871782</Latitude>
+    <Longitude>34.749676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי ישראל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.871310</Latitude>
+    <Longitude>34.749158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.881291</Latitude>
+    <Longitude>34.730906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אדר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875066</Latitude>
+    <Longitude>34.736058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האלמוגן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880519</Latitude>
+    <Longitude>34.741119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגויאבה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876178</Latitude>
+    <Longitude>34.738099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול ההדרים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.882065</Latitude>
+    <Longitude>34.740770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הסהרון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880518</Latitude>
+    <Longitude>34.740878</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הצבר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876494</Latitude>
+    <Longitude>34.736854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התות</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880170</Latitude>
+    <Longitude>34.740812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול תאשור</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.882111</Latitude>
+    <Longitude>34.741153</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות אשכול</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875189</Latitude>
+    <Longitude>34.746972</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות בגין</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872703</Latitude>
+    <Longitude>34.736689</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות בן גוריון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874714</Latitude>
+    <Longitude>34.742418</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות רבין בתיכנון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.863578</Latitude>
+    <Longitude>34.739318</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות שז"ר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875280</Latitude>
+    <Longitude>34.750980</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נהרונית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883759</Latitude>
+    <Longitude>34.732192</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אילן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.868979</Latitude>
+    <Longitude>34.745029</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עובד</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.780316</Latitude>
+    <Longitude>34.707792</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872691</Latitude>
+    <Longitude>34.735607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.881232</Latitude>
+    <Longitude>34.735471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נזמית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.884682</Latitude>
+    <Longitude>34.731725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל חריף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.898526</Latitude>
+    <Longitude>34.735309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל פולג</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.901090</Latitude>
+    <Longitude>34.738850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל שניר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.900164</Latitude>
+    <Longitude>34.736114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניצנית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872017</Latitude>
+    <Longitude>34.728484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סחלב</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872680</Latitude>
+    <Longitude>34.738539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879999</Latitude>
+    <Longitude>34.731485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.875366</Latitude>
+    <Longitude>34.736218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סייפן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880366</Latitude>
+    <Longitude>34.731632</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.791043</Latitude>
+    <Longitude>34.710573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סתוונית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.879736</Latitude>
+    <Longitude>34.730546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדעד</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870039</Latitude>
+    <Longitude>34.737500</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.869741</Latitude>
+    <Longitude>34.741770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולש</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.873694</Latitude>
+    <Longitude>34.735152</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876616</Latitude>
+    <Longitude>34.724205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883649</Latitude>
+    <Longitude>34.732827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערמון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.882189</Latitude>
+    <Longitude>34.736129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערער</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883523</Latitude>
+    <Longitude>34.734283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פארן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.893171</Latitude>
+    <Longitude>34.736909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.872729</Latitude>
+    <Longitude>34.737784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.884800</Latitude>
+    <Longitude>34.731028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרג</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.884618</Latitude>
+    <Longitude>34.729504</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883154</Latitude>
+    <Longitude>34.736884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.789333</Latitude>
+    <Longitude>34.706501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צורית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.874480</Latitude>
+    <Longitude>34.730362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870782</Latitude>
+    <Longitude>34.738841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870441</Latitude>
+    <Longitude>34.740325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורנית</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.881961</Latitude>
+    <Longitude>34.732661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קינמון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883199</Latitude>
+    <Longitude>34.734107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוזמרין</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.885297</Latitude>
+    <Longitude>34.731520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותם</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.881722</Latitude>
+    <Longitude>34.735832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריחן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.885686</Latitude>
+    <Longitude>34.732633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.876542</Latitude>
+    <Longitude>34.735441</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמות בן צבי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.866014</Latitude>
+    <Longitude>34.748292</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמות וייצמן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.877552</Latitude>
+    <Longitude>34.739145</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.873391</Latitude>
+    <Longitude>34.746060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות גן רווה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>גן רווה</AlternateName>
+    <AlternateName>שד' גן רווה</AlternateName>
+    <Latitude>31.901188</Latitude>
+    <Longitude>34.738895</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות דואני</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>שד' דואני</AlternateName>
+    <AlternateName>דואני</AlternateName>
+    <Latitude>31.873360</Latitude>
+    <Longitude>34.739603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הגרי זכריה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>שד' הגרי זכריה</AlternateName>
+    <AlternateName>הגרי זכריה</AlternateName>
+    <Latitude>31.873818</Latitude>
+    <Longitude>34.745143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הסנהדרין</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>הסנהדרין</AlternateName>
+    <AlternateName>שד' הסנהדרין</AlternateName>
+    <Latitude>31.884936</Latitude>
+    <Longitude>34.739511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות העצמאות</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>שד' העצמאות</AlternateName>
+    <AlternateName>העצמאות</AlternateName>
+    <Latitude>31.869583</Latitude>
+    <Longitude>34.746898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ז'בוטינסקי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>שד' ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זבוטיסקי</AlternateName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שד' זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>שדרות זבוטיסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>31.877292</Latitude>
+    <Longitude>34.736461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>31.882277</Latitude>
+    <Longitude>34.733199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.792065</Latitude>
+    <Longitude>34.710381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שידלובסקי</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.891582</Latitude>
+    <Longitude>34.733325</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיטה</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.883220</Latitude>
+    <Longitude>34.734837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שנף</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.880733</Latitude>
+    <Longitude>34.735106</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורמוס</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870856</Latitude>
+    <Longitude>34.738691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תלתן</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.870877</Latitude>
+    <Longitude>34.733925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>יבנה, ישראל</ParentName>
+    <Latitude>31.882023</Latitude>
+    <Longitude>34.737474</Longitude>
+  </Street>
+</LocationData>

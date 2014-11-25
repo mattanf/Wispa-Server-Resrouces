@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אהוד</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.920369</Latitude>
+    <Longitude>35.036440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופק</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.921148</Latitude>
+    <Longitude>35.033923</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.920116</Latitude>
+    <Longitude>35.039362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבעה</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.919160</Latitude>
+    <Longitude>35.035453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.919281</Latitude>
+    <Longitude>35.036758</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היער</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.922497</Latitude>
+    <Longitude>35.035950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.922820</Latitude>
+    <Longitude>35.033455</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.918011</Latitude>
+    <Longitude>35.035657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפסגה</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.921131</Latitude>
+    <Longitude>35.035478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכס</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.918300</Latitude>
+    <Longitude>35.038733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.917282</Latitude>
+    <Longitude>35.037621</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה נוף</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.919212</Latitude>
+    <Longitude>35.039566</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנורה</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.918166</Latitude>
+    <Longitude>35.037856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מודיעין</NativeName>
+    <ParentName>כפר האורנים, ישראל</ParentName>
+    <Latitude>31.920687</Latitude>
+    <Longitude>35.039176</Longitude>
+  </Street>
+</LocationData>

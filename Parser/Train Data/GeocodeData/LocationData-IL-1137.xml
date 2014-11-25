@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבינדב</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802932</Latitude>
+    <Longitude>35.105321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אזניים לתורה</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802107</Latitude>
+    <Longitude>35.099421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך אברהם</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <AlternateName>אברהם</AlternateName>
+    <Latitude>31.805001</Latitude>
+    <Longitude>35.105453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.803805</Latitude>
+    <Longitude>35.101592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802430</Latitude>
+    <Longitude>35.094430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב א. גורדון</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <AlternateName>א. גורדון</AlternateName>
+    <AlternateName>רבי א. גורדון</AlternateName>
+    <AlternateName>הרבי א. גורדון</AlternateName>
+    <Latitude>31.804364</Latitude>
+    <Longitude>35.104189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב בלוך</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <AlternateName>רבי בלוך</AlternateName>
+    <AlternateName>בלוך</AlternateName>
+    <AlternateName>הרבי בלוך</AlternateName>
+    <Latitude>31.803059</Latitude>
+    <Longitude>35.097820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <AlternateName>רבי יצחק</AlternateName>
+    <AlternateName>יצחק</AlternateName>
+    <AlternateName>הרבי יצחק</AlternateName>
+    <Latitude>31.803281</Latitude>
+    <Longitude>35.105086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי"ף</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802224</Latitude>
+    <Longitude>35.096683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802212</Latitude>
+    <Longitude>35.093680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.803191</Latitude>
+    <Longitude>35.094530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות דוד</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <AlternateName>מעלות דויד</AlternateName>
+    <Latitude>31.803281</Latitude>
+    <Longitude>35.105086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות חיים</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.803618</Latitude>
+    <Longitude>35.104817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות יוסף</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.804236</Latitude>
+    <Longitude>35.102351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות קדושי טלז</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802796</Latitude>
+    <Longitude>35.098984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרי"ף</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802622</Latitude>
+    <Longitude>35.094723</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אליעזר</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.802651</Latitude>
+    <Longitude>35.093366</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחלת שלמה</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.803407</Latitude>
+    <Longitude>35.101375</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל התאנה</NativeName>
+    <ParentName>קרית יערים, ישראל</ParentName>
+    <Latitude>31.803981</Latitude>
+    <Longitude>35.104138</Longitude>
+  </Street>
+</LocationData>

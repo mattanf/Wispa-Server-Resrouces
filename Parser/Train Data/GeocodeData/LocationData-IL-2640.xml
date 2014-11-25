@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אביב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096407</Latitude>
+    <Longitude>34.952327</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אביבים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091748</Latitude>
+    <Longitude>34.975901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביטל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093039</Latitude>
+    <Longitude>34.976834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094984</Latitude>
+    <Longitude>34.940866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101931</Latitude>
+    <Longitude>34.946284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבצ"ן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103067</Latitude>
+    <Longitude>34.942216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברהם עמרני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093720</Latitude>
+    <Longitude>34.959532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094489</Latitude>
+    <Longitude>34.962300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093614</Latitude>
+    <Longitude>34.964722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדיר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095338</Latitude>
+    <Longitude>34.977047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אדמונית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097269</Latitude>
+    <Longitude>34.966267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוג</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089372</Latitude>
+    <Longitude>34.964385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102291</Latitude>
+    <Longitude>34.959336</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוהלי קידר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088563</Latitude>
+    <Longitude>34.960233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093136</Latitude>
+    <Longitude>34.964104</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחווה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093630</Latitude>
+    <Longitude>34.944768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088768</Latitude>
+    <Longitude>34.963283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איילון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092142</Latitude>
+    <Longitude>34.980043</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091808</Latitude>
+    <Longitude>34.962645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אירוס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097655</Latitude>
+    <Longitude>34.966979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091174</Latitude>
+    <Longitude>34.965666</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091989</Latitude>
+    <Longitude>34.965403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100253</Latitude>
+    <Longitude>34.958158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמנון ותמר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098048</Latitude>
+    <Longitude>34.967717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.104353</Latitude>
+    <Longitude>34.961808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אעלה בתמר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.085880</Latitude>
+    <Longitude>34.956520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090165</Latitude>
+    <Longitude>34.946501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100003</Latitude>
+    <Longitude>34.953950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.089178</Latitude>
+    <Longitude>34.946389</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094044</Latitude>
+    <Longitude>34.975747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארז</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089722</Latitude>
+    <Longitude>34.965234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארץ ישראל השלמה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094328</Latitude>
+    <Longitude>34.944415</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשכולית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096375</Latitude>
+    <Longitude>34.960248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089347</Latitude>
+    <Longitude>34.963201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אתרוג</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095974</Latitude>
+    <Longitude>34.960639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזלת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102588</Latitude>
+    <Longitude>34.958584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל מלאכת שלמה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087909</Latitude>
+    <Longitude>34.950410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברבור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101761</Latitude>
+    <Longitude>34.961939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089303</Latitude>
+    <Longitude>34.962652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089959</Latitude>
+    <Longitude>34.977113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094044</Latitude>
+    <Longitude>34.975747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100652</Latitude>
+    <Longitude>34.957739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בשן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092457</Latitude>
+    <Longitude>34.977159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ג'ון קנדי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094660</Latitude>
+    <Longitude>34.952437</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הסלעים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101808</Latitude>
+    <Longitude>34.957295</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103709</Latitude>
+    <Longitude>34.946743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גזית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100651</Latitude>
+    <Longitude>34.958694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097365</Latitude>
+    <Longitude>34.941972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלוסקא</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>גלוסקה</AlternateName>
+    <Latitude>32.098013</Latitude>
+    <Longitude>34.940301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093498</Latitude>
+    <Longitude>34.976050</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני אפק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102963</Latitude>
+    <Longitude>34.957983</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גפן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095827</Latitude>
+    <Longitude>34.962837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גרניט</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101404</Latitude>
+    <Longitude>34.959820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092242</Latitude>
+    <Longitude>34.949324</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.095860</Latitude>
+    <Longitude>34.950564</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088693</Latitude>
+    <Longitude>34.962040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דיה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087874</Latitude>
+    <Longitude>34.963134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097994</Latitude>
+    <Longitude>34.968560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095660</Latitude>
+    <Longitude>34.967149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093446</Latitude>
+    <Longitude>34.965405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090361</Latitude>
+    <Longitude>34.951407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרגות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095848</Latitude>
+    <Longitude>34.968017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הציונות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הציונות</AlternateName>
+    <Latitude>32.101221</Latitude>
+    <Longitude>34.961425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השומרון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>השומרון</AlternateName>
+    <Latitude>32.104568</Latitude>
+    <Longitude>34.959858</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך מנחם בגין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <Latitude>32.097588</Latitude>
+    <Longitude>34.963129</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ה' באייר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096779</Latitude>
+    <Longitude>34.973659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095071</Latitude>
+    <Longitude>34.963084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091663</Latitude>
+    <Longitude>34.956283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבקעה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093647</Latitude>
+    <Longitude>34.962683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096070</Latitude>
+    <Longitude>34.965685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097960</Latitude>
+    <Longitude>34.957977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102382</Latitude>
+    <Longitude>34.945422</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדודאים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090031</Latitude>
+    <Longitude>34.960112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090646</Latitude>
+    <Longitude>34.965547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103188</Latitude>
+    <Longitude>34.962267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102511</Latitude>
+    <Longitude>34.964924</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090367</Latitude>
+    <Longitude>34.956339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החליל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090189</Latitude>
+    <Longitude>34.973589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמישה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093918</Latitude>
+    <Longitude>34.948859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097000</Latitude>
+    <Longitude>34.945387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטייס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095533</Latitude>
+    <Longitude>34.953447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.107031</Latitude>
+    <Longitude>34.938713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירקון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097957</Latitude>
+    <Longitude>34.937852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלבונה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.086067</Latitude>
+    <Longitude>34.956205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלח"י</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.085756</Latitude>
+    <Longitude>34.951874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המוביל הארצי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098917</Latitude>
+    <Longitude>34.938089</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המיילדת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089091</Latitude>
+    <Longitude>34.952943</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099058</Latitude>
+    <Longitude>34.964544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכתש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092688</Latitude>
+    <Longitude>34.961631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.107159</Latitude>
+    <Longitude>34.971118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסילה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098705</Latitude>
+    <Longitude>34.936095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפיל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089397</Latitude>
+    <Longitude>34.951535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצפה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.086439</Latitude>
+    <Longitude>34.952945</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרץ</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.105698</Latitude>
+    <Longitude>34.938979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתמיד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091306</Latitude>
+    <Longitude>34.951391</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098773</Latitude>
+    <Longitude>34.951138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנקר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087548</Latitude>
+    <Longitude>34.963676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסופר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097776</Latitude>
+    <Longitude>34.940974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסלע</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092619</Latitude>
+    <Longitude>34.959727</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.107669</Latitude>
+    <Longitude>34.940286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העורב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103375</Latitude>
+    <Longitude>34.961178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091787</Latitude>
+    <Longitude>34.971060</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096784</Latitude>
+    <Longitude>34.940242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089409</Latitude>
+    <Longitude>34.964897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099872</Latitude>
+    <Longitude>34.965680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097924</Latitude>
+    <Longitude>34.951128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקטר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097276</Latitude>
+    <Longitude>34.936188</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר המור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088752</Latitude>
+    <Longitude>34.955711</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087340</Latitude>
+    <Longitude>34.950829</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב דוד חג'בי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הרבי דוד חג'בי</AlternateName>
+    <AlternateName>רבי דויד חג'בי</AlternateName>
+    <AlternateName>דויד חג'בי</AlternateName>
+    <AlternateName>דוד חג'בי</AlternateName>
+    <AlternateName>רבי דוד חג'בי</AlternateName>
+    <AlternateName>הרב דויד חג'בי</AlternateName>
+    <AlternateName>הרבי דויד חג'בי</AlternateName>
+    <Latitude>32.100286</Latitude>
+    <Longitude>34.944662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב כלף</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הרבי כלף</AlternateName>
+    <AlternateName>רבי כלף</AlternateName>
+    <AlternateName>כלף</AlternateName>
+    <Latitude>32.095533</Latitude>
+    <Longitude>34.953447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלום זכריה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הרבי שלום זכריה</AlternateName>
+    <AlternateName>שלום זכריה</AlternateName>
+    <AlternateName>רבי שלום זכריה</AlternateName>
+    <Latitude>32.101225</Latitude>
+    <Longitude>34.941098</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שלום שבזי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הרבי שבזי</AlternateName>
+    <AlternateName>רבי שלום שבזי</AlternateName>
+    <AlternateName>הרב שבזי</AlternateName>
+    <AlternateName>שבזי</AlternateName>
+    <AlternateName>הרבי שלום שבזי</AlternateName>
+    <AlternateName>רבי שבזי</AlternateName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.087573</Latitude>
+    <Longitude>34.953971</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכבת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097603</Latitude>
+    <Longitude>34.936927</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093681</Latitude>
+    <Longitude>34.947099</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרקפות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092346</Latitude>
+    <Longitude>34.957644</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרש"ש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100288</Latitude>
+    <Longitude>34.948732</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השפלה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089942</Latitude>
+    <Longitude>34.962780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091453</Latitude>
+    <Longitude>34.964597</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101597</Latitude>
+    <Longitude>34.945442</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098246</Latitude>
+    <Longitude>34.939374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעשייה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.106518</Latitude>
+    <Longitude>34.938584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.104152</Latitude>
+    <Longitude>34.945237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096404</Latitude>
+    <Longitude>34.947328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099349</Latitude>
+    <Longitude>34.967983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורדית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101753</Latitude>
+    <Longitude>34.957859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.092042</Latitude>
+    <Longitude>34.966071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוהר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093509</Latitude>
+    <Longitude>34.980491</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זיו</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094982</Latitude>
+    <Longitude>34.966390</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094349</Latitude>
+    <Longitude>34.961686</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה משה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098502</Latitude>
+    <Longitude>34.946121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרעית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100424</Latitude>
+    <Longitude>34.959337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוגלה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103123</Latitude>
+    <Longitude>34.960576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103790</Latitude>
+    <Longitude>34.962833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חופית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102800</Latitude>
+    <Longitude>34.965289</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חותמי המגילה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099558</Latitude>
+    <Longitude>34.950707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100811</Latitude>
+    <Longitude>34.943265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלמיש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099944</Latitude>
+    <Longitude>34.958588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסידה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.104200</Latitude>
+    <Longitude>34.961641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100541</Latitude>
+    <Longitude>34.941229</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097162</Latitude>
+    <Longitude>34.966886</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094653</Latitude>
+    <Longitude>34.964748</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091111</Latitude>
+    <Longitude>34.962478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרסית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101055</Latitude>
+    <Longitude>34.957327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרצית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097546</Latitude>
+    <Longitude>34.965963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טללים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094376</Latitude>
+    <Longitude>34.974559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבניאלי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095764</Latitude>
+    <Longitude>34.941780</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092493</Latitude>
+    <Longitude>34.954066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090717</Latitude>
+    <Longitude>34.962042</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.103757</Latitude>
+    <Longitude>34.948023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100078</Latitude>
+    <Longitude>34.960779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102426</Latitude>
+    <Longitude>34.961257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף מלאכי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099624</Latitude>
+    <Longitude>34.938985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יורם חתוכה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089814</Latitude>
+    <Longitude>34.948018</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיא אביץ</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094502</Latitude>
+    <Longitude>34.958547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיא יצחק הלוי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102808</Latitude>
+    <Longitude>34.951479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסמין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097115</Latitude>
+    <Longitude>34.967624</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסעור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102408</Latitude>
+    <Longitude>34.964322</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יער ראש העין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100515</Latitude>
+    <Longitude>34.970564</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097269</Latitude>
+    <Longitude>34.966267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097307</Latitude>
+    <Longitude>34.968710</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירגזי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088708</Latitude>
+    <Longitude>34.962551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירדן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091715</Latitude>
+    <Longitude>34.977550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים השלמה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097058</Latitude>
+    <Longitude>34.957790</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יריעות שלמה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.086767</Latitude>
+    <Longitude>34.954849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמוך</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094002</Latitude>
+    <Longitude>34.980716</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אלי כהן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>ככר אלי כהן</AlternateName>
+    <Latitude>32.099517</Latitude>
+    <Longitude>34.941140</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כינור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091303</Latitude>
+    <Longitude>34.972673</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099165</Latitude>
+    <Longitude>34.966731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנפי נשרים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102527</Latitude>
+    <Longitude>34.946973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כפיר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101568</Latitude>
+    <Longitude>34.962984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097193</Latitude>
+    <Longitude>34.968172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092330</Latitude>
+    <Longitude>34.964240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לביא</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102388</Latitude>
+    <Longitude>34.963741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילך</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099221</Latitude>
+    <Longitude>34.968241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לימון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096432</Latitude>
+    <Longitude>34.961073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090955</Latitude>
+    <Longitude>34.963882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע בזק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094302</Latitude>
+    <Longitude>34.973244</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע דני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097347</Latitude>
+    <Longitude>34.975816</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע הראל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095066</Latitude>
+    <Longitude>34.971756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע חירם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096614</Latitude>
+    <Longitude>34.971501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע נחשון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094330</Latitude>
+    <Longitude>34.971637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע עובדה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096869</Latitude>
+    <Longitude>34.972140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088352</Latitude>
+    <Longitude>34.958815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגדל דוד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>מגדל דויד</AlternateName>
+    <Latitude>32.086323</Latitude>
+    <Longitude>34.955661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090581</Latitude>
+    <Longitude>34.963381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהרי"ץ</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099279</Latitude>
+    <Longitude>34.944100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהריק"א</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099884</Latitude>
+    <Longitude>34.943612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101335</Latitude>
+    <Longitude>34.949349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098984</Latitude>
+    <Longitude>34.966092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכאל גרמה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095394</Latitude>
+    <Longitude>34.955452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091979</Latitude>
+    <Longitude>34.963097</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מישר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091924</Latitude>
+    <Longitude>34.975800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיתר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096674</Latitude>
+    <Longitude>34.980307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי ישראל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093589</Latitude>
+    <Longitude>34.950555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089340</Latitude>
+    <Longitude>34.974968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם עמוסי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093973</Latitude>
+    <Longitude>34.947952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089779</Latitude>
+    <Longitude>34.956534</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מצפה אפק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.085913</Latitude>
+    <Longitude>34.956256</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097000</Latitude>
+    <Longitude>34.945387</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרגנית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097932</Latitude>
+    <Longitude>34.969835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095211</Latitude>
+    <Longitude>34.964935</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרב יצחק ונה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093681</Latitude>
+    <Longitude>34.947099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרב שלמה מלמד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094143</Latitude>
+    <Longitude>34.947812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עלי הכהן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093131</Latitude>
+    <Longitude>34.956861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נגב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090048</Latitude>
+    <Longitude>34.961747</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נווה אפיקים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091752</Latitude>
+    <Longitude>34.976605</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אפק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094259</Latitude>
+    <Longitude>34.978091</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחל עירון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095489</Latitude>
+    <Longitude>34.965563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל ערוגות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094924</Latitude>
+    <Longitude>34.965794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל קישון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094247</Latitude>
+    <Longitude>34.966708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל רבה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100464</Latitude>
+    <Longitude>34.964980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחליאלי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102163</Latitude>
+    <Longitude>34.962224</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091752</Latitude>
+    <Longitude>34.976605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נשר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088693</Latitude>
+    <Longitude>34.962040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן שאול</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103215</Latitude>
+    <Longitude>34.956630</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נתן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.106495</Latitude>
+    <Longitude>34.946643</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098548</Latitude>
+    <Longitude>34.969815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיגלית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097587</Latitude>
+    <Longitude>34.969096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091734</Latitude>
+    <Longitude>34.955158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סלעית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101287</Latitude>
+    <Longitude>34.962425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.086323</Latitude>
+    <Longitude>34.955661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנהדרין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095381</Latitude>
+    <Longitude>34.955685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103639</Latitude>
+    <Longitude>34.964892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.102286</Latitude>
+    <Longitude>34.939381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סער</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091085</Latitude>
+    <Longitude>34.979913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091941</Latitude>
+    <Longitude>34.945777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עגור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100055</Latitude>
+    <Longitude>34.960182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדולם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092465</Latitude>
+    <Longitude>34.962847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוגב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092299</Latitude>
+    <Longitude>34.972543</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עודד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091508</Latitude>
+    <Longitude>34.961974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עופרה מוזס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096730</Latitude>
+    <Longitude>34.946665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087035</Latitude>
+    <Longitude>34.959484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097238</Latitude>
+    <Longitude>34.968430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליזה בגין</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.092881</Latitude>
+    <Longitude>34.948720</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עליית הנוער</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094739</Latitude>
+    <Longitude>34.950464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.107756</Latitude>
+    <Longitude>34.966028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099833</Latitude>
+    <Longitude>34.960298</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עפרוני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102388</Latitude>
+    <Longitude>34.963741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פארן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090153</Latitude>
+    <Longitude>34.963334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פולג</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089959</Latitude>
+    <Longitude>34.977113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלח הלימון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087332</Latitude>
+    <Longitude>34.955784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095105</Latitude>
+    <Longitude>34.980703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' וולף וגנר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>וולף וגנר</AlternateName>
+    <AlternateName>פרופסור וולף וגנר</AlternateName>
+    <Latitude>32.095730</Latitude>
+    <Longitude>34.952092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090130</Latitude>
+    <Longitude>34.965425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097407</Latitude>
+    <Longitude>34.965716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדוק יצהרי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097583</Latitude>
+    <Longitude>34.938199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089098</Latitude>
+    <Longitude>34.956230</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.102036</Latitude>
+    <Longitude>34.951060</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.101180</Latitude>
+    <Longitude>34.951514</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099757</Latitude>
+    <Longitude>34.959146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צליל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095962</Latitude>
+    <Longitude>34.981845</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קוממיות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096264</Latitude>
+    <Longitude>34.958121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095405</Latitude>
+    <Longitude>34.969965</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095117</Latitude>
+    <Longitude>34.979911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קשת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096530</Latitude>
+    <Longitude>34.980278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קתרוס</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091184</Latitude>
+    <Longitude>34.974206</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.101871</Latitude>
+    <Longitude>34.942055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רביבים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090461</Latitude>
+    <Longitude>34.980238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריחן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097935</Latitude>
+    <Longitude>34.964542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רימון</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096971</Latitude>
+    <Longitude>34.962470</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.098633</Latitude>
+    <Longitude>34.941619</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100780</Latitude>
+    <Longitude>34.940473</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת הגולן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089117</Latitude>
+    <Longitude>34.957730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099080</Latitude>
+    <Longitude>34.965396</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094587</Latitude>
+    <Longitude>34.957514</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שבזי</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.090304</Latitude>
+    <Longitude>34.947393</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087047</Latitude>
+    <Longitude>34.951335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שגיא</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094723</Latitude>
+    <Longitude>34.977385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות עפרוני</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>עפרוני</AlternateName>
+    <AlternateName>שד' עפרוני</AlternateName>
+    <Latitude>32.102742</Latitude>
+    <Longitude>34.963982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שלמה המלך</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>שד' שלמה המלך</AlternateName>
+    <AlternateName>שלמה המלך</AlternateName>
+    <Latitude>32.093989</Latitude>
+    <Longitude>34.942308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.099732</Latitude>
+    <Longitude>34.959696</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שורק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094738</Latitude>
+    <Longitude>34.967512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושן</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.097568</Latitude>
+    <Longitude>34.965338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנת העמקים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089510</Latitude>
+    <Longitude>34.960972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.103261</Latitude>
+    <Longitude>34.965447</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089435</Latitude>
+    <Longitude>34.963682</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שילה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.090031</Latitude>
+    <Longitude>34.960112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיר השירים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088949</Latitude>
+    <Longitude>34.958728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלדג</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088828</Latitude>
+    <Longitude>34.963874</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה מעודה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093192</Latitude>
+    <Longitude>34.945484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שסק</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <AlternateName>סשק</AlternateName>
+    <Latitude>32.096032</Latitude>
+    <Longitude>34.963652</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.094853</Latitude>
+    <Longitude>34.962875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095400</Latitude>
+    <Longitude>34.958294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תאנה</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095324</Latitude>
+    <Longitude>34.963687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תבור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.091507</Latitude>
+    <Longitude>34.963262</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תור</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.088174</Latitude>
+    <Longitude>34.961751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תורי זהב</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.087713</Latitude>
+    <Longitude>34.959867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תות</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.096971</Latitude>
+    <Longitude>34.962470</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.095711</Latitude>
+    <Longitude>34.961973</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תענך</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.089689</Latitude>
+    <Longitude>34.963021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.093986</Latitude>
+    <Longitude>34.961369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>ראש העין, ישראל</ParentName>
+    <Latitude>32.100446</Latitude>
+    <Longitude>34.961256</Longitude>
+  </Street>
+</LocationData>

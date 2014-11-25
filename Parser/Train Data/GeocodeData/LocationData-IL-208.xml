@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.792910</Latitude>
+    <Longitude>35.155763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האקליפטוס</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.793219</Latitude>
+    <Longitude>35.158987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארזים</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.791906</Latitude>
+    <Longitude>35.159194</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.794403</Latitude>
+    <Longitude>35.158966</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.792448</Latitude>
+    <Longitude>35.156076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.793163</Latitude>
+    <Longitude>35.158724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התפוח</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.795751</Latitude>
+    <Longitude>35.157000</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הגפן</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.793935</Latitude>
+    <Longitude>35.155626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבוא הלילך</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.794504</Latitude>
+    <Longitude>35.155709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הארז</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.792708</Latitude>
+    <Longitude>35.160609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הברוש</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.795138</Latitude>
+    <Longitude>35.156731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החרוב</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <Latitude>31.794548</Latitude>
+    <Longitude>35.157219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הראשונים</NativeName>
+    <ParentName>מוצא עילית, ישראל</ParentName>
+    <AlternateName>הראשונים</AlternateName>
+    <AlternateName>שד' הראשונים</AlternateName>
+    <Latitude>31.794548</Latitude>
+    <Longitude>35.157219</Longitude>
+  </Street>
+</LocationData>

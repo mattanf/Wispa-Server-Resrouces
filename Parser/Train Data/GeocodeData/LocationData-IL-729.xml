@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אליהו שמיר</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.007616</Latitude>
+    <Longitude>34.819917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד איבנוצקי</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <AlternateName>דויד איבנוצקי</AlternateName>
+    <Latitude>32.007250</Latitude>
+    <Longitude>34.825059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.007826</Latitude>
+    <Longitude>34.824055</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.006513</Latitude>
+    <Longitude>34.831670</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.007639</Latitude>
+    <Longitude>34.824930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקלים</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.006304</Latitude>
+    <Longitude>34.826475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.010966</Latitude>
+    <Longitude>34.820933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.007272</Latitude>
+    <Longitude>34.830616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.011197</Latitude>
+    <Longitude>34.819683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב עולמי</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.010023</Latitude>
+    <Longitude>34.822977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק קורדובה</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.010472</Latitude>
+    <Longitude>34.827283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם אבטיחי</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.013134</Latitude>
+    <Longitude>34.820809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי זעירא</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.009995</Latitude>
+    <Longitude>34.822411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלמן רוזנבלום</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.008155</Latitude>
+    <Longitude>34.823186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.008575</Latitude>
+    <Longitude>34.823699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>משמר השבעה, ישראל</ParentName>
+    <Latitude>32.008195</Latitude>
+    <Longitude>34.824747</Longitude>
+  </Street>
+</LocationData>

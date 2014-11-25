@@ -1,0 +1,3539 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>אביב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026776</Latitude>
+    <Longitude>34.766411</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אביבים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024740</Latitude>
+    <Longitude>34.775706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029062</Latitude>
+    <Longitude>34.768706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022643</Latitude>
+    <Longitude>34.764525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017456</Latitude>
+    <Longitude>34.790662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022633</Latitude>
+    <Longitude>34.763333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבשלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018964</Latitude>
+    <Longitude>34.792936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגוז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007287</Latitude>
+    <Longitude>34.758987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד מנור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005935</Latitude>
+    <Longitude>34.774921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהוד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017179</Latitude>
+    <Longitude>34.796812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוהל שרה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029553</Latitude>
+    <Longitude>34.768274</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.023331</Latitude>
+    <Longitude>34.778116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005877</Latitude>
+    <Longitude>34.769030</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורי צבי גרינברג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>צבי גרינברג</AlternateName>
+    <Latitude>31.997337</Latitude>
+    <Longitude>34.765958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020248</Latitude>
+    <Longitude>34.762479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורנה פורת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011222</Latitude>
+    <Longitude>34.775532</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אז"ר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024243</Latitude>
+    <Longitude>34.780721</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אזבסטונים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007243</Latitude>
+    <Longitude>34.758525</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אחד במאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019615</Latitude>
+    <Longitude>34.769333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021271</Latitude>
+    <Longitude>34.780650</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילונה פהר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010042</Latitude>
+    <Longitude>34.777131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אילת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014648</Latitude>
+    <Longitude>34.764951</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אימבר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>איבמר</AlternateName>
+    <Latitude>32.013521</Latitude>
+    <Longitude>34.786305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029669</Latitude>
+    <Longitude>34.765625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלופי צה"ל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010146</Latitude>
+    <Longitude>34.789928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028294</Latitude>
+    <Longitude>34.767075</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015494</Latitude>
+    <Longitude>34.765638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו הנביא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018322</Latitude>
+    <Longitude>34.792085</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר הופיין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013769</Latitude>
+    <Longitude>34.769958</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליעזר יפה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015065</Latitude>
+    <Longitude>34.769545</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017296</Latitude>
+    <Longitude>34.789872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלקלעי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>אלקלאי</AlternateName>
+    <Latitude>32.026040</Latitude>
+    <Longitude>34.772126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלרואי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>אלרועי</AlternateName>
+    <Latitude>32.028477</Latitude>
+    <Longitude>34.769817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמיר דרורי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006969</Latitude>
+    <Longitude>34.780026</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013504</Latitude>
+    <Longitude>34.793697</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008423</Latitude>
+    <Longitude>34.768238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016924</Latitude>
+    <Longitude>34.788483</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפעל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008020</Latitude>
+    <Longitude>34.766865</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים קישון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006931</Latitude>
+    <Longitude>34.770979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.033713</Latitude>
+    <Longitude>34.763488</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אקדמאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005847</Latitude>
+    <Longitude>34.758584</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ארבע ארצות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002610</Latitude>
+    <Longitude>34.764630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארגוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014948</Latitude>
+    <Longitude>34.768072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריק לביא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008050</Latitude>
+    <Longitude>34.771343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.016409</Latitude>
+    <Longitude>34.771890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארנסט הוגו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006322</Latitude>
+    <Longitude>34.766964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשדוד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.000642</Latitude>
+    <Longitude>34.795267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשתאול</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015332</Latitude>
+    <Longitude>34.797883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בובר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009756</Latitude>
+    <Longitude>34.772005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023318</Latitude>
+    <Longitude>34.768884</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסתנאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>בוסטנאי</AlternateName>
+    <Latitude>32.006152</Latitude>
+    <Longitude>34.769076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011935</Latitude>
+    <Longitude>34.767689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>באזל</AlternateName>
+    <Latitude>32.023962</Latitude>
+    <Longitude>34.773188</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס זלמן ארן חט"ב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009082</Latitude>
+    <Longitude>34.794317</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס יצחק שמיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006995</Latitude>
+    <Longitude>34.781027</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נאות שושנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014479</Latitude>
+    <Longitude>34.781027</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביאליק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>חיים נחמן ביאליק</AlternateName>
+    <Latitude>32.013440</Latitude>
+    <Longitude>34.772233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021700</Latitude>
+    <Longitude>34.770518</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019933</Latitude>
+    <Longitude>34.777963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית לחם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009516</Latitude>
+    <Longitude>34.789721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית שערים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015522</Latitude>
+    <Longitude>34.787716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלבן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020547</Latitude>
+    <Longitude>34.788678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן אליעזר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017871</Latitude>
+    <Longitude>34.766419</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן הלל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016636</Latitude>
+    <Longitude>34.797939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן עמרם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012651</Latitude>
+    <Longitude>34.796296</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון ישראלי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016577</Latitude>
+    <Longitude>34.766440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני משה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015136</Latitude>
+    <Longitude>34.788647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעל מחשבות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019146</Latitude>
+    <Longitude>34.788115</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בצלאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014424</Latitude>
+    <Longitude>34.791701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009506</Latitude>
+    <Longitude>34.773048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013988</Latitude>
+    <Longitude>34.789745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברדיצ'בסקי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022842</Latitude>
+    <Longitude>34.767606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברודרזון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020044</Latitude>
+    <Longitude>34.788892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברזוויל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.030177</Latitude>
+    <Longitude>34.770216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015396</Latitude>
+    <Longitude>34.766602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנדייס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011445</Latitude>
+    <Longitude>34.791076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנשטיין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>אדוארד ברנשטיין</AlternateName>
+    <AlternateName>אדוארד</AlternateName>
+    <Latitude>32.014961</Latitude>
+    <Longitude>34.766565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017028</Latitude>
+    <Longitude>34.795050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029967</Latitude>
+    <Longitude>34.763184</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ג'סי כהן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003490</Latitude>
+    <Longitude>34.764201</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גאולים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015414</Latitude>
+    <Longitude>34.784155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעה 69</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024863</Latitude>
+    <Longitude>34.764893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעת התחמושת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006351</Latitude>
+    <Longitude>34.790426</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת חולון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001161</Latitude>
+    <Longitude>34.786764</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעתי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026035</Latitude>
+    <Longitude>34.763243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017999</Latitude>
+    <Longitude>34.794268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011825</Latitude>
+    <Longitude>34.780062</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדשטיין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007307</Latitude>
+    <Longitude>34.794449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולומב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016526</Latitude>
+    <Longitude>34.771181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גורדון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.012175</Latitude>
+    <Longitude>34.765855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש חלב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022340</Latitude>
+    <Longitude>34.772205</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גוש עציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024793</Latitude>
+    <Longitude>34.762721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעדי אהרון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007188</Latitude>
+    <Longitude>34.775261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גנסין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008577</Latitude>
+    <Longitude>34.766766</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גרין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029486</Latitude>
+    <Longitude>34.769977</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גרינבוים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015234</Latitude>
+    <Longitude>34.768503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר אנריקו פבריגט</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>אנריקו פבריגט</AlternateName>
+    <AlternateName>דוקטור אנריקו פבריגט</AlternateName>
+    <Latitude>32.018847</Latitude>
+    <Longitude>34.784247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר יונה סאלק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דוקטור יונה סאלק</AlternateName>
+    <AlternateName>יונה סאלק</AlternateName>
+    <Latitude>32.015050</Latitude>
+    <Longitude>34.779291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ד"ר נח קפלינסקי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דוקטור נח קפלינסקי</AlternateName>
+    <AlternateName>נח קפלינסקי</AlternateName>
+    <Latitude>32.020969</Latitude>
+    <Longitude>34.792114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה ברטונוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005483</Latitude>
+    <Longitude>34.771021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014706</Latitude>
+    <Longitude>34.795774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015395</Latitude>
+    <Longitude>34.777550</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דה שליט</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דהשליט</AlternateName>
+    <Latitude>32.011988</Latitude>
+    <Longitude>34.772811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.007852</Latitude>
+    <Longitude>34.784722</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד צדוק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דויד צדוק</AlternateName>
+    <Latitude>31.995236</Latitude>
+    <Longitude>34.773217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.009928</Latitude>
+    <Longitude>34.767563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד שמעוני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דויד שמעוני</AlternateName>
+    <AlternateName>שימעוני</AlternateName>
+    <AlternateName>שמעוני</AlternateName>
+    <Latitude>32.019565</Latitude>
+    <Longitude>34.773435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולפין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002264</Latitude>
+    <Longitude>34.765936</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דורי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007044</Latitude>
+    <Longitude>34.795559</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019306</Latitude>
+    <Longitude>34.792606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השבעה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>השבעה</AlternateName>
+    <Latitude>32.019948</Latitude>
+    <Longitude>34.806804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך יגאל אלון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>יגאל אלון</AlternateName>
+    <Latitude>32.025645</Latitude>
+    <Longitude>34.760716</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ה' באייר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026462</Latitude>
+    <Longitude>34.772832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האבות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018337</Latitude>
+    <Longitude>34.773839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האופן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022032</Latitude>
+    <Longitude>34.799160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורגים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009409</Latitude>
+    <Longitude>34.802365</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האחווה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005178</Latitude>
+    <Longitude>34.769143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלוף אהרון יריב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008319</Latitude>
+    <Longitude>34.778812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלוף ברקאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014172</Latitude>
+    <Longitude>34.779822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האמוראים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005165</Latitude>
+    <Longitude>34.763116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנקור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023306</Latitude>
+    <Longitude>34.790774</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028886</Latitude>
+    <Longitude>34.769234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020478</Latitude>
+    <Longitude>34.784811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016546</Latitude>
+    <Longitude>34.783767</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012161</Latitude>
+    <Longitude>34.802166</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028858</Latitude>
+    <Longitude>34.763781</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבקעה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008846</Latitude>
+    <Longitude>34.795328</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברבור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024036</Latitude>
+    <Longitude>34.790512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017121</Latitude>
+    <Longitude>34.783010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאונים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003822</Latitude>
+    <Longitude>34.761074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגביש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020790</Latitude>
+    <Longitude>34.799241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026335</Latitude>
+    <Longitude>34.780835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027808</Latitude>
+    <Longitude>34.774516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025519</Latitude>
+    <Longitude>34.775406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלעד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027811</Latitude>
+    <Longitude>34.774797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015940</Latitude>
+    <Longitude>34.784618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגר"א</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021933</Latitude>
+    <Longitude>34.763333</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.030357</Latitude>
+    <Longitude>34.766034</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022036</Latitude>
+    <Longitude>34.787759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006534</Latitude>
+    <Longitude>34.778604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006528</Latitude>
+    <Longitude>34.765272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.030306</Latitude>
+    <Longitude>34.765475</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדרור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024583</Latitude>
+    <Longitude>34.790809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025874</Latitude>
+    <Longitude>34.779174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017207</Latitude>
+    <Longitude>34.778644</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזורע</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013788</Latitude>
+    <Longitude>34.805984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029146</Latitude>
+    <Longitude>34.764355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020547</Latitude>
+    <Longitude>34.788678</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.034053</Latitude>
+    <Longitude>34.766242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החוגלה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021699</Latitude>
+    <Longitude>34.790762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החוחית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023573</Latitude>
+    <Longitude>34.790223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החופר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012218</Latitude>
+    <Longitude>34.806367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורטים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028270</Latitude>
+    <Longitude>34.795273</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013406</Latitude>
+    <Longitude>34.767683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026598</Latitude>
+    <Longitude>34.761510</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החי"ש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025301</Latitude>
+    <Longitude>34.761833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012102</Latitude>
+    <Longitude>34.766476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמניה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007110</Latitude>
+    <Longitude>34.759872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החמריה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022663</Latitude>
+    <Longitude>34.791985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החסידה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020573</Latitude>
+    <Longitude>34.787630</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.033230</Latitude>
+    <Longitude>34.761798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011044</Latitude>
+    <Longitude>34.793017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009868</Latitude>
+    <Longitude>34.784158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012208</Latitude>
+    <Longitude>34.792029</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025539</Latitude>
+    <Longitude>34.767713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטווס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023109</Latitude>
+    <Longitude>34.789890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטייסים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024945</Latitude>
+    <Longitude>34.761984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הי"ד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012027</Latitude>
+    <Longitude>34.767047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.999237</Latitude>
+    <Longitude>34.772831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היובל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024484</Latitude>
+    <Longitude>34.793989</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוגב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013337</Latitude>
+    <Longitude>34.805763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014334</Latitude>
+    <Longitude>34.805016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היינץ כהן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016273</Latitude>
+    <Longitude>34.776542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היתד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019222</Latitude>
+    <Longitude>34.802406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכחל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023614</Latitude>
+    <Longitude>34.791348</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכישור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007324</Latitude>
+    <Longitude>34.806600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015520</Latitude>
+    <Longitude>34.786560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005371</Latitude>
+    <Longitude>34.769831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלהב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009095</Latitude>
+    <Longitude>34.802759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלוחמים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.035189</Latitude>
+    <Longitude>34.768347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגיד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002918</Latitude>
+    <Longitude>34.762066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019387</Latitude>
+    <Longitude>34.776599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכתש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026567</Latitude>
+    <Longitude>34.795947</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015714</Latitude>
+    <Longitude>34.800357</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004610</Latitude>
+    <Longitude>34.802917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעורר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022869</Latitude>
+    <Longitude>34.768836</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעיין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024071</Latitude>
+    <Longitude>34.794501</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027973</Latitude>
+    <Longitude>34.766544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המצודה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.033171</Latitude>
+    <Longitude>34.765051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגנית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009976</Latitude>
+    <Longitude>34.778880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרכבה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009801</Latitude>
+    <Longitude>34.807873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשביר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013184</Latitude>
+    <Longitude>34.804149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019222</Latitude>
+    <Longitude>34.802406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתמיד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002475</Latitude>
+    <Longitude>34.760730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתנדבים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015637</Latitude>
+    <Longitude>34.790006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016992</Latitude>
+    <Longitude>34.790792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020879</Latitude>
+    <Longitude>34.796505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024400</Latitude>
+    <Longitude>34.777403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחושת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016382</Latitude>
+    <Longitude>34.799346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנחליאלי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023657</Latitude>
+    <Longitude>34.792665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.032809</Latitude>
+    <Longitude>34.763873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנפח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019684</Latitude>
+    <Longitude>34.797125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרייטה סולד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026110</Latitude>
+    <Longitude>34.770818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022516</Latitude>
+    <Longitude>34.774282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021000</Latitude>
+    <Longitude>34.787612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסבוראים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003988</Latitude>
+    <Longitude>34.762343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020778</Latitude>
+    <Longitude>34.803277</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022002</Latitude>
+    <Longitude>34.801791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסולל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014036</Latitude>
+    <Longitude>34.805511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגלון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014360</Latitude>
+    <Longitude>34.782103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיירת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016816</Latitude>
+    <Longitude>34.787820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסלען</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022327</Latitude>
+    <Longitude>34.791627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנהדרין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004388</Latitude>
+    <Longitude>34.764560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024139</Latitude>
+    <Longitude>34.791999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הספורטאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015689</Latitude>
+    <Longitude>34.789185</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסתת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013097</Latitude>
+    <Longitude>34.800609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007160</Latitude>
+    <Longitude>34.763817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העגור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021810</Latitude>
+    <Longitude>34.788367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העוגן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005586</Latitude>
+    <Longitude>34.766926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה השנייה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011827</Latitude>
+    <Longitude>34.768269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022372</Latitude>
+    <Longitude>34.790167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017001</Latitude>
+    <Longitude>34.786850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012659</Latitude>
+    <Longitude>34.763107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפורצים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024029</Latitude>
+    <Longitude>34.763342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפטיש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021383</Latitude>
+    <Longitude>34.804086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021660</Latitude>
+    <Longitude>34.798240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024304</Latitude>
+    <Longitude>34.779074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.032812</Latitude>
+    <Longitude>34.765756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצופית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022007</Latitude>
+    <Longitude>34.787102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצורף</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016005</Latitude>
+    <Longitude>34.803145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציונות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006909</Latitude>
+    <Longitude>34.767743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הציפורן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.032560</Latitude>
+    <Longitude>34.763065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027211</Latitude>
+    <Longitude>34.780107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפירה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022631</Latitude>
+    <Longitude>34.770675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקונגרס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017984</Latitude>
+    <Longitude>34.785900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוקיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022060</Latitude>
+    <Longitude>34.791164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקליר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028131</Latitude>
+    <Longitude>34.768310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר הצופים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006792</Latitude>
+    <Longitude>34.793185</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראובני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027672</Latitude>
+    <Longitude>34.770648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027086</Latitude>
+    <Longitude>34.765570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב דוד באזוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הרבי דוד באזוב</AlternateName>
+    <AlternateName>רבי דוד באזוב</AlternateName>
+    <AlternateName>דוד באזוב</AlternateName>
+    <AlternateName>רבי דויד באזוב</AlternateName>
+    <AlternateName>הרב דויד באזוב</AlternateName>
+    <AlternateName>דויד באזוב</AlternateName>
+    <AlternateName>הרבי דויד באזוב</AlternateName>
+    <Latitude>32.006089</Latitude>
+    <Longitude>34.795181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק הלוי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>רבי יצחק הלוי</AlternateName>
+    <AlternateName>יצחק הלוי</AlternateName>
+    <AlternateName>הרבי יצחק הלוי</AlternateName>
+    <Latitude>32.026652</Latitude>
+    <Longitude>34.767538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק ניסנבוים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הרבי יצחק ניסנבוים</AlternateName>
+    <AlternateName>רבי יצחק ניסנבוים</AlternateName>
+    <AlternateName>יצחק ניסנבוים</AlternateName>
+    <Latitude>32.022594</Latitude>
+    <Longitude>34.790992</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב יצחק נסים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הרבי יצחק נסים</AlternateName>
+    <AlternateName>רבי יצחק נסים</AlternateName>
+    <AlternateName>יצחק נסים</AlternateName>
+    <Latitude>32.007614</Latitude>
+    <Longitude>34.760102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.020484</Latitude>
+    <Longitude>34.779905</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.019193</Latitude>
+    <Longitude>34.779369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.021125</Latitude>
+    <Longitude>34.779671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קפאח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>קפאח</AlternateName>
+    <AlternateName>רבי קפאח</AlternateName>
+    <AlternateName>הרבי קפאח</AlternateName>
+    <Latitude>32.025176</Latitude>
+    <Longitude>34.768817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף הנחלים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007237</Latitude>
+    <Longitude>34.778961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרוקמים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007646</Latitude>
+    <Longitude>34.801221</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018199</Latitude>
+    <Longitude>34.786335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017364</Latitude>
+    <Longitude>34.783705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמן שטרוק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012824</Latitude>
+    <Longitude>34.786223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019965</Latitude>
+    <Longitude>34.779804</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020295</Latitude>
+    <Longitude>34.768771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.034053</Latitude>
+    <Longitude>34.766242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השואבים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026053</Latitude>
+    <Longitude>34.793304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026914</Latitude>
+    <Longitude>34.778107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומרון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026567</Latitude>
+    <Longitude>34.775031</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>השומרונים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014303</Latitude>
+    <Longitude>34.795852</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017198</Latitude>
+    <Longitude>34.798337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחף</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021836</Latitude>
+    <Longitude>34.792344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השחר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012235</Latitude>
+    <Longitude>34.787910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019870</Latitude>
+    <Longitude>34.786158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השילוח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006496</Latitude>
+    <Longitude>34.797177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015272</Latitude>
+    <Longitude>34.790380</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השמיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015341</Latitude>
+    <Longitude>34.789656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השסתומים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027723</Latitude>
+    <Longitude>34.793257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקנאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020093</Latitude>
+    <Longitude>34.787809</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021121</Latitude>
+    <Longitude>34.781427</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השריון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015998</Latitude>
+    <Longitude>34.788812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.031328</Latitude>
+    <Longitude>34.765472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020012</Latitude>
+    <Longitude>34.785012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021105</Latitude>
+    <Longitude>34.784482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022707</Latitude>
+    <Longitude>34.789677</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התותחנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.030943</Latitude>
+    <Longitude>34.761133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התחייה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015006</Latitude>
+    <Longitude>34.782059</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006202</Latitude>
+    <Longitude>34.760654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התעלה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008088</Latitude>
+    <Longitude>34.795186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017819</Latitude>
+    <Longitude>34.781023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולקני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017291</Latitude>
+    <Longitude>34.766354</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויתקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010178</Latitude>
+    <Longitude>34.765660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורבורג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011171</Latitude>
+    <Longitude>34.790866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'אן ז'ורס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017857</Latitude>
+    <Longitude>34.768051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב ז'בוטינסקי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <AlternateName>ז'בוטינסקי</AlternateName>
+    <Latitude>32.024931</Latitude>
+    <Longitude>34.780754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015098</Latitude>
+    <Longitude>34.795053</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה הרופא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029469</Latitude>
+    <Longitude>34.770368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017443</Latitude>
+    <Longitude>34.797524</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן ארן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017298</Latitude>
+    <Longitude>34.767189</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021733</Latitude>
+    <Longitude>34.766855</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זרובבל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002228</Latitude>
+    <Longitude>34.764645</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003537</Latitude>
+    <Longitude>34.761977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007307</Latitude>
+    <Longitude>34.794449</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבקוק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018510</Latitude>
+    <Longitude>34.795485</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014811</Latitude>
+    <Longitude>34.796655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019541</Latitude>
+    <Longitude>34.793759</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016834</Latitude>
+    <Longitude>34.797384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובבי ציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023811</Latitude>
+    <Longitude>34.772568</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חולון הירוקה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.034606</Latitude>
+    <Longitude>34.764888</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>חולון הצעירה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029549</Latitude>
+    <Longitude>34.762492</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חומה ומגדל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020068</Latitude>
+    <Longitude>34.775133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזית חמש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028981</Latitude>
+    <Longitude>34.762130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים ברלב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003028</Latitude>
+    <Longitude>34.773377</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים הררי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025662</Latitude>
+    <Longitude>34.769598</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים וייצמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018088</Latitude>
+    <Longitude>34.770661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לנדאו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.998664</Latitude>
+    <Longitude>34.765818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים סירני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011827</Latitude>
+    <Longitude>34.768269</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חלץ</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013196</Latitude>
+    <Longitude>34.764131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025611</Latitude>
+    <Longitude>34.780793</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>חניון אוטובוסים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002050</Latitude>
+    <Longitude>34.794440</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>חנניה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016281</Latitude>
+    <Longitude>34.792518</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חסדאי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025955</Latitude>
+    <Longitude>34.766492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חצרים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015950</Latitude>
+    <Longitude>34.764361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025785</Latitude>
+    <Longitude>34.777637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016826</Latitude>
+    <Longitude>34.773581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י"א באדר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022253</Latitude>
+    <Longitude>34.768378</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר הגלעדי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018777</Latitude>
+    <Longitude>34.791822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר רוזנבלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006931</Latitude>
+    <Longitude>34.770979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020349</Latitude>
+    <Longitude>34.789341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018072</Latitude>
+    <Longitude>34.775956</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבניאלי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020788</Latitude>
+    <Longitude>34.765776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011472</Latitude>
+    <Longitude>34.783216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יד לגולה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018363</Latitude>
+    <Longitude>34.782431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024586</Latitude>
+    <Longitude>34.771091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003022</Latitude>
+    <Longitude>34.767143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע חנקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>יהושוע חנקין</AlternateName>
+    <Latitude>32.020082</Latitude>
+    <Longitude>34.778838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע רבינוביץ</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>יהושוע רבינוביץ</AlternateName>
+    <Latitude>31.997978</Latitude>
+    <Longitude>34.772953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושפט</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016611</Latitude>
+    <Longitude>34.794531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017944</Latitude>
+    <Longitude>34.790515</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017392</Latitude>
+    <Longitude>34.792232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחאי בן נון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012853</Latitude>
+    <Longitude>34.784563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוטבתה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008497</Latitude>
+    <Longitude>34.762209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יום הכיפורים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007731</Latitude>
+    <Longitude>34.788441</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025162</Latitude>
+    <Longitude>34.791125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף ברץ</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020506</Latitude>
+    <Longitude>34.765740</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חיים ברנר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025073</Latitude>
+    <Longitude>34.769256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף ספיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018799</Latitude>
+    <Longitude>34.781948</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף סרלין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024827</Latitude>
+    <Longitude>34.784144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יותם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016992</Latitude>
+    <Longitude>34.790792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015417</Latitude>
+    <Longitude>34.791232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יל"ג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016698</Latitude>
+    <Longitude>34.774604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסוד המעלה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015567</Latitude>
+    <Longitude>34.779323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018615</Latitude>
+    <Longitude>34.793366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב פיכמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015276</Latitude>
+    <Longitude>34.775247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה אברהם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001592</Latitude>
+    <Longitude>34.769522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפה ירקוני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006777</Latitude>
+    <Longitude>34.775581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027682</Latitude>
+    <Longitude>34.764411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפתח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017768</Latitude>
+    <Longitude>34.794760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק קצנלסון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>יצחק כצנלסון</AlternateName>
+    <Latitude>32.008426</Latitude>
+    <Longitude>34.766082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק רבין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001972</Latitude>
+    <Longitude>34.771374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026462</Latitude>
+    <Longitude>34.772832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.999815</Latitude>
+    <Longitude>34.765338</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יריחו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005942</Latitude>
+    <Longitude>34.788138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017902</Latitude>
+    <Longitude>34.794459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016823</Latitude>
+    <Longitude>34.791516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל גלילי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012808</Latitude>
+    <Longitude>34.780877</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל נג'ארה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023313</Latitude>
+    <Longitude>34.768255</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר המוסדות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ככר המוסדות</AlternateName>
+    <Latitude>32.017845</Latitude>
+    <Longitude>34.770852</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר השלושה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ככר השלושה</AlternateName>
+    <Latitude>32.022617</Latitude>
+    <Longitude>34.778872</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיכר וייצמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ככר וייצמן</AlternateName>
+    <Latitude>32.021923</Latitude>
+    <Longitude>34.774727</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר סטרומה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ככר סטרומה</AlternateName>
+    <Latitude>32.023379</Latitude>
+    <Longitude>34.769837</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר סירן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ככר סירן</AlternateName>
+    <Latitude>32.018843</Latitude>
+    <Longitude>34.764669</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כפר גלעדי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021641</Latitude>
+    <Longitude>34.771660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לווייתן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001743</Latitude>
+    <Longitude>34.766369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הנגב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024688</Latitude>
+    <Longitude>34.764869</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.033010</Latitude>
+    <Longitude>34.764578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליא קניג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006736</Latitude>
+    <Longitude>34.771178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליאון בלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018210</Latitude>
+    <Longitude>34.769817</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007207</Latitude>
+    <Longitude>34.784147</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לייסין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021096</Latitude>
+    <Longitude>34.766814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לילינבלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021748</Latitude>
+    <Longitude>34.781464</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026337</Latitude>
+    <Longitude>34.774762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לסל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020941</Latitude>
+    <Longitude>34.768856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לסקוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.997061</Latitude>
+    <Longitude>34.773032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012091</Latitude>
+    <Longitude>34.789526</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע סיני</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026495</Latitude>
+    <Longitude>34.763192</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגידו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006496</Latitude>
+    <Longitude>34.797177</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019372</Latitude>
+    <Longitude>34.774970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018847</Latitude>
+    <Longitude>34.784247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוטה גור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009334</Latitude>
+    <Longitude>34.782947</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מולדת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001439</Latitude>
+    <Longitude>34.797495</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מולכו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027672</Latitude>
+    <Longitude>34.770648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025073</Latitude>
+    <Longitude>34.769256</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011428</Latitude>
+    <Longitude>34.790079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012821</Latitude>
+    <Longitude>34.767162</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזא"ה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023394</Latitude>
+    <Longitude>34.773709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מטולה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003342</Latitude>
+    <Longitude>34.787656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018185</Latitude>
+    <Longitude>34.796560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מישאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016930</Latitude>
+    <Longitude>34.793112</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מכס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002765</Latitude>
+    <Longitude>34.766494</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018696</Latitude>
+    <Longitude>34.795015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023030</Latitude>
+    <Longitude>34.783121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלסון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018801</Latitude>
+    <Longitude>34.780271</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנוח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016253</Latitude>
+    <Longitude>34.797688</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004704</Latitude>
+    <Longitude>34.776063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם סבידור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012650</Latitude>
+    <Longitude>34.780638</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מניה וישראל שוחט</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014610</Latitude>
+    <Longitude>34.768639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסילת העולים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001698</Latitude>
+    <Longitude>34.763346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012305</Latitude>
+    <Longitude>34.794706</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מפדה אזרחי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022102</Latitude>
+    <Longitude>34.790338</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מפרץ שלמה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004832</Latitude>
+    <Longitude>34.791709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקווה ישראל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028239</Latitude>
+    <Longitude>34.777665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מקס וג'סי כהן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004873</Latitude>
+    <Longitude>34.766024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012760</Latitude>
+    <Longitude>34.793957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי מקלף</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.998555</Latitude>
+    <Longitude>34.768972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים הנביאה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017878</Latitude>
+    <Longitude>34.792241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים זוהר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005917</Latitude>
+    <Longitude>34.770810</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מרכז רפואי וולפסון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.035857</Latitude>
+    <Longitude>34.762303</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מרקובצקי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021665</Latitude>
+    <Longitude>34.783341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001028</Latitude>
+    <Longitude>34.765942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה הס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הס</AlternateName>
+    <Latitude>32.018364</Latitude>
+    <Longitude>34.783570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה סנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006516</Latitude>
+    <Longitude>34.795572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007281</Latitude>
+    <Longitude>34.792119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משמר הירדן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018023</Latitude>
+    <Longitude>34.777008</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול דר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.997132</Latitude>
+    <Longitude>34.770752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הבדולח</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.994641</Latitude>
+    <Longitude>34.773871</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הטופז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.996741</Latitude>
+    <Longitude>34.775406</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול היסמין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029041</Latitude>
+    <Longitude>34.765546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הלשם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.995463</Latitude>
+    <Longitude>34.772408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הנופך</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.996736</Latitude>
+    <Longitude>34.774267</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הספירים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.995033</Latitude>
+    <Longitude>34.771811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הפז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.994290</Latitude>
+    <Longitude>34.774949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול השוהם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.996337</Latitude>
+    <Longitude>34.775520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול השקד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.030616</Latitude>
+    <Longitude>34.762760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול התרשיש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.995263</Latitude>
+    <Longitude>34.771133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול יוסף בן יהונתן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.031806</Latitude>
+    <Longitude>34.769149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול ענבר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.996899</Latitude>
+    <Longitude>34.772840</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות יהודית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016390</Latitude>
+    <Longitude>34.791976</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות רחל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017203</Latitude>
+    <Longitude>34.764014</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נאות שושנים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013389</Latitude>
+    <Longitude>34.782081</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נהריה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015689</Latitude>
+    <Longitude>34.789185</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נובידבור</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014562</Latitude>
+    <Longitude>34.779251</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה ארזים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018573</Latitude>
+    <Longitude>34.794460</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה פנחס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012796</Latitude>
+    <Longitude>34.795744</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה רמז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010424</Latitude>
+    <Longitude>34.770862</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025520</Latitude>
+    <Longitude>34.782494</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006104</Latitude>
+    <Longitude>34.782337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017636</Latitude>
+    <Longitude>34.795660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחלת שלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026040</Latitude>
+    <Longitude>34.772126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015320</Latitude>
+    <Longitude>34.796304</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.028032</Latitude>
+    <Longitude>34.765202</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025493</Latitude>
+    <Longitude>34.783130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נס ציונה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018586</Latitude>
+    <Longitude>34.776516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006244</Latitude>
+    <Longitude>34.772530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.031161</Latitude>
+    <Longitude>34.767708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.022578</Latitude>
+    <Longitude>34.778077</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011735</Latitude>
+    <Longitude>34.768876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הניסנית</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009863</Latitude>
+    <Longitude>34.779768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרעות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003721</Latitude>
+    <Longitude>34.772703</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת השלום</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.001730</Latitude>
+    <Longitude>34.772103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת רוזמרין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009745</Latitude>
+    <Longitude>34.783258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.024684</Latitude>
+    <Longitude>34.766225</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עובדיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018849</Latitude>
+    <Longitude>34.794540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזי חיטמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005280</Latitude>
+    <Longitude>34.776555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזי נרקיס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003171</Latitude>
+    <Longitude>34.768601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015788</Latitude>
+    <Longitude>34.795470</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזריה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017340</Latitude>
+    <Longitude>34.792527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עטרות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005517</Latitude>
+    <Longitude>34.789283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007795</Latitude>
+    <Longitude>34.763074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין יהב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010269</Latitude>
+    <Longitude>34.764058</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עירית גדולה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007004</Latitude>
+    <Longitude>34.783217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014056</Latitude>
+    <Longitude>34.794687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמינדב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015346</Latitude>
+    <Longitude>34.794605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008072</Latitude>
+    <Longitude>34.767980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק איילון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027238</Latitude>
+    <Longitude>34.764926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק דותן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006351</Latitude>
+    <Longitude>34.790426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמק יזרעאל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017616</Latitude>
+    <Longitude>34.779369</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק נווה ארזים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018759</Latitude>
+    <Longitude>34.795654</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פדויי השבי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015007</Latitude>
+    <Longitude>34.790094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פיארברג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022602</Latitude>
+    <Longitude>34.782343</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פייר קניג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019165</Latitude>
+    <Longitude>34.766603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פילדלפיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027613</Latitude>
+    <Longitude>34.762849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס אילון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008497</Latitude>
+    <Longitude>34.777949</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס לבון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009133</Latitude>
+    <Longitude>34.771765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס ספיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.034764</Latitude>
+    <Longitude>34.764435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרוג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023145</Latitude>
+    <Longitude>34.780685</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרופ' קציר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>פרופסור קציר</AlternateName>
+    <AlternateName>קציר</AlternateName>
+    <Latitude>32.011401</Latitude>
+    <Longitude>34.772639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרישמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021247</Latitude>
+    <Longitude>34.784056</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרץ סמולנסקין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012657</Latitude>
+    <Longitude>34.788057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פתח תקווה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>פ"ת</AlternateName>
+    <Latitude>32.018538</Latitude>
+    <Longitude>34.777242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צ'לנוב</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023514</Latitude>
+    <Longitude>34.772219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020920</Latitude>
+    <Longitude>34.763411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי ש"ץ</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024429</Latitude>
+    <Longitude>34.767847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי שפירא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024094</Latitude>
+    <Longitude>34.783159</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפניה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018672</Latitude>
+    <Longitude>34.793499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004106</Latitude>
+    <Longitude>34.787983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צרעה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015214</Latitude>
+    <Longitude>34.796984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי בלזן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017167</Latitude>
+    <Longitude>34.779327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי קהיר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017935</Latitude>
+    <Longitude>34.763474</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיש לוז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013659</Latitude>
+    <Longitude>34.779675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדמן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011988</Latitude>
+    <Longitude>34.772811</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת וילנה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005604</Latitude>
+    <Longitude>34.795359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת ורשה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005602</Latitude>
+    <Longitude>34.794578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קוהלת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017340</Latitude>
+    <Longitude>34.796866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010999</Latitude>
+    <Longitude>34.788156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלויזנר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012388</Latitude>
+    <Longitude>34.774095</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלומל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021403</Latitude>
+    <Longitude>34.789714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלישר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023369</Latitude>
+    <Longitude>34.777339</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026349</Latitude>
+    <Longitude>34.772266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרייתי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025878</Latitude>
+    <Longitude>34.763860</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית בן גוריון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.998013</Latitude>
+    <Longitude>34.769968</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית יצחק רבין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003100</Latitude>
+    <Longitude>34.770945</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית מיכה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004623</Latitude>
+    <Longitude>34.758000</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית עבודה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019587</Latitude>
+    <Longitude>34.769060</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>קרית פנחס אילון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007964</Latitude>
+    <Longitude>34.775907</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרית שמונה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006962</Latitude>
+    <Longitude>34.785820</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית שרת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009197</Latitude>
+    <Longitude>34.793363</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרל נטר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.027211</Latitude>
+    <Longitude>34.780107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008610</Latitude>
+    <Longitude>34.789027</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן קיימת לישראל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006839</Latitude>
+    <Longitude>34.788178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרסל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.996632</Latitude>
+    <Longitude>34.769459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראובן ברקת</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008967</Latitude>
+    <Longitude>34.774200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראול ולנברג</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010507</Latitude>
+    <Longitude>34.773414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראש פינה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015545</Latitude>
+    <Longitude>34.779999</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראשון לציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>רשל"צ</AlternateName>
+    <AlternateName>רשל"ץ</AlternateName>
+    <Latitude>32.019373</Latitude>
+    <Longitude>34.777287</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.013746</Latitude>
+    <Longitude>34.789582</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוטשילד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023989</Latitude>
+    <Longitude>34.771907</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רותר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020177</Latitude>
+    <Longitude>34.765752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבעם זאבי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029272</Latitude>
+    <Longitude>34.769633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015424</Latitude>
+    <Longitude>34.774238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018420</Latitude>
+    <Longitude>34.781493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026871</Latitude>
+    <Longitude>34.766496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.023293</Latitude>
+    <Longitude>34.766602</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת הגולן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006507</Latitude>
+    <Longitude>34.796057</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>רסקו א'</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019463</Latitude>
+    <Longitude>34.781898</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רסקו ב'</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011878</Latitude>
+    <Longitude>34.790576</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רסקו ג'</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.018113</Latitude>
+    <Longitude>34.784467</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רפאל איתן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006907</Latitude>
+    <Longitude>34.782658</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026315</Latitude>
+    <Longitude>34.769967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש"י עגנון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010353</Latitude>
+    <Longitude>34.772228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאלתיאל דוד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>שאלתיאל דויד</AlternateName>
+    <Latitude>32.003769</Latitude>
+    <Longitude>34.771798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.022623</Latitude>
+    <Longitude>34.761527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.015950</Latitude>
+    <Longitude>34.764361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.004053</Latitude>
+    <Longitude>34.768031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל א.ד. גורדון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012959</Latitude>
+    <Longitude>34.765282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל האיזמל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.010720</Latitude>
+    <Longitude>34.797009</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שד"ל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029062</Latitude>
+    <Longitude>34.768706</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדה בוקר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.013196</Latitude>
+    <Longitude>34.764131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>31.998092</Latitude>
+    <Longitude>34.767264</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות דב הוז</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>דב הוז</AlternateName>
+    <AlternateName>שד' דב הוז</AlternateName>
+    <Latitude>32.023285</Latitude>
+    <Longitude>34.765283</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יוספטל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>שדרות גיורא יוספטל</AlternateName>
+    <AlternateName>גיורא יוספטל</AlternateName>
+    <AlternateName>שד' יוספטל</AlternateName>
+    <AlternateName>שד' גיורא יוספטל</AlternateName>
+    <AlternateName>יוספטל</AlternateName>
+    <Latitude>32.014816</Latitude>
+    <Longitude>34.763497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ירושלים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <AlternateName>שד' ירושלים</AlternateName>
+    <Latitude>32.009449</Latitude>
+    <Longitude>34.795565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות לוי אשכול</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>שד' לוי אשכול</AlternateName>
+    <AlternateName>לוי אשכול</AlternateName>
+    <Latitude>32.033807</Latitude>
+    <Longitude>34.775934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות קוגל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>קוגל</AlternateName>
+    <AlternateName>שד' קוגל</AlternateName>
+    <Latitude>32.025568</Latitude>
+    <Longitude>34.774101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שושנה דמארי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.007962</Latitude>
+    <Longitude>34.775456</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.003636</Latitude>
+    <Longitude>34.763938</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון חדש</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011110</Latitude>
+    <Longitude>34.762781</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון עממי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026475</Latitude>
+    <Longitude>34.776114</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שיפר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020354</Latitude>
+    <Longitude>34.789935</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שכונת עם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <AlternateName>עם</AlternateName>
+    <Latitude>32.024461</Latitude>
+    <Longitude>34.770847</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שכטר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.019120</Latitude>
+    <Longitude>34.785751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022952</Latitude>
+    <Longitude>34.784280</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנגיד</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024586</Latitude>
+    <Longitude>34.771091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.020242</Latitude>
+    <Longitude>34.793046</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמורק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.012824</Latitude>
+    <Longitude>34.786223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה ארליך</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>31.998164</Latitude>
+    <Longitude>34.774581</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון אבידן</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.002357</Latitude>
+    <Longitude>34.772233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.016931</Latitude>
+    <Longitude>34.793302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמריהו לוין</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.011656</Latitude>
+    <Longitude>34.787779</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.017345</Latitude>
+    <Longitude>34.796193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער האריות</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005602</Latitude>
+    <Longitude>34.794578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער הגיא</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.025225</Latitude>
+    <Longitude>34.764844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער הפרחים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.006839</Latitude>
+    <Longitude>34.788178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער ציון</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.009567</Latitude>
+    <Longitude>34.788857</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021875</Latitude>
+    <Longitude>34.778109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ששת הימים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.008430</Latitude>
+    <Longitude>34.793635</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ת"ת בית יוסף</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.029788</Latitude>
+    <Longitude>34.761952</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>תל גיבורים</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.026712</Latitude>
+    <Longitude>34.763003</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.022045</Latitude>
+    <Longitude>34.772319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמנע</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.024927</Latitude>
+    <Longitude>34.798313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.005609</Latitude>
+    <Longitude>34.782372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרצ"ו</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.021096</Latitude>
+    <Longitude>34.766814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>مخرج لشارع 1 شرق</NativeName>
+    <ParentName>חולון, ישראל</ParentName>
+    <Latitude>32.014748</Latitude>
+    <Longitude>34.762521</Longitude>
+  </Street>
+</LocationData>

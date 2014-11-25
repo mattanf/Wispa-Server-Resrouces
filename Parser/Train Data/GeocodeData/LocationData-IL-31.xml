@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבנר בן נר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300308</Latitude>
+    <Longitude>34.629257</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309818</Latitude>
+    <Longitude>34.624338</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אולפנת איילת השחר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.304201</Latitude>
+    <Longitude>34.620048</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אור החיים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308894</Latitude>
+    <Longitude>34.622199</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311427</Latitude>
+    <Longitude>34.617111</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312742</Latitude>
+    <Longitude>34.617346</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו התשבי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300397</Latitude>
+    <Longitude>34.623076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלישע</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298115</Latitude>
+    <Longitude>34.624405</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299780</Latitude>
+    <Longitude>34.629216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300208</Latitude>
+    <Longitude>34.626087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>31.312700</Latitude>
+    <Longitude>34.623385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבעת המינים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307305</Latitude>
+    <Longitude>34.613142</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311655</Latitude>
+    <Longitude>34.624976</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן איש חי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309077</Latitude>
+    <Longitude>34.621347</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307378</Latitude>
+    <Longitude>34.624426</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן שמן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311008</Latitude>
+    <Longitude>34.609717</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בנה ביתך</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308917</Latitude>
+    <Longitude>34.627403</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בניהו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.297973</Latitude>
+    <Longitude>34.630675</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בצלאל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314417</Latitude>
+    <Longitude>34.629021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברזילי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313422</Latitude>
+    <Longitude>34.626535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298089</Latitude>
+    <Longitude>34.629038</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309626</Latitude>
+    <Longitude>34.623584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302344</Latitude>
+    <Longitude>34.627084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298625</Latitude>
+    <Longitude>34.629105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיבורי ישראל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310995</Latitude>
+    <Longitude>34.619663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלגל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.297914</Latitude>
+    <Longitude>34.631909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלעד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300694</Latitude>
+    <Longitude>34.632144</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דבורה הנביאה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298781</Latitude>
+    <Longitude>34.622908</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>דדו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.321205</Latitude>
+    <Longitude>34.617300</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דוד בוזגלו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>דויד בוזגלו</AlternateName>
+    <Latitude>31.306721</Latitude>
+    <Longitude>34.628130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>31.299148</Latitude>
+    <Longitude>34.630163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>31.313013</Latitude>
+    <Longitude>34.622756</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דניאל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299843</Latitude>
+    <Longitude>34.623004</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך בית וגן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>בית וגן</AlternateName>
+    <Latitude>31.306487</Latitude>
+    <Longitude>34.614846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הטייסים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>הטייסים</AlternateName>
+    <Latitude>31.303003</Latitude>
+    <Longitude>34.629617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הנביאים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>הנביאים</AlternateName>
+    <Latitude>31.301213</Latitude>
+    <Longitude>34.621647</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ישרים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>ישרים</AlternateName>
+    <Latitude>31.297203</Latitude>
+    <Longitude>34.627318</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308606</Latitude>
+    <Longitude>34.613750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306820</Latitude>
+    <Longitude>34.616730</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306589</Latitude>
+    <Longitude>34.621445</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הארזים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309249</Latitude>
+    <Longitude>34.619579</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הבורסקאי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312855</Latitude>
+    <Longitude>34.626508</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנאים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314373</Latitude>
+    <Longitude>34.629792</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבציר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313101</Latitude>
+    <Longitude>34.609862</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגורן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307421</Latitude>
+    <Longitude>34.611052</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדס</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310846</Latitude>
+    <Longitude>34.612430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312432</Latitude>
+    <Longitude>34.612525</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312062</Latitude>
+    <Longitude>34.622996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308058</Latitude>
+    <Longitude>34.617733</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הושע בן בארי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299075</Latitude>
+    <Longitude>34.626797</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312062</Latitude>
+    <Longitude>34.609259</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזמורה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314770</Latitude>
+    <Longitude>34.612462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיד"א</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308573</Latitude>
+    <Longitude>34.624833</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיטה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309422</Latitude>
+    <Longitude>34.610071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החסיד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.316471</Latitude>
+    <Longitude>34.620054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307696</Latitude>
+    <Longitude>34.615841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרש</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313422</Latitude>
+    <Longitude>34.626535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוגב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313927</Latitude>
+    <Longitude>34.609996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוזמה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311887</Latitude>
+    <Longitude>34.627579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313900</Latitude>
+    <Longitude>34.626902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307426</Latitude>
+    <Longitude>34.616601</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת הגדולה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302144</Latitude>
+    <Longitude>34.622198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309904</Latitude>
+    <Longitude>34.609469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306601</Latitude>
+    <Longitude>34.623643</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319471</Latitude>
+    <Longitude>34.621808</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319997</Latitude>
+    <Longitude>34.622307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנפח</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312425</Latitude>
+    <Longitude>34.626519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.318744</Latitude>
+    <Longitude>34.617032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העינב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312572</Latitude>
+    <Longitude>34.609777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלדה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319017</Latitude>
+    <Longitude>34.622240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.315581</Latitude>
+    <Longitude>34.618024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב חיים פינטו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>חיים פינטו</AlternateName>
+    <AlternateName>הרבי חיים פינטו</AlternateName>
+    <AlternateName>רבי חיים פינטו</AlternateName>
+    <Latitude>31.307511</Latitude>
+    <Longitude>34.626190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>31.317537</Latitude>
+    <Longitude>34.619600</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>31.317837</Latitude>
+    <Longitude>34.618685</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרי"ף</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312237</Latitude>
+    <Longitude>34.623961</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309944</Latitude>
+    <Longitude>34.609882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.316815</Latitude>
+    <Longitude>34.622133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309636</Latitude>
+    <Longitude>34.616489</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרתך</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314519</Latitude>
+    <Longitude>34.627138</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השילוח</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299607</Latitude>
+    <Longitude>34.632050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308025</Latitude>
+    <Longitude>34.618705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310470</Latitude>
+    <Longitude>34.609770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299322</Latitude>
+    <Longitude>34.622939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התירוש</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313475</Latitude>
+    <Longitude>34.610444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308411</Latitude>
+    <Longitude>34.610519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>31.317944</Latitude>
+    <Longitude>34.624970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכריה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302144</Latitude>
+    <Longitude>34.622198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חגי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.301592</Latitude>
+    <Longitude>34.622149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חורב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298420</Latitude>
+    <Longitude>34.632757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306029</Latitude>
+    <Longitude>34.625560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים חורי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.316352</Latitude>
+    <Longitude>34.612661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנית קיקוס</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319523</Latitude>
+    <Longitude>34.628619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנניה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300397</Latitude>
+    <Longitude>34.623076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306925</Latitude>
+    <Longitude>34.624827</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312928</Latitude>
+    <Longitude>34.624281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313234</Latitude>
+    <Longitude>34.623347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314665</Latitude>
+    <Longitude>34.615784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.301937</Latitude>
+    <Longitude>34.629724</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהוצדק</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302219</Latitude>
+    <Longitude>34.630360</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>31.302213</Latitude>
+    <Longitude>34.625286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושפט</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300793</Latitude>
+    <Longitude>34.630327</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310744</Latitude>
+    <Longitude>34.622017</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300844</Latitude>
+    <Longitude>34.629300</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299665</Latitude>
+    <Longitude>34.626045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יונה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299266</Latitude>
+    <Longitude>34.624191</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יוני</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.320196</Latitude>
+    <Longitude>34.619300</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.305146</Latitude>
+    <Longitude>34.626366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.303789</Latitude>
+    <Longitude>34.623757</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב הכהן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299372</Latitude>
+    <Longitude>34.621978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעקב מסיקה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.317897</Latitude>
+    <Longitude>34.612301</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפתח</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298148</Latitude>
+    <Longitude>34.628068</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצהר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311544</Latitude>
+    <Longitude>34.609570</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300710</Latitude>
+    <Longitude>34.627599</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.304076</Latitude>
+    <Longitude>34.625350</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.301347</Latitude>
+    <Longitude>34.630278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.303070</Latitude>
+    <Longitude>34.623386</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר גבעתי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>ככר גבעתי</AlternateName>
+    <Latitude>31.306686</Latitude>
+    <Longitude>34.619600</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>31.314055</Latitude>
+    <Longitude>34.620607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרמל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298466</Latitude>
+    <Longitude>34.631960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311657</Latitude>
+    <Longitude>34.623941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע משה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314900</Latitude>
+    <Longitude>34.619950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.316710</Latitude>
+    <Longitude>34.617903</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>מישור הגפן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311245</Latitude>
+    <Longitude>34.610359</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>מלאכי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302754</Latitude>
+    <Longitude>34.622314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311676</Latitude>
+    <Longitude>34.625741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרדכי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299665</Latitude>
+    <Longitude>34.626045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309091</Latitude>
+    <Longitude>34.617572</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגפן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312553</Latitude>
+    <Longitude>34.613728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הנרקיס</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.314779</Latitude>
+    <Longitude>34.622032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחושתן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319555</Latitude>
+    <Longitude>34.623718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299127</Latitude>
+    <Longitude>34.626006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307552</Latitude>
+    <Longitude>34.617167</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309710</Latitude>
+    <Longitude>34.622452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזיהו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300101</Latitude>
+    <Longitude>34.632881</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313889</Latitude>
+    <Longitude>34.624952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298586</Latitude>
+    <Longitude>34.625969</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עידו הנביא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302877</Latitude>
+    <Longitude>34.625424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300137</Latitude>
+    <Longitude>34.632088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמוס</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299745</Latitude>
+    <Longitude>34.624868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמרם בן דיוואן</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.307967</Latitude>
+    <Longitude>34.623615</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמשא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299780</Latitude>
+    <Longitude>34.629216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309836</Latitude>
+    <Longitude>34.612002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרי מגדים</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.311362</Latitude>
+    <Longitude>34.612124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.308910</Latitude>
+    <Longitude>34.618044</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדקיהו</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300212</Latitude>
+    <Longitude>34.630883</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.312163</Latitude>
+    <Longitude>34.619414</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילות יעקב</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309910</Latitude>
+    <Longitude>34.625982</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.313995</Latitude>
+    <Longitude>34.614850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרית ספר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.300858</Latitude>
+    <Longitude>34.624950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310047</Latitude>
+    <Longitude>34.618126</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>31.305828</Latitude>
+    <Longitude>34.623844</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת אביר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.318750</Latitude>
+    <Longitude>34.613814</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת אדר</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319554</Latitude>
+    <Longitude>34.617241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רפאל אלנקווה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.305490</Latitude>
+    <Longitude>34.626872</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.306655</Latitude>
+    <Longitude>34.622567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302398</Latitude>
+    <Longitude>34.629849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.306224</Latitude>
+    <Longitude>34.624528</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הרצל</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>הרצל</AlternateName>
+    <AlternateName>שד' הרצל</AlternateName>
+    <Latitude>31.314739</Latitude>
+    <Longitude>34.621362</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יהדות דרום אפריקה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <AlternateName>שד' יהדות דרום אפריקה</AlternateName>
+    <AlternateName>יהדות דרום אפריקה</AlternateName>
+    <Latitude>31.314786</Latitude>
+    <Longitude>34.623012</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.309569</Latitude>
+    <Longitude>34.623069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שילה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299851</Latitude>
+    <Longitude>34.628158</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.299049</Latitude>
+    <Longitude>34.632010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הרואה</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.301649</Latitude>
+    <Longitude>34.625264</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.298578</Latitude>
+    <Longitude>34.630123</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שפירא</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.302470</Latitude>
+    <Longitude>34.624864</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תוצרת הארץ</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.319523</Latitude>
+    <Longitude>34.628619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>אופקים, ישראל</ParentName>
+    <Latitude>31.310586</Latitude>
+    <Longitude>34.622705</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבי דוד</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>אבי דויד</AlternateName>
+    <Latitude>31.930670</Latitude>
+    <Longitude>35.017092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבי עזרי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.923090</Latitude>
+    <Longitude>35.050890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבני נזר</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933128</Latitude>
+    <Longitude>35.040561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אור החיים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.932172</Latitude>
+    <Longitude>35.041868</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אחוזת ברכפלד</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.939009</Latitude>
+    <Longitude>35.043753</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אשר לשלמה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.923339</Latitude>
+    <Longitude>35.046156</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס בית יעקב משכנות תמר</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.939170</Latitude>
+    <Longitude>35.038709</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס נתיבות דעת</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933759</Latitude>
+    <Longitude>35.048539</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בית יוסף</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.928379</Latitude>
+    <Longitude>35.021339</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בית מדרש חזון איש</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.938475</Latitude>
+    <Longitude>35.042151</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>בן איש חי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930223</Latitude>
+    <Longitude>35.014200</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני מודיעין</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929718</Latitude>
+    <Longitude>35.017505</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרך קרית ספר</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>קרית ספר</AlternateName>
+    <Latitude>31.936183</Latitude>
+    <Longitude>35.041496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרמב"ם</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930487</Latitude>
+    <Longitude>35.018424</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זכרון שמואל</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.923894</Latitude>
+    <Longitude>35.046934</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון אי"ש</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.922195</Latitude>
+    <Longitude>35.050681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזון דוד</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>חזון דויד</AlternateName>
+    <Latitude>31.927050</Latitude>
+    <Longitude>35.039237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפץ חיים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.931452</Latitude>
+    <Longitude>35.044109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חת"ם סופר</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933136</Latitude>
+    <Longitude>35.046762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טורי זהב</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929051</Latitude>
+    <Longitude>35.015596</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערות דבש</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.928324</Latitude>
+    <Longitude>35.016766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישועת דוד</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>ישועת דויד</AlternateName>
+    <Latitude>31.923060</Latitude>
+    <Longitude>35.046873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כף החיים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930845</Latitude>
+    <Longitude>35.015471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהר"י קאפח</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929574</Latitude>
+    <Longitude>35.018461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחת חינוך</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.931538</Latitude>
+    <Longitude>35.043701</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסילת יוסף</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929615</Latitude>
+    <Longitude>35.043487</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מסילת ישרים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.932432</Latitude>
+    <Longitude>35.037659</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרומי שדה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.927950</Latitude>
+    <Longitude>35.044040</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משך חכמה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933304</Latitude>
+    <Longitude>35.039765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול רבי טרפון</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.936529</Latitude>
+    <Longitude>35.044439</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות הפסגה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.927877</Latitude>
+    <Longitude>35.047463</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נאות הפסגה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.922882</Latitude>
+    <Longitude>35.051484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נודע ביהודה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.935407</Latitude>
+    <Longitude>35.045105</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחל מודיעים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.926328</Latitude>
+    <Longitude>35.017977</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיבות המשפט</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929085</Latitude>
+    <Longitude>35.044631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיבות שלום</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.926796</Latitude>
+    <Longitude>35.048066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרי מגדים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.927974</Latitude>
+    <Longitude>35.016326</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושת הלוי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929350</Latitude>
+    <Longitude>35.014576</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קול יהודה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.926941</Latitude>
+    <Longitude>35.019899</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קצות החושן</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.928460</Latitude>
+    <Longitude>35.039660</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית ספר</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933159</Latitude>
+    <Longitude>35.043286</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>רב ושמואל</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.939730</Latitude>
+    <Longitude>35.038235</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהודה הנשיא</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>הרב יהודה הנשיא</AlternateName>
+    <AlternateName>יהודה הנשיא</AlternateName>
+    <AlternateName>הרבי יהודה הנשיא</AlternateName>
+    <Latitude>31.939302</Latitude>
+    <Longitude>35.042323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>31.940843</Latitude>
+    <Longitude>35.042094</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שלום שבזי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>הרבי שבזי</AlternateName>
+    <AlternateName>הרב שלום שבזי</AlternateName>
+    <AlternateName>הרב שבזי</AlternateName>
+    <AlternateName>שבזי</AlternateName>
+    <AlternateName>הרבי שלום שבזי</AlternateName>
+    <AlternateName>רבי שבזי</AlternateName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.928783</Latitude>
+    <Longitude>35.020065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שמעון בר יוחאי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>הרב שמעון בר יוחאי</AlternateName>
+    <AlternateName>הרבי שמעון בר יוחאי</AlternateName>
+    <AlternateName>שמעון בר יוחאי</AlternateName>
+    <Latitude>31.937717</Latitude>
+    <Longitude>35.041715</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמ"א</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.929091</Latitude>
+    <Longitude>35.017930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930084</Latitude>
+    <Longitude>35.014888</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאגת אריה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.928862</Latitude>
+    <Longitude>35.041598</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדי חמד</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.933780</Latitude>
+    <Longitude>35.042467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות הלל ושמאי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>הלל ושמאי</AlternateName>
+    <AlternateName>שד' הלל ושמאי</AlternateName>
+    <Latitude>31.939026</Latitude>
+    <Longitude>35.047122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יחזקאל</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <AlternateName>יחזקאל</AlternateName>
+    <AlternateName>שד' יחזקאל</AlternateName>
+    <Latitude>31.937461</Latitude>
+    <Longitude>35.037125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער המלך</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.931735</Latitude>
+    <Longitude>35.043065</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפתי כהן</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.927848</Latitude>
+    <Longitude>35.019227</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שתילי זיתים</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930065</Latitude>
+    <Longitude>35.017090</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>ת"ת נתיבות התורה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.925428</Latitude>
+    <Longitude>35.045635</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ת"ת נתיבות תורה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.930085</Latitude>
+    <Longitude>35.045743</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ת"ת פרי התורה</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.938250</Latitude>
+    <Longitude>35.036622</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ת"ת תשב"ר מרכזי</NativeName>
+    <ParentName>מודיעין עילית, ישראל</ParentName>
+    <Latitude>31.940730</Latitude>
+    <Longitude>35.037461</Longitude>
+  </CityRegion>
+</LocationData>

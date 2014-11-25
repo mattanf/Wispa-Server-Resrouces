@@ -1,0 +1,3761 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>א.ד. גורדון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>גורדון</AlternateName>
+    <Latitude>32.157307</Latitude>
+    <Longitude>34.844187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א.ל. זיסו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177219</Latitude>
+    <Longitude>34.854335</Longitude>
+  </Street>
+  <Street>
+    <NativeName>א.צ. גרינברג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172001</Latitude>
+    <Longitude>34.833796</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבוקה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168686</Latitude>
+    <Longitude>34.861617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172398</Latitude>
+    <Longitude>34.849460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אביגיל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167537</Latitude>
+    <Longitude>34.808562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן אודם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170128</Latitude>
+    <Longitude>34.839520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165676</Latitude>
+    <Longitude>34.834539</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן עזרא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165780</Latitude>
+    <Longitude>34.830709</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן שפרוט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165674</Latitude>
+    <Longitude>34.833137</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163774</Latitude>
+    <Longitude>34.850453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבנר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171446</Latitude>
+    <Longitude>34.810882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אברבנאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164197</Latitude>
+    <Longitude>34.851392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגדת דשא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172911</Latitude>
+    <Longitude>34.818174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171320</Latitude>
+    <Longitude>34.857771</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהבת ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155124</Latitude>
+    <Longitude>34.834926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אהרון קציר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176225</Latitude>
+    <Longitude>34.809876</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אונקלוס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183211</Latitude>
+    <Longitude>34.836636</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוסישקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>מנחם אוסשקין</AlternateName>
+    <AlternateName>אוסשקין</AlternateName>
+    <AlternateName>מנחם אוסישקין</AlternateName>
+    <Latitude>32.161241</Latitude>
+    <Longitude>34.847460</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174860</Latitude>
+    <Longitude>34.846081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוצר הצמחים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168262</Latitude>
+    <Longitude>34.841270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אור החיים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.182355</Latitude>
+    <Longitude>34.837019</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172437</Latitude>
+    <Longitude>34.832960</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אוריאל אופק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173163</Latitude>
+    <Longitude>34.831517</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אז"ר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159078</Latitude>
+    <Longitude>34.848733</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>אזור שפת הים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152704</Latitude>
+    <Longitude>34.794323</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>אח"י אילת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172316</Latitude>
+    <Longitude>34.813805</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אח"י דקר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172564</Latitude>
+    <Longitude>34.809241</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166424</Latitude>
+    <Longitude>34.846024</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171340</Latitude>
+    <Longitude>34.856684</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איילת חן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171064</Latitude>
+    <Longitude>34.834242</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איינשטיין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175266</Latitude>
+    <Longitude>34.803741</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אל על</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166799</Latitude>
+    <Longitude>34.814410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלדד הדני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.184937</Latitude>
+    <Longitude>34.835637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלומות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158156</Latitude>
+    <Longitude>34.851540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלחריזי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.185268</Latitude>
+    <Longitude>34.838418</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169229</Latitude>
+    <Longitude>34.836768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אליהו גולומב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173672</Latitude>
+    <Longitude>34.847163</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלכסנדר ינאי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170318</Latitude>
+    <Longitude>34.802866</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלפסי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183235</Latitude>
+    <Longitude>34.837469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמה טאובר פרידמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175635</Latitude>
+    <Longitude>34.849671</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אמירים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>עמירים</AlternateName>
+    <Latitude>32.153727</Latitude>
+    <Longitude>34.841972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנדה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172524</Latitude>
+    <Longitude>34.829975</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנה פרנק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175704</Latitude>
+    <Longitude>34.847847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנילביץ'</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175704</Latitude>
+    <Longitude>34.847847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנפה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163549</Latitude>
+    <Longitude>34.849850</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אנצו סירני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165149</Latitude>
+    <Longitude>34.806496</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.182659</Latitude>
+    <Longitude>34.835443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסתר המלכה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175936</Latitude>
+    <Longitude>34.811712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אף על פי כן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167629</Latitude>
+    <Longitude>34.858763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים קישון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172470</Latitude>
+    <Longitude>34.830355</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177775</Latitude>
+    <Longitude>34.817505</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אפרסמון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166035</Latitude>
+    <Longitude>34.862921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.173404</Latitude>
+    <Longitude>34.805151</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175777</Latitude>
+    <Longitude>34.817950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארגוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174008</Latitude>
+    <Longitude>34.840762</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167040</Latitude>
+    <Longitude>34.836928</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה בן אליעזר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175680</Latitude>
+    <Longitude>34.807918</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה לייב יפה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170867</Latitude>
+    <Longitude>34.847003</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אריה שנקר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156647</Latitude>
+    <Longitude>34.808149</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארלוזורוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ארלוזרוב</AlternateName>
+    <Latitude>32.159741</Latitude>
+    <Longitude>34.847798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשר ברש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172195</Latitude>
+    <Longitude>34.839114</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בארי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155350</Latitude>
+    <Longitude>34.839653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169472</Latitude>
+    <Longitude>34.843218</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוקר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172716</Latitude>
+    <Longitude>34.832939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורוכוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170633</Latitude>
+    <Longitude>34.853654</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורלא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171648</Latitude>
+    <Longitude>34.838750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בורר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170628</Latitude>
+    <Longitude>34.839204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בזל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>באזל</AlternateName>
+    <Latitude>32.177624</Latitude>
+    <Longitude>34.810427</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>בי"ס בן גוריון חט"ב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165113</Latitude>
+    <Longitude>34.830120</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בי"ס ברנדייס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170691</Latitude>
+    <Longitude>34.816858</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ביילינסון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169115</Latitude>
+    <Longitude>34.842507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ביל"ו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155245</Latitude>
+    <Longitude>34.843118</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית חלומותי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170635</Latitude>
+    <Longitude>34.818084</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית"ר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159041</Latitude>
+    <Longitude>34.850302</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בלפור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178428</Latitude>
+    <Longitude>34.817726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן גוריון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159454</Latitude>
+    <Longitude>34.842536</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן יהודה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159233</Latitude>
+    <Longitude>34.845450</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון דינור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174563</Latitude>
+    <Longitude>34.843353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן ציון מיכאלי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164114</Latitude>
+    <Longitude>34.822896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בן שלום</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163327</Latitude>
+    <Longitude>34.848013</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני בנימין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171835</Latitude>
+    <Longitude>34.840520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בני ברית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167685</Latitude>
+    <Longitude>34.843330</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בצלאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169364</Latitude>
+    <Longitude>34.833031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר אילן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165329</Latitude>
+    <Longitude>34.839476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155935</Latitude>
+    <Longitude>34.851204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר כוכבא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157499</Latitude>
+    <Longitude>34.839957</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בראון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167815</Latitude>
+    <Longitude>34.817436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוך קמין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183095</Latitude>
+    <Longitude>34.806778</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברנר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157423</Latitude>
+    <Longitude>34.846344</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163470</Latitude>
+    <Longitude>34.839838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164831</Latitude>
+    <Longitude>34.812082</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בת שבע</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167951</Latitude>
+    <Longitude>34.809187</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גבעת החלומות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160321</Latitude>
+    <Longitude>34.847850</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גבעת הסופר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175905</Latitude>
+    <Longitude>34.817631</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גבעת הפרחים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155205</Latitude>
+    <Longitude>34.850541</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גבעת התחמושת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165669</Latitude>
+    <Longitude>34.814974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גדעון השופט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179244</Latitude>
+    <Longitude>34.812763</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולדה מאיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.187644</Latitude>
+    <Longitude>34.808519</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גורדון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>א.ד. גורדון</AlternateName>
+    <Latitude>32.161054</Latitude>
+    <Longitude>34.850123</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גיבורי עציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163779</Latitude>
+    <Longitude>34.856987</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162394</Latitude>
+    <Longitude>34.861306</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גינת הזיתים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159325</Latitude>
+    <Longitude>34.851066</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גינת יהושוע בן נון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>גינת יהושע בן נון</AlternateName>
+    <Latitude>32.163711</Latitude>
+    <Longitude>34.805534</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גינת ניל"י</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173527</Latitude>
+    <Longitude>34.802903</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גינת צבי ברנזון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179792</Latitude>
+    <Longitude>34.804024</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גינת ראובן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166160</Latitude>
+    <Longitude>34.847499</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גינת שמחה אוריאלי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172283</Latitude>
+    <Longitude>34.839392</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>גיסין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172375</Latitude>
+    <Longitude>34.841837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גיתית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173308</Latitude>
+    <Longitude>34.812223</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלי תכלת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183084</Latitude>
+    <Longitude>34.804168</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גן בן ציון מיכאלי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163664</Latitude>
+    <Longitude>34.823694</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן לאומי סידני עלי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.190556</Latitude>
+    <Longitude>34.805833</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גן רש"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178691</Latitude>
+    <Longitude>34.847161</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גני הרצליה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152493</Latitude>
+    <Longitude>34.851406</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דב גרונר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164720</Latitude>
+    <Longitude>34.805933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176080</Latitude>
+    <Longitude>34.818775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171636</Latitude>
+    <Longitude>34.846080</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165562</Latitude>
+    <Longitude>34.862822</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דובנוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177768</Latitude>
+    <Longitude>34.816642</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלרואי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד אלרואי</AlternateName>
+    <AlternateName>דוד אלרועי</AlternateName>
+    <Latitude>32.157728</Latitude>
+    <Longitude>34.838243</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד המלך</AlternateName>
+    <Latitude>32.173210</Latitude>
+    <Longitude>34.812479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד מרכוס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד מרכוס</AlternateName>
+    <Latitude>32.174089</Latitude>
+    <Longitude>34.810066</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רזיאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד רזיאל</AlternateName>
+    <Latitude>32.156757</Latitude>
+    <Longitude>34.848603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.165829</Latitude>
+    <Longitude>34.853813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד שמעוני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>דויד שמעוני</AlternateName>
+    <AlternateName>שימעוני</AlternateName>
+    <AlternateName>שמעוני</AlternateName>
+    <Latitude>32.172356</Latitude>
+    <Longitude>34.835913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דודאים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153188</Latitude>
+    <Longitude>34.849265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוכיפת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172632</Latitude>
+    <Longitude>34.845329</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דון יוסף הנשיא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164773</Latitude>
+    <Longitude>34.831800</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דורי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176610</Latitude>
+    <Longitude>34.840492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דיצה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161369</Latitude>
+    <Longitude>34.859942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דליה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170415</Latitude>
+    <Longitude>34.832616</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן שומרון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175772</Latitude>
+    <Longitude>34.843381</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170376</Latitude>
+    <Longitude>34.832925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דפנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189851</Latitude>
+    <Longitude>34.812657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173372</Latitude>
+    <Longitude>34.844195</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך אלטנוילנד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>אלטנוילנד</AlternateName>
+    <Latitude>32.155295</Latitude>
+    <Longitude>34.802071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ירושלים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <Latitude>32.174520</Latitude>
+    <Longitude>34.851734</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך משה דיין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>משה דיין</AlternateName>
+    <Latitude>32.162433</Latitude>
+    <Longitude>34.815124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך רבי זכריה גרמה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רבי זכריה גרמה</AlternateName>
+    <Latitude>32.162942</Latitude>
+    <Longitude>34.861502</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך תל אביב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>תל אביב</AlternateName>
+    <Latitude>32.172621</Latitude>
+    <Longitude>34.814906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דשה אהרונסון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161258</Latitude>
+    <Longitude>34.834379</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ה' באייר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169720</Latitude>
+    <Longitude>34.842511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186691</Latitude>
+    <Longitude>34.814156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האורנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176837</Latitude>
+    <Longitude>34.847332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האילנות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178374</Latitude>
+    <Longitude>34.844818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167096</Latitude>
+    <Longitude>34.817321</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189883</Latitude>
+    <Longitude>34.814178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186653</Latitude>
+    <Longitude>34.809226</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האסיף</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180224</Latitude>
+    <Longitude>34.842930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האר"י</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161643</Latitude>
+    <Longitude>34.856172</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.187177</Latitude>
+    <Longitude>34.809366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האשל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.181819</Latitude>
+    <Longitude>34.809516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177260</Latitude>
+    <Longitude>34.849586</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבוסתן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178434</Latitude>
+    <Longitude>34.844775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162393</Latitude>
+    <Longitude>34.847495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186029</Latitude>
+    <Longitude>34.811334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבריגדה היהודית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176616</Latitude>
+    <Longitude>34.845870</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164579</Latitude>
+    <Longitude>34.851787</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175824</Latitude>
+    <Longitude>34.853749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגאון מוילנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>הגאון מולינה</AlternateName>
+    <Latitude>32.152188</Latitude>
+    <Longitude>34.843656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגבורה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171443</Latitude>
+    <Longitude>34.805022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגדוד העברי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174984</Latitude>
+    <Longitude>34.844493</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגלבוע</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159681</Latitude>
+    <Longitude>34.836133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166424</Latitude>
+    <Longitude>34.843887</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.190546</Latitude>
+    <Longitude>34.814032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדסה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159793</Latitude>
+    <Longitude>34.843320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177421</Latitude>
+    <Longitude>34.850507</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171643</Latitude>
+    <Longitude>34.848578</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169603</Latitude>
+    <Longitude>34.851069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176997</Latitude>
+    <Longitude>34.847933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158594</Latitude>
+    <Longitude>34.845717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורדים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183712</Latitude>
+    <Longitude>34.813125</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזוהר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162012</Latitude>
+    <Longitude>34.851319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157814</Latitude>
+    <Longitude>34.845102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזיתים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177994</Latitude>
+    <Longitude>34.847626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החורש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172392</Latitude>
+    <Longitude>34.852964</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החושלים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158768</Latitude>
+    <Longitude>34.806408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החיצים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165715</Latitude>
+    <Longitude>34.859953</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוץ</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168818</Latitude>
+    <Longitude>34.844268</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החנית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161759</Latitude>
+    <Longitude>34.851754</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.187671</Latitude>
+    <Longitude>34.808731</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159876</Latitude>
+    <Longitude>34.837826</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרמש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163737</Latitude>
+    <Longitude>34.842145</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189426</Latitude>
+    <Longitude>34.808425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החשמונאים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160401</Latitude>
+    <Longitude>34.850906</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטיילת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173317</Latitude>
+    <Longitude>34.801549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הטייסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165805</Latitude>
+    <Longitude>34.854749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הי"א</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156564</Latitude>
+    <Longitude>34.850067</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היורה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166824</Latitude>
+    <Longitude>34.857410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היסמין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.181779</Latitude>
+    <Longitude>34.813214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170159</Latitude>
+    <Longitude>34.850234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>הברון הירש</AlternateName>
+    <Latitude>32.160811</Latitude>
+    <Longitude>34.844784</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היתד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172083</Latitude>
+    <Longitude>34.815591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכ"ג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170945</Latitude>
+    <Longitude>34.815222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכוזרי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163820</Latitude>
+    <Longitude>34.847561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכנסת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169412</Latitude>
+    <Longitude>34.843359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177929</Latitude>
+    <Longitude>34.844631</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכרמל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160330</Latitude>
+    <Longitude>34.836547</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הליבנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183184</Latitude>
+    <Longitude>34.813135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלילך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.182416</Latitude>
+    <Longitude>34.812841</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164469</Latitude>
+    <Longitude>34.837950</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלני המלכה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167859</Latitude>
+    <Longitude>34.802272</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המגינים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172781</Latitude>
+    <Longitude>34.811320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המדע</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166906</Latitude>
+    <Longitude>34.813190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המדרון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169402</Latitude>
+    <Longitude>34.814803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך יהושפט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170632</Latitude>
+    <Longitude>34.808234</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלקוש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167492</Latitude>
+    <Longitude>34.856761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנהרה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166592</Latitude>
+    <Longitude>34.816766</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המנופים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160230</Latitude>
+    <Longitude>34.807451</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסילה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172262</Latitude>
+    <Longitude>34.818848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעבר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168983</Latitude>
+    <Longitude>34.814838</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעלות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171142</Latitude>
+    <Longitude>34.816637</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.182638</Latitude>
+    <Longitude>34.805214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המקובלים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153633</Latitude>
+    <Longitude>34.838736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרגנית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180816</Latitude>
+    <Longitude>34.814113</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המרי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173711</Latitude>
+    <Longitude>34.806815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המשוררת רחל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172994</Latitude>
+    <Longitude>34.830775</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המתמיד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159153</Latitude>
+    <Longitude>34.845140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנביאים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169382</Latitude>
+    <Longitude>34.841322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנגב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.151622</Latitude>
+    <Longitude>34.842122</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנדיב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170366</Latitude>
+    <Longitude>34.834806</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוטרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166708</Latitude>
+    <Longitude>34.850786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנוריות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166230</Latitude>
+    <Longitude>34.805407</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הניצנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167962</Latitude>
+    <Longitude>34.838813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנעורים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179241</Latitude>
+    <Longitude>34.842721</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166695</Latitude>
+    <Longitude>34.807595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנשיא יצחק בן צבי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178975</Latitude>
+    <Longitude>34.810554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>משה הס</AlternateName>
+    <Latitude>32.165392</Latitude>
+    <Longitude>34.841203</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסדנאות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160785</Latitude>
+    <Longitude>34.806174</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסיגליות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166745</Latitude>
+    <Longitude>34.854555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסייפנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166695</Latitude>
+    <Longitude>34.807595</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העוגן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160381</Latitude>
+    <Longitude>34.792931</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העופר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159518</Latitude>
+    <Longitude>34.841168</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העירית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.184773</Latitude>
+    <Longitude>34.813687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלומים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179038</Latitude>
+    <Longitude>34.843691</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העלייה השנייה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172381</Latitude>
+    <Longitude>34.847492</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164850</Latitude>
+    <Longitude>34.845222</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערבה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179021</Latitude>
+    <Longitude>34.845815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערמונים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162908</Latitude>
+    <Longitude>34.863091</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפועל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.185878</Latitude>
+    <Longitude>34.814585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפיוס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159215</Latitude>
+    <Longitude>34.847634</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרדסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163879</Latitude>
+    <Longitude>34.847160</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרח בגני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172262</Latitude>
+    <Longitude>34.818848</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169001</Latitude>
+    <Longitude>34.837294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרטיזנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168582</Latitude>
+    <Longitude>34.859214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרסה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189938</Latitude>
+    <Longitude>34.810761</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצברים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177224</Latitude>
+    <Longitude>34.846669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצדף</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164210</Latitude>
+    <Longitude>34.797045</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחן אבא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164420</Latitude>
+    <Longitude>34.804665</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157534</Latitude>
+    <Longitude>34.839551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצפצפות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177397</Latitude>
+    <Longitude>34.845662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוממיות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174945</Latitude>
+    <Longitude>34.814625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקונגרס הציוני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183568</Latitude>
+    <Longitude>34.809900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקוצרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166789</Latitude>
+    <Longitude>34.836165</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקידמה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183465</Latitude>
+    <Longitude>34.810963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקסם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160131</Latitude>
+    <Longitude>34.840353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הקרן הקיימת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161260</Latitude>
+    <Longitude>34.846689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר המוריה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173846</Latitude>
+    <Longitude>34.853452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר מירון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158795</Latitude>
+    <Longitude>34.836319</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר נבו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174550</Latitude>
+    <Longitude>34.855583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר סיני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173492</Latitude>
+    <Longitude>34.853573</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר עצמון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174252</Latitude>
+    <Longitude>34.854116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר שומרון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176832</Latitude>
+    <Longitude>34.855882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראובני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164466</Latitude>
+    <Longitude>34.833765</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168203</Latitude>
+    <Longitude>34.842100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב גורן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רבי גורן</AlternateName>
+    <AlternateName>גורן</AlternateName>
+    <AlternateName>הרבי גורן</AlternateName>
+    <Latitude>32.163845</Latitude>
+    <Longitude>34.852214</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב הלפרין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רבי הלפרין</AlternateName>
+    <AlternateName>הרבי הלפרין</AlternateName>
+    <AlternateName>הלפרין</AlternateName>
+    <Latitude>32.165797</Latitude>
+    <Longitude>34.840245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מובשוביץ</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>מובשוביץ</AlternateName>
+    <AlternateName>הרבי מובשוביץ</AlternateName>
+    <AlternateName>רבי מובשוביץ</AlternateName>
+    <Latitude>32.162469</Latitude>
+    <Longitude>34.851388</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>32.166185</Latitude>
+    <Longitude>34.830897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עוזיאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רבי עוזיאל</AlternateName>
+    <AlternateName>עוזיאל</AlternateName>
+    <AlternateName>הרבי עוזיאל</AlternateName>
+    <Latitude>32.155026</Latitude>
+    <Longitude>34.837369</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב עמיאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רבי עמיאל</AlternateName>
+    <AlternateName>עמיאל</AlternateName>
+    <AlternateName>הרבי עמיאל</AlternateName>
+    <Latitude>32.161202</Latitude>
+    <Longitude>34.857349</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב קוק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>הרבי קוק</AlternateName>
+    <AlternateName>רבי קוק</AlternateName>
+    <AlternateName>קוק</AlternateName>
+    <Latitude>32.162300</Latitude>
+    <Longitude>34.835073</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב שמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>שמן</AlternateName>
+    <AlternateName>הרבי שמן</AlternateName>
+    <AlternateName>רבי שמן</AlternateName>
+    <Latitude>32.161891</Latitude>
+    <Longitude>34.860134</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדופים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169189</Latitude>
+    <Longitude>34.817258</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.187818</Latitude>
+    <Longitude>34.811002</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי גלעד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175824</Latitude>
+    <Longitude>34.853749</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי הגולן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176520</Latitude>
+    <Longitude>34.852403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימונים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179254</Latitude>
+    <Longitude>34.846512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרכבת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163390</Latitude>
+    <Longitude>34.818466</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168100</Latitude>
+    <Longitude>34.846897</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הרצליה פיתוח</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174202</Latitude>
+    <Longitude>34.802932</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הרצפלד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178214</Latitude>
+    <Longitude>34.815469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167808</Latitude>
+    <Longitude>34.855554</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השולמית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163264</Latitude>
+    <Longitude>34.840801</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168269</Latitude>
+    <Longitude>34.844802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השונית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161833</Latitude>
+    <Longitude>34.797051</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השופטים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153177</Latitude>
+    <Longitude>34.841337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השושנים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167962</Latitude>
+    <Longitude>34.838813</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186980</Latitude>
+    <Longitude>34.810437</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקדים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179443</Latitude>
+    <Longitude>34.847233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השרון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165329</Latitude>
+    <Longitude>34.839476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.188621</Latitude>
+    <Longitude>34.813885</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התבור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160602</Latitude>
+    <Longitude>34.838215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התדהר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176288</Latitude>
+    <Longitude>34.845824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התומר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186464</Latitude>
+    <Longitude>34.811882</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התנאים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153252</Latitude>
+    <Longitude>34.838898</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התקווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167538</Latitude>
+    <Longitude>34.859620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וולפסון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163493</Latitude>
+    <Longitude>34.843585</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165669</Latitude>
+    <Longitude>34.834002</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>וינגייט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174935</Latitude>
+    <Longitude>34.803994</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ויתקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171601</Latitude>
+    <Longitude>34.847604</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ורבורג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156297</Latitude>
+    <Longitude>34.844069</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.170702</Latitude>
+    <Longitude>34.828851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זאב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.154044</Latitude>
+    <Longitude>34.848592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זבולון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167979</Latitude>
+    <Longitude>34.801178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זוהר טל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171638</Latitude>
+    <Longitude>34.802851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן ארן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174721</Latitude>
+    <Longitude>34.845288</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זלמן שניאור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172227</Latitude>
+    <Longitude>34.837831</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זמנהוף</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178193</Latitude>
+    <Longitude>34.817316</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חב"ד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.154924</Latitude>
+    <Longitude>34.841546</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חביבה רייק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165474</Latitude>
+    <Longitude>34.806835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חבצלת השרון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179655</Latitude>
+    <Longitude>34.804901</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חברון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165629</Latitude>
+    <Longitude>34.842683</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חדווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161066</Latitude>
+    <Longitude>34.861853</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובבי ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156256</Latitude>
+    <Longitude>34.841010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חובות הלבבות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169636</Latitude>
+    <Longitude>34.849342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוחית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173138</Latitude>
+    <Longitude>34.846015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חומה ומגדל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156576</Latitude>
+    <Longitude>34.841148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוני המעגל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167376</Latitude>
+    <Longitude>34.856653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חורב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174945</Latitude>
+    <Longitude>34.814625</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חזקיהו המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176104</Latitude>
+    <Longitude>34.814103</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חיים לסקוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174639</Latitude>
+    <Longitude>34.841985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חירם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175386</Latitude>
+    <Longitude>34.815219</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנה סנש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158551</Latitude>
+    <Longitude>34.840480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חנקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162103</Latitude>
+    <Longitude>34.847486</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חפציבה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157554</Latitude>
+    <Longitude>34.848941</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162781</Latitude>
+    <Longitude>34.810773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חת"ם סופר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152188</Latitude>
+    <Longitude>34.843656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טבנקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155783</Latitude>
+    <Longitude>34.843150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טיילת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180075</Latitude>
+    <Longitude>34.802589</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טיראן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172088</Latitude>
+    <Longitude>34.808308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טנא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171257</Latitude>
+    <Longitude>34.857479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טרומפלדור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158817</Latitude>
+    <Longitude>34.848210</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טשרניחובסקי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169382</Latitude>
+    <Longitude>34.841322</Longitude>
+  </Street>
+  <Street>
+    <NativeName>י.ל. ברוך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169477</Latitude>
+    <Longitude>34.849342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאנוש קורצ'אק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174560</Latitude>
+    <Longitude>34.847209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנאלי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166456</Latitude>
+    <Longitude>34.844608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יבנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179818</Latitude>
+    <Longitude>34.845136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168802</Latitude>
+    <Longitude>34.848694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל ידין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.188672</Latitude>
+    <Longitude>34.808338</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>יד התשעה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174577</Latitude>
+    <Longitude>34.853459</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>יד חרוצים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163482</Latitude>
+    <Longitude>34.809347</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהדות הדממה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166146</Latitude>
+    <Longitude>34.806309</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הלוי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168070</Latitude>
+    <Longitude>34.836735</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה המכבי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169596</Latitude>
+    <Longitude>34.801562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהודה הנשיא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.154766</Latitude>
+    <Longitude>34.848370</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169789</Latitude>
+    <Longitude>34.812181</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהושע בן נון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>יהושוע בן נון</AlternateName>
+    <Latitude>32.165444</Latitude>
+    <Longitude>34.805383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173634</Latitude>
+    <Longitude>34.842193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יואב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171059</Latitude>
+    <Longitude>34.810512</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יודפת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174465</Latitude>
+    <Longitude>34.817253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוחנן הסנדלר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163911</Latitude>
+    <Longitude>34.809651</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוני נתניהו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178643</Latitude>
+    <Longitude>34.811209</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף נבו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167405</Latitude>
+    <Longitude>34.823890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף נדבה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160340</Latitude>
+    <Longitude>34.852031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171413</Latitude>
+    <Longitude>34.832639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יורדי ים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160204</Latitude>
+    <Longitude>34.795653</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יותם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170243</Latitude>
+    <Longitude>34.813548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחיעם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168258</Latitude>
+    <Longitude>34.859768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ילן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183581</Latitude>
+    <Longitude>34.807128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ינאית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.184047</Latitude>
+    <Longitude>34.807462</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יסוד המעלה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177755</Latitude>
+    <Longitude>34.848810</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעבץ</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162604</Latitude>
+    <Longitude>34.831341</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יעל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169589</Latitude>
+    <Longitude>34.810802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.150227</Latitude>
+    <Longitude>34.849448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יפתח</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165304</Latitude>
+    <Longitude>34.804398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק נסים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152831</Latitude>
+    <Longitude>34.844660</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יצחק שדה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164861</Latitude>
+    <Longitude>34.857929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה למחלף רבין שמריהו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180592</Latitude>
+    <Longitude>34.815689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה למחלף שבעת הכוכבים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160342</Latitude>
+    <Longitude>34.814900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאה לשדרות שבעת הכוכבים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159279</Latitude>
+    <Longitude>34.810900</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יציאת אירופה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168686</Latitude>
+    <Longitude>34.861617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקינטון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152670</Latitude>
+    <Longitude>34.850297</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירמיהו הלפרין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165875</Latitude>
+    <Longitude>34.804081</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישעיהו ליבוביץ'</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159251</Latitude>
+    <Longitude>34.804520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל ישעיהו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159163</Latitude>
+    <Longitude>34.846620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ישראל שוחט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165228</Latitude>
+    <Longitude>34.857083</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כ"ט בנובמבר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170385</Latitude>
+    <Longitude>34.843282</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כוכב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160241</Latitude>
+    <Longitude>34.847164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כיבוש העבודה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172355</Latitude>
+    <Longitude>34.843751</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר אקלה וובה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר אקלה וובה</AlternateName>
+    <Latitude>32.173391</Latitude>
+    <Longitude>34.853097</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר בן עמי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר בן עמי</AlternateName>
+    <Latitude>32.163792</Latitude>
+    <Longitude>34.816327</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר הנס פרוץ</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר הנס פרוץ</AlternateName>
+    <Latitude>32.177679</Latitude>
+    <Longitude>34.809927</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר יואב דגון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר יואב דגון</AlternateName>
+    <Latitude>32.162476</Latitude>
+    <Longitude>34.845159</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר יצחק מודעי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר יצחק מודעי</AlternateName>
+    <Latitude>32.180725</Latitude>
+    <Longitude>34.811305</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר יקירי העיר הרצליה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר יקירי העיר הרצליה</AlternateName>
+    <Latitude>32.174489</Latitude>
+    <Longitude>34.839024</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר לוחמות השואה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר לוחמות השואה</AlternateName>
+    <Latitude>32.173890</Latitude>
+    <Longitude>34.842462</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>כיכר סחרוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ככר סחרוב</AlternateName>
+    <Latitude>32.168768</Latitude>
+    <Longitude>34.848621</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כיסופים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155303</Latitude>
+    <Longitude>34.835579</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כלנית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.150647</Latitude>
+    <Longitude>34.848531</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנפי נשרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179555</Latitude>
+    <Longitude>34.839448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כרכום</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171208</Latitude>
+    <Longitude>34.811603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לאה גולדברג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173088</Latitude>
+    <Longitude>34.836472</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטוס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.151697</Latitude>
+    <Longitude>34.849435</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוטם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189061</Latitude>
+    <Longitude>34.810364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוי אשכול</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170725</Latitude>
+    <Longitude>34.805846</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לח"י</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173983</Latitude>
+    <Longitude>34.805215</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליברמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170197</Latitude>
+    <Longitude>34.846180</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליל הגשרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159453</Latitude>
+    <Longitude>34.863588</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לכיש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163478</Latitude>
+    <Longitude>34.838527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>למדן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170851</Latitude>
+    <Longitude>34.840746</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לנצט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165445</Latitude>
+    <Longitude>34.842534</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169970</Latitude>
+    <Longitude>34.832712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאנגר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174507</Latitude>
+    <Longitude>34.810859</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מאפו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177503</Latitude>
+    <Longitude>34.819233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מבצע קדש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153957</Latitude>
+    <Longitude>34.834929</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגיני נגבה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165645</Latitude>
+    <Longitude>34.847453</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מגן דוד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>מגן דויד</AlternateName>
+    <Latitude>32.184672</Latitude>
+    <Longitude>34.838549</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מדינת היהודים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167417</Latitude>
+    <Longitude>34.806916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מהר"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173745</Latitude>
+    <Longitude>34.849317</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מודיעין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167979</Latitude>
+    <Longitude>34.801178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוהליבר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166337</Latitude>
+    <Longitude>34.849739</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מולדת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168311</Latitude>
+    <Longitude>34.859429</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171470</Latitude>
+    <Longitude>34.813689</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מוצקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.179321</Latitude>
+    <Longitude>34.813527</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדות ים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170376</Latitude>
+    <Longitude>34.814768</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורדי הגטאות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169008</Latitude>
+    <Longitude>34.858708</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152827</Latitude>
+    <Longitude>34.848266</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מזא"ה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163335</Latitude>
+    <Longitude>34.847529</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכ"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173859</Latitude>
+    <Longitude>34.811946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי יהודה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171303</Latitude>
+    <Longitude>34.842275</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מלכי ישראל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170978</Latitude>
+    <Longitude>34.841608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנדלי מוכר ספרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170501</Latitude>
+    <Longitude>34.811238</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנורה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161695</Latitude>
+    <Longitude>34.860985</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בגין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178178</Latitude>
+    <Longitude>34.832232</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מנחם בן סרוק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164283</Latitude>
+    <Longitude>34.832430</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה יהודית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175121</Latitude>
+    <Longitude>34.817193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה נחמה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174041</Latitude>
+    <Longitude>34.817561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעפילי מרוקו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175828</Latitude>
+    <Longitude>34.854108</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצדה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173404</Latitude>
+    <Longitude>34.804426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מצפה ים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164963</Latitude>
+    <Longitude>34.815216</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157729</Latitude>
+    <Longitude>34.849340</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.150419</Latitude>
+    <Longitude>34.848657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרחביה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171642</Latitude>
+    <Longitude>34.846834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרטין בובר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177158</Latitude>
+    <Longitude>34.816803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167123</Latitude>
+    <Longitude>34.804057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה מרזוק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177614</Latitude>
+    <Longitude>34.852560</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שמיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175719</Latitude>
+    <Longitude>34.840207</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.185447</Latitude>
+    <Longitude>34.810170</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.151723</Latitude>
+    <Longitude>34.846984</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משכית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164274</Latitude>
+    <Longitude>34.811032</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מתתיהו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>מתיתיהו</AlternateName>
+    <Latitude>32.167123</Latitude>
+    <Longitude>34.804057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נג'ר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161773</Latitude>
+    <Longitude>34.855109</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נוגה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160535</Latitude>
+    <Longitude>34.848125</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה אמירים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>נווה עמירים</AlternateName>
+    <Latitude>32.154013</Latitude>
+    <Longitude>34.837473</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה ישראל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159735</Latitude>
+    <Longitude>34.839579</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עובד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172252</Latitude>
+    <Longitude>34.845422</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עמל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168264</Latitude>
+    <Longitude>34.854190</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נוף ים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.188567</Latitude>
+    <Longitude>34.811058</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נוף שדמות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172580</Latitude>
+    <Longitude>34.817773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153386</Latitude>
+    <Longitude>34.848054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורדאו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173839</Latitude>
+    <Longitude>34.816661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נורוק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155047</Latitude>
+    <Longitude>34.840761</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נחלת עדה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.182858</Latitude>
+    <Longitude>34.839450</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נחמיה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169005</Latitude>
+    <Longitude>34.835667</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נחשון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174214</Latitude>
+    <Longitude>34.814310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניל"י</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174890</Latitude>
+    <Longitude>34.805112</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ניר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175092</Latitude>
+    <Longitude>34.840468</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נעמי שמר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164632</Latitude>
+    <Longitude>34.807072</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נצח ישראל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168301</Latitude>
+    <Longitude>34.834571</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב הל"ה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189292</Latitude>
+    <Longitude>34.809594</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיבות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158466</Latitude>
+    <Longitude>34.814308</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתן אלתרמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>נתן אלטרמן</AlternateName>
+    <Latitude>32.174609</Latitude>
+    <Longitude>34.837253</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153218</Latitude>
+    <Longitude>34.850431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סולץ</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170156</Latitude>
+    <Longitude>34.847897</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>סופר פארם מרינה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162169</Latitude>
+    <Longitude>34.796498</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>סוקולוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>סוקלוב</AlternateName>
+    <AlternateName>נחום סוקולוב</AlternateName>
+    <AlternateName>נחום סוקלוב</AlternateName>
+    <Latitude>32.167149</Latitude>
+    <Longitude>34.848237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סטרומה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165461</Latitude>
+    <Longitude>34.801904</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סירקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166439</Latitude>
+    <Longitude>34.845417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמדר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157623</Latitude>
+    <Longitude>34.843421</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ברנדייס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170668</Latitude>
+    <Longitude>34.816220</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת דולב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158839</Latitude>
+    <Longitude>34.851861</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת החלום ופישרו</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157557</Latitude>
+    <Longitude>34.850513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת היסמין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.181665</Latitude>
+    <Longitude>34.814791</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת יפת בן זכריה מגד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160402</Latitude>
+    <Longitude>34.857981</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מורי עפארי אברהם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160602</Latitude>
+    <Longitude>34.858054</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מקדש המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165963</Latitude>
+    <Longitude>34.849110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ניסנוב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169362</Latitude>
+    <Longitude>34.857552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עינב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158156</Latitude>
+    <Longitude>34.851540</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת צמרות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.151647</Latitude>
+    <Longitude>34.845482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמילנסקי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>סמילסנקי</AlternateName>
+    <Latitude>32.172435</Latitude>
+    <Longitude>34.839285</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161512</Latitude>
+    <Longitude>34.851092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנהדרין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163887</Latitude>
+    <Longitude>34.860548</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנונית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172674</Latitude>
+    <Longitude>34.844278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סנפיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172201</Latitude>
+    <Longitude>34.809851</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סעדיה גאון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>סעדיה</AlternateName>
+    <Latitude>32.154734</Latitude>
+    <Longitude>34.836467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164106</Latitude>
+    <Longitude>34.811690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עדס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168877</Latitude>
+    <Longitude>34.836561</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עוזיהו המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169566</Latitude>
+    <Longitude>34.812892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי בבל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169244</Latitude>
+    <Longitude>34.833911</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165074</Latitude>
+    <Longitude>34.814552</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא הסופר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169135</Latitude>
+    <Longitude>34.834680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עין גדי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165212</Latitude>
+    <Longitude>34.848010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עינב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157204</Latitude>
+    <Longitude>34.851925</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עיריית הרצליה מבנה חדש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162760</Latitude>
+    <Longitude>34.841591</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>עמיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156731</Latitude>
+    <Longitude>34.850988</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערוגות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174680</Latitude>
+    <Longitude>34.840279</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>פארק רבין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170778</Latitude>
+    <Longitude>34.855346</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>פוסטר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163276</Latitude>
+    <Longitude>34.857124</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פועלי ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169753</Latitude>
+    <Longitude>34.855523</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פורצי הדרך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163748</Latitude>
+    <Longitude>34.862628</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פטריה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165304</Latitude>
+    <Longitude>34.804398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155783</Latitude>
+    <Longitude>34.843150</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינסקר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168226</Latitude>
+    <Longitude>34.833786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פינת חיים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156042</Latitude>
+    <Longitude>34.837868</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פישמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172083</Latitude>
+    <Longitude>34.815591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פלמ"ח</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169847</Latitude>
+    <Longitude>34.844996</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנחס רוזן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165833</Latitude>
+    <Longitude>34.815099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פנקס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160787</Latitude>
+    <Longitude>34.854915</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסח יפהר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152517</Latitude>
+    <Longitude>34.850786</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פסמן צ'רלס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.156042</Latitude>
+    <Longitude>34.846384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פעמונית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159985</Latitude>
+    <Longitude>34.864110</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פרגים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.153163</Latitude>
+    <Longitude>34.848649</Longitude>
+  </Street>
+  <Street>
+    <NativeName>פתח תקווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>פ"ת</AlternateName>
+    <Latitude>32.159853</Latitude>
+    <Longitude>34.850946</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי מנדלבלט</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167172</Latitude>
+    <Longitude>34.832463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי שפירא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161184</Latitude>
+    <Longitude>34.848863</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צביה לובטקין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158536</Latitude>
+    <Longitude>34.841148</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבעוני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152093</Latitude>
+    <Longitude>34.850005</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160651</Latitude>
+    <Longitude>34.847459</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צה"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166488</Latitude>
+    <Longitude>34.855567</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צופית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173006</Latitude>
+    <Longitude>34.844916</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צוקרמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157675</Latitude>
+    <Longitude>34.841717</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ציפורי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175747</Latitude>
+    <Longitude>34.819211</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלע דרום</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171936</Latitude>
+    <Longitude>34.817140</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צלע צפון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173930</Latitude>
+    <Longitude>34.817444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צמרות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.150635</Latitude>
+    <Longitude>34.845398</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צעירי ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170450</Latitude>
+    <Longitude>34.856745</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדושי השואה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170164</Latitude>
+    <Longitude>34.803897</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדימה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168915</Latitude>
+    <Longitude>34.859828</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדיש לוז</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173467</Latitude>
+    <Longitude>34.843119</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת ציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164176</Latitude>
+    <Longitude>34.848913</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קורן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.174788</Latitude>
+    <Longitude>34.846522</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קיבוץ גלויות</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.169471</Latitude>
+    <Longitude>34.858201</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלאוזנר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173646</Latitude>
+    <Longitude>34.814186</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קלישר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167739</Latitude>
+    <Longitude>34.847760</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קפלנסקי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171642</Latitude>
+    <Longitude>34.846834</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית הספורט יצחק רבין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165814</Latitude>
+    <Longitude>34.822719</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180917</Latitude>
+    <Longitude>34.810286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרת</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.158133</Latitude>
+    <Longitude>34.847896</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראש פינה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166412</Latitude>
+    <Longitude>34.846776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראשון לציון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>רשל"צ</AlternateName>
+    <AlternateName>רשל"ץ</AlternateName>
+    <Latitude>32.165694</Latitude>
+    <Longitude>34.845314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.153728</Latitude>
+    <Longitude>34.847374</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שמעון לביא</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>הרב שמעון לביא</AlternateName>
+    <AlternateName>שמעון לביא</AlternateName>
+    <AlternateName>הרבי שמעון לביא</AlternateName>
+    <Latitude>32.151830</Latitude>
+    <Longitude>34.846101</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רביבים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173454</Latitude>
+    <Longitude>34.853086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן גמליאל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161088</Latitude>
+    <Longitude>34.861719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו תם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163595</Latitude>
+    <Longitude>34.831364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבקה גובר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171463</Latitude>
+    <Longitude>34.830351</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רוחמה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.157092</Latitude>
+    <Longitude>34.835050</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רופין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166815</Latitude>
+    <Longitude>34.841482</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171983</Latitude>
+    <Longitude>34.859021</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריחן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.150225</Latitude>
+    <Longitude>34.848662</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ריינס</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165006</Latitude>
+    <Longitude>34.838920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רינה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161215</Latitude>
+    <Longitude>34.860914</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רכב ישראל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164957</Latitude>
+    <Longitude>34.854743</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163493</Latitude>
+    <Longitude>34.843585</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמח"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166007</Latitude>
+    <Longitude>34.834037</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמת ים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172670</Latitude>
+    <Longitude>34.801617</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רנ"ק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162284</Latitude>
+    <Longitude>34.845959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173088</Latitude>
+    <Longitude>34.832131</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"ם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164401</Latitude>
+    <Longitude>34.831366</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ש.ז.לוין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164757</Latitude>
+    <Longitude>34.837102</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שאול המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.170302</Latitude>
+    <Longitude>34.812497</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שארית הפליטה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172619</Latitude>
+    <Longitude>34.806503</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>32.172544</Latitude>
+    <Longitude>34.834364</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבט מנשה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175505</Latitude>
+    <Longitude>34.809016</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבטי ישראל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.154577</Latitude>
+    <Longitude>34.835063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שד"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171238</Latitude>
+    <Longitude>34.833354</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שדה התעופה הרצליה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.180985</Latitude>
+    <Longitude>34.830220</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות אבא אבן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>שד' אבא אבן</AlternateName>
+    <AlternateName>אבא אבן</AlternateName>
+    <Latitude>32.163328</Latitude>
+    <Longitude>34.805286</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות אמנון ותמר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>אמנון ותמר</AlternateName>
+    <AlternateName>שד' אמנון ותמר</AlternateName>
+    <Latitude>32.152457</Latitude>
+    <Longitude>34.849386</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות התשעים ושלוש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>התשעים ושלוש</AlternateName>
+    <AlternateName>שד' התשעים ושלוש</AlternateName>
+    <Latitude>32.179658</Latitude>
+    <Longitude>34.808557</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות ח"ן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>ח"ן</AlternateName>
+    <AlternateName>שד' ח"ן</AlternateName>
+    <Latitude>32.167715</Latitude>
+    <Longitude>34.842690</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות נווה עובד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>נווה עובד</AlternateName>
+    <AlternateName>שד' נווה עובד</AlternateName>
+    <Latitude>32.184598</Latitude>
+    <Longitude>34.813146</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות שבעת הכוכבים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <AlternateName>שד' שבעת הכוכבים</AlternateName>
+    <AlternateName>שבעת הכוכבים</AlternateName>
+    <Latitude>32.161626</Latitude>
+    <Longitude>34.819511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שווידלסון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161334</Latitude>
+    <Longitude>34.843903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שז"ר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171443</Latitude>
+    <Longitude>34.805022</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שח"ל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162820</Latitude>
+    <Longitude>34.857247</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחרית</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172990</Latitude>
+    <Longitude>34.833699</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שטורמן</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172721</Latitude>
+    <Longitude>34.846685</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון חיילים משוחררים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166453</Latitude>
+    <Longitude>34.804848</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שיכון עולים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.186234</Latitude>
+    <Longitude>34.806210</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שירת גאולים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.155697</Latitude>
+    <Longitude>34.838640</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שירת הזמיר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.159793</Latitude>
+    <Longitude>34.843320</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלווה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173838</Latitude>
+    <Longitude>34.811436</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168849</Latitude>
+    <Longitude>34.811835</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלומציון המלכה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.178315</Latitude>
+    <Longitude>34.813107</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלונסקי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.168947</Latitude>
+    <Longitude>34.809584</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.165426</Latitude>
+    <Longitude>34.806279</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה המלך</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.176026</Latitude>
+    <Longitude>34.811028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמאי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163399</Latitude>
+    <Longitude>34.836963</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמואל הנגיד</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166694</Latitude>
+    <Longitude>34.834047</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמחה הולצברג</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.152578</Latitude>
+    <Longitude>34.846839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון ויזנטל</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.175556</Latitude>
+    <Longitude>34.842520</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה אבטליון</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.167878</Latitude>
+    <Longitude>34.834490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.166815</Latitude>
+    <Longitude>34.835254</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמשון הגיבור</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.162623</Latitude>
+    <Longitude>34.839551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שער הים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.187876</Latitude>
+    <Longitude>34.812661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפיים</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164326</Latitude>
+    <Longitude>34.814608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפינוזה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173210</Latitude>
+    <Longitude>34.812479</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.189798</Latitude>
+    <Longitude>34.813457</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה מלכין</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.161320</Latitude>
+    <Longitude>34.844408</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרה</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.183581</Latitude>
+    <Longitude>34.807128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שרעבי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.184080</Latitude>
+    <Longitude>34.836648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תור הזהב</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.163785</Latitude>
+    <Longitude>34.833446</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>תיכון עירוני חדש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.164228</Latitude>
+    <Longitude>34.826239</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>תל חי</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.173138</Latitude>
+    <Longitude>34.846015</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תמר</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.172239</Latitude>
+    <Longitude>34.857818</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח חינני</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.177283</Latitude>
+    <Longitude>34.821200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפוח</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.171938</Latitude>
+    <Longitude>34.857917</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>הרצליה, ישראל</ParentName>
+    <Latitude>32.160030</Latitude>
+    <Longitude>34.846932</Longitude>
+  </Street>
+</LocationData>

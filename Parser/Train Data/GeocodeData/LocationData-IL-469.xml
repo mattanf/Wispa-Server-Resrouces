@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אברהם יאיר שטרן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863712</Latitude>
+    <Longitude>34.819200</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אגמיה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857265</Latitude>
+    <Longitude>34.823606</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אחד העם</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.860924</Latitude>
+    <Longitude>34.825535</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלי כהן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862002</Latitude>
+    <Longitude>34.825281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בוסי סנט ג'ורג'</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862468</Latitude>
+    <Longitude>34.814426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי המלאכה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858132</Latitude>
+    <Longitude>34.818117</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר חיים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863970</Latitude>
+    <Longitude>34.821608</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולני</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857083</Latitude>
+    <Longitude>34.825377</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>גני חן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855717</Latitude>
+    <Longitude>34.823500</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דובדבן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863694</Latitude>
+    <Longitude>34.820626</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך ירושלים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <AlternateName>ירושלים</AlternateName>
+    <Latitude>31.861155</Latitude>
+    <Longitude>34.820847</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האבות</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.854876</Latitude>
+    <Longitude>34.826208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857149</Latitude>
+    <Longitude>34.827930</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האירוס</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.865293</Latitude>
+    <Longitude>34.818661</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלון</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866577</Latitude>
+    <Longitude>34.826428</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האנפה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862381</Latitude>
+    <Longitude>34.818603</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.864712</Latitude>
+    <Longitude>34.822655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הברוש</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866043</Latitude>
+    <Longitude>34.824641</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגפן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862773</Latitude>
+    <Longitude>34.825583</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדולב</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858015</Latitude>
+    <Longitude>34.825403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדקל</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.860563</Latitude>
+    <Longitude>34.820426</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההדס</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857690</Latitude>
+    <Longitude>34.820224</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הזית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863606</Latitude>
+    <Longitude>34.825100</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החבצלת</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.864632</Latitude>
+    <Longitude>34.818006</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החופית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.860189</Latitude>
+    <Longitude>34.818353</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856725</Latitude>
+    <Longitude>34.826815</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרצית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858989</Latitude>
+    <Longitude>34.824444</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היהלום</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856540</Latitude>
+    <Longitude>34.823511</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.867168</Latitude>
+    <Longitude>34.817798</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלבונה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862913</Latitude>
+    <Longitude>34.820467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המייסדים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859921</Latitude>
+    <Longitude>34.823314</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלך חסן השני</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859874</Latitude>
+    <Longitude>34.812099</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנורית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866520</Latitude>
+    <Longitude>34.818648</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866782</Latitude>
+    <Longitude>34.819431</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסביונים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.867671</Latitude>
+    <Longitude>34.820592</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסלעית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.860729</Latitude>
+    <Longitude>34.818359</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסנונית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862949</Latitude>
+    <Longitude>34.818669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העופרים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866513</Latitude>
+    <Longitude>34.821959</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העפרוני</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.861281</Latitude>
+    <Longitude>34.818480</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפנינים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855514</Latitude>
+    <Longitude>34.823139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הצנחנים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856903</Latitude>
+    <Longitude>34.825728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב מיימון</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <AlternateName>מיימון</AlternateName>
+    <AlternateName>רבי מיימון</AlternateName>
+    <AlternateName>הרבי מיימון</AlternateName>
+    <Latitude>31.859016</Latitude>
+    <Longitude>34.826669</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.861897</Latitude>
+    <Longitude>34.821605</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיזף</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857731</Latitude>
+    <Longitude>34.823233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיחנית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.861828</Latitude>
+    <Longitude>34.818542</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862043</Latitude>
+    <Longitude>34.827890</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856869</Latitude>
+    <Longitude>34.827376</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859977</Latitude>
+    <Longitude>34.819425</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.864918</Latitude>
+    <Longitude>34.824633</Longitude>
+  </Street>
+  <Street>
+    <NativeName>וייצמן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.864531</Latitude>
+    <Longitude>34.823392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יורדי הסירה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858290</Latitude>
+    <Longitude>34.820294</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יערה</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862909</Latitude>
+    <Longitude>34.829939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כובשי החרמון</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.857811</Latitude>
+    <Longitude>34.821620</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לוחמי הגטאות</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.862327</Latitude>
+    <Longitude>34.826538</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מורן</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.861337</Latitude>
+    <Longitude>34.825403</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מרבד הקסמים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856100</Latitude>
+    <Longitude>34.825974</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה שרת</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859448</Latitude>
+    <Longitude>34.824611</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נאות אביבים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.860444</Latitude>
+    <Longitude>34.817106</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה אשכול</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.866434</Latitude>
+    <Longitude>34.822355</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נווה אשכול</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.867473</Latitude>
+    <Longitude>34.822319</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה יוסף</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855764</Latitude>
+    <Longitude>34.826914</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה עובד</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863205</Latitude>
+    <Longitude>34.824497</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>נופר</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858286</Latitude>
+    <Longitude>34.822980</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855957</Latitude>
+    <Longitude>34.824402</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עמיחי</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.856130</Latitude>
+    <Longitude>34.821028</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צדוק הלוי</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.858121</Latitude>
+    <Longitude>34.822519</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קהילת אוהיו</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855986</Latitude>
+    <Longitude>34.823569</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קרן היסוד</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859821</Latitude>
+    <Longitude>34.824463</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי מאיר בעל הנס</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <AlternateName>הרבי מאיר בעל הנס</AlternateName>
+    <AlternateName>מאיר בעל הנס</AlternateName>
+    <AlternateName>הרב מאיר בעל הנס</AlternateName>
+    <Latitude>31.857113</Latitude>
+    <Longitude>34.820014</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רקפת</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863657</Latitude>
+    <Longitude>34.830010</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שבזי</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <AlternateName>שלום שבזי</AlternateName>
+    <Latitude>31.865193</Latitude>
+    <Longitude>34.827187</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שבת אחים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863054</Latitude>
+    <Longitude>34.830284</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שבת אחים</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863484</Latitude>
+    <Longitude>34.829265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יצחק רבין</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <AlternateName>שד' יצחק רבין</AlternateName>
+    <Latitude>31.859267</Latitude>
+    <Longitude>34.819284</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחף</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859639</Latitude>
+    <Longitude>34.818245</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שחפית</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.863211</Latitude>
+    <Longitude>34.818714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיבת ציון</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.855072</Latitude>
+    <Longitude>34.826856</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שלמה בן יוסף</NativeName>
+    <ParentName>קרית עקרון, ישראל</ParentName>
+    <Latitude>31.859149</Latitude>
+    <Longitude>34.825830</Longitude>
+  </Street>
+</LocationData>

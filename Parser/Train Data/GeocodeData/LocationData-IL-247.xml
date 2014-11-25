@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>דרך הגן</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <AlternateName>הגן</AlternateName>
+    <Latitude>32.197922</Latitude>
+    <Longitude>34.825591</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך המסילה</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <AlternateName>המסילה</AlternateName>
+    <Latitude>32.198122</Latitude>
+    <Longitude>34.830490</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפרדס</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <AlternateName>הפרדס</AlternateName>
+    <Latitude>32.201284</Latitude>
+    <Longitude>34.826031</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הדפנה</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.195843</Latitude>
+    <Longitude>34.823411</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההרדופים</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.206209</Latitude>
+    <Longitude>34.826179</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרוב</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.203036</Latitude>
+    <Longitude>34.822563</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכפר</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.200314</Latitude>
+    <Longitude>34.825609</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפקאנים</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.201609</Latitude>
+    <Longitude>34.829292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפרחים</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.199722</Latitude>
+    <Longitude>34.823794</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.202943</Latitude>
+    <Longitude>34.822555</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.199234</Latitude>
+    <Longitude>34.822832</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיבולים</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.200149</Latitude>
+    <Longitude>34.821837</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השקד</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.197361</Latitude>
+    <Longitude>34.827063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התמר</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.204357</Latitude>
+    <Longitude>34.827705</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת האירוס</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.206953</Latitude>
+    <Longitude>34.825978</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ההרדופים</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.209266</Latitude>
+    <Longitude>34.827612</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הכלנית</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.208158</Latitude>
+    <Longitude>34.827627</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הנורית</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.208664</Latitude>
+    <Longitude>34.827892</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הצבעוני</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.207014</Latitude>
+    <Longitude>34.827410</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הרקפת</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.209082</Latitude>
+    <Longitude>34.828278</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שביל החלב</NativeName>
+    <ParentName>רשפון, ישראל</ParentName>
+    <Latitude>32.194059</Latitude>
+    <Longitude>34.825407</Longitude>
+  </Street>
+</LocationData>

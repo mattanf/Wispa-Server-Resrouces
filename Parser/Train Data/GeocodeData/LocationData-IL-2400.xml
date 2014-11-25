@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבנר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031872</Latitude>
+    <Longitude>34.860372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אודם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029354</Latitude>
+    <Longitude>34.859568</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אופירה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.027717</Latitude>
+    <Longitude>34.864270</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אורן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033774</Latitude>
+    <Longitude>34.854478</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אטד</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031505</Latitude>
+    <Longitude>34.858933</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איריס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031573</Latitude>
+    <Longitude>34.867903</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אלמוג</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029109</Latitude>
+    <Longitude>34.859121</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אסירי ציון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.024850</Latitude>
+    <Longitude>34.857334</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אצ"ל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>האצ"ל</AlternateName>
+    <Latitude>32.030062</Latitude>
+    <Longitude>34.848513</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אשל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030518</Latitude>
+    <Longitude>34.854198</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בית אל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030697</Latitude>
+    <Longitude>34.843970</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בר יוחאי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032576</Latitude>
+    <Longitude>34.842713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברוש</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030677</Latitude>
+    <Longitude>34.853619</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ברקת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029926</Latitude>
+    <Longitude>34.858476</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דב הוז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032429</Latitude>
+    <Longitude>34.843469</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דגניה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023847</Latitude>
+    <Longitude>34.861169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד אלעזר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>דויד אלעזר</AlternateName>
+    <Latitude>32.027633</Latitude>
+    <Longitude>34.865681</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד כהן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>דויד כהן</AlternateName>
+    <Latitude>32.034000</Latitude>
+    <Longitude>34.848367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דוד רמז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>דויד רמז</AlternateName>
+    <Latitude>32.033473</Latitude>
+    <Longitude>34.846143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דולב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033633</Latitude>
+    <Longitude>34.855074</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דקל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032162</Latitude>
+    <Longitude>34.855361</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך לוד</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>לוד</AlternateName>
+    <Latitude>32.034756</Latitude>
+    <Longitude>34.854178</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך שלמה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>שלמה</AlternateName>
+    <Latitude>32.033110</Latitude>
+    <Longitude>34.843777</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האגוז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.027911</Latitude>
+    <Longitude>34.854752</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האלה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032927</Latitude>
+    <Longitude>34.858680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הארז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028380</Latitude>
+    <Longitude>34.854812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>האתרוג</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028457</Latitude>
+    <Longitude>34.853461</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבנים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026501</Latitude>
+    <Longitude>34.864440</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הבשן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029422</Latitude>
+    <Longitude>34.845484</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028912</Latitude>
+    <Longitude>34.843926</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההגנה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032772</Latitude>
+    <Longitude>34.850133</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ההסתדרות</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.025840</Latitude>
+    <Longitude>34.861910</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד רמת פנקס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.035019</Latitude>
+    <Longitude>34.841332</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הורד</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030921</Latitude>
+    <Longitude>34.861873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החלוצים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026930</Latitude>
+    <Longitude>34.851155</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החצב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029972</Latitude>
+    <Longitude>34.864417</Longitude>
+  </Street>
+  <Street>
+    <NativeName>החרושת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.021226</Latitude>
+    <Longitude>34.862655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוזמים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023369</Latitude>
+    <Longitude>34.863802</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היוצרים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032976</Latitude>
+    <Longitude>34.849448</Longitude>
+  </Street>
+  <Street>
+    <NativeName>היצירה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023284</Latitude>
+    <Longitude>34.862751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הירדן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029540</Latitude>
+    <Longitude>34.843276</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הכלנית</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031109</Latitude>
+    <Longitude>34.867305</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הל"ה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.025463</Latitude>
+    <Longitude>34.852728</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המכבים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031076</Latitude>
+    <Longitude>34.847499</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המלאכה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023186</Latitude>
+    <Longitude>34.861707</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המסגר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033633</Latitude>
+    <Longitude>34.848824</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המעפילים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026329</Latitude>
+    <Longitude>34.851873</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המפעל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034318</Latitude>
+    <Longitude>34.849471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הנרקיס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034804</Latitude>
+    <Longitude>34.840135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הסוכנות היהודית</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023454</Latitude>
+    <Longitude>34.857803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העבודה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023284</Latitude>
+    <Longitude>34.862751</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העצמאות</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028633</Latitude>
+    <Longitude>34.863694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הערמון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>הארמון</AlternateName>
+    <Latitude>32.032470</Latitude>
+    <Longitude>34.860921</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלדה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033612</Latitude>
+    <Longitude>34.851443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפלמ"ח</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030605</Latitude>
+    <Longitude>34.848819</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>הפרדס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029194</Latitude>
+    <Longitude>34.855769</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>הראשונים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030963</Latitude>
+    <Longitude>34.850252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרדוף</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031872</Latitude>
+    <Longitude>34.860372</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרותם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030829</Latitude>
+    <Longitude>34.863770</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרימון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028268</Latitude>
+    <Longitude>34.856130</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצוג</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033992</Latitude>
+    <Longitude>34.844587</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרצל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031180</Latitude>
+    <Longitude>34.843293</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרקפת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030695</Latitude>
+    <Longitude>34.864920</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השומר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028702</Latitude>
+    <Longitude>34.848392</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיטה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026173</Latitude>
+    <Longitude>34.865252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השיקמה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030597</Latitude>
+    <Longitude>34.861834</Longitude>
+  </Street>
+  <Street>
+    <NativeName>השלהבת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028753</Latitude>
+    <Longitude>34.866281</Longitude>
+  </Street>
+  <Street>
+    <NativeName>התאנה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028192</Latitude>
+    <Longitude>34.857048</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ז'בוטינסקי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>זאב ז'בוטינסקי</AlternateName>
+    <AlternateName>זבוטיסקי</AlternateName>
+    <Latitude>32.027567</Latitude>
+    <Longitude>34.863744</Longitude>
+  </Street>
+  <Street>
+    <NativeName>זית</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031609</Latitude>
+    <Longitude>34.858323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חטיבת אלכסנדרוני</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023885</Latitude>
+    <Longitude>34.865071</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרוב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032927</Latitude>
+    <Longitude>34.858680</Longitude>
+  </Street>
+  <Street>
+    <NativeName>טופז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029616</Latitude>
+    <Longitude>34.858687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יאיר שטרן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.024282</Latitude>
+    <Longitude>34.855893</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יגאל אלון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031592</Latitude>
+    <Longitude>34.853326</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהדות קנדה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.022788</Latitude>
+    <Longitude>34.860116</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהונתן נתניהו</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.022616</Latitude>
+    <Longitude>34.858076</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יהלום</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.027932</Latitude>
+    <Longitude>34.858465</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חיים רמת פנקס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034975</Latitude>
+    <Longitude>34.841880</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף חיים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028319</Latitude>
+    <Longitude>34.866655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יוסף קארו</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030444</Latitude>
+    <Longitude>34.844718</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל עבודי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028319</Latitude>
+    <Longitude>34.866655</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יחזקאל קזז</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032182</Latitude>
+    <Longitude>34.846764</Longitude>
+  </Street>
+  <Street>
+    <NativeName>יקותיאל אדם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031394</Latitude>
+    <Longitude>34.862902</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ירושלים</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026271</Latitude>
+    <Longitude>34.862934</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כיכר המורשת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>ככר המורשת</AlternateName>
+    <Latitude>32.025731</Latitude>
+    <Longitude>34.854727</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כליל החורש</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032332</Latitude>
+    <Longitude>34.854639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כמוס עגיב רמת פנקס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.035184</Latitude>
+    <Longitude>34.840190</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כמוס עגיב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033721</Latitude>
+    <Longitude>34.843471</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כמוס פלח</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034134</Latitude>
+    <Longitude>34.846176</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>כפר ענה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026384</Latitude>
+    <Longitude>34.868105</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>כצנלסון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>קצנלסון</AlternateName>
+    <Latitude>32.025182</Latitude>
+    <Longitude>34.860979</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ליבנה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029645</Latitude>
+    <Longitude>34.855803</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לנדאו</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033473</Latitude>
+    <Longitude>34.841135</Longitude>
+  </Street>
+  <Street>
+    <NativeName>לשם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030235</Latitude>
+    <Longitude>34.860942</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מונטיפיורי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031916</Latitude>
+    <Longitude>34.843033</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מיכאל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031715</Latitude>
+    <Longitude>34.859967</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה החומה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023230</Latitude>
+    <Longitude>34.862228</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה המגדל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023330</Latitude>
+    <Longitude>34.863307</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה אביב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.023090</Latitude>
+    <Longitude>34.860657</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה דיין</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028472</Latitude>
+    <Longitude>34.861132</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משה חייק</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032805</Latitude>
+    <Longitude>34.845144</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>נווה סביון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031968</Latitude>
+    <Longitude>34.856468</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>נווה רבין בבנייה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026850</Latitude>
+    <Longitude>34.870036</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ניצן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026042</Latitude>
+    <Longitude>34.872736</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סביון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031718</Latitude>
+    <Longitude>34.865530</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סגלון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032332</Latitude>
+    <Longitude>34.854639</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סיני</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.025931</Latitude>
+    <Longitude>34.851096</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת אפרים גואטה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029389</Latitude>
+    <Longitude>34.848384</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת במעלה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029532</Latitude>
+    <Longitude>34.863714</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת הגן</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034134</Latitude>
+    <Longitude>34.846176</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת חברון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034176</Latitude>
+    <Longitude>34.845310</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת מחולה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.032109</Latitude>
+    <Longitude>34.842169</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת ניל"י</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031383</Latitude>
+    <Longitude>34.849252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עין גדי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026616</Latitude>
+    <Longitude>34.865506</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת עין יהב</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026818</Latitude>
+    <Longitude>34.865007</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סמטת קליה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.024947</Latitude>
+    <Longitude>34.864156</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ספיר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029294</Latitude>
+    <Longitude>34.862495</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סקלאר לו</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026838</Latitude>
+    <Longitude>34.854544</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עולי הגרדום</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026836</Latitude>
+    <Longitude>34.853057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עזרא הסופר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031458</Latitude>
+    <Longitude>34.845349</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>עמידר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.026195</Latitude>
+    <Longitude>34.851405</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>ענבר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.027254</Latitude>
+    <Longitude>34.860983</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ערבה</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030196</Latitude>
+    <Longitude>34.854128</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צאלון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030603</Latitude>
+    <Longitude>34.857368</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צבי פנקס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034765</Latitude>
+    <Longitude>34.846217</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפריר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.027721</Latitude>
+    <Longitude>34.870368</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>קרית גיורא</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028620</Latitude>
+    <Longitude>34.866719</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>רמת פנקס</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.034813</Latitude>
+    <Longitude>34.841480</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שדרות אליהו סעדון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>שד' אליהו סעדון</AlternateName>
+    <AlternateName>אליהו סעדון</AlternateName>
+    <Latitude>32.025915</Latitude>
+    <Longitude>34.857092</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות בן גוריון</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>בן גוריון</AlternateName>
+    <AlternateName>שד' בן גוריון</AlternateName>
+    <Latitude>32.029719</Latitude>
+    <Longitude>34.860078</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות יצחק רבין</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>יצחק רבין</AlternateName>
+    <AlternateName>שד' יצחק רבין</AlternateName>
+    <Latitude>32.024679</Latitude>
+    <Longitude>34.869968</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מנחם בגין</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>מנחם בגין</AlternateName>
+    <AlternateName>שד' מנחם בגין</AlternateName>
+    <Latitude>32.027731</Latitude>
+    <Longitude>34.856173</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שדרות מרדכי בן פורת</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <AlternateName>שד' מרדכי בן פורת</AlternateName>
+    <AlternateName>מרדכי בן פורת</AlternateName>
+    <Latitude>32.028183</Latitude>
+    <Longitude>34.850725</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שוהם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.028501</Latitude>
+    <Longitude>34.858656</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שיזף</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.033231</Latitude>
+    <Longitude>34.856795</Longitude>
+  </Street>
+  <CityRegion>
+    <NativeName>שיכון ממשלתי</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030137</Latitude>
+    <Longitude>34.849202</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>שלום עליכם</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.031447</Latitude>
+    <Longitude>34.846323</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שניר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.024726</Latitude>
+    <Longitude>34.862939</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שפרינצק</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.024205</Latitude>
+    <Longitude>34.854925</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שקד</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029070</Latitude>
+    <Longitude>34.855719</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תדהר</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029233</Latitude>
+    <Longitude>34.853867</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תפארת ישראל</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.030536</Latitude>
+    <Longitude>34.844839</Longitude>
+  </Street>
+  <Street>
+    <NativeName>תרשיש</NativeName>
+    <ParentName>אור יהודה, ישראל</ParentName>
+    <Latitude>32.029109</Latitude>
+    <Longitude>34.859121</Longitude>
+  </Street>
+</LocationData>

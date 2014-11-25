@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>גבעת ברושים</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <Latitude>31.780854</Latitude>
+    <Longitude>35.167192</Longitude>
+  </CityRegion>
+  <Street>
+    <NativeName>דרך בריכות היער</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>בריכות היער</AlternateName>
+    <Latitude>31.783297</Latitude>
+    <Longitude>35.163618</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האגם</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>האגם</AlternateName>
+    <Latitude>31.780965</Latitude>
+    <Longitude>35.161233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האלה</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>האלה</AlternateName>
+    <Latitude>31.785041</Latitude>
+    <Longitude>35.162383</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך האלון</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>האלון</AlternateName>
+    <Latitude>31.785303</Latitude>
+    <Longitude>35.163820</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הברוש</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הברוש</AlternateName>
+    <Latitude>31.781083</Latitude>
+    <Longitude>35.165663</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגבעה</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הגבעה</AlternateName>
+    <Latitude>31.781840</Latitude>
+    <Longitude>35.165204</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הגפן</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הגפן</AlternateName>
+    <Latitude>31.780136</Latitude>
+    <Longitude>35.161313</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הזיתים</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הזיתים</AlternateName>
+    <Latitude>31.781687</Latitude>
+    <Longitude>35.160825</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הפסגה</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הפסגה</AlternateName>
+    <Latitude>31.782744</Latitude>
+    <Longitude>35.158909</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך הצבר</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>הצבר</AlternateName>
+    <Latitude>31.781280</Latitude>
+    <Longitude>35.163164</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך השקד</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>השקד</AlternateName>
+    <Latitude>31.782061</Latitude>
+    <Longitude>35.164726</Longitude>
+  </Street>
+  <Street>
+    <NativeName>דרך עין כרם</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <AlternateName>עין כרם</AlternateName>
+    <Latitude>31.780092</Latitude>
+    <Longitude>35.162467</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה הערבה</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <Latitude>31.780995</Latitude>
+    <Longitude>35.164139</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מעלה השיטה</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <Latitude>31.781387</Latitude>
+    <Longitude>35.163782</Longitude>
+  </Street>
+  <Street>
+    <NativeName>נתיב האורנים</NativeName>
+    <ParentName>בית זית, ישראל</ParentName>
+    <Latitude>31.784011</Latitude>
+    <Longitude>35.161850</Longitude>
+  </Street>
+</LocationData>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אביטל</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.756947</Latitude>
+    <Longitude>35.142088</Longitude>
+  </Street>
+  <Street>
+    <NativeName>איתנים</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.758689</Latitude>
+    <Longitude>35.146394</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ארבל</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.757988</Latitude>
+    <Longitude>35.145183</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גולן</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.756315</Latitude>
+    <Longitude>35.145712</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גלבוע</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.757444</Latitude>
+    <Longitude>35.142311</Longitude>
+  </Street>
+  <Street>
+    <NativeName>געש</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.763559</Latitude>
+    <Longitude>35.147291</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הגליל</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.759661</Latitude>
+    <Longitude>35.148252</Longitude>
+  </Street>
+  <Street>
+    <NativeName>העמק</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.758031</Latitude>
+    <Longitude>35.146193</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הפסגה</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.762154</Latitude>
+    <Longitude>35.147961</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חרמון</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.755481</Latitude>
+    <Longitude>35.147143</Longitude>
+  </Street>
+  <Street>
+    <NativeName>כנען</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.757287</Latitude>
+    <Longitude>35.147812</Longitude>
+  </Street>
+  <Street>
+    <NativeName>מירון</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.755092</Latitude>
+    <Longitude>35.142385</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול אלונים</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.760912</Latitude>
+    <Longitude>35.146516</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול האלה</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.761952</Latitude>
+    <Longitude>35.147562</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הגיא</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.761634</Latitude>
+    <Longitude>35.146477</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול הרדוף</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.763496</Latitude>
+    <Longitude>35.148265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול זבולון</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.764162</Latitude>
+    <Longitude>35.145773</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול כרמים</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.759693</Latitude>
+    <Longitude>35.146079</Longitude>
+  </Street>
+  <Street>
+    <NativeName>משעול עדי</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.764975</Latitude>
+    <Longitude>35.147713</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סופה</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.761942</Latitude>
+    <Longitude>35.147337</Longitude>
+  </Street>
+  <Street>
+    <NativeName>סער</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.762681</Latitude>
+    <Longitude>35.146687</Longitude>
+  </Street>
+  <Street>
+    <NativeName>עצמון</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.754592</Latitude>
+    <Longitude>35.143265</Longitude>
+  </Street>
+  <Street>
+    <NativeName>צפרירים</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.764137</Latitude>
+    <Longitude>35.146208</Longitude>
+  </Street>
+  <Street>
+    <NativeName>קדים</NativeName>
+    <ParentName>נופית, ישראל</ParentName>
+    <Latitude>32.764760</Latitude>
+    <Longitude>35.148564</Longitude>
+  </Street>
+</LocationData>

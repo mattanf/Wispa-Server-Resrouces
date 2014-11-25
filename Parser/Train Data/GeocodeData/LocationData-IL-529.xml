@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <CityRegion>
+    <NativeName>א רוג'ום</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.817418</Latitude>
+    <Longitude>35.189834</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אבו ח'רביש</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.825091</Latitude>
+    <Longitude>35.196124</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אבו נח'לה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.823721</Latitude>
+    <Longitude>35.188970</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ביאדר</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.820596</Latitude>
+    <Longitude>35.193264</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ג'בל</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.817947</Latitude>
+    <Longitude>35.192546</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ג'למה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.828701</Latitude>
+    <Longitude>35.185669</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל ח'אלה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.818943</Latitude>
+    <Longitude>35.188918</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל כאשף</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.806469</Latitude>
+    <Longitude>35.196121</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל כרום</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.821001</Latitude>
+    <Longitude>35.190089</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>אל פס</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.823355</Latitude>
+    <Longitude>35.194163</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בח'ית</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.826301</Latitude>
+    <Longitude>35.188241</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בין אל ג'לאאים</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.831521</Latitude>
+    <Longitude>35.182393</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>בלישה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.819502</Latitude>
+    <Longitude>35.196317</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>גרעין הכפר</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.822683</Latitude>
+    <Longitude>35.192276</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ואדי א סהילה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.821727</Latitude>
+    <Longitude>35.185991</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>מקתול</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.824812</Latitude>
+    <Longitude>35.183623</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>סירת אל עג'אל</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.822693</Latitude>
+    <Longitude>35.199303</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>עין א תינה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.817565</Latitude>
+    <Longitude>35.186690</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>ראס נעמה</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <Latitude>32.818110</Latitude>
+    <Longitude>35.199013</Longitude>
+  </CityRegion>
+  <CityRegion>
+    <NativeName>שכונת מגרש הכדורגל</NativeName>
+    <ParentName>אעבלין, ישראל</ParentName>
+    <AlternateName>מגרש הכדורגל</AlternateName>
+    <Latitude>32.825723</Latitude>
+    <Longitude>35.200717</Longitude>
+  </CityRegion>
+</LocationData>

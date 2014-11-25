@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><LocationData>
+  <Street>
+    <NativeName>אבטליון</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.047534</Latitude>
+    <Longitude>34.948233</Longitude>
+  </Street>
+  <Street>
+    <NativeName>אבן גבירול</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.053570</Latitude>
+    <Longitude>34.958875</Longitude>
+  </Street>
+  <Street>
+    <NativeName>בעלי התוספות</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.047784</Latitude>
+    <Longitude>34.958057</Longitude>
+  </Street>
+  <Street>
+    <NativeName>גמליאל</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.055805</Latitude>
+    <Longitude>34.957127</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הלל</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.048967</Latitude>
+    <Longitude>34.951248</Longitude>
+  </Street>
+  <Street>
+    <NativeName>המהרש"ל</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.057052</Latitude>
+    <Longitude>34.958852</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הר"ן</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.056612</Latitude>
+    <Longitude>34.958750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרא"ש</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.053646</Latitude>
+    <Longitude>34.945676</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרב המאירי</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>רבי המאירי</AlternateName>
+    <AlternateName>המאירי</AlternateName>
+    <AlternateName>הרבי המאירי</AlternateName>
+    <Latitude>32.052253</Latitude>
+    <Longitude>34.964854</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הרי"ף</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.055069</Latitude>
+    <Longitude>34.962750</Longitude>
+  </Street>
+  <Street>
+    <NativeName>הריטב"א</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.046802</Latitude>
+    <Longitude>34.950952</Longitude>
+  </Street>
+  <Street>
+    <NativeName>חוני המעגל</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.052743</Latitude>
+    <Longitude>34.948237</Longitude>
+  </Street>
+  <Street>
+    <NativeName>ראב"ד</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.055690</Latitude>
+    <Longitude>34.963182</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי חייא</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>חייא</AlternateName>
+    <AlternateName>הרב חייא</AlternateName>
+    <AlternateName>הרבי חייא</AlternateName>
+    <Latitude>32.051275</Latitude>
+    <Longitude>34.964972</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי טרפון</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרבי טרפון</AlternateName>
+    <AlternateName>טרפון</AlternateName>
+    <AlternateName>הרב טרפון</AlternateName>
+    <Latitude>32.048579</Latitude>
+    <Longitude>34.948342</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהודה הנשיא</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרב יהודה הנשיא</AlternateName>
+    <AlternateName>יהודה הנשיא</AlternateName>
+    <AlternateName>הרבי יהודה הנשיא</AlternateName>
+    <Latitude>32.052002</Latitude>
+    <Longitude>34.955445</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יהושע</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרבי יהושוע</AlternateName>
+    <AlternateName>יהושוע</AlternateName>
+    <AlternateName>הרב יהושוע</AlternateName>
+    <AlternateName>יהושע</AlternateName>
+    <AlternateName>רבי יהושוע</AlternateName>
+    <AlternateName>הרב יהושע</AlternateName>
+    <AlternateName>הרבי יהושע</AlternateName>
+    <Latitude>32.055840</Latitude>
+    <Longitude>34.958454</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יוסי בן קיסמא</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>יוסי בן קיסמא</AlternateName>
+    <AlternateName>הרבי יוסי בן קיסמא</AlternateName>
+    <AlternateName>הרב יוסי בן קיסמא</AlternateName>
+    <Latitude>32.046257</Latitude>
+    <Longitude>34.958367</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי יוסף קארו</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרבי יוסף קארו</AlternateName>
+    <AlternateName>יוסף קארו</AlternateName>
+    <AlternateName>הרב יוסף קארו</AlternateName>
+    <Latitude>32.049443</Latitude>
+    <Longitude>34.965644</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי עקיבא</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרבי עקיבא</AlternateName>
+    <AlternateName>הרב עקיבא</AlternateName>
+    <AlternateName>עקיבא</AlternateName>
+    <Latitude>32.049161</Latitude>
+    <Longitude>34.954023</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי פנחס בן יאיר</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>פנחס בן יאיר</AlternateName>
+    <AlternateName>הרב פנחס בן יאיר</AlternateName>
+    <AlternateName>הרבי פנחס בן יאיר</AlternateName>
+    <Latitude>32.051112</Latitude>
+    <Longitude>34.959551</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שמואל הנגיד</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>שמואל הנגיד</AlternateName>
+    <AlternateName>הרבי שמואל הנגיד</AlternateName>
+    <AlternateName>הרב שמואל הנגיד</AlternateName>
+    <Latitude>32.050849</Latitude>
+    <Longitude>34.950776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבי שמעון בן שטח</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>הרב בן שטח</AlternateName>
+    <AlternateName>הרבי שמעון בן שטח</AlternateName>
+    <AlternateName>רבי בן שטח</AlternateName>
+    <AlternateName>בן שטח</AlternateName>
+    <AlternateName>הרבי בן שטח</AlternateName>
+    <AlternateName>שמעון בן שטח</AlternateName>
+    <AlternateName>הרב שמעון בן שטח</AlternateName>
+    <Latitude>32.054567</Latitude>
+    <Longitude>34.964240</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבינו עובדיה מברטנורה</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.053689</Latitude>
+    <Longitude>34.961849</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבן יוחנן בן זכאי</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <AlternateName>בן זכאי</AlternateName>
+    <Latitude>32.047900</Latitude>
+    <Longitude>34.956443</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו בחיי</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.047775</Latitude>
+    <Longitude>34.960694</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רבנו תם</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.053190</Latitude>
+    <Longitude>34.952292</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רד"ק</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.049799</Latitude>
+    <Longitude>34.951565</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת הזמיר</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.051048</Latitude>
+    <Longitude>34.946086</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת התאנה</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.052810</Latitude>
+    <Longitude>34.947136</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רחבת התור</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.049878</Latitude>
+    <Longitude>34.946452</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ם</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.052229</Latitude>
+    <Longitude>34.959413</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רמב"ן</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.046210</Latitude>
+    <Longitude>34.955063</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רש"י</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.050100</Latitude>
+    <Longitude>34.955693</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"י</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.050361</Latitude>
+    <Longitude>34.962087</Longitude>
+  </Street>
+  <Street>
+    <NativeName>רשב"ם</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.047544</Latitude>
+    <Longitude>34.954261</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמאי</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.050849</Latitude>
+    <Longitude>34.950776</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעון הצדיק</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.046995</Latitude>
+    <Longitude>34.962607</Longitude>
+  </Street>
+  <Street>
+    <NativeName>שמעיה</NativeName>
+    <ParentName>אלעד, ישראל</ParentName>
+    <Latitude>32.051408</Latitude>
+    <Longitude>34.947641</Longitude>
+  </Street>
+</LocationData>
